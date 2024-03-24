@@ -11,7 +11,7 @@
 OfficeTech
 ### Integrantes:
 - xxx - U202xx
-- xxx - U202xxx
+- Herrera Aguirre, Fabia Alejandra - U202219422
 - Rodriguez Vargas, Arian Martin - U202212096
 - Ramirez Ramirez,Marcelo Sebastian - U202210582
 - Ramirez Conteras, Zaid Valentino - U202218472 
@@ -47,8 +47,8 @@ Además, utilizamos una variedad de métodos innovadores para resolver los probl
 |-|-|-|-| 
 |Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%;">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
 |Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
-|Ramirez Contreras, Zaid Valentino <img src="../assets/members-profile/Zado.png" alt="Imagen del compañer" style="width:60%">|U202212096|Ingenieria de software|C++, python, HTML5, CSS3, Javascript, SQL|
-|Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
+|Ramirez Contreras, Zaid Valentino <img src="../assets/members-profile/Zado.png" alt="Imagen del compañer" style="width:60%">|U202218472|Ingenieria de software|C++, python, HTML5, CSS3, Javascript, SQL|
+|Herrera Aguirre, Fabia Alejandra <img src="../assets/members-profile/pelufoto.png" alt="Imagen del compañero" style="width:60%">|U202219422|Ingenieria de software|C++, Python, SQL, creativa, responsable|
 |Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
 |Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
 <!--cambien la url e info, se agrego estilos para evitar errores en las dimensiones -->
