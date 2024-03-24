@@ -45,7 +45,7 @@ Además, utilizamos una variedad de métodos innovadores para resolver los probl
 #### 1.1.2. Perfiles de integrantes del equipo
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-| 
-|Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
+|Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%;">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
 |Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
 |Ramirez Contreras, Zaid Valentino <img src="../assets/members-profile/Zado.png" alt="Imagen del compañer" style="width:60%">|U202212096|Ingenieria de software|C++, python, HTML5, CSS3, Javascript, SQL|
 |Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
@@ -173,17 +173,28 @@ Ocupación: _____
 {texto}
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
-**Segmento 1:**  
-![Imagen User Persona 1](image.jpg)
+**Segmento 1:** Clientes que requieren de un plan para soporte técnico que brinde garantía y soluciones a sus productos electrónicos vendidos.  
+![Imagen User Persona 1](../assets/requirements-images/user_persona_user.png)
 
-**Segmento 2:**
-![Imagen User Persona 1](image.jpg)
+**Segmento 2:** Técnicos especializados en reparación, mantenimiento y soporte técnico de productos electrónicos.
+![Imagen User Persona 1](../assets/requirements-images/user_persona_tecnico.png)
 
 ### 2.3.2. User Task Matrix.
-| --- | ------ | Segmento 1  | ------/----- | Segmento 2  | ---------- |
-| --- | ------ | ----------- | ------------ | ----------- | ---------- |
-| ID  | Titulo | Importancia | Frecuencia   | Importancia | Frecuencia |
-| U01X| {Texto}| Alta        | Alta         | Media       | Baja       |
+**Segmento 1:** 
+|  |  User 1  | User 2 | User 3  | User 4 |
+| --- | ----------- | ------------ | ----------- | ---------- |
+| Es dueño o vende productos electrónicos  | <span style="color:#90D26D; font-weight:bold">SI</span>   | <span style="color:#FFC700; font-weight:bold">POCO</span>| <span style="color:#90D26D; font-weight:bold">SI</span>   | <span style="color:#90D26D; font-weight:bold">SI</span> |
+| Cuenta con un equipo de soporte técnico para brindar garantía | <span style="color:#FFC700; font-weight:bold">POCO</span> | <span style="color:#E72929; font-weight:bold">NO</span>        | <span style="color:#FFC700; font-weight:bold">POCO</span>         | <span style="color:#E72929; font-weight:bold">NO</span>       |
+| Contrata a técnicos externos para temas en específico | <span style="color:#90D26D; font-weight:bold">SI</span> | <span style="color:#90D26D; font-weight:bold">SI</span>        | <span style="color:#FFC700; font-weight:bold">POCO</span>         | <span style="color:#90D26D; font-weight:bold">SI</span>       | 
+| Brinda soporte técnico a sus clientes como parte de garantía a sus productos vendidos | <span style="color:#FFC700; font-weight:bold">POCO</span> | <span style="color:#FFC700; font-weight:bold">POCO</span>        | <span style="color:#FFC700; font-weight:bold">POCO</span>         | <span style="color:#E72929; font-weight:bold">NO</span>       |
+
+**Segmento 2:** 
+|  |  User 1  | User 2 | User 3  | User 4 |
+| --- | ----------- | ------------ | ----------- | ---------- |
+| Es técnico de especialidad  | <span style="color:#90D26D; font-weight:bold">SI</span>   | <span style="color:#90D26D; font-weight:bold">SI</span>| <span style="color:#90D26D; font-weight:bold">SI</span>   | <span style="color:#90D26D; font-weight:bold">SI</span> |
+| Cuenta con un empleo seguro y rentable | <span style="color:#E72929; font-weight:bold">NO</span> | <span style="color:#E72929; font-weight:bold">NO</span>        | <span style="color:#FFC700; font-weight:bold">POCO</span>         | <span style="color:#E72929; font-weight:bold">NO</span>       |
+| Conoce de todos los temas para reparar y dar soporte | <span style="color:#90D26D; font-weight:bold">SI</span> | <span style="color:#90D26D; font-weight:bold">SI</span>        | <span style="color:#FFC700; font-weight:bold">POCO</span>         | <span style="color:#90D26D; font-weight:bold">SI</span>       | 
+| Le gusta brindar soporte técnico | <span style="color:#90D26D; font-weight:bold">SI</span> | <span style="color:#90D26D; font-weight:bold">SI</span>        | <span style="color:#90D26D; font-weight:bold">SI</span>         | <span style="color:#90D26D; font-weight:bold">SI</span>       |
 ### 2.3.3. User Journey Mapping.
 **Registration:**
 Why would they trust us?
