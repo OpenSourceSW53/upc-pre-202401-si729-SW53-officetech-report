@@ -199,8 +199,8 @@
 #### TechConnect Solutions
 Somos un equipo de desarrolladores de plataformas web con experiencia en servicio técnico, cuyo objetivo es brindar soporte y soluciones a los clientes para satisfacer sus requerimientos y necesidades así como asegurar su completa satisfacción.
 Además, utilizamos una variedad de métodos innovadores para resolver los problemas que enfrentan nuestros clientes.
-Misión: Nuestra misión es garantizar una experiencia óptima y agradable al usar la aplicación, garantizando la seguridad, confianza y preferencia del cliente.
-Visión: Nos esforzamos por penetrar, establecernos y diferenciarnos en el mercado de soporte tecnológico dedicado, ganarnos la confianza del cliente y asegurar una posición sólida en el sector.
+- **Misión:** Nuestra misión es garantizar una experiencia óptima y agradable al usar la aplicación, garantizando la seguridad, confianza y preferencia del cliente.
+- **Visión:** Nos esforzamos por penetrar, establecernos y diferenciarnos en el mercado de soporte tecnológico dedicado, ganarnos la confianza del cliente y asegurar una posición sólida en el sector.
 
 #### 1.1.2. Perfiles de integrantes del equipo
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
