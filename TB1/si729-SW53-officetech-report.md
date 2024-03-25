@@ -270,8 +270,9 @@ Segmento 2:
 
 ## 3.2. User Stories.
 
-| HU01 | Registro fácil en la plataforma | "Como usuario, deseo registrarme fácilmente en la plataforma para empezar a ofrecer o buscar servicios, para evitar procesos complicados y comenzar rápidamente." |
+| USER STORY ID | TITULO | DESCRIPCION|
 |------|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| HU01 | Registro fácil en la plataforma | "Como usuario, deseo registrarme fácilmente en la plataforma para empezar a ofrecer o buscar servicios, para evitar procesos complicados y comenzar rápidamente." |
 | HU02 | Destacar habilidades en el perfil | "Como usuario, deseo una forma de destacar mis habilidades especiales en mi perfil, para atraer a otros usuarios que busquen esos servicios específicos."  |
 | HU03 | Acceso a planes de servicios | "Como usuario, deseo suscribirme a un plan que se ajuste a mis necesidades de servicios técnicos, para gestionar mejor mis gastos mensuales en la plataforma." |
 | HU04 | Sistema de valoraciones | "Como usuario, requiero un sistema para valorar los servicios recibidos y proporcionar feedback, para ayudar a mejorar la calidad de los servicios ofrecidos."  |
@@ -294,9 +295,24 @@ Segmento 2:
 
 ## 3.4. Product Backlog.
 
-| #Orden | User Story ID | Titulo| Descripción| Story Points (1/2/3/5/8) |
-| ------ | ------------- | ----- | ---------- | ------------------------ |
-| 1      | HU01          | titulo his | desc  | 5                        |
+| #Orden | User Story ID | Título| Descripción  | Story Points (1/2/3/5/8) |
+|--------|---------------|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
+| 1 | HU01 | Registro fácil en la plataforma | "Como usuario, deseo registrarme fácilmente en la plataforma para empezar a ofrecer o buscar servicios, para evitar procesos complicados y comenzar rápidamente." | 3 |
+| 2 | HU02| Destacar habilidades en el perfil | "Como usuario, deseo una forma de destacar mis habilidades especiales en mi perfil, para atraer a otros usuarios que busquen esos servicios específicos." | 5 |
+| 3 | HU03 | Acceso a planes de servicios    | "Como usuario, deseo suscribirme a un plan que se ajuste a mis necesidades de servicios técnicos, para gestionar mejor mis gastos mensuales en la plataforma." | 5 |
+| 4 | HU04 | Sistema de valoraciones         | "Como usuario, requiero un sistema para valorar los servicios recibidos y proporcionar feedback, para ayudar a mejorar la calidad de los servicios ofrecidos." | 3 |
+| 5 | HU05 | Notificaciones de oportunidades | "Como usuario, deseo recibir notificaciones de oportunidades nuevas que coincidan con mis intereses, para poder responder rápidamente." | 2 |
+| 6 | HU06 | Comunicación segura con usuarios| "Como usuario, necesito una forma de comunicarme de manera segura y eficaz con otros usuarios, para intercambiar detalles sobre los servicios de manera confiable." | 3 |
+| 7 | HU07 | Historial de servicios          | "Como usuario, deseo tener acceso a un historial de mis servicios para poder rastrear garantías y trabajos anteriores, para una mejor gestión personal." | 2 |
+| 8 | HU08 | Consejos para mejorar perfil    | "Como usuario, requiero consejos y recursos para mejorar mi perfil y aumentar mi visibilidad en la plataforma, para atraer a más usuarios interesados en mis servicios." | 3 |
+| 9 | HU09 | Gestión de múltiples suscripciones | "Como usuario, deseo tener la capacidad de gestionar múltiples suscripciones desde mi cuenta, para facilitar el manejo de diferentes servicios." | 5 |
+| 10 | HU10 | Comparación de servicios        | "Como usuario, necesito una manera de comparar servicios y cotizaciones fácilmente, para tomar decisiones informadas al seleccionar servicios." | 3 |
+| 11 | HU11 | Programación anticipada de servicios | "Como usuario, deseo programar servicios con anticipación, para asegurar la disponibilidad cuando los necesite." | 3 |
+| 12 | HU12 | Acceso a calendario de servicios | "Como usuario, necesito acceder a un calendario que muestre mis servicios programados, para organizar mejor mi tiempo." | 2 |
+| 13 | HU13 | Recomendaciones personalizadas | "Como usuario, deseo recibir recomendaciones personalizadas basadas en mis intereses y necesidades anteriores, para encontrar servicios adecuados más rápidamente." | 5 |
+| 14 | HU14 | Ofertas y promociones personalizadas | "Como usuario, quiero recibir ofertas y promociones personalizadas, para aprovechar descuentos en servicios que me interesan." | 3 |
+| 15 | HU15 | Informes de uso de servicios    | "Como usuario, deseo recibir informes detallados sobre mi uso de servicios en la plataforma, para optimizar mi selección y gastos en servicios futuros." | 5 |
+
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
