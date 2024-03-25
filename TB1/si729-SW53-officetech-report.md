@@ -225,12 +225,13 @@ Why would they invite others?
 **Segmento 1**  
 Escenario: {escenario}
 
-As Is:
-| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
-| -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling  | texto| texto | texto| texto|
+To be:
+| Fases | Descubrimiento | Engagement  | Conversión  | Retención | Expansión   
+|----------|-------------------------------------------------------|---------------------------------------------------|-------------------------------------------------|---------------------------------------------------|--------------------------------------------------|
+| Doing    | Registrarse en la plataforma, completar el perfil profesional. | Responder a solicitudes de servicio, enviar cotizaciones. | Acordar detalles del servicio, comenzar el trabajo técnico. | Seguimiento post-servicio, solicitar feedback.    | Explorar nuevas áreas de servicio, actualizar el perfil con nuevos skills. |
+| Thinking | "Esto podría expandir mi alcance a más clientes."    | "Debo asegurarme de que mi propuesta destaque."  | "Tengo que hacer un trabajo excepcional para asegurar más en el futuro." | "Es importante conocer la opinión del cliente para mejorar." | "¿Cómo puedo aumentar mi oferta de servicios para atraer a más clientes?" |
+| Feeling  | Optimismo y curiosidad por el potencial de crecimiento. | Motivación ante la posibilidad de nuevos trabajos. | Responsabilidad y compromiso con la calidad.   | Satisfacción por el trabajo bien hecho y deseo de mejora continua. | Ambición y deseo de crecimiento profesional.    |
+
 
 **Segmento 2**  
 Escenario: Dificultad para entender Matemáticas
