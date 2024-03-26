@@ -112,24 +112,24 @@ Texto
 | ¿Por qué llevar a cabo este análisis?                   | -- |
 
 
-| |  | (Nosotros) | Competidor  | Comptdor |
+| |  | OfficeTech | JustAnswer  | Compupalace |
 |-|-|-|-|-|
-| PERFIL| Overview | lorem | ipsum | lorem |
-|| Ventaja competitiva ¿Qué valor ofrece a los clientes? |  ipsu | impuz |
-|| Mercado Objetivo                                        | Jeda | asa | asa2 |
-| Perfil de marketing                                     | Estrategia de Marketing | Redes Sociales | Redes Sociales | Televisión, Redes Sociales |
-| Perfil del producto                                     | Productos y servicios | Elementos Gráficos Interactivos Enseñanza de Matemáticas Lúdica y Autodidacta Educación matemática interactiva Ámbito Freemium | Educación matemática interactiva Mas de 100 cursos en 28 idiomas diferentes | Educación general interactiva Contratos con Movistar |
-|| Precios y costos                                        | Freemium (Cuenta Premium permite personalizar los juegos) Gratis | Gratuito | Gratuito |
-|| Canales de distribución (Web y/o Móvil)                 | Web y Móvil Web | Móvil Web | Web y móvil Web |
+| PERFIL| Overview | OfficeTech proporciona acceso rápido y confiable a servicios técnicos, permitiendo a las empresas reducir costos al evitar la necesidad de mantener un equipo interno de soporte. | Plataforma en línea que conecta a usuarios con expertos verificados en una variedad de campos, incluyendo tecnología y electrónica. | Empresa peruana que ofrece servicios integrales de soporte técnico y soluciones informáticas para empresas y usuarios individuales. |
+|| Ventaja competitiva ¿Qué valor ofrece a los clientes? |  - Reducción de costos para las empresas que contraten nuestros servicios.<br>- Garantizamos servicios técnicos de calidad confiable. | - Facilita el acceso a expertos verificados.<br>- Cuenta con una gran variedad temas en los que brindan asistencia, desde asistencia legal hasta tecnología.  | - Reputación como proveedor confiable de servicios informáticos.<br>- Amplia gama de servicios, incluyendo reparación y mantenimiento de equipos.
+|| Mercado Objetivo                                        | - Empresas que necesitan un soporte técnico confiable para satisfacer las necesidades de sus clientes.<br>- Profesionales en tecnología enfrentan desafíos para atraer nuevos clientes | Usuarios individuales y empresas que buscan respuestas especializadas en una gran variedad de campos. | Usuarios individuales en Perú que requieren servicios de reparación, mantenimiento y asistencia técnica para sus equipos. |
+| Perfil de marketing                                     | Estrategia de Marketing | - Campañas dirigidas a gerentes de empresas de tecnología y electrónica.<br>- Participación en ferias comerciales y eventos.<br>- Publicidad en línea | - Publicidad en línea y en redes sociales.<br>- Colaboraciones con sitios web y blogs relevantes. | - Publicidad en medios de comunicación tradicionales. |
+| Perfil del producto                                     | Productos y servicios | Plataforma de suscripción para servicios técnicos.  | Plataforma en línea de preguntas y respuestas con expertos.| Servicio presencial de venta de productos electrónicos y soporte técnico. |
+|| Precios y costos                                        | Variable según la complejidad del servicio y el técnico. | Costo mensual por suscripción. | Variable según la complejidad del servicio y el técnico. |
+|| Canales de distribución (Web y/o Móvil)                 | Web y Móvil Web | Web y Móvil Web | Servicio presencial |
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
 
-|Competidores ->|  | Nosotros | Competidor2| Competidor3|
+|Competidores ->|  | OfficeTech |JustAnswer| Compupalace|
 |-|-|-|-|-|
-| Análisis SWOT | Fortalezas | lorem | Lorem | lorem |
-|| Debilidades   | lorem | lorem | lorem | lorem | 
-|| Oportunidades | lorem | lorem | lorem | lorem | 
-|| Amenazas      | lorem | lorem | lorem | lorem |
+| Análisis SWOT | Fortalezas | - Reduce costos a las empresas al evitarles mantener un equipo interno de soporte técnico.<br>- Garantizamos servicios técnicos confiables y de alta calidad. | - Cuenta con una red de expertos verificados en una amplia gama de campos.<br>- Permite obtener asesoramiento experto de manera rápida y conveniente. | - Ofrece una amplia variedad de servicios informáticos integrales.<br>- Cuenta con una reputación como un proveedor confiable de servicios informáticos. |
+|| Debilidades   | - Competencia en el mercado al tener que enfrentarse a empresas similares sedimentadas.<br>- Garantizar la fiabilidad de los proveedores de servicios técnicos. | - Calidad variable según el experto que responda la pregunta.<br>- Dependencia de la disponibilidad de expertos en línea para absolver dudas. | Al ofrecer un servicio exclusivamente presencial su alcance de mercado está limitado por su geografía. | lorem | 
+|| Oportunidades | Expansión del alcance para atender en otras áreas que requieren soporte técnico especializado. | Expansión de su plataforma a nuevos mercados internacionales. | Diversificar sus servicios para incluir soluciones adicionales, como seguridad cibernética o desarrollo de software. | lorem | 
+|| Amenazas      | La captación y retención de clientes podría llegar a ser dificultosa y competitiva debido a la presencia de grandes empresas establecidas. | La calidad variable de las respuestas proporcionadas por los expertos podría generar desconfianza entre los usuarios. | La rápida evolución de la tecnología podría hacer que sus servicios se vuelvan obsoletos si no se mantienen al día con las últimas tendencias. | lorem |
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
