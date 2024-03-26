@@ -265,9 +265,15 @@ En Tecnico
 |----------|-------------------------------------------------------|---------------------------------------------------|-------------------------------------------------|---------------------------------------------------|--------------------------------------------------|
 | Doing    | Realizo el servicio adecuardo a las indicaciones del cliente | Responder a solicitudes de servicio, enviar cotizaciones. | Acordar detalles del servicio, comenzar el trabajo técnico. | Hago  un seguimiento post-servicio | Explorar nuevas áreas de servicio, actualizar el perfil con nuevos skills. |
 | Thinking | Esto podría expandir mi alcance a más clientes.    | Dejo a clientes satisfechos  | Subi mi calificacion como tecnico. | Conocer la opinión del cliente para mejorar. | Puedo aumentar mi oferta de servicios para atraer a más clientes |
-| Feeling  | Optimismo y curiosidad por el potencial de crecimiento. | Motivación ante la posibilidad de nuevos trabajos. | Responsabilidad y compromiso con la calidad.   | Satisfacción por el trabajo bien hecho y deseo de mejora continua. | Ambición y deseo de crecimiento profesional.    |
+| Feeling  | Optimista y curioso por mi potencial crecimiento. | Motivado ante la posibilidad de nuevos trabajos. | Responsabilidad y compromiso con la calidad.   | Satisfecho por el trabajo bien hecho y deseo de mejorar . | Ambición y deseo de crecimiento profesional.    |
 
 En Clientes:
+| Fases | Busco un servicio tecnico | Me pongo en contacto con el | Lo contrato y realizo pago  | Espero y su llega para la reparacion | El tecnico llega y soluciona mi problema|
+|----------|-------------------------------------------------------|---------------------------------------------------|-------------------------------------------------|---------------------------------------------------|--------------------------------------------------|
+| Doing    | Decirle al tecnico sobre la situacion | Consultar al técnico sobre mantenimiento o cuidados posteriores | Programar servicios futuros basados en necesidades recurrentes | Recomendar el técnico a otros usuarios dentro de la plataforma. | Compartir mi experiencia con el servicio en redes sociales o con amigos. |
+| Thinking | Espero que el trabajo se realize con exito | Espero que phaber pagado demas por la subcripcion valga la pena  | Espero que el problema no sea nada grave | Pienso que el tecnico debe ser bueno e su trabajo | Pienso que es un alivo haber encontrado esta plataforma |
+| Feeling  | Feliz de poder aver arreglado el problema | Confiado en que lo va a solucionar | Esperanzado de que el problema no sea grave | Aliviado de que la plataforma es confiable. | Contento de que todo haya salido bien.    |
+
 
 ## 3.2. User Stories.
 
