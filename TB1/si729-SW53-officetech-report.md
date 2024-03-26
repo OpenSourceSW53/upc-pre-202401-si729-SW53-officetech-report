@@ -109,7 +109,7 @@ Texto
 
 | Competitive Analysis Landscape                          |  |
 | ------------------------------------------------------- | -|
-| ¿Por qué llevar a cabo este análisis?                   | -- |
+| ¿Por qué llevar a cabo este análisis?                   | Llevamos a cabo este análisis inicial para comprender el mercado en el que ingresamos, lo que nos permite evaluar las estrategias implementadas por plataformas ya establecidas. De esta manera, buscamos aprender tanto de sus éxitos como de sus fracasos. |
 
 
 | |  | OfficeTech | JustAnswer  | Compupalace |
@@ -138,19 +138,28 @@ Texto
 1. ¿Cuál es su nombre? 
 2. ¿Qué edad tiene? 
 3. ¿A qué se dedica? 
-4. ¿[Opinion de idea de propuesta]? 
 
-**Entrevistas usuario segmento 2**
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?  
+
+**Preguntas a empresas que necesitan soporte técnico:**
+1.	¿Cuáles son los principales desafíos que enfrenta su empresa en términos de soporte técnico?
+2.	¿Con qué frecuencia experimenta problemas técnicos que afectan la operación de su empresa?
+3.	¿Qué tipo de servicios técnicos considera más críticos para su negocio?
+4.	¿Qué criterios utiliza para evaluar y seleccionar proveedores de soporte técnico?
+5.	¿Ha considerado la posibilidad de externalizar el soporte técnico en lugar de mantener un equipo interno?
+6.	¿Qué métodos ha utilizado al buscar profesionales para reparar sus dispositivos (páginas web, referencias, anuncios físicos, etc.)?
+7.	¿Qué experiencias positivas o negativas ha tenido con proveedores de soporte técnico en el pasado?
+8.	¿Qué tipo de tecnologías o equipos utilizan en su empresa que requieren soporte técnico regular?
+9.	¿Qué tan crítico es el tiempo de respuesta para resolver problemas técnicos en su negocio?
+
    
-**Entrevistas usuario segmento 2**
-1. ¿Lorem? 
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem? 
+**Preguntas a profesionales en tecnología:**
+1.	¿Cuáles son los mayores desafíos que enfrenta al intentar atraer nuevos clientes a su negocio?
+2.	¿Qué canales de comunicación prefiere utilizar para llegar a sus clientes potenciales? (Redes sociales, correo electrónico, eventos de networking, etc.)
+3.	¿Qué tipo de servicios o soluciones tecnológicas ofrece a sus clientes potenciales?
+4.	¿Qué métodos utiliza habitualmente para abordar los problemas técnicos planteados por sus clientes? (en línea, asesoramiento telefónico, visitas presenciales, acceso remoto a los dispositivos, etc.) 
+5.	¿Cómo describiría un día típico en su trabajo?
+6.	¿Cuál es un desafío habitual que enfrenta al tratar con sus clientes? ¿Cómo suele manejar esta situación cuando surge?
+
 ### 2.2.2. Registro de entrevistas.
 **Segmento 1**  
 Nombre: _____
