@@ -263,8 +263,8 @@ Texto ubiquo: Definicion de este
 En Tecnico
 | Fases | Espero notificacion de servicio | Recibo un reporte de servicio tecnico y acepto| Realizo y resuelvo el problema del cliente  | El cleinte realiza el pago del servico por medio de un pago | El cliente valora mi servicio atraves de reseña |
 |----------|-------------------------------------------------------|---------------------------------------------------|-------------------------------------------------|---------------------------------------------------|--------------------------------------------------|
-| Doing    | Registrarse en la plataforma, completar el perfil profesional. | Responder a solicitudes de servicio, enviar cotizaciones. | Acordar detalles del servicio, comenzar el trabajo técnico. | Seguimiento post-servicio, solicitar feedback.    | Explorar nuevas áreas de servicio, actualizar el perfil con nuevos skills. |
-| Thinking | "Esto podría expandir mi alcance a más clientes."    | "Debo asegurarme de que mi propuesta destaque."  | "Tengo que hacer un trabajo excepcional para asegurar más en el futuro." | "Es importante conocer la opinión del cliente para mejorar." | "¿Cómo puedo aumentar mi oferta de servicios para atraer a más clientes?" |
+| Doing    | Realizo el servicio adecuardo a las indicaciones del cliente | Responder a solicitudes de servicio, enviar cotizaciones. | Acordar detalles del servicio, comenzar el trabajo técnico. | Hago  un seguimiento post-servicio | Explorar nuevas áreas de servicio, actualizar el perfil con nuevos skills. |
+| Thinking | Esto podría expandir mi alcance a más clientes.    | Dejo a clientes satisfechos  | Subi mi calificacion como tecnico. | Conocer la opinión del cliente para mejorar. | Puedo aumentar mi oferta de servicios para atraer a más clientes |
 | Feeling  | Optimismo y curiosidad por el potencial de crecimiento. | Motivación ante la posibilidad de nuevos trabajos. | Responsabilidad y compromiso con la calidad.   | Satisfacción por el trabajo bien hecho y deseo de mejora continua. | Ambición y deseo de crecimiento profesional.    |
 
 En Clientes:
