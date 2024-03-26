@@ -298,7 +298,7 @@ En Clientes:
 
 ## 3.3. Impact Mapping.
 
-<img src="../assets/impact map.png" alt="Imagen del compañero" style="width:80%;">
+<img src="../assets/IM.JPG" alt="Imagen del compañero" style="width:80%;">
 
 
 ## 3.4. Product Backlog.
