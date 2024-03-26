@@ -205,22 +205,93 @@
 ### 1.2.1 Antecedentes y problemática
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
+**Empresa:**
+Segun una encuesta realizada el 2017 por ManpowerGroup, se estima que el 46% de los empleadores presentan problemas para cubrir sus vacates.
+Esto producto de que se les dificulta encontrar personas capacitadas que ademas de su especializacion es necesario evaluar sus habilidades blandas, dentro de interrevalos de tiempo cortos.
+¿Como mejoramos la eficiencia en el proceso de busqueda de tecnicos de equipos electronicos y de tecnologia?
+**Tecnico**
+Los tecnicos de tecnologia tienen dificultades para captar la atencion de nuevos clientes, esto genera retraso en sus ingresos y perdida de tiempo. 
+En un intento de ganar mercado hacen uso de redes sociales, pero al final se encuentran con empresas fuertemente ubicadas que transmiten al cliente una mayor de recibir un servicio de calidad
+¿Como logramos establecer una mejor conexion d contacto entre los tecnicos de equipos electronicos y sus cleintes?
 #### 1.2.2.2. Lean UX Assumptions.
-|Business Assumptions|User Assumptions|
-|-|-|
-|1. - 12. |1. - 6.|
+**Business Assumptions**
+- Creemos que nuestros clientes necesitan una aplicacion que les facilite buscar un trabajador capacitado que se encargue adecuadamente de los equipos electronicos.
+- El trabajador recibe una notificacion cuando alguien requiere un servicio.
+- Mis clientes son capaces de utilizar plataformas moviles
+- El cliente es atendido en brevedad
+- El cliente puede contactar con los tecnicos mediante una llamada telefonica 
+- Nuestros clientes inicales son contactados por medio de redes sociales, mientras que las empresas por reuniones pactadas.
+- Generamos ingresos mediante suscripciones con las empresas por garantia.
+- Nuestra principal competecia son las aplicaiones web que funcionan como intermediarios entre trabajadores y clientes
+- Ganaremos a la competencia al contar con la supervicion del rendimiento que dan los tecnicos
+- Nuestro mayor riesgo es que los clientes busquen un tecnico por su cuenta 
+
+**User Assumptions**
+- ¿Quién es el usuario?
+  <br/>Las empresas que solicitan servicio tecnico mediante nuestra aplicacion
+- ¿Dónde encaja nuestro producto en su trabajo
+  <br/>En cualquier momento que tenga dificultad con su equipo y quiera una solucion rapida
+- ¿Qué problemas tiene nuestro producto? ¿Resolver?
+  <br/>El algoritmo para que todos las personas que brindan servicio tecnico puedan generar ingresos. Se podria resolver a traves de filtros y comentarios
+- ¿Cuándo y cómo es nuestro producto? ¿Usado?
+  <br/>El producto es utilizado cuando se tiene una necesidad o deseo de reparar algún equipo
+  electrónico para que no le interrumpa su trabajo. Asimismo, establecer comunicaciones
+  con las personas que puedan brindar el servicio. Por otro lado, el producto debe verse
+  confiable y formal para brindarle seguridad al cliente
+- ¿Qué características son importantes?
+  <br/>La comunicacion sencilla entre cliente y trabajador. Asimisnmo, el acceso a una gran variedad de tecnicos 
+- ¿Cómo debe verse y comportarse nuestro producto?
+  <br/>Nuestro producto debe verse confiable y funcional diariamente. Este debe comportarse
+  de forma amigable con una funcionalidad ágil, para que los usuarios no tengan
+  problemas para usarlo
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
-Texto
+| Assumption priorizado: | 1 (Business Assumptions)                                                                                                                                           |
+|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Hypothesis:            | 1                                                                                                                                                                  |
+| Descripcion:           | Creemos que nuestros clientes podran solucionar el problema de buscar un tecnico con nuetrsa asplicacion<br/>Sabemos que nuestros clientes encontrarán al tecnico  |
+| Metrica                | Crearemos una aplicación para buscar técnicos                                                                                                                      |
+
+| Assumption priorizado: | 4 (Business Assumptions)                                                                                         |
+|------------------------|------------------------------------------------------------------------------------------------------------------|
+| Hypothesis:            | 2                                                                                                                |
+| Descripcion:           | Creemos que nuestros clientes podrán ahorrarse el tiempo de esperar a un técnico para que solucione su problema.<br/>Sabemos que nuestros clientes no podrán esperar mucho tiempo para conseguir un técnico |
+| Metrica                | Las notificaciones de solicitudes de servicio llegarán a los técnicos en cuestión de segundos                    |
+
+| Assumption priorizado: | 5 (Business Assumptions)                                                                                                                                              |
+|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Hypothesis:            | 3                                                                                                                                                                     |
+| Descripcion:           | Creemos que nuestros clientes se podran comunicar con los tecnicos por medio de via telefonica<br/>Sabemos que los clientes van a querer comunicarse con los tecnicos |
+| Metrica                | El numero de celular del tecnico aparecera en la informacion de su perfil                                                                                             |
+
+| Assumption priorizado: | 3 (Business Assumptions)                                                                                                                       |
+|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Hypothesis:            | 4                                                                                                                                              |
+| Descripcion:           | Creemos que nuestra aplicación podrá garantizar que los técnicos puedan tener ingresos.<br/>Sabemos que los tecnicos buscan un trabajo estable |
+| Metrica                | Los tecnicos obtendran sus ganancias al terminar con sus servicios y dependen del tipo de suscripcion de su cliente y calificacion             |
+
+| Assumption priorizado: | 6 (Business Assumptions)                                                                                                                                                                                            |
+|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Hypothesis:            | 5                                                                                                                                                                                                                   |
+| Descripcion:           | Creemos que nuetra aplicacion tendra un buen funcionamiento y que los usuarios puedan usarlo facilmente<br/>Sabemos que nuestros usuarios quieren una aplicacion que sea facil de usar y que funcione correctamente |
+| Metrica                | Se crearan funcionalidades que sean amigables para los usuarios                                                                                                                                                     |
+
+
 #### 1.2.2.4. Lean UX Canvas.
-(imagen con texto)
+[Lean-UXCanvas.png](https://postimg.cc/14vzR9qZ)
 ## 1.3. Segmentos objetivo.
-| | Segmento 1 | Segmento 2  |
-| - | - |-|
-| Variables                 |  |  |
-| Geográfica                |  |  |
-| Demográfica               |  |  |
-| Psicológica               |  |  |
-| Función de comportamiento |  |  |
+
+**Segmento 1** 
+<br>Clientes: Empresas, organizaciones, tiendas o vendedores independientes de aparatos electrónicos, tecnológicos o electrodomésticos, que necesit an de
+un servicio confiable, seguro y eficaz de soporte técnico para cubrir las
+garantías de sus productos vendidos.
+
+**Segmento 2**
+<br>Técnicos especializados en el servicio de reparación de distintos artefactos
+electrónicos, tecnológicos o electrodomésticos. Además, que gusten
+afiliarse en la aplicación para aumentar su alcance laboral y tener más
+opciones de trabajo
+
 
 ---
 
