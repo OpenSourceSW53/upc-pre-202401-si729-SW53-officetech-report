@@ -225,11 +225,12 @@ Why would they invite others?
 
 ### 2.3.4. Empathy Mapping.
 **Cliente**
-![Empathy Map Segmento1](image.jpg)
+
+<img src="../assets/Empathy-maps/Empathy map Client.png" alt="Empathy map Technician" style="width:80%;">
 
 **Técnico**  
 
-<img src="../assets/Empathy-maps/Empathy map Technician.png" alt="Empathy map Technician" style="width:80%;">
+<img src="../assets/Empathy-maps/Empathy map Technician.png" alt="Empathy map Technician" style="width:100%;">
 
 
 ### 2.3.5. As-is Scenario Mapping.
