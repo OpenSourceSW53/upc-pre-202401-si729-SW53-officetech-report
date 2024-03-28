@@ -229,6 +229,7 @@ Why would they invite others?
 
 **Segmento 2:**
 ![Empathy Map Segmento1](image.jpg)
+
 ### 2.3.5. As-is Scenario Mapping.
 
 **Segmento 1**  
@@ -237,25 +238,35 @@ Escenario: Cliente
 | **Phases**    | Busco Servicio Técnico| Contacto con la persona que me hara el servicio | Contrato y pago el producto | Recibo mi producto reparado |
 |----------|--------|--------|--------|--------|
 | **Doing**    | -Navego en la web buscando soporte técnico. <br> -Consulto a amigos o familiares por algún técnico conocido. |  -Le explico el problema que presento. <br> -Llamo y pregunto si me puede realizar el trabajo. | -Llego a un acuerdo con el técnico y lo contrato. <br> -Cancelo el pago del servicio.| -Recibo mi producto ya reparado. <br> Reviso si mi producto se encuentra correctamente. |
-| **Thinking** | -Espero poder encontrar un buen técnico. <br> -Pienso que ojalá el servicio no cueste mucho dinero. | Pienso que ojalá el servicio no cueste mucho dinero. | -Si realizo un buen trabajo, el costo valdrá la pena. <br> -Espero que no sea una estafa. | -Pienso que se hizo un buen trabajo. -Espero que no presente más fallas. |
-| **Feeling**  | Siento estresado porque debo pasar mucho tiempo buscando soporte confiable por internet. | Angustia porque no conozco a la persona y necesito que repare mi producto. | Temor por ser estafado, ya que soy un vendedor nuevo. <br> -Esperanza porque el trabajo sea correcto. | Alegre, ya que resolvieron mi problema. <br> -Felicidad porque todo salió bien. |
+| **Thinking** | -Espero poder encontrar un buen técnico. <br> -Pienso que ojalá el servicio no cueste mucho dinero. | Pienso que ojalá el servicio no cueste mucho dinero. | -Si realizo un buen trabajo, el costo valdrá la pena. <br> -Espero que no sea una estafa. | -Pienso que se hizo un buen trabajo. <br> -Espero que no presente más fallas. |
+| **Feeling**  | -Siento estresado porque debo pasar mucho tiempo buscando soporte confiable por internet. | -Angustia porque no conozco a la persona y necesito que repare mi producto. | -Temor por ser estafado, ya que soy un vendedor nuevo. <br> -Esperanza porque el trabajo sea correcto. | -Alegre, ya que resolvieron mi problema. <br> -Felicidad porque todo salió bien. |
+
+**Segmento 2**  
+Escenario: Técnico              
+
+| **Phase**     | Busca un cliente con problemas | Analiza el producto a realizar el servicio | Realizo el presupuesto | Realiza el servicio lo mejor posible |
+|---------------|--------------------------------|-------------------------------------------|------------------------|------------------------------------|
+| **Doing**     | Hablo con el cliente sobre su caso | Coordinamos un precio accesible          | Realizo el mantenimiento | Se realiza el pago del servicio    |
+| **Thinking**  | Espero poder encontrar nuevos clientes | Espero que mis capacidades sean suficientes | Espero poder ser mas conocido por mi servicio | Espero que me valoren bien mis clientes |
+| **Feeling**   | Siento que no soy muy popular   | Siento que no tengo muchos clientes       | Siento que no valoran mis capacidades | Siento que tengo mucho tiempo sin los |
+
 
 
 ## 2.4. Ubiquitous Language.
-```
-Ubiquitous Language (Lenguaje Ubicuo)
-Terms and Definitions (Términos y Definiciones)
-Technical Support (Soporte Técnico): Servicio ofrecido para solucionar problemas relacionados con el hardware o software de dispositivos electrónicos.
-Service Request (Solicitud de Servicio): Petición realizada por un usuario o empresa para recibir asistencia técnica.
-Technician (Técnico): Profesional especializado en el mantenimiento y reparación de dispositivos electrónicos.
-User (Usuario): Cualquier persona o entidad que utiliza la plataforma para solicitar o proveer servicios técnicos.
-Device (Dispositivo): Cualquier pieza de equipo electrónico que requiera mantenimiento o reparación.
-Subscription Plan (Plan de Suscripción): Modelo de pago que permite a los usuarios acceder a servicios específicos durante un periodo determinado.
-Service History (Historial de Servicios): Registro de todas las solicitudes de servicio y asistencias técnicas realizadas a través de la plataforma.
-Feedback (Retroalimentación): Opiniones o comentarios proporcionados por los usuarios sobre la calidad del servicio recibido.
-Issue (Problema): Descripción de la falla o mal funcionamiento que un dispositivo está experimentando.
-Warranty (Garantía): Compromiso de reparar o reemplazar un dispositivo dentro de un período específico, sin costo adicional.
-```
+
+| **Terms and Definitions** | **Términos y Definiciones** |
+|---------------------------|-----------------------------|
+| Technical Support         | Servicio ofrecido para solucionar problemas relacionados con el hardware o software de dispositivos electrónicos. |
+| Service Request           | Petición realizada por un usuario o empresa para recibir asistencia técnica. |
+| Technician                | Profesional especializado en el mantenimiento y reparación de dispositivos electrónicos. |
+| User                      | Cualquier persona o entidad que utiliza la plataforma para solicitar o proveer servicios técnicos. |
+| Device                    | Cualquier pieza de equipo electrónico que requiera mantenimiento o reparación. |
+| Subscription Plan         | Modelo de pago que permite a los usuarios acceder a servicios específicos durante un periodo determinado. |
+| Service History           | Registro de todas las solicitudes de servicio y asistencias técnicas realizadas a través de la plataforma. |
+| Feedback                  | Opiniones o comentarios proporcionados por los usuarios sobre la calidad del servicio recibido. |
+| Issue                     | Descripción de la falla o mal funcionamiento que un dispositivo está experimentando. |
+| Warranty                  | Compromiso de reparar o reemplazar un dispositivo dentro de un período específico, sin costo adicional. |
+
 
 ---
 
