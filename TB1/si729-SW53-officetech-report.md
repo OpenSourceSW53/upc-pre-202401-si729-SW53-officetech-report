@@ -389,10 +389,20 @@ Se utilizarán meta tags estratégicos para ubicar la aplicación web entre una 
 * Viewport: Sirve para indicar al navegador como ajustar el tamaño de la página en medida al dispositivo ```<meta name = "viewport" content = "width=device-width, initial-scale=1.0"/>```
 
 ### 4.2.4. Searching Systems.
-**Que se busca?:** Que buscara el usuario  
-**Que resultados se mostraran?:** Que se mostrara  
-**Interface de busqueda:** Descripcion de como ayuda a encontrar lo deseado 
-![Search interface preview web](image.jpg)
+En la aplicación web OfficeTech se busca implementar un sistema de búsqueda eficiente y efectivo para que los usuarios puedan encontrar rápidamente los servicios que necesitan. Se utilizará un sistema de búsqueda simple y directo, con la posibilidad de filtrar los resultados por categorías y palabras clave.
+
+**Que se busca?:** Las empresas interesadas buscarán servicios técnicos
+**Que resultados se mostrarán?:** Diferentes servicios que ofrecen los especialistas y técnicos, en diferentes rubros y categorías.  
+**Interface de busqueda:** Una barra de búsqueda en la que los usuarios pueden ingresar sus consultas
+
+**Que se busca?:** Las empresas interesadas filtrarán por categoría y palabras clave para encontrar el servicio técnico que necesitan.
+**Que resultados se mostrarán?:** Diferentes servicios que ofrecen los especialistas y técnicos, en diferentes rubros y categorías.
+**Interface de busqueda:** Filtro y opciones de búsqueda avanzada que ayudarán a los usuarios refinar y limitar lo que buscan.
+
+**Que se busca?:** Los técnicos especializados buscarán solicitudes de soporte técnico disponibles.
+**Que resultados se mostrarán?:** Diferentes solicitudes de soporte técnico que pueden aceptar y brindar asistencia.
+**Interface de busqueda:** Una lista de solicitudes de soporte técnico disponibles que los técnicos pueden revisar y aceptar, además de la función del autocompletado, facilitandole la entrada de consulta.
+
 
 ### 4.2.5. Navigation Systems.
 Basicamente aqui definimos como funciona la navegacion del web app
