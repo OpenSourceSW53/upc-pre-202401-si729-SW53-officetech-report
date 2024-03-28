@@ -405,10 +405,12 @@ En la aplicación web OfficeTech se busca implementar un sistema de búsqueda ef
 
 
 ### 4.2.5. Navigation Systems.
-Basicamente aqui definimos como funciona la navegacion del web app
-**Hierarchical Navigation System:** Main page a destination pages.
-**Global Navigation Systems** (Complemento del Hierachical) Movimiento vertical (te mueves por la pagina)con nav(debe poder regresar a la principal)
-**Local Navigation Systems** (vas a otras paginas) (complemento del global nav sistem sub-site) Usas otras paginas
+En el contexto de OfficeTech se requerirán de sistemas de navegación para que los usuarios puedan moverse de manera eficiente y efectiva por la aplicación web. Se implementarán sistemas de navegación jerárquicos, globales y locales para facilitar la interacción y la experiencia del usuario.
+
+**Hierarchical Navigation System:** A nivel jerárquico se implementará la opción de búsqueda secuencial, donde los usuarios podrán buscar un plan para servicio técnico específico siguiendo un orden lógico y secuencial. Por ejemplo desde la página principal, a la sección de planes a contratar, a la categoría de servicios y finalmente a la página de detalles del servicioy garantía.
+**Global Navigation Systems** Esta opción permitirá a los usuarios acceder a diferentes secciones de la aplicación web desde cualquier página. Por ejemplo, desde la página principal, los usuarios podrán acceder a la sección de planes, a la sección de perfil y a la sección de valoraciones, todas estas opciones se encontrarán en la barra de navegación.
+**Local Navigation Systems** Dentro de esta opción, los usuarios podrán acceder a otras páginas web relacionadas con la página actual. Por ejemplo, desde la página de detalles del plan a contratar, los usuarios podrán acceder a la página de contacto y equipo que será asignado, a la página de valoraciones y a la página de otros planes relacionados.
+
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
 la pagina donde te registras y ves info del web app (te manda al web app)
