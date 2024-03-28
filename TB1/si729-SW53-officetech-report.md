@@ -380,6 +380,13 @@ Para los técnicos especializados
 | Solicitudes disponibles | Aparatado en el que se visualizan las diferentes solicitudes de soporte técnico que se pueden aceptar para brindar asistencia. |
 
 ### 4.2.3. SEO Tags and Meta Tags
+Se utilizarán meta tags estratégicos para ubicar la aplicación web entre una de las primeras opciones en los motores de búsqueda, facilitando la visibilidad y el acceso de los usuarios a la plataforma.
+* Title tag: Titulo principal que será visualizado en la pestaña del navegador ```<title> OfficeTech | Soporte técnico a tu alcance </title>```
+* Meta Description: Descripción que referenciará al usuario sobre de qué trata la página web ```<meta name = "description" content = "Somos una startup peruana que facilita y reduce los costos al contratar un servicio técnico al brindar garantías de tu dispositivo ofertado!"/>```
+* Meta Keywords: Palabras clave para que los usuarios encuentren la aplicación web más rápido y sencillo ```<meta name = "keyword" content = "startup, officetech, servicio tecnico, garantias, equipos electronicos"/>```
+* Meta character encoding: Indicará al navegador que se está trabajando con caracteres en formato UTF-8 para incluir teclas especiales ```<meta charset = "UTF-8"/>```
+* Author and Copyright: Enmarcar derechos de autor para OfficeTech ```<meta name = "author" content = "OfficeTech"/>```
+* Viewport: Sirve para indicar al navegador como ajustar el tamaño de la página en medida al dispositivo ```<meta name = "viewport" content = "width=device-width, initial-scale=1.0"/>```
 
 ### 4.2.4. Searching Systems.
 **Que se busca?:** Que buscara el usuario  
