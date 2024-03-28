@@ -232,28 +232,29 @@ Why would they invite others?
 ### 2.3.5. As-is Scenario Mapping.
 
 **Segmento 1**  
-Escenario: {escenario}
+Escenario: Cliente
 
-As Is:
+| **Phases**    | Busco Servicio Técnico| Contacto con la persona que me hara el servicio | Contrato y pago el producto | Recibo mi producto reparado |
+|----------|--------|--------|--------|--------|
+| **Doing**    | Navego en la web buscando soporte técnico. Consulto a amigos o familiares por algún técnico conocido. |  Le explico el problema que presento. Llamo y pregunto si me puede realizar el trabajo. | Llego a un acuerdo con el técnico y lo contrato. | Cancelo el pago del servicio. Recibo mi producto ya reparado. | Reviso si mi producto se encuentra correctamente. |
+| **Thinking** | Espero poder encontrar un buen técnico. Pienso que ojalá el servicio no cueste mucho dinero. | Pienso que ojalá el servicio no cueste mucho dinero. Si realizo un buen trabajo, el costo valdrá la pena. | Espero que no sea una estafa. Pienso que se hizo un buen trabajo. | Espero que no presente más fallas. |
+| **Feeling**  | Siento estresado porque debo pasar mucho tiempo buscando soporte confiable por internet. | Angustia porque no conozco a la persona y necesito que repare mi producto. | Temor por ser estafado, ya que soy un vendedor nuevo. Esperanza porque el trabajo sea correcto. | Alegre, ya que resolvieron mi problema. | Felicidad porque todo salió bien. |
 
-| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
-| -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling  | texto| texto | texto| texto|
 
-**Segmento 2**  
-Escenario: Dificultad para entender Matemáticas
-
-As Is:
-| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
-| -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling  | texto| texto | texto| texto|
 ## 2.4. Ubiquitous Language.
 ```
-Texto ubiquo: Definicion de este
+Ubiquitous Language (Lenguaje Ubicuo)
+Terms and Definitions (Términos y Definiciones)
+Technical Support (Soporte Técnico): Servicio ofrecido para solucionar problemas relacionados con el hardware o software de dispositivos electrónicos.
+Service Request (Solicitud de Servicio): Petición realizada por un usuario o empresa para recibir asistencia técnica.
+Technician (Técnico): Profesional especializado en el mantenimiento y reparación de dispositivos electrónicos.
+User (Usuario): Cualquier persona o entidad que utiliza la plataforma para solicitar o proveer servicios técnicos.
+Device (Dispositivo): Cualquier pieza de equipo electrónico que requiera mantenimiento o reparación.
+Subscription Plan (Plan de Suscripción): Modelo de pago que permite a los usuarios acceder a servicios específicos durante un periodo determinado.
+Service History (Historial de Servicios): Registro de todas las solicitudes de servicio y asistencias técnicas realizadas a través de la plataforma.
+Feedback (Retroalimentación): Opiniones o comentarios proporcionados por los usuarios sobre la calidad del servicio recibido.
+Issue (Problema): Descripción de la falla o mal funcionamiento que un dispositivo está experimentando.
+Warranty (Garantía): Compromiso de reparar o reemplazar un dispositivo dentro de un período específico, sin costo adicional.
 ```
 
 ---
