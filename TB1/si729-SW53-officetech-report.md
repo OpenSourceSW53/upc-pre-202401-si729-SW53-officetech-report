@@ -227,9 +227,9 @@ Why would they invite others?
 **Segmento 1:**
 ![Empathy Map Segmento1](image.jpg)
 
-**Segmento 2:**´
+**Segmento 2:**
 
-![Empathy Map Segmento2](../assets/Empathy-maps/Empathy map Technician.png)
+<img src="../assets/Empathy-maps/Empathy map Technician.png" alt="Empathy map Technician" style="width:80%;">
 
 
 ### 2.3.5. As-is Scenario Mapping.
