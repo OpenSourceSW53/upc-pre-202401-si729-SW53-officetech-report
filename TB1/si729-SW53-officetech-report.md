@@ -205,28 +205,18 @@ Ocupación: _____
 | Conoce de todos los temas para reparar y dar soporte | <span style="color:#90D26D; font-weight:bold">SI</span> | <span style="color:#90D26D; font-weight:bold">SI</span>        | <span style="color:#FFC700; font-weight:bold">POCO</span>         | <span style="color:#90D26D; font-weight:bold">SI</span>       | 
 | Le gusta brindar soporte técnico | <span style="color:#90D26D; font-weight:bold">SI</span> | <span style="color:#90D26D; font-weight:bold">SI</span>        | <span style="color:#90D26D; font-weight:bold">SI</span>         | <span style="color:#90D26D; font-weight:bold">SI</span>       |
 ### 2.3.3. User Journey Mapping.
-**Registration:**
-Why would they trust us?
-- s
-- s
-- s
-  
-**Onboarding and first use:**
-How can they feel successful?
-- s
-- s
-- s  
-  
-**Sharing:**
-Why would they invite others?
-- s
-- s
-- s
+**Cliente**
+
+<img src="../assets/Customers-journeys-maps/Customer journey map Client.png" alt="Customer journey map Client" style="width:100%;">
+
+**Técnico**  
+
+<img src="../assets/Customers-journeys-maps/Customer journey map Technician.png" alt="Customer journey map Technician" style="width:100%;">
 
 ### 2.3.4. Empathy Mapping.
 **Cliente**
 
-<img src="../assets/Empathy-maps/Empathy map Client.png" alt="Empathy map Technician" style="width:80%;">
+<img src="../assets/Empathy-maps/Empathy map Client.png" alt="Empathy map Technician" style="width:100%;">
 
 **Técnico**  
 
@@ -276,7 +266,7 @@ Why would they invite others?
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
 
-**Cliente** 
+**Cliente:** 
 
 | Fases | Busco un servicio tecnico | Me pongo en contacto con el | Lo contrato y realizo pago  | Espero y su llega para la reparacion | El tecnico llega y soluciona mi problema|
 |----------|-------------------------------------------------------|---------------------------------------------------|-------------------------------------------------|---------------------------------------------------|--------------------------------------------------|
@@ -284,7 +274,7 @@ Why would they invite others?
 | Thinking | Espero que el trabajo se realize con exito | Espero que phaber pagado demas por la subcripcion valga la pena  | Espero que el problema no sea nada grave | Pienso que el tecnico debe ser bueno e su trabajo | Pienso que es un alivo haber encontrado esta plataforma |
 | Feeling  | Feliz de poder aver arreglado el problema | Confiado en que lo va a solucionar | Esperanzado de que el problema no sea grave | Aliviado de que la plataforma es confiable. | Contento de que todo haya salido bien.    |
 
-**Técnico** 
+**Técnico:** 
 
 | Fases | Espero notificacion de servicio | Recibo un reporte de servicio tecnico y acepto| Realizo y resuelvo el problema del cliente  | El cleinte realiza el pago del servico por medio de un pago | El cliente valora mi servicio atraves de reseña |
 |----------|-------------------------------------------------------|---------------------------------------------------|-------------------------------------------------|---------------------------------------------------|--------------------------------------------------|
