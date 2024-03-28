@@ -356,15 +356,30 @@ Sequential. Guide users to follow a specific path towards their goal and provide
 
 Matrix. You can always give the users the option to choose the type of navigation they prefer, i.e. Alphabetical, Chronological, by topic."
 ### 4.2.2. Labeling Systems.
-The labeling system aims at uniting the data effectively and represent them in simple way and avoid confusing great amount of information. A widely adopted way to achieve this is by creating the labels which represent loads of data in few words. 
+La aplicación web contará con un sistema de etiquetado simple y sencillo para captar el rápido entendimiento del usuario, evitando confusiones y facilitando la navegación.
+Las siguientes etiquetas serán utilizadas para ambos contextos de los segmentos objetivos.
 
-Como decir "home, about us, etc" basicamente lo que iria en un nav var y asi
+| Etiqueta | Descripción |
+|----------|-------------|
+| Inicio   | Página principal de la aplicación. |
+| Planes | Sección donde se muestran los servicios disponibles a contratar para la adquisición de garantías en un servicio técnico |
+| Perfil   | Sección donde se visualiza y edita la información personal del usuario. |
+
+Para las empresas afiliadas a un servicio
+| Etiqueta | Descripción |
+|----------|-------------|
+| Plan contratado | Apartado en el que se visualiza el servicio afiliado, detalles de lo que cubre, el equipo técnico. |
+| Mis equipos | Sección donde se visualiza el historial de equipos electrónicos registrados para que se les brinde soporte técnico. Además de qué garantia fue asignada a cada uno |
+| Contactar soporte | Sección donde se puede contactar al soporte técnico para solicitar asistencia del equipo electrónico requerido. |
+
+Para los técnicos especializados
+| Etiqueta | Descripción |
+|----------|-------------|
+| Mis servicios | Sección donde se visualizan los servicios o conocimientos que se ofrecen para brindar soporte técnico en la garantía. |
+| Pagos y facturación | Sección donde se visualiza el historial de pagos y facturación de los servicios brindados, en el que podrá depositar y movilizar el dinero a su cuenta |
+| Solicitudes disponibles | Aparatado en el que se visualizan las diferentes solicitudes de soporte técnico que se pueden aceptar para brindar asistencia. |
+
 ### 4.2.3. SEO Tags and Meta Tags
-
-**Meta & SEO (Search Engine Optimization) Tags:**  sirven para que la pagina web sea encontrada facilmente es lo que sale al encontrar la pagina en el buscador (se ponen en el <"head">)
-* Titulo: ```<title> ___ </title> ```
-* Descripcion: ```<meta name = "description" content = "texto descipcion"/> ```
-* Palabras Clave: ```<meta name = "keyword" content = "keyword1, 2 3"/> ```
 
 ### 4.2.4. Searching Systems.
 **Que se busca?:** Que buscara el usuario  
