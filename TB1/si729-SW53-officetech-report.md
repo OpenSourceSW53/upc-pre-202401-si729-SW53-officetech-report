@@ -389,18 +389,18 @@ Para los esquemas de organización utilizaremos los siguientes tipos:
 - Organización por orden alfabético para la sección de “Mis clientes” de los técnicos afiliados y para la sección de “Mis equipos” de las empresas clientes (los segmentos estarán ordenados por orden alfabético y también se seguirá esta organización dentro de cada segmento).
 - Organización por audiencia:
   - Lado lateral:
- 1. Para las empresas clientes:
-     - Servicios
-     - Mi plan
-     - Mis equipos
- 2. Para los técnicos afiliados:
-     - Servicios
-     - Ganancias
-     - Mis clientes
-     - Reseñas
+     1. Para las empresas clientes:
+        - Servicios
+        - Mi plan
+        - Mis equipos
+     2. Para los técnicos afiliados:
+        - Servicios
+        - Ganancias
+        - Mis clientes
+        - Reseñas
   - Cuerpo de la página:
-   1. Para las empresas clientes: Botón de solicitar servicios
-   2. Para los técnicos afiliados: Botón de empezar servicios
+     1. Para las empresas clientes: Botón de solicitar servicios
+     2. Para los técnicos afiliados: Botón de empezar servicios
 
 ### 4.2.2. Labeling Systems.
 La aplicación web contará con un sistema de etiquetado simple y sencillo para captar el rápido entendimiento del usuario, evitando confusiones y facilitando la navegación.
