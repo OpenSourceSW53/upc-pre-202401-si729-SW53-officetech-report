@@ -135,6 +135,18 @@ Hemos identificado la necesidad de un intermediario que pueda comunicar el desem
 | Descripcion:           | Creemos que nuestros clientes se podran comunicar con los tecnicos por medio de via telefonica<br/>Sabemos que los clientes van a querer comunicarse con los tecnicos |
 | Metrica                | El numero de celular del tecnico aparecera en la informacion de su perfil                                                                                             |
 
+| Assumption priorizado: | 3 (Business Assumptions)                                                                                                                       |
+|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Hypothesis:            | 4                                                                                                                                              |
+| Descripcion:           | Creemos que nuestra aplicación podrá garantizar que los técnicos puedan tener ingresos.<br/>Sabemos que los tecnicos buscan un trabajo estable |
+| Metrica                | Los tecnicos obtendran sus ganancias al terminar con sus servicios y dependen del tipo de suscripcion de su cliente y calificacion             |
+
+| Assumption priorizado: | 6 (Business Assumptions)                                                                                                                                                                                            |
+|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Hypothesis:            | 5                                                                                                                                                                                                                   |
+| Descripcion:           | Creemos que nuetra aplicacion tendra un buen funcionamiento y que los usuarios puedan usarlo facilmente<br/>Sabemos que nuestros usuarios quieren una aplicacion que sea facil de usar y que funcione correctamente |
+| Metrica                | Se crearan funcionalidades que sean amigables para los usuarios                                                                                                                                                     |
+
 #### 1.2.2.4. Lean UX Canvas.
 (imagen con texto)
 ## 1.3. Segmentos objetivo.
