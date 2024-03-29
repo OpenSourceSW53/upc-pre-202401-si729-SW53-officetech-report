@@ -357,12 +357,36 @@ Descripcion de los elementos que se utilizaran en el web app
 ![Miscellaneos preview web](image.jpg)
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
-Descripcion corta respecto a los sistemas de organizacion que usaremos  (Escoger)
-"Hierarchical. This structures advices to present the content in a way to distinguish the level of importance by making use of physical differences, such as size, colour, contrast, alignment etc.
+## 4.2.1. Organization System
 
-Sequential. Guide users to follow a specific path towards their goal and provide content step-by-step based on the current step. 
+Para la organización visual utilizaremos la organización jerárquica para la aplicación y la
+organización secuencial para el proceso de solicitud de servicios técnicos:
 
-Matrix. You can always give the users the option to choose the type of navigation they prefer, i.e. Alphabetical, Chronological, by topic."
+## Organización jerárquica:
+- Inicio:
+  - Top: Barra de navegación que contiene: Inicio, Mi perfil, Cerrar sesión.
+  - Lado lateral: Menú con opciones para las secciones secundarias de la aplicación.
+  - Cuerpo de la página que contiene la opción de solicitar/proveer servicios técnicos y toda la información relacionada a ello.
+
+## Organización secuencial:
+- Solicitud de servicios para las empresas clientes:
+  1. Solicitud de servicio.
+  2. Elección del tipo de servicio.
+  3. Elección del equipo electrónico con el que se requiera asistencia.
+  4. Descripción del problema.
+  5. Búsqueda de técnico experto.
+  6. Asistencia técnica.
+  7. Calificación del técnico.
+- Solicitud de servicios para los técnicos afiliados:
+  1. Llegada de solicitud de servicio.
+  2. Aceptar/Rechazar solicitud (En caso de rechazar la solicitud el proceso termina en este punto).
+
+Para los esquemas de organización utilizaremos los siguientes tipos:
+
+- Organización por orden cronológico para el historial de servicios y las reseñas de los técnicos.
+- Organización por segmentos (uso/tipo) para la sección de “Mis equipos” de las empresas clientes.
+- Organización por orden alfabético para la sección de “Mis clientes” de los técnicos afiliados y para la sección de “Mis equipos” de las empresas clientes (los segmentos estarán ordenados por orden alfabético).
+
 ### 4.2.2. Labeling Systems.
 La aplicación web contará con un sistema de etiquetado simple y sencillo para captar el rápido entendimiento del usuario, evitando confusiones y facilitando la navegación.
 Las siguientes etiquetas serán utilizadas para ambos contextos de los segmentos objetivos.
