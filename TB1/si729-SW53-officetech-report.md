@@ -350,13 +350,16 @@ En el siguiente cuadro está la paleta de colores que se usará tanto en la Land
 | #000000 | Negro: Seguridad, seriedad               |
 | #FFFFFF | Blanco: Contraste                        |
 
-**Color:** (Descripcion de los colores escogidos y porque)  
 <img src="../assets/Style Guidelines/General Style Guidelines.png" alt="General Style Guidelines" style="width:80%; height:80%;">
 
-**Tipografia:** (Descripcion de la tipografia escogida para el proyecto y porque)
-![Tipografias generales](image.jpg)
+### TYPOGRAPHY
+La fuente que se utilizará para el texto, título y demás objetos para la aplicación móvil es "Roboto" y sus derivados de este. El diseñador **Christian Robertson** es la persona que desarrolló esta fuente, con el objetivo de diseñar una fuente moderna y emocional. Por estos motivos, nosotros escogimos utilizar esta fuente para nuestra **Web Application & Landing Page**, ya que buscamos transmitir que nuestra aplicación es moderna y confiable.
+<img src="../assets/Style Guidelines/TYPOGRAPHY.png" alt="TYPOGRAPHY" style="width:80%; height:80%;">
+
+
 **Branding** (Describir logotipo y porque)
 ![Branding general](image.jpg)
+
 ### 4.1.2. Web Style Guidelines.
 Descripcion de los elementos que se utilizaran en el web app
 
@@ -370,6 +373,7 @@ Descripcion de los elementos que se utilizaran en el web app
 ![Icons Preview web](image.jpg)
 **Misc** (Cosas como nav var o slideshows que pensemos usar)
 ![Miscellaneos preview web](image.jpg)
+
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
 
