@@ -393,10 +393,10 @@ Para los esquemas de organización utilizaremos los siguientes tipos:
    - Mi plan
    - Mis equipos
  2. Para los técnicos afiliados:
-1.2▪ Servicios
-▪ Ganancias
-▪ Mis clientes
-▪ Reseñas
+     - Servicios
+     - Ganancias
+     - Mis clientes
+     - Reseñas
 - Organización por categoría para los servicios ofrecidos, permitiendo a los usuarios encontrar rápidamente el tipo de servicio que necesitan.
 - Organización por localización para los técnicos, permitiendo a los clientes encontrar servicios técnicos en su área geográfica específica.
 
