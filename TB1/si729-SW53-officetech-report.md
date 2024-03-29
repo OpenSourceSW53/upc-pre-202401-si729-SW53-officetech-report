@@ -388,12 +388,11 @@ Para los esquemas de organización utilizaremos los siguientes tipos:
 - Organización por segmentos (uso/tipo) para la sección de “Mis equipos” de las empresas clientes.
 - Organización por orden alfabético para la sección de “Mis clientes” de los técnicos afiliados y para la sección de “Mis equipos” de las empresas clientes (los segmentos estarán ordenados por orden alfabético y también se seguirá esta organización dentro de cada segmento).
 - Organización por audiencia:
-        • Lado lateral:
-                • Para las empresas clientes:
-                        ▪ Servicios
-                        ▪ Mi plan
-                        ▪ Mis equipos
-                • Para los técnicos afiliados:
+        1. Para las empresas clientes:
+                        1.2. Servicios
+                        1.3. Mi plan
+                        1.4. Mis equipos
+        2. Para los técnicos afiliados:
                         ▪ Servicios
                         ▪ Ganancias
                         ▪ Mis clientes
