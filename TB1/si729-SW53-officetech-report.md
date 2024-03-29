@@ -43,14 +43,14 @@ Además, utilizamos una variedad de métodos innovadores para resolver los probl
 - **Misión:** Nuestra misión es garantizar una experiencia óptima y agradable al usar la aplicación, garantizando la seguridad, confianza y preferencia del cliente.
 - **Visión:** Nos esforzamos por penetrar, establecernos y diferenciarnos en el mercado de soporte tecnológico dedicado, ganarnos la confianza del cliente y asegurar una posición sólida en el sector.
 #### 1.1.2. Perfiles de integrantes del equipo
-|Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
-|-|-|-|-| 
-|Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%;">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
-|Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
-|Ramirez Contreras, Zaid Valentino <img src="../assets/members-profile/Zado.png" alt="Imagen del compañer" style="width:60%">|U202218472|Ingenieria de software|C++, python, HTML5, CSS3, Javascript, SQL|
-|Herrera Aguirre, Fabia Alejandra <img src="../assets/members-profile/pelufoto.png" alt="Imagen del compañero" style="width:60%">|U202219422|Ingenieria de software|C++, Python, SQL, creativa, responsable|
-|Ramirez Ramirez , Marcelo Sebstian <img src="../assets/members-profile/ramirez.jpeg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
-|Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
+| Miembros del equipo                                                                                                                | Codigo Estudiante | Carrera | Conocimientos / Habilidades              |
+|------------------------------------------------------------------------------------------------------------------------------------|-------------------|-|------------------------------------------| 
+| Jara Benites, Quique Vladimir <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%;"> | U202022365        |Ingenieria de software| C++, Python, C#, perseverante y creativo |
+| Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%"> | U202212096        |Ingenieria de software| C++, Python, persistente y amigable      |
+| Ramirez Contreras, Zaid Valentino <img src="../assets/members-profile/Zado.png" alt="Imagen del compañer" style="width:60%">       | U202218472        |Ingenieria de software| C++, python, HTML5, CSS3, Javascript, SQL |
+| Herrera Aguirre, Fabia Alejandra <img src="../assets/members-profile/pelufoto.png" alt="Imagen del compañero" style="width:60%">   | U202219422        |Ingenieria de software| C++, Python, SQL, creativa, responsable  |
+| Ramirez Ramirez , Marcelo Sebstian <img src="../assets/members-profile/ramirez.jpeg" alt="Imagen del compañero" style="width:60%"> | U202212096        |Ingenieria de software| C++, Python, persistente y amigable      |
+| Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%"> | U202212096        |Ingenieria de software| C++, Python, persistente y amigable      |
 <!--cambien la url e info, se agrego estilos para evitar errores en las dimensiones -->
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
@@ -85,9 +85,37 @@ Los profesionales en tecnología enfrentan desafíos para atraer nuevos clientes
 
 Hemos identificado la necesidad de un intermediario que pueda comunicar el desempeño laboral de los técnicos a sus clientes para aumentar su base de clientes.
 #### 1.2.2.2. Lean UX Assumptions.
-|Business Assumptions|User Assumptions|
-|-|-|
-|1. - 12. |1. - 6.|
+**Business Assumptions**
+- Creemos que nuestros clientes necesitan una aplicacion que les facilite buscar un trabajador capacitado que se encargue adecuadamente de los equipos electronicos.
+- El trabajador recibe una notificacion cuando alguien requiere un servicio.
+- Mis clientes son capaces de utilizar plataformas moviles
+- El cliente es atendido en brevedad
+- El cliente puede contactar con los tecnicos mediante una llamada telefonica
+- Nuestros clientes inicales son contactados por medio de redes sociales, mientras que las empresas por reuniones pactadas.
+- Generamos ingresos mediante suscripciones con las empresas por garantia.
+- Nuestra principal competecia son las aplicaiones web que funcionan como intermediarios entre trabajadores y clientes
+- Ganaremos a la competencia al contar con la supervicion del rendimiento que dan los tecnicos
+- Nuestro mayor riesgo es que los clientes busquen un tecnico por su cuenta
+
+**User Assumptions**
+- ¿Quién es el usuario?
+  <br/>Las empresas que solicitan servicio tecnico mediante nuestra aplicacion
+- ¿Dónde encaja nuestro producto en su trabajo
+  <br/>En cualquier momento que tenga dificultad con su equipo y quiera una solucion rapida
+- ¿Qué problemas tiene nuestro producto? ¿Resolver?
+  <br/>El algoritmo para que todos las personas que brindan servicio tecnico puedan generar ingresos. Se podria resolver a traves de filtros y comentarios
+- ¿Cuándo y cómo es nuestro producto? ¿Usado?
+  <br/>El producto es utilizado cuando se tiene una necesidad o deseo de reparar algún equipo
+  electrónico para que no le interrumpa su trabajo. Asimismo, establecer comunicaciones
+  con las personas que puedan brindar el servicio. Por otro lado, el producto debe verse
+  confiable y formal para brindarle seguridad al cliente
+- ¿Qué características son importantes?
+  <br/>La comunicacion sencilla entre cliente y trabajador. Asimisnmo, el acceso a una gran variedad de tecnicos
+- ¿Cómo debe verse y comportarse nuestro producto?
+  <br/>Nuestro producto debe verse confiable y funcional diariamente. Este debe comportarse
+  de forma amigable con una funcionalidad ágil, para que los usuarios no tengan
+  problemas para usarlo
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 Texto
 #### 1.2.2.4. Lean UX Canvas.
