@@ -362,8 +362,16 @@ Se definió usar un espaciado alto entre cada objeto, ya que con esto buscamos n
 
 <img src="../assets/Style Guidelines/SPACING.png" alt="SPACING" style="width:60%; height:60%;">
 
-**Branding** (Describir logotipo y porque)
-![Branding general](image.jpg)
+### BRANDING  
+
+<img src="../assets/Style Guidelines/LOGO.png" alt="LOGO" style="width:60%; height:60%;">
+
+Escogí este diseño para el logo de "OfficeTech" porque encapsula una estética moderna y tecnológica que representa bien una compañía especializada en soluciones tecnológicas para oficinas. Los elementos gráficos incluyen iconos que sugieren tecnología, eficiencia y trabajo de oficina, como un documento, un engranaje y una pantalla, todos elementos que uno podría asociar con servicios de tecnología y soporte de oficina.
+
+El color azul oscuro es profesional y transmite confiabilidad y conocimiento técnico, mientras que los detalles en blanco y tonos más claros de azul agregan contraste y visibilidad. Además, el diseño es lo suficientemente simple y distintivo para ser reconocible a pequeñas escalas, lo cual es vital para diferentes aplicaciones, ya sea en línea, en impresiones o en mercancía.
+
+La tipografía es clara y directa, facilitando la lectura y el reconocimiento de la marca. La composición general del logo es equilibrada y simétrica, lo cual es agradable a la vista y comunica estabilidad y precisión, cualidades deseables para una empresa de tecnología.
+
 
 ### 4.1.2. Web Style Guidelines.
 Descripcion de los elementos que se utilizaran en el web app
