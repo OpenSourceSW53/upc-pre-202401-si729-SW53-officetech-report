@@ -152,15 +152,10 @@ Hemos identificado la necesidad de un intermediario que pueda comunicar el desem
 
 ## 1.3. Segmentos objetivo.
 **Segmento 1**
-<br>Clientes: Empresas, organizaciones, tiendas o vendedores independientes de aparatos electrónicos, tecnológicos o electrodomésticos, que necesit an de
-un servicio confiable, seguro y eficaz de soporte técnico para cubrir las
-garantías de sus productos vendidos.
+<br>Clientes: Empresas, organizaciones, tiendas o vendedores independientes de aparatos electrónicos, tecnológicos o electrodomésticos, que necesit an de un servicio confiable, seguro y eficaz de soporte técnico para cubrir las garantías de sus productos vendidos.
 
-**Segmento 2**
-<br>Técnicos especializados en el servicio de reparación de distintos artefactos
-electrónicos, tecnológicos o electrodomésticos. Además, que gusten
-afiliarse en la aplicación para aumentar su alcance laboral y tener más
-opciones de trabajo
+**Segmento 2** 
+<br>Técnicos especializados en el servicio de reparación de distintos artefactos electrónicos, tecnológicos o electrodomésticos. Además, que gusten afiliarse en la aplicación para aumentar su alcance laboral y tener más opciones de trabajo
 ---
 
 # Capítulo II: Requirements Elicitation & Analysis
