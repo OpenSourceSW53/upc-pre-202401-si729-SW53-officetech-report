@@ -352,17 +352,17 @@ En el siguiente cuadro está la paleta de colores que se usará tanto en la Land
 
 <img src="../assets/Style Guidelines/COLOR.png" alt="COLOR" style="width:80%; height:80%;">
 
-### TYPOGRAPHY
+#### TYPOGRAPHY
 La fuente que se utilizará para el texto, título y demás objetos para la aplicación móvil es "Roboto" y sus derivados de este. El diseñador **Christian Robertson** es la persona que desarrolló esta fuente, con el objetivo de diseñar una fuente moderna y emocional. Por estos motivos, nosotros escogimos utilizar esta fuente para nuestra **Web Application & Landing Page**, ya que buscamos transmitir que nuestra aplicación es moderna y confiable.
 
 <img src="../assets/Style Guidelines/TYPOGRAPHY.png" alt="TYPOGRAPHY" style="width:60%; height:60%;">
 
-### SPACING
+#### SPACING
 Se definió usar un espaciado alto entre cada objeto, ya que con esto buscamos no saturar la vista del usuario y poder dar una aplicación más legible y amigable de usar.
 
 <img src="../assets/Style Guidelines/SPACING.png" alt="SPACING" style="width:60%; height:60%;">
 
-### BRANDING  
+#### BRANDING  
 
 <img src="../assets/Style Guidelines/LOGO.png" alt="LOGO" style="width:60%; height:60%;">
 
@@ -376,14 +376,54 @@ La tipografía es clara y directa, facilitando la lectura y el reconocimiento de
 ### 4.1.2. Web Style Guidelines.
 Descripcion de los elementos que se utilizaran en el web app
 
+#### Dimensiones
+Para desarrollar tanto el landing page como la aplicación web tendremos en cuenta las dimensiones estándar.
+- **Escritorio:** 1280 px (ancho)
+- **Tablet:** 760 px (ancho)
+- **Celular:** 480 px (ancho)
+
+Las medidas en píxeles del alto son relativas, ya que depende del tamaño y el contenido a mostrar.
+
+#### Navegación
+La navegación a utilizar será implementada con un enfoque minimalista en donde para resaltar la sección actual se usará un color dorado en el nombre de la sección.
+
+<img src="../assets/Web Style Guidelines/NAVIGATION.png" alt="NAVIGATION" style="width:60%; height:60%;">
+
+#### Iconos
+Estos son los iconos que usaremos para el footer del landing page.
+
+<img src="../assets/Web Style Guidelines/ICONS.png" alt="ICONS" style="width:60%; height:60%;">
+
+Estos son los iconos que usaremos para facilitar y decorar la navegación en la aplicación web.
+
+<img src="../assets/Web Style Guidelines/ICONS2.png" alt="ICONS2" style="width:60%; height:60%;">
+
+#### Formularios
+Utilizaremos este diseño para lo que son los formularios y sus campos. También consideraremos sus posibles estados: deshabilitado, errado o correcto.
+
+<img src="../assets/Web Style Guidelines/FORMS.png" alt="FORMS" style="width:60%; height:60%;">
+
+#### Avisos
+Utilizaremos este diseño para lo que son los avisos.
+
+<img src="../assets/Web Style Guidelines/ADVERTISEMENTS.png" alt="ADVERTISEMENTS" style="width:60%; height:60%;">
+
+- **Amarillo:** El diseño de color de fondo amarillo se usará para advertirle de algún detalle al usuario.
+- **Rojo:** El diseño de color de fondo rojo se usará para notificarle al usuario de algún error que está cometiendo.
+- **Gris:** El diseño de color de fondo gris se usará cuando requiramos de la decisión inmediata del usuario con respecto a alguna funcionalidad. Por ejemplo, cuando queremos consultar si es que el usuario acepta que utilicemos las cookies.
+
+En todos estos mensajes de aviso le daremos la oportunidad al usuario a que pueda realizar algo. En este caso, dar click al botón indicado para recibir más información del evento.
+
+#### Checkboxes, radio buttons, switch
+Utilizaremos este diseño para todos los checkboxes, radio buttons o switches, ya que es un diseño bastante interactivo y agradable a la vista.
+
+<img src="../assets/Web Style Guidelines/Checkboxes, radio buttons, switch.png" alt="Checkboxes, radio buttons, switch" style="width:60%; height:60%;">
+
 **Background:** (primary, secondary, terniary)  
 ![Background Preview web](image.jpg)
 **Text Styles:** (H1, H2, p, a,)  
 ![Text Style Preview web](image.jpg)
-**Button Styles:** (Button, dropdowns, Switches)
-![Button Preview web](image.jpg)
-**Icons:** (Fondo blanco con los iconos que vamos a usar)
-![Icons Preview web](image.jpg)
+
 **Misc** (Cosas como nav var o slideshows que pensemos usar)
 ![Miscellaneos preview web](image.jpg)
 
