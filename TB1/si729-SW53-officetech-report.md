@@ -336,7 +336,7 @@ Ocupación: _____
 Descripcion del porque estos elementos seran importantes
 
 **Color:** (Descripcion de los colores escogidos y porque)  
-![Colores generales](image.jpg)
+<img src="../assets/Style Guidelines/General Style Guidelines.png" alt="General Style Guidelines" style="width:100%;">
 
 **Tipografia:** (Descripcion de la tipografia escogida para el proyecto y porque)
 ![Tipografias generales](image.jpg)
@@ -388,7 +388,7 @@ Para los esquemas de organización utilizaremos los siguientes tipos:
 - Organización por segmentos (uso/tipo) para la sección de “Mis equipos” de las empresas clientes.
 - Organización por orden alfabético para la sección de “Mis clientes” de los técnicos afiliados y para la sección de “Mis equipos” de las empresas clientes (los segmentos estarán ordenados por orden alfabético y también se seguirá esta organización dentro de cada segmento).
 - Organización por audiencia:
-- Lado lateral:
+  - Lado lateral:
  1. Para las empresas clientes:
      - Servicios
      - Mi plan
@@ -398,9 +398,9 @@ Para los esquemas de organización utilizaremos los siguientes tipos:
      - Ganancias
      - Mis clientes
      - Reseñas
-- Cuerpo de la página:
- 1. Para las empresas clientes: Botón de solicitar servicios
- 2. Para los técnicos afiliados: Botón de empezar servicios
+  - Cuerpo de la página:
+   1. Para las empresas clientes: Botón de solicitar servicios
+   2. Para los técnicos afiliados: Botón de empezar servicios
 
 ### 4.2.2. Labeling Systems.
 La aplicación web contará con un sistema de etiquetado simple y sencillo para captar el rápido entendimiento del usuario, evitando confusiones y facilitando la navegación.
