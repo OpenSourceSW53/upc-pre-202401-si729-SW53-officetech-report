@@ -10,7 +10,7 @@
 "Startup"
 OfficeTech
 ### Integrantes:
-- xxx - U202xx
+- Jara Benites, Quique Vladimir - U202022365   
 - Herrera Aguirre, Fabia Alejandra - U202219422
 - Rodriguez Vargas, Arian Martin - U202212096
 - Ramirez Ramirez,Marcelo Sebastian - U202210582
