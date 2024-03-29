@@ -419,13 +419,18 @@ Utilizaremos este diseño para todos los checkboxes, radio buttons o switches, y
 
 <img src="../assets/Web Style Guidelines/Checkboxes, radio buttons, switch.png" alt="Checkboxes, radio buttons, switch" style="width:60%; height:60%;">
 
-**Background:** (primary, secondary, terniary)  
-![Background Preview web](image.jpg)
-**Text Styles:** (H1, H2, p, a,)  
-![Text Style Preview web](image.jpg)
+#### Background
 
-**Misc** (Cosas como nav var o slideshows que pensemos usar)
-![Miscellaneos preview web](image.jpg)
+- **Primary:** El color de fondo principal sería un azul oscuro o un tono neutro para transmitir profesionalismo y centrar la atención en el contenido.
+- **Secondary:** Podría ser un tono más claro de azul o gris para áreas como barras laterales o para destacar secciones.
+- **Tertiary:** Un color complementario o un acento visual más brillante para llamar la atención sobre llamados a la acción o características importantes.
+
+#### Text Styles
+
+- **H1:** Para los encabezados principales, podrías usar una fuente sans-serif audaz y de buen tamaño para llamar la atención.
+- **H2:** Para los subencabezados, una versión ligeramente más pequeña y menos audaz que el H1 para crear jerarquía visual.
+- **p (párrafo):** Una fuente sans-serif legible y de tamaño moderado para la copia del cuerpo.
+- **a (enlace):** Color distintivo, posiblemente el color terciario, con un subrayado sutil para destacar los enlaces.
 
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
