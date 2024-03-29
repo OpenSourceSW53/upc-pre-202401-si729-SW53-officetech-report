@@ -117,7 +117,24 @@ Hemos identificado la necesidad de un intermediario que pueda comunicar el desem
   problemas para usarlo
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
-Texto
+| Assumption priorizado: | 1 (Business Assumptions)                                                                                                                                           |
+|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Hypothesis:            | 1                                                                                                                                                                  |
+| Descripcion:           | Creemos que nuestros clientes podran solucionar el problema de buscar un tecnico con nuetrsa asplicacion<br/>Sabemos que nuestros clientes encontrarán al tecnico  |
+| Metrica                | Crearemos una aplicación para buscar técnicos                                                                                                                      |
+
+| Assumption priorizado: | 4 (Business Assumptions)                                                                                         |
+|------------------------|------------------------------------------------------------------------------------------------------------------|
+| Hypothesis:            | 2                                                                                                                |
+| Descripcion:           | Creemos que nuestros clientes podrán ahorrarse el tiempo de esperar a un técnico para que solucione su problema.<br/>Sabemos que nuestros clientes no podrán esperar mucho tiempo para conseguir un técnico |
+| Metrica                | Las notificaciones de solicitudes de servicio llegarán a los técnicos en cuestión de segundos                    |
+
+| Assumption priorizado: | 5 (Business Assumptions)                                                                                                                                              |
+|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Hypothesis:            | 3                                                                                                                                                                     |
+| Descripcion:           | Creemos que nuestros clientes se podran comunicar con los tecnicos por medio de via telefonica<br/>Sabemos que los clientes van a querer comunicarse con los tecnicos |
+| Metrica                | El numero de celular del tecnico aparecera en la informacion de su perfil                                                                                             |
+
 #### 1.2.2.4. Lean UX Canvas.
 (imagen con texto)
 ## 1.3. Segmentos objetivo.
