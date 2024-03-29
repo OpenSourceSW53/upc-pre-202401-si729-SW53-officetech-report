@@ -333,10 +333,25 @@ Ocupación: _____
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
-Descripcion del porque estos elementos seran importantes
+
+
+#### LENGUAJE
+El lenguaje que tratamos de expresar en nuestra aplicación es un lenguaje **Formal/Casual**. **Formal**, para transmitir confianza al usuario de que nuestra aplicación le ayudará a resolver su necesidad, y **Casual**, ya que tenemos como meta que el usuario lo use en su día a día, dándole un entorno casual a la aplicación, el usuario no se saturará de usarla frecuentemente.
+
+#### COLOR
+En el siguiente cuadro está la paleta de colores que se usará tanto en la Landing Page como para la Web Application. Escogimos el color `#011530` que es una variedad de azul oscuro para dar una identidad de confianza y elegancia, ya que nuestra aplicación tiene que dar ese aspecto para que nuestros usuarios se sientan seguros y cómodos con su uso. También optamos por el color `#D6A049`, un color asociado a la abundancia, la prosperidad y el bienestar. Luego, usamos el color `#000000` para transmitir seguridad y dar un carácter serio a la aplicación móvil. Por último, el color `#FFFFFF` lo usamos para proporcionar contraste con los demás colores.
+
+#### Tabla de la paleta de colores para la implementación del Landing page y Web Application de Hostly
+
+| Color   | Descripción                              |
+|---------|------------------------------------------|
+| #011530 | Azul oscuro: Confianza y elegancia       |
+| #D6A049 | Dorado: Abundancia, prosperidad, bienestar |
+| #000000 | Negro: Seguridad, seriedad               |
+| #FFFFFF | Blanco: Contraste                        |
 
 **Color:** (Descripcion de los colores escogidos y porque)  
-<img src="../assets/Style Guidelines/General Style Guidelines.png" alt="General Style Guidelines" style="width:80%;">
+<img src="../assets/Style Guidelines/General Style Guidelines.png" alt="General Style Guidelines" style="width:80%; height:80%;">
 
 **Tipografia:** (Descripcion de la tipografia escogida para el proyecto y porque)
 ![Tipografias generales](image.jpg)
