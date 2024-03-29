@@ -148,7 +148,8 @@ Hemos identificado la necesidad de un intermediario que pueda comunicar el desem
 | Metrica                | Se crearan funcionalidades que sean amigables para los usuarios                                                                                                                                                     |
 
 #### 1.2.2.4. Lean UX Canvas.
-(imagen con texto)
+<img src="../assets/Lean-UX/Lean-UXCanvas.png" alt="Lean UX Canvas UXPRESSIA" style="width:100%;">
+
 ## 1.3. Segmentos objetivo.
 | | Segmento 1 | Segmento 2  |
 | - | - |-|
