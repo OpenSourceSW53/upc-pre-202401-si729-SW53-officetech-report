@@ -357,7 +357,6 @@ Descripcion de los elementos que se utilizaran en el web app
 ![Miscellaneos preview web](image.jpg)
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
-## 4.2.1. Organization System
 
 Para la organización visual utilizaremos la organización jerárquica para la aplicación y la
 organización secuencial para el proceso de solicitud de servicios técnicos:
@@ -380,12 +379,28 @@ organización secuencial para el proceso de solicitud de servicios técnicos:
 - Solicitud de servicios para los técnicos afiliados:
   1. Llegada de solicitud de servicio.
   2. Aceptar/Rechazar solicitud (En caso de rechazar la solicitud el proceso termina en este punto).
+  3. Asistencia técnica
+  4. Calificación del cliente
 
 Para los esquemas de organización utilizaremos los siguientes tipos:
 
 - Organización por orden cronológico para el historial de servicios y las reseñas de los técnicos.
 - Organización por segmentos (uso/tipo) para la sección de “Mis equipos” de las empresas clientes.
-- Organización por orden alfabético para la sección de “Mis clientes” de los técnicos afiliados y para la sección de “Mis equipos” de las empresas clientes (los segmentos estarán ordenados por orden alfabético).
+- Organización por orden alfabético para la sección de “Mis clientes” de los técnicos afiliados y para la sección de “Mis equipos” de las empresas clientes (los segmentos estarán ordenados por orden alfabético y también se seguirá esta organización dentro de cada segmento).
+- Organización por audiencia:
+        • Lado lateral:
+                • Para las empresas clientes:
+                        ▪ Servicios
+                        ▪ Mi plan
+                        ▪ Mis equipos
+                • Para los técnicos afiliados:
+                        ▪ Servicios
+                        ▪ Ganancias
+                        ▪ Mis clientes
+                        ▪ Reseñas
+- Organización por categoría para los servicios ofrecidos, permitiendo a los usuarios encontrar rápidamente el tipo de servicio que necesitan.
+- Organización por localización para los técnicos, permitiendo a los clientes encontrar servicios técnicos en su área geográfica específica.
+
 
 ### 4.2.2. Labeling Systems.
 La aplicación web contará con un sistema de etiquetado simple y sencillo para captar el rápido entendimiento del usuario, evitando confusiones y facilitando la navegación.
