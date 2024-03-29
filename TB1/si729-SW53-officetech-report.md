@@ -438,13 +438,13 @@ Utilizaremos este diseño para todos los checkboxes, radio buttons o switches, y
 Para la organización visual utilizaremos la organización jerárquica para la aplicación y la
 organización secuencial para el proceso de solicitud de servicios técnicos:
 
-## Organización jerárquica:
+#### Organización jerárquica:
 - Inicio:
   - Top: Barra de navegación que contiene: Inicio, Mi perfil, Cerrar sesión.
   - Lado lateral: Menú con opciones para las secciones secundarias de la aplicación.
   - Cuerpo de la página que contiene la opción de solicitar/proveer servicios técnicos y toda la información relacionada a ello.
 
-## Organización secuencial:
+#### Organización secuencial:
 - Solicitud de servicios para las empresas clientes:
      - Solicitud de servicio.
      - Elección del tipo de servicio.
