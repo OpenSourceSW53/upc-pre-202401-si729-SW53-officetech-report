@@ -350,11 +350,12 @@ En el siguiente cuadro está la paleta de colores que se usará tanto en la Land
 | #000000 | Negro: Seguridad, seriedad               |
 | #FFFFFF | Blanco: Contraste                        |
 
-<img src="../assets/Style Guidelines/General Style Guidelines.png" alt="General Style Guidelines" style="width:80%; height:80%;">
+<img src="../assets/Style Guidelines/COLOR.png" alt="COLOR" style="width:80%; height:80%;">
 
 ### TYPOGRAPHY
 La fuente que se utilizará para el texto, título y demás objetos para la aplicación móvil es "Roboto" y sus derivados de este. El diseñador **Christian Robertson** es la persona que desarrolló esta fuente, con el objetivo de diseñar una fuente moderna y emocional. Por estos motivos, nosotros escogimos utilizar esta fuente para nuestra **Web Application & Landing Page**, ya que buscamos transmitir que nuestra aplicación es moderna y confiable.
-<img src="../assets/Style Guidelines/TYPOGRAPHY.png" alt="TYPOGRAPHY" style="width:80%; height:80%;">
+
+<img src="../assets/Style Guidelines/TYPOGRAPHY.png" alt="TYPOGRAPHY" style="width:60%; height:60%;">
 
 
 **Branding** (Describir logotipo y porque)
