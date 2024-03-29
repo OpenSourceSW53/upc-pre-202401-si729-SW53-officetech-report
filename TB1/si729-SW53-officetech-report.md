@@ -357,6 +357,10 @@ La fuente que se utilizará para el texto, título y demás objetos para la apli
 
 <img src="../assets/Style Guidelines/TYPOGRAPHY.png" alt="TYPOGRAPHY" style="width:60%; height:60%;">
 
+### SPACING
+Se definió usar un espaciado alto entre cada objeto, ya que con esto buscamos no saturar la vista del usuario y poder dar una aplicación más legible y amigable de usar.
+
+<img src="../assets/Style Guidelines/SPACING.png" alt="SPACING" style="width:60%; height:60%;">
 
 **Branding** (Describir logotipo y porque)
 ![Branding general](image.jpg)
