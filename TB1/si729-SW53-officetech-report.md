@@ -15,7 +15,7 @@ OfficeTech
 - Rodriguez Vargas, Arian Martin - U202212096
 - Ramirez Ramirez,Marcelo Sebastian - U202210582
 - Ramirez Conteras, Zaid Valentino - U202218472 
-- xxa - U2022xxx 
+- Rubio Calixto, Adrian Gustavo - U202017622 
 
 ---
 # Registro de Versiones del Informe
@@ -205,27 +205,27 @@ Ocupación: _____
 | Conoce de todos los temas para reparar y dar soporte | <span style="color:#90D26D; font-weight:bold">SI</span> | <span style="color:#90D26D; font-weight:bold">SI</span>        | <span style="color:#FFC700; font-weight:bold">POCO</span>         | <span style="color:#90D26D; font-weight:bold">SI</span>       | 
 | Le gusta brindar soporte técnico | <span style="color:#90D26D; font-weight:bold">SI</span> | <span style="color:#90D26D; font-weight:bold">SI</span>        | <span style="color:#90D26D; font-weight:bold">SI</span>         | <span style="color:#90D26D; font-weight:bold">SI</span>       |
 ### 2.3.3. User Journey Mapping.
-**Cliente**
+**Cliente:**
 
 <img src="../assets/Customers-journeys-maps/Customer journey map Client.png" alt="Customer journey map Client" style="width:100%;">
 
-**Técnico**  
+**Técnico:**  
 
 <img src="../assets/Customers-journeys-maps/Customer journey map Technician.png" alt="Customer journey map Technician" style="width:100%;">
 
 ### 2.3.4. Empathy Mapping.
-**Cliente**
+**Cliente:**
 
 <img src="../assets/Empathy-maps/Empathy map Client.png" alt="Empathy map Technician" style="width:100%;">
 
-**Técnico**  
+**Técnico:**  
 
 <img src="../assets/Empathy-maps/Empathy map Technician.png" alt="Empathy map Technician" style="width:100%;">
 
 
 ### 2.3.5. As-is Scenario Mapping.
 
-**Cliente**  
+**Cliente:**  
 
 
 | **Phases**    | Busco Servicio Técnico| Contacto con la persona que me hara el servicio | Contrato y pago el producto | Recibo mi producto reparado |
@@ -234,7 +234,7 @@ Ocupación: _____
 | **Thinking** | -Espero poder encontrar un buen técnico. <br> -Pienso que ojalá el servicio no cueste mucho dinero. | Pienso que ojalá el servicio no cueste mucho dinero. | -Si realizo un buen trabajo, el costo valdrá la pena. <br> -Espero que no sea una estafa. | -Pienso que se hizo un buen trabajo. <br> -Espero que no presente más fallas. |
 | **Feeling**  | -Siento estresado porque debo pasar mucho tiempo buscando soporte confiable por internet. | -Angustia porque no conozco a la persona y necesito que repare mi producto. | -Temor por ser estafado, ya que soy un vendedor nuevo. <br> -Esperanza porque el trabajo sea correcto. | -Alegre, ya que resolvieron mi problema. <br> -Felicidad porque todo salió bien. |
 
-**Técnico**  
+**Técnico:**  
             
 
 | **Phase**     | Busca un cliente con problemas | Analiza el producto a realizar el servicio | Realizo el presupuesto | Realiza el servicio lo mejor posible |
