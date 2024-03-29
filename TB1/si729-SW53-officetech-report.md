@@ -369,18 +369,18 @@ organización secuencial para el proceso de solicitud de servicios técnicos:
 
 ## Organización secuencial:
 - Solicitud de servicios para las empresas clientes:
-  1. Solicitud de servicio.
-  2. Elección del tipo de servicio.
-  3. Elección del equipo electrónico con el que se requiera asistencia.
-  4. Descripción del problema.
-  5. Búsqueda de técnico experto.
-  6. Asistencia técnica.
-  7. Calificación del técnico.
+   1. Solicitud de servicio.
+   2. Elección del tipo de servicio.
+   3. Elección del equipo electrónico con el que se requiera asistencia.
+   4. Descripción del problema.
+   5. Búsqueda de técnico experto.
+   6. Asistencia técnica.
+   7. Calificación del técnico.
 - Solicitud de servicios para los técnicos afiliados:
-  1. Llegada de solicitud de servicio.
-  2. Aceptar/Rechazar solicitud (En caso de rechazar la solicitud el proceso termina en este punto).
-  3. Asistencia técnica
-  4. Calificación del cliente
+   1. Llegada de solicitud de servicio.
+   2. Aceptar/Rechazar solicitud (En caso de rechazar la solicitud el proceso termina en este punto).
+   3. Asistencia técnica
+   4. Calificación del cliente
 
 Para los esquemas de organización utilizaremos los siguientes tipos:
 
