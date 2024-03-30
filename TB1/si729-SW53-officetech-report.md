@@ -1,14 +1,13 @@
----
+<p align="center">
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <strong>INGENIERÍA DE SISTEMAS DE SOFTWARE</strong><br>
+    <strong> SI729 - Desarrollo de Aplicacion Open Source SW53</strong><br>
+    <strong>Profesor: Elio Jefferrson Navarrete Vilca </strong><br>
+    <br>INFORME <br>
+    "TechConnect Solutions" | "OfficeTech"
+</p>
 
----
----
-# UPC
-# INGENIERÍA DE SISTEMAS DE SOFTWARE
-## CURSO: SI729 Desarrollo de Aplicaciones Open Source | SECCIÓN SW53
- Profesor: Ellio Jefferrson Navarrete Vilca
-# Informe de TB1
-"Startup"
-OfficeTech
 ### Integrantes:
 - Jara Benites, Quique Vladimir - U202022365   
 - Herrera Aguirre, Fabia Alejandra - U202219422
@@ -21,7 +20,12 @@ OfficeTech
 # Registro de Versiones del Informe
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
-| 0.0 | 24/03/2024 |Grupo 3 |Se crea el documento |
+| 0.0 | 24/03/2024 | Grupo 3 | Se crea el documento |
+| 1.0 | 24/03/2024 | Grupo 3 | Se crean las ramas correspondientes |
+| 1.1 | 25/03/2024 | Grupo 3 | Capitulo I |
+| 1.1 | 25/03/2024 | Grupo 3 | Capitulo II |
+| 1.1 | 27/03/2024 | Grupo 3 | Capitulo III |
+| 1.1 | 29/03/2024 | Grupo 3 | Capitulo IV |
 
 # Project Report Collaboration Insights
 [URL del repositorio](https://github.com/OpenSourceSW53/-upc-pre-202401-si729-SW53-officetech-report.git)
@@ -29,11 +33,11 @@ OfficeTech
 (Imagenes de los commits cada entrega)
 
 
-# Student Outcome
+# Student Outcome 3
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-|-|-|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Compañero1:<br> *TB1:*  Su texto *TB2:* texto etc.. |Su texto de conclusion|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Compañero1:<br> *TB1:*  Su texto<br> *TB2:* texto etc.. |Su texto de conclusion|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|Compañero1:<br> *TB1:*  Su texto *TB2:* texto etc.. |Su texto de conclusion|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería..|Compañero1:<br> *TB1:*  Su texto<br> *TB2:* texto etc.. |Su texto de conclusion|
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
@@ -45,12 +49,12 @@ Además, utilizamos una variedad de métodos innovadores para resolver los probl
 #### 1.1.2. Perfiles de integrantes del equipo
 | Miembros del equipo                                                                                                                    | Codigo Estudiante | Carrera | Conocimientos / Habilidades              |
 |----------------------------------------------------------------------------------------------------------------------------------------|-------------------|-|------------------------------------------| 
-| Jara Benites, Quique Vladimir <br><img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%;"> | U202022365        |Ingenieria de software| C++, Python, C#, perseverante y creativo |
+| Jara Benites, Quique Vladimir <br><img src="https://avatars.githubusercontent.com/u/89040472?v=4" alt="Imagen del compañero" style="width:60%;"> | U202022365        |Ingenieria de software| C++, Python, C#, perseverante y creativo |
 | Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">     | U202212096        |Ingenieria de software| C++, Python, persistente y amigable      |
 | Ramirez Contreras, Zaid Valentino <img src="../assets/members-profile/Zado.png" alt="Imagen del compañer" style="width:60%">           | U202218472        |Ingenieria de software| C++, python, HTML5, CSS3, Javascript, SQL |
 | Herrera Aguirre, Fabia Alejandra <img src="../assets/members-profile/pelufoto.png" alt="Imagen del compañero" style="width:60%">       | U202219422        |Ingenieria de software| C++, Python, SQL, creativa, responsable  |
-| Ramirez Ramirez , Marcelo Sebstian <img src="../assets/members-profile/ramirez.jpeg" alt="Imagen del compañero" style="width:60%">     | U202212096        |Ingenieria de software| C++, Python, persistente y amigable      |
-| Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">     | U202212096        |Ingenieria de software| C++, Python, persistente y amigable      |
+| Ramirez Ramirez , Marcelo Sebstian <img src="../assets/members-profile/ramirez.jpeg" alt="Imagen del compañero" style="width:60%">     | Uxxxx        |Ingenieria de software| xxxxx      |
+| Rubio Adrián <img src="https://avatars.githubusercontent.com/u/89089678?v=4" alt="Imagen del compañero" style="width:60%">     | Uxxxxx        |Ingenieria de software| xxxxxxxx      |
 <!--cambien la url e info, se agrego estilos para evitar errores en las dimensiones -->
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
@@ -155,9 +159,9 @@ Hemos identificado la necesidad de un intermediario que pueda comunicar el desem
 <br>Clientes: Empresas, organizaciones, tiendas o vendedores independientes de aparatos electrónicos, tecnológicos o electrodomésticos, que necesit an de un servicio confiable, seguro y eficaz de soporte técnico para cubrir las garantías de sus productos vendidos.
 
 **Segmento 2** 
-<br>Técnicos especializados en el servicio de reparación de distintos artefactos electrónicos, tecnológicos o electrodomésticos. Además, que gusten afiliarse en la aplicación para aumentar su alcance laboral y tener más opciones de trabajo
----
+Técnicos especializados en el servicio de reparación de distintos artefactos electrónicos, tecnológicos o electrodomésticos. Además, que gusten afiliarse en la aplicación para aumentar su alcance laboral y tener más opciones de trabajo
 
+---
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores.
 ### 2.1.1. Análisis competitivo.
@@ -361,7 +365,7 @@ Ocupación: _____
 
 ## 3.3. Impact Mapping.
 
-<img src="../assets/impact map.png" alt="Imagen del compañero" style="width:80%;">
+<img src="../assets/impact map.png" alt="Imagen del compañero" style="width:100%;">
 
 
 ## 3.4. Product Backlog.
@@ -384,6 +388,7 @@ Ocupación: _____
 | 14 | HU14 | Ofertas y promociones personalizadas | "Como usuario, quiero recibir ofertas y promociones personalizadas, para aprovechar descuentos en servicios que me interesan." | 3 |
 | 15 | HU15 | Informes de uso de servicios    | "Como usuario, deseo recibir informes detallados sobre mi uso de servicios en la plataforma, para optimizar mi selección y gastos en servicios futuros." | 5 |
 
+---
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
@@ -421,7 +426,7 @@ Se definió usar un espaciado alto entre cada objeto, ya que con esto buscamos n
 
 <img src="../assets/Style Guidelines/LOGO.png" alt="LOGO" style="width:60%; height:60%;">
 
-Escogí este diseño para el logo de "OfficeTech" porque encapsula una estética moderna y tecnológica que representa bien una compañía especializada en soluciones tecnológicas para oficinas. Los elementos gráficos incluyen iconos que sugieren tecnología, eficiencia y trabajo de oficina, como un documento, un engranaje y una pantalla, todos elementos que uno podría asociar con servicios de tecnología y soporte de oficina.
+Se escogió este diseño para el logo de "OfficeTech" porque encapsula una estética moderna y tecnológica que representa bien una compañía especializada en soluciones tecnológicas para oficinas. Los elementos gráficos incluyen iconos que sugieren tecnología, eficiencia y trabajo de oficina, como un documento, un engranaje y una pantalla, todos elementos que uno podría asociar con servicios de tecnología y soporte de oficina.
 
 El color azul oscuro es profesional y transmite confiabilidad y conocimiento técnico, mientras que los detalles en blanco y tonos más claros de azul agregan contraste y visibilidad. Además, el diseño es lo suficientemente simple y distintivo para ser reconocible a pequeñas escalas, lo cual es vital para diferentes aplicaciones, ya sea en línea, en impresiones o en mercancía.
 
@@ -459,7 +464,7 @@ Utilizaremos este diseño para lo que son los formularios y sus campos. También
 <img src="../assets/Web Style Guidelines/FORMS.png" alt="FORMS" style="width:60%; height:60%;">
 
 #### Avisos
-Utilizaremos este diseño para lo que son los avisos.
+Utilizaremos este diseño para los avisos.
 
 <img src="../assets/Web Style Guidelines/ADVERTISEMENTS.png" alt="ADVERTISEMENTS" style="width:60%; height:60%;">
 
@@ -476,13 +481,13 @@ Utilizaremos este diseño para todos los checkboxes, radio buttons o switches, y
 
 #### Background
 
-- **Primary:** El color de fondo principal sería un azul oscuro o un tono neutro para transmitir profesionalismo y centrar la atención en el contenido.
-- **Secondary:** Podría ser un tono más claro de azul o gris para áreas como barras laterales o para destacar secciones.
+- **Primary:** El color de fondo principal será un azul oscuro o un tono neutro para transmitir profesionalismo y centrar la atención en el contenido.
+- **Secondary:** Será un tono más claro de azul o gris para áreas como barras laterales o para destacar secciones.
 - **Tertiary:** Un color complementario o un acento visual más brillante para llamar la atención sobre llamados a la acción o características importantes.
 
 #### Text Styles
 
-- **H1:** Para los encabezados principales, podrías usar una fuente sans-serif audaz y de buen tamaño para llamar la atención.
+- **H1:** Para los encabezados principales, se utilizará una fuente sans-serif audaz y de buen tamaño para llamar la atención.
 - **H2:** Para los subencabezados, una versión ligeramente más pequeña y menos audaz que el H1 para crear jerarquía visual.
 - **p (párrafo):** Una fuente sans-serif legible y de tamaño moderado para la copia del cuerpo.
 - **a (enlace):** Color distintivo, posiblemente el color terciario, con un subrayado sutil para destacar los enlaces.
