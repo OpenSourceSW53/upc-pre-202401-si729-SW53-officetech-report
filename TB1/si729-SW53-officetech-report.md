@@ -47,15 +47,15 @@ Además, utilizamos una variedad de métodos innovadores para resolver los probl
 - **Misión:** Nuestra misión es garantizar una experiencia óptima y agradable al usar la aplicación, garantizando la seguridad, confianza y preferencia del cliente.
 - **Visión:** Nos esforzamos por penetrar, establecernos y diferenciarnos en el mercado de soporte tecnológico dedicado, ganarnos la confianza del cliente y asegurar una posición sólida en el sector.
 #### 1.1.2. Perfiles de integrantes del equipo
-| Miembros del equipo                                                                                                                | Codigo Estudiante | Carrera | Conocimientos / Habilidades              |
-|------------------------------------------------------------------------------------------------------------------------------------|-------------------|-|------------------------------------------| 
-| Jara Benites, Quique Vladimir <br><img src="../assets/members-profile/Dmr.jpg" alt="Imagen del compañero" style="width:60%;">      | U202022365        |Ingenieria de software| C++, Python, C#, perseverante y creativo |
-| Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%"> | U202212096        |Ingenieria de software| C++, Python, persistente y amigable      |
-| Ramirez Contreras, Zaid Valentino <img src="../assets/members-profile/Zado.png" alt="Imagen del compañer" style="width:60%">       | U202218472        |Ingenieria de software| C++, python, HTML5, CSS3, Javascript, SQL |
-| Herrera Aguirre, Fabia Alejandra <img src="../assets/members-profile/pelufoto.png" alt="Imagen del compañero" style="width:60%">   | U202219422        |Ingenieria de software| C++, Python, SQL, creativa, responsable  |
-| Ramirez Ramirez , Marcelo Sebstian <img src="../assets/members-profile/ramirez.jpeg" alt="Imagen del compañero" style="width:60%"> | Uxxxx        |Ingenieria de software| xxxxx      |
-| Rubio Adrián <img src="https://avatars.githubusercontent.com/u/89089678?v=4" alt="Imagen del compañero" style="width:60%">         | Uxxxxx        |Ingenieria de software| xxxxxxxx      |
-<!--cambien la url e info, se agrego estilos para evitar errores en las dimensiones -->
+| Miembros del equipo                                                                                                                    | Codigo Estudiante | Carrera | Conocimientos / Habilidades              |
+|----------------------------------------------------------------------------------------------------------------------------------------|-------------------|-|------------------------------------------| 
+| Jara Benites, Quique Vladimir <br><img src="https://avatars.githubusercontent.com/u/89040472?v=4" alt="Imagen del compañero" style="width:60%;"> | U202022365        |Ingenieria de software| C++, Python, C#, perseverante y creativo |
+| Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">     | U202212096        |Ingenieria de software| C++, Python, persistente y amigable      |
+| Ramirez Contreras, Zaid Valentino <img src="../assets/members-profile/Zado.png" alt="Imagen del compañer" style="width:60%">           | U202218472        |Ingenieria de software| C++, python, HTML5, CSS3, Javascript, SQL |
+| Herrera Aguirre, Fabia Alejandra <img src="../assets/members-profile/pelufoto.png" alt="Imagen del compañero" style="width:60%">       | U202219422        |Ingenieria de software| C++, Python, SQL, creativa, responsable  |
+| Ramirez Ramirez, Marcelo Sebstian <img src="../assets/members-profile/ramirez.jpeg" alt="Imagen del compañero" style="width:60%">     | Uxxxx        |Ingenieria de software| xxxxx      |
+| Rubio Calixto, Adrian Gustavo <img src="https://avatars.githubusercontent.com/u/89089678?v=4" alt="Imagen del compañero" style="width:60%">     | Uxxxxx        |Ingenieria de software| xxxxxxxx      |
+
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
 Nuestra plataforma ofrecerá un servicio de suscripción dirigido a empresas que comercializan productos electrónicos. A través de esta suscripción, las empresas tendrán acceso a un plan que incluye una cantidad específica de garantías mediante servicios técnicos. El objetivo es proporcionar un acceso confiable y seguro a estos servicios para empresas, tiendas o profesionales independientes que los requieran.
@@ -695,7 +695,7 @@ Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributo
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-<img src="../assets/Software-Object/DataBaseDesign.png" alt="Diseño base de datos"> 
+Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, isiyisi 🕸)
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
