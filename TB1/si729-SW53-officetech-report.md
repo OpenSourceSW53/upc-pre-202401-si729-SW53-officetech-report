@@ -638,64 +638,61 @@ Esta yaselasaben (diagrama de clases)
 Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributos(Correo, edad,nombre como valor, ID)
 
 ### 4.7.2. Class Dictionary.
-| N  | Entidad          | Nombre de Atributo |Definicion|Tipo de dato|
-|----|------------------|--------------------|-|-|
-| 1  | SuscriptionType  | subscriptionTypeId |erer|int|
-| 1  | SuscriptionType  | subscriptionType   |erer|int|
-| 2  | Suscription      | subscriptionId     |erer|int|
-| 2  | Suscription      | benefits           |erer|int|
-| 2  | Suscription      | price              |erer|int|
-| 3  | Payment          | paymentId          |erer|int|
-| 3  | payment          | price              |erer|int|
-| 3  | payment          | paymentMethod      |erer|int|
-| 3  | payment          | discount           |erer|int|
-| 4  | PaymentType      | paymentTypeId      |erer|int|
-| 4  | PaymentType      | paymentType        |erer|int|
-| 5  | NotificationType | notificationTypeId |erer|int|
-| 5  | NotificationType | type               |erer|int|
-| 6  | Notification     | notificationId     |erer|int|
-| 6  | Notification     | message            |erer|int|
-| 6  | Notification     | tittle             |erer|int|
-| 6  | Notification     | notificationTypeId |erer|int|
-| 7  | User             | userId             |erer|int|
-| 7  | User             | userName           |erer|int|
-| 8  | Technical        | technicalId        |erer|int|
-| 8  | Technical        | firstName          |erer|int|
-| 8  | Technical        | lastName           |erer|int|
-| 8  | Technical        | description        |erer|int|
-| 8  | Technical        | experience         |erer|int|
-| 8  | Technical        | specialization     |erer|int|
-| 8  | Technical        | age                |erer|int|
-| 8  | Technical        | address            |erer|int|
-| 8  | Technical        | email              |erer|int|
-| 9  | Portfolio        | portofolioId       |erer|int|
-| 9  | Portofolio       | description        |erer|int|
-| 9  | Portofolio       | images             |erer|int|
-| 10 | BusinessCustomer | businessCustomer   |erer|int|
-| 10 | BusinessCustomer | name               |erer|int|
-| 10 | BusinessCustomer | email              |erer|int|
-| 11 | Request          | requestId          |erer|int|
-| 11 | Request          | description        |erer|int|
-| 11 | Request          | productBrand       |erer|int|
-| 11 | Request          | time               |erer|int|
-| 11 | Request          | day                |erer|int|
-| 12 | Status           | statusId           |erer|int|
-| 12 | Status           | statusLabel        |erer|int|
-| 13 | Contract         | contractId         |erer|int|
-| 13 | Contract         | serviceType        |erer|int|
-| 13 | Contract         | customerId         |erer|int|
-| 13 | Contract         | businessId         |erer|int|
-| 14 | Review           | description        |erer|int|
-| 14 | Review           | contractId         |erer|int|
-| 14 | Review           | title              |erer|int|
-| 14 | Review           | customerId         |erer|int|
-| 14 | Review           | reviewId           |erer|int|
-| 15 | Valoration       | starPoints         |erer|int|
-| 15 | Valoration       | reviewId           |erer|int|
-Inherit (ave(superclase) -> (subclase)canario )
-Polymorphism (Ej. funcion de persona hablar() -> Peruano hablar() , Gringo hablar() todos tienen una funcion que contiene persona y van cambiando sus formas)
-Abstraction (Ej. Solo muestra el usuario, pero esta su edad, correo y veces usada que uso app en la base de datos (fuera de vista))
-Encapsulation (cuando tienes tus variables y metodos en la misma clase las estas encapsulando, aun mas se encapsulan en Private y Public )
+| N  | Entidad          | Nombre de Atributo | Definicion                             | Tipo de dato |
+|----|------------------|--------------------|----------------------------------------|:------------:|
+| 1  | SuscriptionType  | subscriptionTypeId | Identificador de tipo de suscripción   |     int      |
+| 1  | SuscriptionType  | subscriptionType   | Tipo de suscripción                    |    String    |
+| 2  | Suscription      | subscriptionId     | Identificador de suscripción           |     int      |
+| 2  | Suscription      | benefits           | Beneficios de la suscripción           |    String    |
+| 2  | Suscription      | price              | Precio de la suscripción               |    double    |
+| 3  | Payment          | paymentId          | Identificador del pago                 |     int      |
+| 3  | Payment          | price              | Precio del pago                        |    double    |
+| 3  | Payment          | paymentMethod      | Método de pago                         |    String    |
+| 3  | Payment          | discount           | Descuento aplicado                     |    double    |
+| 4  | PaymentType      | paymentTypeId      | Identificador del tipo de pago         |     int      |
+| 4  | PaymentType      | paymentType        | Tipo de pago                           |    String    |
+| 5  | NotificationType | notificationTypeId | Identificador del tipo de notificación |     int      |
+| 5  | NotificationType | type               | Tipo de notificación                   |    String    |
+| 6  | Notification     | notificationId     | Identificador de notificación          |     int      |
+| 6  | Notification     | message            | Mensaje de notificación                |    String    |
+| 6  | Notification     | title              | Título de notificación                 |    String    |
+| 6  | Notification     | notificationTypeId | Identificador del tipo de notificación |     int      |
+| 7  | User             | userId             | Identificador de usuario               |     int      |
+| 7  | User             | userName           | Nombre de usuario                      |    String    |
+| 8  | Technical        | technicalId        | Identificador del técnico              |     int      |
+| 8  | Technical        | firstName          | Nombre del técnico                     |    String    |
+| 8  | Technical        | lastName           | Apellido del técnico                   |    String    |
+| 8  | Technical        | description        | Descripción del técnico                |    String    |
+| 8  | Technical        | experience         | Experiencia del técnico                |     int      |
+| 8  | Technical        | specialization     | Especialización del técnico            |    String    |
+| 8  | Technical        | age                | Edad del técnico                       |     int      |
+| 8  | Technical        | address            | Dirección del técnico                  |    String    |
+| 8  | Technical        | email              | Email del técnico                      |    String    |
+| 9  | Portfolio        | portfolioId        | Identificador del portafolio           |     int      |
+| 9  | Portfolio        | description        | Descripción del portafolio             |    String    |
+| 9  | Portfolio        | images             | Imágenes del portafolio                | List<String> |
+| 10 | BusinessCustomer | businessCustomerId | Identificador del cliente empresarial  |     int      |
+| 10 | BusinessCustomer | name               | Nombre del cliente empresarial         |    String    |
+| 10 | BusinessCustomer | email              | Email del cliente empresarial          |    String    |
+| 11 | Request          | requestId          | Identificador de solicitud             |     int      |
+| 11 | Request          | description        | Descripción de la solicitud            |    String    |
+| 11 | Request          | productBrand       | Marca del producto                     |    String    |
+| 11 | Request          | time               | Tiempo de solicitud                    |    String    |
+| 11 | Request          | day                | Día de solicitud                       |    String    |
+| 12 | Status           | statusId           | Identificador de estado                |     int      |
+| 12 | Status           | statusLabel        | Etiqueta de estado                     |    String    |
+| 13 | Contract         | contractId         | Identificador de contrato              |     int      |
+| 13 | Contract         | serviceType        | Tipo de servicio contratado            |    String    |
+| 13 | Contract         | customerId         | Identificador del cliente              |     int      |
+| 13 | Contract         | businessId         | Identificador del negocio              |     int      |
+| 14 | Review           | description        | Descripción de la reseña               |    String    |
+| 14 | Review           | contractId         | Identificador del contrato             |     int      |
+| 14 | Review           | title              | Título de la reseña                    |    String    |
+| 14 | Review           | customerId         | Identificador del cliente              |     int      |
+| 14 | Review           | reviewId           | Identificador de reseña                |     int      |
+| 15 | Valoration       | starPoints         | Puntos de valoración                   |     int      |
+| 15 | Valoration       | reviewId           | Identificador de reseña                |     int      |
+
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
 Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, isiyisi 🕸)
