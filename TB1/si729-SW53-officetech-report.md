@@ -633,9 +633,65 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 <img src="../assets/Component Diagram.png" alt="Imagen del compañero" style="width:80%;">
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
+<img src="../assets/Software-Object/ClassDiagraman.png" alt="ClassDiagram">
 Esta yaselasaben (diagrama de clases)
 Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributos(Correo, edad,nombre como valor, ID)
+
 ### 4.7.2. Class Dictionary.
+| N  | Entidad          | Nombre de Atributo |Definicion|Tipo de dato|
+|----|------------------|--------------------|-|-|
+| 1  | SuscriptionType  | subscriptionTypeId |erer|int|
+| 1  | SuscriptionType  | subscriptionType   |erer|int|
+| 2  | Suscription      | subscriptionId     |erer|int|
+| 2  | Suscription      | benefits           |erer|int|
+| 2  | Suscription      | price              |erer|int|
+| 3  | Payment          | paymentId          |erer|int|
+| 3  | payment          | price              |erer|int|
+| 3  | payment          | paymentMethod      |erer|int|
+| 3  | payment          | discount           |erer|int|
+| 4  | PaymentType      | paymentTypeId      |erer|int|
+| 4  | PaymentType      | paymentType        |erer|int|
+| 5  | NotificationType | notificationTypeId |erer|int|
+| 5  | NotificationType | type               |erer|int|
+| 6  | Notification     | notificationId     |erer|int|
+| 6  | Notification     | message            |erer|int|
+| 6  | Notification     | tittle             |erer|int|
+| 6  | Notification     | notificationTypeId |erer|int|
+| 7  | User             | userId             |erer|int|
+| 7  | User             | userName           |erer|int|
+| 8  | Technical        | technicalId        |erer|int|
+| 8  | Technical        | firstName          |erer|int|
+| 8  | Technical        | lastName           |erer|int|
+| 8  | Technical        | description        |erer|int|
+| 8  | Technical        | experience         |erer|int|
+| 8  | Technical        | specialization     |erer|int|
+| 8  | Technical        | age                |erer|int|
+| 8  | Technical        | address            |erer|int|
+| 8  | Technical        | email              |erer|int|
+| 9  | Portfolio        | portofolioId       |erer|int|
+| 9  | Portofolio       | description        |erer|int|
+| 9  | Portofolio       | images             |erer|int|
+| 10 | BusinessCustomer | businessCustomer   |erer|int|
+| 10 | BusinessCustomer | name               |erer|int|
+| 10 | BusinessCustomer | email              |erer|int|
+| 11 | Request          | requestId          |erer|int|
+| 11 | Request          | description        |erer|int|
+| 11 | Request          | productBrand       |erer|int|
+| 11 | Request          | time               |erer|int|
+| 11 | Request          | day                |erer|int|
+| 12 | Status           | statusId           |erer|int|
+| 12 | Status           | statusLabel        |erer|int|
+| 13 | Contract         | contractId         |erer|int|
+| 13 | Contract         | serviceType        |erer|int|
+| 13 | Contract         | customerId         |erer|int|
+| 13 | Contract         | businessId         |erer|int|
+| 14 | Review           | description        |erer|int|
+| 14 | Review           | contractId         |erer|int|
+| 14 | Review           | title              |erer|int|
+| 14 | Review           | customerId         |erer|int|
+| 14 | Review           | reviewId           |erer|int|
+| 15 | Valoration       | starPoints         |erer|int|
+| 15 | Valoration       | reviewId           |erer|int|
 Inherit (ave(superclase) -> (subclase)canario )
 Polymorphism (Ej. funcion de persona hablar() -> Peruano hablar() , Gringo hablar() todos tienen una funcion que contiene persona y van cambiando sus formas)
 Abstraction (Ej. Solo muestra el usuario, pero esta su edad, correo y veces usada que uso app en la base de datos (fuera de vista))
