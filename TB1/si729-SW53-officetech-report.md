@@ -53,9 +53,9 @@ Además, utilizamos una variedad de métodos innovadores para resolver los probl
 | Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">     | U202212096        |Ingenieria de software| C++, Python, persistente y amigable      |
 | Ramirez Contreras, Zaid Valentino <img src="../assets/members-profile/Zado.png" alt="Imagen del compañer" style="width:60%">           | U202218472        |Ingenieria de software| C++, python, HTML5, CSS3, Javascript, SQL |
 | Herrera Aguirre, Fabia Alejandra <img src="../assets/members-profile/pelufoto.png" alt="Imagen del compañero" style="width:60%">       | U202219422        |Ingenieria de software| C++, Python, SQL, creativa, responsable  |
-| Ramirez Ramirez , Marcelo Sebstian <img src="../assets/members-profile/ramirez.jpeg" alt="Imagen del compañero" style="width:60%">     | Uxxxx        |Ingenieria de software| xxxxx      |
-| Rubio Adrián <img src="https://avatars.githubusercontent.com/u/89089678?v=4" alt="Imagen del compañero" style="width:60%">     | Uxxxxx        |Ingenieria de software| xxxxxxxx      |
-<!--cambien la url e info, se agrego estilos para evitar errores en las dimensiones -->
+| Ramirez Ramirez, Marcelo Sebstian <img src="../assets/members-profile/ramirez.jpeg" alt="Imagen del compañero" style="width:60%">     | Uxxxx        |Ingenieria de software| xxxxx      |
+| Rubio Calixto, Adrian Gustavo <img src="https://avatars.githubusercontent.com/u/89089678?v=4" alt="Imagen del compañero" style="width:60%">     | Uxxxxx        |Ingenieria de software| xxxxxxxx      |
+
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
 Nuestra plataforma ofrecerá un servicio de suscripción dirigido a empresas que comercializan productos electrónicos. A través de esta suscripción, las empresas tendrán acceso a un plan que incluye una cantidad específica de garantías mediante servicios técnicos. El objetivo es proporcionar un acceso confiable y seguro a estos servicios para empresas, tiendas o profesionales independientes que los requieran.
@@ -148,7 +148,7 @@ Hemos identificado la necesidad de un intermediario que pueda comunicar el desem
 | Assumption priorizado: | 6 (Business Assumptions)                                                                                                                                                                                            |
 |------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Hypothesis:            | 5                                                                                                                                                                                                                   |
-| Descripcion:           | Creemos que nuetra aplicacion tendra un buen funcionamiento y que los usuarios puedan usarlo facilmente<br/>Sabemos que nuestros usuarios quieren una aplicacion que sea facil de usar y que funcione correctamente |
+| Descripcion:           | Creemos que nuestra aplicacion tendra un buen funcionamiento y que los usuarios puedan usarlo facilmente<br/>Sabemos que nuestros usuarios quieren una aplicacion que sea facil de usar y que funcione correctamente |
 | Metrica                | Se crearan funcionalidades que sean amigables para los usuarios                                                                                                                                                     |
 
 #### 1.2.2.4. Lean UX Canvas.
@@ -156,7 +156,7 @@ Hemos identificado la necesidad de un intermediario que pueda comunicar el desem
 
 ## 1.3. Segmentos objetivo.
 **Segmento 1**
-<br>Clientes: Empresas, organizaciones, tiendas o vendedores independientes de aparatos electrónicos, tecnológicos o electrodomésticos, que necesit an de un servicio confiable, seguro y eficaz de soporte técnico para cubrir las garantías de sus productos vendidos.
+<br>Clientes: Empresas, organizaciones, tiendas o vendedores independientes de aparatos electrónicos, tecnológicos o electrodomésticos, que necesitan de un servicio confiable, seguro y eficaz de soporte técnico para cubrir las garantías de sus productos vendidos.
 
 **Segmento 2** 
 Técnicos especializados en el servicio de reparación de distintos artefactos electrónicos, tecnológicos o electrodomésticos. Además, que gusten afiliarse en la aplicación para aumentar su alcance laboral y tener más opciones de trabajo
@@ -414,19 +414,31 @@ En el siguiente cuadro está la paleta de colores que se usará tanto en la Land
 
 #### TYPOGRAPHY
 La fuente que se utilizará para el texto, título y demás objetos para la aplicación móvil es "Roboto" y sus derivados de este. El diseñador **Christian Robertson** es la persona que desarrolló esta fuente, con el objetivo de diseñar una fuente moderna y emocional. Por estos motivos, nosotros escogimos utilizar esta fuente para nuestra **Web Application & Landing Page**, ya que buscamos transmitir que nuestra aplicación es moderna y confiable.
-
-<img src="../assets/Style Guidelines/TYPOGRAPHY.png" alt="TYPOGRAPHY" style="width:60%; height:60%;">
+<div style="width:100%">
+  <div style="display:flex; justify-content:center;">
+    <img src="../assets/Style Guidelines/TYPOGRAPHY.png" alt="TYPOGRAPHY" style="width:60%; height:60%;">
+    
+  </div>
+</div>
 
 #### SPACING
 Se definió usar un espaciado alto entre cada objeto, ya que con esto buscamos no saturar la vista del usuario y poder dar una aplicación más legible y amigable de usar.
 
-<img src="../assets/Style Guidelines/SPACING.png" alt="SPACING" style="width:60%; height:60%;">
+<div style="width:100%">
+  <div style="display:flex; justify-content:center;">
+    <img src="../assets/Style Guidelines/SPACING.png" alt="SPACING" style="width:60%; height:60%;"> 
+  </div>
+</div>
 
 #### BRANDING  
-
-<img src="../assets/Style Guidelines/LOGO.png" alt="LOGO" style="width:60%; height:60%;">
-
-Se escogió este diseño para el logo de "OfficeTech" porque encapsula una estética moderna y tecnológica que representa bien una compañía especializada en soluciones tecnológicas para oficinas. Los elementos gráficos incluyen iconos que sugieren tecnología, eficiencia y trabajo de oficina, como un documento, un engranaje y una pantalla, todos elementos que uno podría asociar con servicios de tecnología y soporte de oficina.
+<div style="width:100%">
+  <div style="display:flex; justify-content:center;">
+      <img src="../assets/Style Guidelines/LOGO.png" alt="LOGO" style="width:40%;">
+    
+  </div>
+</div>
+<br>
+Se escogió este diseño para el logo de "OfficeTech" porque encapsula una estética moderna y tecnológica que representa bien a nuestra compañía especializada en soluciones tecnológicas para oficinas. Los elementos gráficos incluyen iconos que sugieren tecnología, eficiencia y trabajo de oficina, como un documento, un engranaje y una pantalla, todos los elementos que uno podría asociar con servicios de tecnología y soporte de oficina.
 
 El color azul oscuro es profesional y transmite confiabilidad y conocimiento técnico, mientras que los detalles en blanco y tonos más claros de azul agregan contraste y visibilidad. Además, el diseño es lo suficientemente simple y distintivo para ser reconocible a pequeñas escalas, lo cual es vital para diferentes aplicaciones, ya sea en línea, en impresiones o en mercancía.
 
@@ -447,26 +459,45 @@ Las medidas en píxeles del alto son relativas, ya que depende del tamaño y el 
 #### Navegación
 La navegación a utilizar será implementada con un enfoque minimalista en donde para resaltar la sección actual se usará un color dorado en el nombre de la sección.
 
-<img src="../assets/Web Style Guidelines/NAVIGATION.png" alt="NAVIGATION" style="width:60%; height:60%;">
+<div style="width:100%">
+  <div style="display:flex; justify-content:center;">
+    <img src="../assets/Web Style Guidelines/NAVIGATION.png" alt="NAVIGATION" style="width:60%; height:60%;">
+  </div>
+</div>
 
 #### Iconos
 Estos son los iconos que usaremos para el footer del landing page.
 
-<img src="../assets/Web Style Guidelines/ICONS.png" alt="ICONS" style="width:60%; height:60%;">
+<div style="width:100%">
+  <div style="display:flex; justify-content:center;">
+    <img src="../assets/Web Style Guidelines/ICONS.png" alt="ICONS" style="width:60%; height:60%;">
+  </div>
+</div>
 
 Estos son los iconos que usaremos para facilitar y decorar la navegación en la aplicación web.
 
-<img src="../assets/Web Style Guidelines/ICONS2.png" alt="ICONS2" style="width:60%; height:60%;">
+<div style="width:100%">
+  <div style="display:flex; justify-content:center;">
+    <img src="../assets/Web Style Guidelines/ICONS2.png" alt="ICONS2" style="width:60%; height:60%;">  
+  </div>
+</div>
 
 #### Formularios
 Utilizaremos este diseño para lo que son los formularios y sus campos. También consideraremos sus posibles estados: deshabilitado, errado o correcto.
 
-<img src="../assets/Web Style Guidelines/FORMS.png" alt="FORMS" style="width:60%; height:60%;">
+<div style="width:100%">
+  <div style="display:flex; justify-content:center;">
+    <img src="../assets/Web Style Guidelines/FORMS.png" alt="FORMS" style="width:60%; height:60%;">
+  </div>
+</div>
 
 #### Avisos
 Utilizaremos este diseño para los avisos.
-
-<img src="../assets/Web Style Guidelines/ADVERTISEMENTS.png" alt="ADVERTISEMENTS" style="width:60%; height:60%;">
+<div style="width:100%">
+  <div style="display:flex; justify-content:center;">
+    <img src="../assets/Web Style Guidelines/ADVERTISEMENTS.png" alt="ADVERTISEMENTS" style="width:60%; height:60%;">
+  </div>
+</div>
 
 - **Amarillo:** El diseño de color de fondo amarillo se usará para advertirle de algún detalle al usuario.
 - **Rojo:** El diseño de color de fondo rojo se usará para notificarle al usuario de algún error que está cometiendo.
@@ -477,7 +508,11 @@ En todos estos mensajes de aviso le daremos la oportunidad al usuario a que pued
 #### Checkboxes, radio buttons, switch
 Utilizaremos este diseño para todos los checkboxes, radio buttons o switches, ya que es un diseño bastante interactivo y agradable a la vista.
 
-<img src="../assets/Web Style Guidelines/Checkboxes, radio buttons, switch.png" alt="Checkboxes, radio buttons, switch" style="width:60%; height:60%;">
+<div style="width:100%">
+  <div style="display:flex; justify-content:center;">
+      <img src="../assets/Web Style Guidelines/Checkboxes, radio buttons, switch.png" alt="Checkboxes, radio buttons, switch" style="width:60%; height:60%;">
+  </div>
+</div>
 
 #### Background
 
@@ -495,8 +530,7 @@ Utilizaremos este diseño para todos los checkboxes, radio buttons o switches, y
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
 
-Para la organización visual utilizaremos la organización jerárquica para la aplicación y la
-organización secuencial para el proceso de solicitud de servicios técnicos:
+Para la organización visual utilizaremos la organización jerárquica para la aplicación y la organización secuencial para el proceso de solicitud de servicios técnicos:
 
 #### Organización jerárquica:
 - Inicio:
@@ -621,16 +655,29 @@ un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]**
 [URL del Prototipo (Hecho en figma)](https://www.example.com)
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
-1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
-se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
-<img src="../assets/Context Diagram.png" alt="Imagen del compañero" style="width:80%;">
+<div style="width:100%">
+  <div style="display:flex; justify-content:center;">
+    <img src="../assets/Context Diagram.png" alt="Imagen del compañero" style="width:80%;">
+  </div>
+</div>
 
 ### 4.6.2. Software Architecture Container Diagrams.
-1. Bounded Context Deployable / Container Diagrams. Sirve para entender como funciona y el proceso, Se especifican DB's, indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como objetivo explicar la direcion y relacion junto a que se esta enviando/comunicando (TCP) 
-<img src="../assets/Container Diagram.png" alt="Imagen del compañero" style="width:80%;">
+1. Bounded Context Deployable / Container Diagrams:
+<div style="width:100%">
+  <div style="display:flex; justify-content:center;">
+    <img src="../assets/Container Diagram.png" alt="Imagen del compañero" style="width:80%;">
+  </div>
+</div>
+
 ### 4.6.3. Software Architecture Components Diagrams.
-1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
-<img src="../assets/Component Diagram.png" alt="Imagen del compañero" style="width:80%;">
+1. Component diagrams: 
+<div style="width:100%">
+  <div style="display:flex; justify-content:center;">
+    <img src="../assets/Component Diagram.png" alt="Imagen del compañero" style="width:80%;">
+    
+  </div>
+</div>
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 <img src="../assets/Software-Object/ClassDiagraman.png" alt="ClassDiagram">
@@ -695,7 +742,7 @@ Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributo
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, isiyisi 🕸)
+Diagrama de base de datos
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
