@@ -606,8 +606,14 @@ En el contexto de OfficeTech se requerirán de sistemas de navegación para que 
 <img src="../assets/Landing page Wireframe/6. Landing wireframe.png" alt="Landing page wireframe 6" style="width:100%;">
 
 ### 4.3.2. Landing Page Mock-up.
-Mockup es todo lo relacionado al diseño de la pagina
-![Landing page mockup](image.jpg)
+
+<img src="../assets/Landing page Mock up/1. Landing Mock up.png" alt="Landing page mock up 1" style="width:100%;">
+<img src="../assets/Landing page Mock up/2. Landing Mock up.png" alt="Landing page mock up 2" style="width:100%;">
+<img src="../assets/Landing page Mock up/3. Landing Mock up.png" alt="Landing page mock up 3" style="width:100%;">
+<img src="../assets/Landing page Mock up/4. Landing Mock up.png" alt="Landing page mock up 4" style="width:100%;">
+<img src="../assets/Landing page Mock up/5. Landing Mock up.png" alt="Landing page mock up 5" style="width:100%;">
+<img src="../assets/Landing page Mock up/6. Landing Mock up.png" alt="Landing page mock up 6" style="width:100%;">
+
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 lo funcional de cada aspecto del wireframe 
