@@ -597,10 +597,14 @@ En el contexto de OfficeTech se requerirán de sistemas de navegación para que 
 
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
-la pagina donde te registras y ves info del web app (te manda al web app)
 
-Wireframe es todo lo funcional de la pagina
-![Landing page Wireframe](image.jpg)
+<img src="../assets/Landing page Wireframe/1. Landing wireframe.png" alt="Landing page wireframe 1" style="width:100%;">
+<img src="../assets/Landing page Wireframe/2. Landing wireframe.png" alt="Landing page wireframe 2" style="width:100%;">
+<img src="../assets/Landing page Wireframe/3. Landing wireframe.png" alt="Landing page wireframe 3" style="width:100%;">
+<img src="../assets/Landing page Wireframe/4. Landing wireframe.png" alt="Landing page wireframe 4" style="width:100%;">
+<img src="../assets/Landing page Wireframe/5. Landing wireframe.png" alt="Landing page wireframe 5" style="width:100%;">
+<img src="../assets/Landing page Wireframe/6. Landing wireframe.png" alt="Landing page wireframe 6" style="width:100%;">
+
 ### 4.3.2. Landing Page Mock-up.
 Mockup es todo lo relacionado al diseño de la pagina
 ![Landing page mockup](image.jpg)
