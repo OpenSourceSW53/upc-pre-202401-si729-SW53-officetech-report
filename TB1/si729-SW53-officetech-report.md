@@ -712,15 +712,15 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
 #### Project Management
-- Trello: [LINK](https://trello.com)
-Trello es una aplicación web de gestión de proyectos compatible con la mayoria de navegadores. Se utilizó Trello para la organización y registro de las tareas por hacer, las que están en proceso y las realizadas. De esta forma podemos tener control acerca del avance del proyecto y las actividades de cada uno de los miembros del equipo.
+- Trello [https://trello.com](https://trello.com):
+ Trello es una aplicación web de gestión de proyectos compatible con la mayoria de navegadores. Se utilizó Trello para la organización y registro de las tareas por hacer, las que están en proceso y las realizadas. De esta forma podemos tener control acerca del avance del proyecto y las actividades de cada uno de los miembros del equipo.
 
 #### Product UX/UI Design
-- Miro [LINK](https://miro.com)
-Miro ha sido empleado en el desarrollo de los escenarios mapping y escenario mapping para ambos segmentos objetivos.
+- Miro [https://miro.com](https://miro.com):
+ Miro ha sido empleado en el desarrollo de los escenarios mapping y escenario mapping para ambos segmentos objetivos.
 
-- Figma [LINK](https://figma.com)
-Esta herramienta fue de vital importancia para la creación de los wireframes, mockups y mobile applications prototyping de manera colaborativa. Asimismo, su acceso es gratuito al contar con una cuenta registrada.
+- Figma [https://figma.com](https://figma.com):
+ Esta herramienta fue de vital importancia para la creación de los wireframes, mockups y mobile applications prototyping de manera colaborativa. Asimismo, su acceso es gratuito al contar con una cuenta registrada.
 
 #### Software Developement
 - Landing Page:
@@ -729,29 +729,43 @@ El desarrollo del landing page se llevó a cabo con las tecnologías básicas pa
 La aplicación web implica tener claro los conceptos básicos de HTML5, CSS3 y JavaScript, ya que se utilizó Angular como framework de JavaScript.
 
 #### IDE's de desarrollo
-- IntelliJ IDEA: [LINK](https://www.jetbrains.com/idea/)
+- IntelliJ IDEA [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/):
 IntelliJ IDEA es un entorno de desarrollo integrado (IDE) creado por JetBrains. Este entorno de desarrollo nos proporcionará distintas herramientas para agilizar el proceso de desarrollo
 
 #### Software Testing
-- Para las pruebas de testeo software, tanto de la landing page como de la aplicación web, se emplearon las herramientas de desarrollador de los principales navegadores web como Google Chrome [LINK](https://www.google.com/chrome/), Microsoft Edge [LINK](https://www.microsoft.com/en-us/edge) y Mozilla Firefox [LINK](https://www.mozilla.org/en-US/firefox/browsers/). Estos navegadores cuentan con aplicaciones desktop y móviles las cuáles son totalmente gratuitas. En el caso de desktop podemos instalarlos desde sus sitios oficiales, en el caso de móvil, desde la tienda de aplicaciones del sistema operativo en cuestión.
+- Para las pruebas de testeo software, tanto de la landing page como de la aplicación web, se emplearon las herramientas de desarrollador de los principales navegadores web como Google Chrome [https://www.google.com/chrome/](https://www.google.com/chrome/), Microsoft Edge [https://www.microsoft.com/en-us/edge](https://www.microsoft.com/en-us/edge) y Mozilla Firefox [https://www.mozilla.org/en-US/firefox/browsers/](https://www.mozilla.org/en-US/firefox/browsers/). Estos navegadores cuentan con aplicaciones desktop y móviles las cuáles son totalmente gratuitas. En el caso de desktop podemos instalarlos desde sus sitios oficiales, en el caso de móvil, desde la tienda de aplicaciones del sistema operativo en cuestión.
 
 #### Software Deployment
-- Github Pages [LINK](https://pages.github.com)
+- Github Pages [https://pages.github.com](https://pages.github.com):
 GitHub Pages es un servicio proporcionado por GitHub que nos permitirá alojar nuestra landing page directamente desde nuestro repositorio de GitHub.
 
 #### Software Documantation
-- Markdown [LINK](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- Markdown [https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax):
 Markdown es un lenguaje de marcado ligero que nos permite formatear texto de manera sencilla utilizando un formato de texto plano. De esta forma documentamos la información importante acerca del contexto, organización, producción y creacíon del proyecto.
-- Structurizr [LINK](https://structurizr.com/)
+- Structurizr [https://structurizr.com/](https://structurizr.com/):
 Esta herramienta permite crear los diagramas C4 de manera rápida con una sintaxis similar a un lenguaje de programación. Para utilizar esta aplicación web hace falta tener una cuenta registrada.
 
-- Vertabelo: [LINK](https://www.vertabelo.com/)
+- Vertabelo: [https://www.vertabelo.com/](https://www.vertabelo.com/)
 Es una aplicación web colaborativa que facilita el diseño e implementación de bases de datos en una amplia variedad de motores. 
 
 ### 5.1.2. Source Code Management.
 El manejo y organización del trabajo se llevaron a cabo medianto una organización en Github
-**Organización:** [LINK](https://github.com/OpenSourceSW53)
-**Landing Page Repository:** [LINK](https://github.com/OpenSourceSW53/officetech-landing-page)
+**Organización:** [https://github.com/OpenSourceSW53](https://github.com/OpenSourceSW53)
+**Landing Page Repository:** [https://github.com/OpenSourceSW53/officetech-landing-page](https://github.com/OpenSourceSW53/officetech-landing-page)
+
+Asimismo, para llevar a cabo un mejor control de cómo crear ramas y realizar cambios en el código fuente, se procedió a utilizar GitFlow.
+
+De este modo, se tenían 2 ramas principales: master y develop.
+- master: En esta rama almacenaremos las versiones oficiales de nuestro repositorio que ya deben pasar a producción.
+- develop: Esta rama se utilizará como rama de integración para las “feature” branches. Una vez alcance un estado estable y el equipo lo considere listo para ser lanzado, se unirá a la rama master.
+
+#### Commit Conventions:
+El formato de nuestros commits sigue la estructura de los “Conventional Commits” en su versión 1.0.0 (https://www.conventionalcommits.org/en/v1.0.0/) con el objetivo de proporcionar una lectura sencilla de los mismos. Por ello seguimos el siguiente formato:
+"< type>[optional scope]: < description>"
+Donde:
+- type: Especifica el tipo de cambio realizado, únicamente puede ser feat, fix, docs, etc.
+- scope: Es el alcance que tiene nuestro commit.
+- description: Es un breve resumen de los cambios de código.
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 Que usamos con css (en caso usemos software para SASS)
