@@ -53,7 +53,7 @@ Además, utilizamos una variedad de métodos innovadores para resolver los probl
 | Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">          | U202212096        |Ingenieria de software| C++, Python, persistente y amigable      |
 | Ramirez Contreras, Zaid Valentino <img src="../assets/members-profile/Zado.png" alt="Imagen del compañer" style="width:60%">                | U202218472        |Ingenieria de software| C++, python, HTML5, CSS3, Javascript, SQL |
 | Herrera Aguirre, Fabia Alejandra <img src="../assets/members-profile/pelufoto.png" alt="Imagen del compañero" style="width:60%">            | U202219422        |Ingenieria de software| C++, Python, SQL, creativa, responsable  |
-| Ramirez Ramirez, Marcelo Sebstian <img src="../assets/members-profile/ramirez.jpeg" alt="Imagen del compañero" style="width:60%">           | Uxxxx        |Ingenieria de software| xxxxx      |
+| Ramirez Ramirez, Marcelo Sebstian <img src="../assets/members-profile/ramirez.jpeg" alt="Imagen del compañero" style="width:60%">           | U202210582        |Ingenieria de software| C++, Javascript,SQL,HTML5,CSS      |
 | Rubio Calixto, Adrian Gustavo <img src="https://avatars.githubusercontent.com/u/89089678?v=4" alt="Imagen del compañero" style="width:60%"> | Uxxxxx        |Ingenieria de software| xxxxxxxx      |
 
 ## 1.2. Solution Profile
