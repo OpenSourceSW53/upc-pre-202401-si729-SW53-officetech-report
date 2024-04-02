@@ -646,7 +646,9 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 <img src="../assets/Software-Object/ClassDiagraman.png" alt="ClassDiagram">
+
 ### 4.7.2. Class Dictionary.
+
 | N  | Entidad          | Nombre de Atributo | Definicion                             | Tipo de dato |
 |----|------------------|--------------------|----------------------------------------|:------------:|
 | 1  | SuscriptionType  | subscriptionTypeId | Identificador de tipo de suscripción   |     int      |
@@ -705,6 +707,7 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
 <img src="../assets/Software-Object/DataBaseDesign.png" alt="DataBasedIAGRAM">
+
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
