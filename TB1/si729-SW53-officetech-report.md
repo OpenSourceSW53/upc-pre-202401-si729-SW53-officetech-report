@@ -640,9 +640,6 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 <img src="../assets/Software-Object/ClassDiagraman.png" alt="ClassDiagram">
-Esta yaselasaben (diagrama de clases)
-Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributos(Correo, edad,nombre como valor, ID)
-
 ### 4.7.2. Class Dictionary.
 | N  | Entidad          | Nombre de Atributo | Definicion                             | Tipo de dato |
 |----|------------------|--------------------|----------------------------------------|:------------:|
@@ -701,7 +698,7 @@ Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributo
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, isiyisi 🕸)
+<img src="../assets/Software-Object/DataBaseDesign.png" alt="DataBasedIAGRAM">
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
