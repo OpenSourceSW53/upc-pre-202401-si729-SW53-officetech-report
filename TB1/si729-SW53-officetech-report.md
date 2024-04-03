@@ -221,11 +221,10 @@ Técnicos especializados en el servicio de reparación de distintos artefactos e
 
 ### 2.2.2. Registro de entrevistas.
 **Segmento 1**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
+Nombre: Rusbel Bargas
+Edad: 37 años 
+Ocupación: Ing.Informatico  
+<img src="../assets/Entrevistas-IMG/Entrevista-Rusbel Bargas.PNG" alt="Entrevista Rusbel" style="width:100%;">
 
 **Segmento 2**  
 Nombre: _____
