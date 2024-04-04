@@ -423,11 +423,11 @@ Se definió usar un espaciado alto entre cada objeto, ya que con esto buscamos n
 
 #### BRANDING  
 
-<img src="../assets/Style Guidelines/LOGO.png" alt="LOGO" style="width:60%; height:60%;">
+<img src="../assets/Web Style Guidelines/logo-officetech.png" alt="LOGO" style="width:15%">
 
-Se escogió este diseño para el logo de "OfficeTech" porque encapsula una estética moderna y tecnológica que representa bien una compañía especializada en soluciones tecnológicas para oficinas. Los elementos gráficos incluyen iconos que sugieren tecnología, eficiencia y trabajo de oficina, como un documento, un engranaje y una pantalla, todos elementos que uno podría asociar con servicios de tecnología y soporte de oficina.
+Se escogió este diseño para el logo de "OfficeTech" porque encapsula una estética minimalista y tecnológica que representa bien una compañía especializada en soluciones técnicas para oficinas.
 
-El color azul oscuro es profesional y transmite confiabilidad y conocimiento técnico, mientras que los detalles en blanco y tonos más claros de azul agregan contraste y visibilidad. Además, el diseño es lo suficientemente simple y distintivo para ser reconocible a pequeñas escalas, lo cual es vital para diferentes aplicaciones, ya sea en línea, en impresiones o en mercancía.
+El color azul es profesional y transmite confiabilidad y conocimiento técnico, mientras que el detalle amarillo agrega contraste y visibilidad. Además, el diseño es lo suficientemente simple y distintivo para ser reconocible a pequeñas escalas, lo cual es vital para diferentes aplicaciones, ya sea en línea, en impresiones o en mercancía.
 
 La tipografía es clara y directa, facilitando la lectura y el reconocimiento de la marca. La composición general del logo es equilibrada y simétrica, lo cual es agradable a la vista y comunica estabilidad y precisión, cualidades deseables para una empresa de tecnología.
 
@@ -738,7 +738,7 @@ IntelliJ IDEA es un entorno de desarrollo integrado (IDE) creado por JetBrains. 
 - Github Pages [https://pages.github.com](https://pages.github.com):
 GitHub Pages es un servicio proporcionado por GitHub que nos permitirá alojar nuestra landing page directamente desde nuestro repositorio de GitHub.
 
-#### Software Documantation
+#### Software Documentation
 - Markdown [https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax):
 Markdown es un lenguaje de marcado ligero que nos permite formatear texto de manera sencilla utilizando un formato de texto plano. De esta forma documentamos la información importante acerca del contexto, organización, producción y creacíon del proyecto.
 - Structurizr [https://structurizr.com/](https://structurizr.com/):
@@ -748,21 +748,21 @@ Esta herramienta permite crear los diagramas C4 de manera rápida con una sintax
 Es una aplicación web colaborativa que facilita el diseño e implementación de bases de datos en una amplia variedad de motores. 
 
 ### 5.1.2. Source Code Management.
-El manejo y organización del trabajo se llevaron a cabo medianto una organización en Github
+El manejo y organización del trabajo se llevaron a cabo mediante una organización en Github
 **Organización:** [https://github.com/OpenSourceSW53](https://github.com/OpenSourceSW53)
 **Landing Page Repository:** [https://github.com/OpenSourceSW53/officetech-landing-page](https://github.com/OpenSourceSW53/officetech-landing-page)
 
 Asimismo, para llevar a cabo un mejor control de cómo crear ramas y realizar cambios en el código fuente, se procedió a utilizar GitFlow.
 
-De este modo, se tenían 2 ramas principales: master y develop.
-- master: En esta rama almacenaremos las versiones oficiales de nuestro repositorio que ya deben pasar a producción.
-- develop: Esta rama se utilizará como rama de integración para las “feature” branches. Una vez alcance un estado estable y el equipo lo considere listo para ser lanzado, se unirá a la rama master.
+De este modo, se tenían 2 ramas principales: main y development.
+- main: En esta rama almacenaremos las versiones oficiales de nuestro repositorio que ya deben pasar a producción.
+- development: Esta rama se utilizará como rama de integración para las “feature” branches. Una vez alcance un estado estable y el equipo lo considere listo para ser lanzado, se unirá a la rama main.
 
 #### Commit Conventions:
 El formato de nuestros commits sigue la estructura de los “Conventional Commits” en su versión 1.0.0 (https://www.conventionalcommits.org/en/v1.0.0/) con el objetivo de proporcionar una lectura sencilla de los mismos. Por ello seguimos el siguiente formato:
 "< type>[optional scope]: < description>"
 Donde:
-- type: Especifica el tipo de cambio realizado, únicamente puede ser feat, fix, docs, etc.
+- type: Especifica el tipo de cambio realizado, únicamente puede ser feat, fix, update, etc.
 - scope: Es el alcance que tiene nuestro commit.
 - description: Es un breve resumen de los cambios de código.
 
@@ -772,23 +772,43 @@ supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para co
 ### 5.1.4. Software Deployment Configuration.
 Configuraciones de donde y como deployeamos el proyecto
 ## 5.2. Landing Page, Services & Applications Implementation.
-### 5.2.X. Sprint n
-#### 5.2.X.1. Sprint Planning n.
-Explicar como vamos a plannear el sprint?
-#### 5.2.X.2. Sprint Backlog n.
-![SprintBacklog n](image.jpg) Nica hago la tabla 
-#### 5.2.X.3. Development Evidence for Sprint Review.
+### 5.2.1. Sprint n
+#### 5.2.1.1. Sprint Planning n.
+E1plicar como vamos a plannear el sprint?
+#### 5.2.1.2. Sprint Backlog n.
+![SprintBacklog n](image.jpg) 
+#### 5.2.1.3. Development Evidence for Sprint Review.
 ![Sprint review development Evidence](image.jpg)
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review.
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 ![Sprint review Testing suite Evidence](image.jpg)
-#### 5.2.X.5. Execution Evidence for Sprint Review.
-![Sprint review Execution Evidence](image.jpg)
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.1.5. E1ecution Evidence for Sprint Review.
+![Sprint review E1ecution Evidence](image.jpg)
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 ![Sprint review Services Documentation Evidence](image.jpg)
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
-![Sprint review Software Deployment Evidence](image.jpg)
-#### 5.2.X.8. Team Collaboration Insights during Sprint.
-![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+Para el sprint presentado de la landing page se optó por varias herramientas para su desarrollo y despliegue en la web de manera pública.
+- *Git*: Se utilizó para el control de versiones del código fuente.
+- *GitFlow*: Se utilizó para ver el avance de los integrantes del equipo.
+- *GitHub*: Se utilizó para crear el repositorio de la landing page, donde se subió el código fuente.
+- *Vercel*: Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo de manera rápida y fácil, además que se puede vincular directamente con el repositorio de GitHub.
+
+Evidencias de despliegue en Vercel App
+![Sprint review Software Deployment Evidence](/assets/Software%20Deployment/evidence-vercel.PNG)
+Importamos el repository de GitHub alojado en la organización
+
+![Sprint review Software Deployment Evidence](/assets/Software%20Deployment/evidence-vercel-2.PNG)
+Configuramos la ruta donde se encuentra el archivo de despliegue, la rama principal y el comando de construcción.
+
+![Sprint review Software Deployment Evidence](/assets/Software%20Deployment/evidence-vercel-3.PNG)
+Después de configurar, se desplegó la landing page de manera exitosa.
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+Los integrantes del equipo, colaboraron de manera equitativa para desarrollar los diferentes features de la landing page, se utilizó la herramienta de GitFlow para manejar las actualizaciones que iba realizando cada uno, para ello existian las ramas: main, development, features, de modo que cada uno trabajaba en su rama feature, para luego trasladarlo a development y ver que este todo correcto y finalmente desplegarlo a producción con la rama main.
+Las evidencias muestran como los integrantes realizaron diferentes commits para los features.
+
+![Sprint review Team Collaboration Insights](/assets/Software%20Deployment/evidence-insights-1.PNG)
+
+![Sprint review Team Collaboration Insights](/assets/Software%20Deployment/evidence-insights-2.PNG)
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
