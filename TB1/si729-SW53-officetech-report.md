@@ -397,7 +397,7 @@ Ocupación: _____
 #### LENGUAJE
 El lenguaje que tratamos de expresar en nuestra aplicación es un lenguaje **Formal/Casual**. **Formal**, para transmitir confianza al usuario de que nuestra aplicación le ayudará a resolver su necesidad, y **casual**, ya que tenemos como meta que el usuario lo use en su día a día, dándole un entorno casual a la aplicación, el usuario no se saturará de usarla frecuentemente.
 
-#### Paleta de colores de OfficeTech
+#### COLORES OFFICETECH
 En el siguiente cuadro está la paleta de colores que se usará tanto en la Landing Page como para la Web Application. Escogimos el color `#2C3F84` que es una variedad de azul oscuro para dar una identidad de confianza y elegancia, ya que nuestra aplicación tiene que dar ese aspecto para que nuestros usuarios se sientan seguros y cómodos con su uso. También optamos por el color `#FBD864`, un color asociado a la abundancia, la prosperidad y el bienestar. Asimismo, usamos `#232F9B`, color ligeramente más vibrante a nuestro color principal para poder resaltar elementos importantes. Por último, el color `#FFFFFF` lo usamos para proporcionar contraste con los demás colores.
 
 
@@ -411,10 +411,10 @@ En el siguiente cuadro está la paleta de colores que se usará tanto en la Land
 | #232F9B | Azul vibrante: Proporciona sofisticación a la página y aporta profundidad.               |
 | #FFFFFF | Blanco: Ayuda a crear un aspecto moderno y profesional, al mismo tiempo que mejora la legibilidad del texto y la visibilidad de los elementos clave. |
 
-<br></br>
 <center><img src="../assets/Style Guidelines/Color palette.png" alt="COLOR" style="width:50%"></center>
+<br></br>
 
-#### Typography
+#### TYPOGRAPHY
 La fuente que se utilizará para el texto, título y demás elementos para la aplicación móvil es "Lexend Deca" y sus derivados. El diseñador **Thomas Jocking** es la persona que desarrolló esta fuente, con el objetivo de mejorar la legibilidad en pantalla, lo que la hace ideal para el contenido web. Su diseño equilibrado y proporciones cuidadosamente ajustadas hacen que el texto sea fácil de leer, incluso en tamaños pequeños. Por estos motivos,  escogimos utilizar esta fuente para nuestra **Web Application & Landing Page**, ya que combina legibilidad, profesionalismo y versatilidad.
 <br></br>
 <center><img src="../assets/Style Guidelines/Lexend Deca.jpg" alt="TYPOGRAPHY" style="width:60%; height:60%;"></center>
@@ -424,10 +424,11 @@ La fuente que se utilizará para el texto, título y demás elementos para la ap
 Se definió usar un espaciado alto entre cada objeto, ya que con esto buscamos no saturar la vista del usuario y poder dar una aplicación más legible y amigable de usar.
 
 <img src="../assets/Style Guidelines/SPACING.png" alt="SPACING" style="width:60%; height:60%;">
+<br></br>
 
 #### BRANDING  
-
-<img src="../assets/Web Style Guidelines/logo-officetech.png" alt="LOGO" style="width:15%">
+<center><img src="../assets/Web Style Guidelines/logo-officetech.png" alt="LOGO" style="width:10%"></center>
+<br></br>
 
 Se escogió este diseño para el logo de "OfficeTech" porque encapsula una estética minimalista y tecnológica que representa bien una compañía especializada en soluciones técnicas para oficinas.
 
