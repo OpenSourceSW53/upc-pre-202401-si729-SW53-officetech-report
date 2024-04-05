@@ -395,26 +395,30 @@ Ocupación: _____
 
 
 #### LENGUAJE
-El lenguaje que tratamos de expresar en nuestra aplicación es un lenguaje **Formal/Casual**. **Formal**, para transmitir confianza al usuario de que nuestra aplicación le ayudará a resolver su necesidad, y **Casual**, ya que tenemos como meta que el usuario lo use en su día a día, dándole un entorno casual a la aplicación, el usuario no se saturará de usarla frecuentemente.
+El lenguaje que tratamos de expresar en nuestra aplicación es un lenguaje **Formal/Casual**. **Formal**, para transmitir confianza al usuario de que nuestra aplicación le ayudará a resolver su necesidad, y **casual**, ya que tenemos como meta que el usuario lo use en su día a día, dándole un entorno casual a la aplicación, el usuario no se saturará de usarla frecuentemente.
 
-#### COLOR
-En el siguiente cuadro está la paleta de colores que se usará tanto en la Landing Page como para la Web Application. Escogimos el color `#011530` que es una variedad de azul oscuro para dar una identidad de confianza y elegancia, ya que nuestra aplicación tiene que dar ese aspecto para que nuestros usuarios se sientan seguros y cómodos con su uso. También optamos por el color `#D6A049`, un color asociado a la abundancia, la prosperidad y el bienestar. Luego, usamos el color `#000000` para transmitir seguridad y dar un carácter serio a la aplicación móvil. Por último, el color `#FFFFFF` lo usamos para proporcionar contraste con los demás colores.
+#### Paleta de colores de OfficeTech
+En el siguiente cuadro está la paleta de colores que se usará tanto en la Landing Page como para la Web Application. Escogimos el color `#2C3F84` que es una variedad de azul oscuro para dar una identidad de confianza y elegancia, ya que nuestra aplicación tiene que dar ese aspecto para que nuestros usuarios se sientan seguros y cómodos con su uso. También optamos por el color `#FBD864`, un color asociado a la abundancia, la prosperidad y el bienestar. Asimismo, usamos `#232F9B`, color ligeramente más vibrante a nuestro color principal para poder resaltar elementos importantes. Por último, el color `#FFFFFF` lo usamos para proporcionar contraste con los demás colores.
 
-#### Tabla de la paleta de colores para la implementación del Landing page y Web Application de Hostly
+
+
+#### Tabla de la paleta de colores para la implementación del Landing page y Web Application de Officetech
 
 | Color   | Descripción                              |
 |---------|------------------------------------------|
-| #011530 | Azul oscuro: Confianza y elegancia       |
-| #D6A049 | Dorado: Abundancia, prosperidad, bienestar |
-| #000000 | Negro: Seguridad, seriedad               |
-| #FFFFFF | Blanco: Contraste                        |
+| #2C3F84 | Azul oscuro: Resalta elementos importantes y crea un sentido de estabilidad y confianza.       |
+| #FBD864 | Amarillo: Resalta llamadas a la acción, botones importantes o información relevante. |
+| #232F9B | Azul vibrante: Proporciona sofisticación a la página y aporta profundidad.               |
+| #FFFFFF | Blanco: Ayuda a crear un aspecto moderno y profesional, al mismo tiempo que mejora la legibilidad del texto y la visibilidad de los elementos clave. |
 
-<img src="../assets/Style Guidelines/COLOR.png" alt="COLOR" style="width:80%; height:80%;">
+<br></br>
+<center><img src="../assets/Style Guidelines/Color palette.png" alt="COLOR" style="width:50%"></center>
 
-#### TYPOGRAPHY
-La fuente que se utilizará para el texto, título y demás objetos para la aplicación móvil es "Roboto" y sus derivados de este. El diseñador **Christian Robertson** es la persona que desarrolló esta fuente, con el objetivo de diseñar una fuente moderna y emocional. Por estos motivos, nosotros escogimos utilizar esta fuente para nuestra **Web Application & Landing Page**, ya que buscamos transmitir que nuestra aplicación es moderna y confiable.
-
-<img src="../assets/Style Guidelines/TYPOGRAPHY.png" alt="TYPOGRAPHY" style="width:60%; height:60%;">
+#### Typography
+La fuente que se utilizará para el texto, título y demás elementos para la aplicación móvil es "Lexend Deca" y sus derivados. El diseñador **Thomas Jocking** es la persona que desarrolló esta fuente, con el objetivo de mejorar la legibilidad en pantalla, lo que la hace ideal para el contenido web. Su diseño equilibrado y proporciones cuidadosamente ajustadas hacen que el texto sea fácil de leer, incluso en tamaños pequeños. Por estos motivos,  escogimos utilizar esta fuente para nuestra **Web Application & Landing Page**, ya que combina legibilidad, profesionalismo y versatilidad.
+<br></br>
+<center><img src="../assets/Style Guidelines/Lexend Deca.jpg" alt="TYPOGRAPHY" style="width:60%; height:60%;"></center>
+<br></br>
 
 #### SPACING
 Se definió usar un espaciado alto entre cada objeto, ya que con esto buscamos no saturar la vista del usuario y poder dar una aplicación más legible y amigable de usar.
@@ -444,14 +448,14 @@ Para desarrollar tanto el landing page como la aplicación web tendremos en cuen
 Las medidas en píxeles del alto son relativas, ya que depende del tamaño y el contenido a mostrar.
 
 #### Navegación
-La navegación a utilizar será implementada con un enfoque minimalista en donde para resaltar la sección actual se usará un color dorado en el nombre de la sección.
+La navegación a utilizar será implementada con un enfoque minimalista en donde, para resaltar la sección en la que se encurntra el usaurio, se usará el nombre de la sección se resaltará en **bold**.
 
-<img src="../assets/Web Style Guidelines/NAVIGATION.png" alt="NAVIGATION" style="width:60%; height:60%;">
+<center><img src="../assets/Web Style Guidelines/Navbar.png" alt="NAVIGATION" style="width:60%; height:60%;"></center>
 
 #### Iconos
-Estos son los iconos que usaremos para el footer del landing page.
+Estos son los iconos que usaremos para la sección de contacto del landing page.
 
-<img src="../assets/Web Style Guidelines/ICONS.png" alt="ICONS" style="width:60%; height:60%;">
+<center><img src="../assets/Web Style Guidelines/icons.png" alt="ICONS" style="width:40%"></center>
 
 Estos son los iconos que usaremos para facilitar y decorar la navegación en la aplicación web.
 
