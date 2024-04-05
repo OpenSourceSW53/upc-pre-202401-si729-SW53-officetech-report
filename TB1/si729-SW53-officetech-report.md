@@ -772,8 +772,18 @@ Donde:
 - description: Es un breve resumen de los cambios de código.
 
 ### 5.1.3. Source Code Style Guide & Conventions.
-Que usamos con css (en caso usemos software para SASS)
-supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para comunicarse entre comments
+Para el desarrollo de futuros sprints se utilizarán las siguientes convenciones en el código:
+
+**Idioma:** 
+-	La documentación del código y la elaboración del informe serán realizados en español.
+-	Para los archivos y variables en HTML, CSS, JavaScript, TypeScript y Java, se seguirá una nomenclatura en inglés. Esto incluye nombres de archivos, nombres de clases, funciones, variables, constantes, etc.
+
+**Clases y funciones:**
+-	Los nombres de las clases y funciones se escribirán en inglés y seguirán convenciones de camelCase o snake_case, según sea apropiado para el lenguaje en cuestión.
+
+**Comentarios y documentación del código:**
+-	Se fomentará el uso de comentarios claros y concisos en español para explicar el propósito y funcionamiento de partes importantes del código. Esto facilitará la comprensión del código para otros desarrolladores del equipo.
+
 ### 5.1.4. Software Deployment Configuration.
 Configuraciones de donde y como deployeamos el proyecto
 ## 5.2. Landing Page, Services & Applications Implementation.
