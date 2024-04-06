@@ -785,7 +785,12 @@ Para el desarrollo de futuros sprints se utilizarán las siguientes convenciones
 -	Se fomentará el uso de comentarios claros y concisos en español para explicar el propósito y funcionamiento de partes importantes del código. Esto facilitará la comprensión del código para otros desarrolladores del equipo.
 
 ### 5.1.4. Software Deployment Configuration.
-Configuraciones de donde y como deployeamos el proyecto
+
+Realizamos el deploy de la página a través de GitHub Pages, una plataforma que permite alojar sitios web de forma gratuita siempre que sean estáticos. El proceso que seguimos fue el siguiente:
+1.	Desde el repositorio de la landing, nos dirigimos a la pestaña 'Settings' y posteriormente a la sección de 'Pages'. Aquí seleccionamos la rama del repositorio que contiene el código fuente de nuestra página web.
+2.	Guardamos los cambios para que GitHub Pages inicie el proceso de construcción y deploy de la página.
+3.	Una vez completado el proceso, GitHub Pages nos proporciona una URL donde se alojará nuestra página.
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint n
 #### 5.2.1.1. Sprint Planning n.
