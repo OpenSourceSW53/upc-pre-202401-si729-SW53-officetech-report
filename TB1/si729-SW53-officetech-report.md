@@ -181,8 +181,8 @@ Técnicos especializados en el servicio de reparación de distintos artefactos e
 | Perfil del producto                                     | Productos y servicios | Plataforma de suscripción para servicios técnicos.  | Plataforma en línea de preguntas y respuestas con expertos.| Servicio presencial de venta de productos electrónicos y soporte técnico. |
 || Precios y costos                                        | Variable según la complejidad del servicio y el técnico. | Costo mensual por suscripción. | Variable según la complejidad del servicio y el técnico. |
 || Canales de distribución (Web y/o Móvil)                 | Web y Móvil Web | Web y Móvil Web | Servicio presencial |
-### 2.1.2. Estrategias y tácticas frente a competidores.
 
+### 2.1.2. Estrategias y tácticas frente a competidores.
 
 |Competidores ->|  | OfficeTech |JustAnswer| Compupalace|
 |-|-|-|-|-|
@@ -249,6 +249,7 @@ Ocupación: _____
 
 ### 2.3.2. User Task Matrix.
 **Segmento 1:** 
+
 |  |  User 1  | User 2 | User 3  | User 4 |
 | --- | ----------- | ------------ | ----------- | ---------- |
 | Es dueño o vende productos electrónicos  | <span style="color:#90D26D; font-weight:bold">SI</span>   | <span style="color:#FFC700; font-weight:bold">POCO</span>| <span style="color:#90D26D; font-weight:bold">SI</span>   | <span style="color:#90D26D; font-weight:bold">SI</span> |
@@ -257,6 +258,7 @@ Ocupación: _____
 | Brinda soporte técnico a sus clientes como parte de garantía a sus productos vendidos | <span style="color:#FFC700; font-weight:bold">POCO</span> | <span style="color:#FFC700; font-weight:bold">POCO</span>        | <span style="color:#FFC700; font-weight:bold">POCO</span>         | <span style="color:#E72929; font-weight:bold">NO</span>       |
 
 **Segmento 2:** 
+
 |  |  User 1  | User 2 | User 3  | User 4 |
 | --- | ----------- | ------------ | ----------- | ---------- |
 | Es técnico de especialidad  | <span style="color:#90D26D; font-weight:bold">SI</span>   | <span style="color:#90D26D; font-weight:bold">SI</span>| <span style="color:#90D26D; font-weight:bold">SI</span>   | <span style="color:#90D26D; font-weight:bold">SI</span> |
@@ -802,9 +804,12 @@ E1plicar como vamos a plannear el sprint?
 ![Sprint review development Evidence](image.jpg)
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 ![Sprint review Testing suite Evidence](image.jpg)
-#### 5.2.1.5. E1ecution Evidence for Sprint Review.
+#### 5.2.1.5. Ejecution Evidence for Sprint Review.
+
 ![Sprint review E1ecution Evidence](image.jpg)
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+En este sprint los miembros de TechConnect Solutions complementaron satisfactoriamente las tareas propuestas. 
+El sprint estuvo relacionado mayormente con el diseño y desarrollo del software. A lo largo del desarrollo se fueron realizando correcciones a errores dentro del codigo.
 ![Sprint review Services Documentation Evidence](image.jpg)
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 Para el sprint presentado de la landing page se optó por varias herramientas para su desarrollo y despliegue en la web de manera pública.
