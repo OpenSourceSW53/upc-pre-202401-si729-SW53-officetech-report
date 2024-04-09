@@ -55,7 +55,7 @@ Además, utilizamos una variedad de métodos innovadores para resolver los probl
 | Ramirez Contreras, Zaid Valentino <img src="../assets/members-profile/Zado.png" alt="Imagen del compañer" style="width:60%">                | U202218472        |Ingenieria de software| C++, python, HTML5, CSS3, Javascript, SQL |
 | Herrera Aguirre, Fabia Alejandra <img src="../assets/members-profile/pelufoto.png" alt="Imagen del compañero" style="width:60%">            | U202219422        |Ingenieria de software| C++, Python, SQL, creativa, responsable  |
 | Ramirez Ramirez, Marcelo Sebstian <img src="../assets/members-profile/ramirez.jpeg" alt="Imagen del compañero" style="width:60%">           | U202210582        |Ingenieria de software| C++, Javascript,SQL,HTML5,CSS      |
-| Rubio Calixto, Adrian Gustavo <img src="../assets/members-profile/adrian.png" alt="Imagen del compañero" style="width:60%">                 | U200217622        |Ingenieria de software| C++, HTML,  CSS,  Java, y  python       |
+| Rubio Calixto, Adrian Gustavo <img src="../assets/members-profile/Adrian.png" alt="Imagen del compañero" style="width:60%">                 | U202017622        |Ingenieria de software| C++, HTML,  CSS,  Java, y  python       |
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
