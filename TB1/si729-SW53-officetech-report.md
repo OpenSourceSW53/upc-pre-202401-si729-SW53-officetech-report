@@ -176,7 +176,7 @@ Técnicos especializados en el servicio de reparación de distintos artefactos e
 | |  | OfficeTech | JustAnswer  | Compupalace |
 |-|-|-|-|-|
 | PERFIL| Overview | OfficeTech proporciona acceso rápido y confiable a servicios técnicos, permitiendo a las empresas reducir costos al evitar la necesidad de mantener un equipo interno de soporte. | Plataforma en línea que conecta a usuarios con expertos verificados en una variedad de campos, incluyendo tecnología y electrónica. | Empresa peruana que ofrece servicios integrales de soporte técnico y soluciones informáticas para empresas y usuarios individuales. |
-|| Ventaja competitiva ¿Qué valor ofrece a los clientes? |  - Reducción de costos para las empresas que contraten nuestros servicios.<br>- Garantizamos servicios técnicos de calidad confiable. | - Facilita el acceso a expertos verificados.<br>- Cuenta con una gran variedad temas en los que brindan asistencia, desde asistencia legal hasta tecnología.  | - Reputación como proveedor confiable de servicios informáticos.<br>- Amplia gama de servicios, incluyendo reparación y mantenimiento de equipos.
+|| Ventaja competitiva ¿Qué valor ofrece a los clientes? |  - Reducción de costos para las empresas que contraten nuestros servicios.<br>- Garantizamos servicios técnicos de calidad confiable. | - Facilita el acceso a expertos verificados.<br>- Cuenta con una gran variedad temas en los que brindan asistencia, desde asistencia legal hasta tecnología.  | - Reputación como proveedor confiable de servicios informáticos.<br>- Amplia gama de servicios, incluyendo reparación y mantenimiento de equipos.|
 || Mercado Objetivo                                        | - Empresas que necesitan un soporte técnico confiable para satisfacer las necesidades de sus clientes.<br>- Profesionales en tecnología enfrentan desafíos para atraer nuevos clientes | Usuarios individuales y empresas que buscan respuestas especializadas en una gran variedad de campos. | Usuarios individuales en Perú que requieren servicios de reparación, mantenimiento y asistencia técnica para sus equipos. |
 | Perfil de marketing                                     | Estrategia de Marketing | - Campañas dirigidas a gerentes de empresas de tecnología y electrónica.<br>- Participación en ferias comerciales y eventos.<br>- Publicidad en línea | - Publicidad en línea y en redes sociales.<br>- Colaboraciones con sitios web y blogs relevantes. | - Publicidad en medios de comunicación tradicionales. |
 | Perfil del producto                                     | Productos y servicios | Plataforma de suscripción para servicios técnicos.  | Plataforma en línea de preguntas y respuestas con expertos.| Servicio presencial de venta de productos electrónicos y soporte técnico. |
@@ -229,11 +229,11 @@ Ocupación: Ing.Informatico
 <img src="../assets/Entrevistas-IMG/Entrevista-Rusbel Bargas.PNG" alt="Entrevista Rusbel" style="width:100%;">
 
 **Segmento 2**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
+Nombre: David Beltran Burgos
+Edad: 23 años 
+Ocupación: Soporte TI
+<img src="../assets/Entrevistas-IMG/Entrevista-David-Beltran.png" alt="Entrevista David" style="width:100%;">
+La entrevista fue realizada a David Beltrán, un técnico de reparación en el área de TI, que se encarga de dar soporte y mantenimiento a dispositivos de empresas. Beltrán menciona que uno de los mayores desafíos es atraer nuevos clientes, dada la competencia y la variedad de servicios que ofrecen empresas mas grandes y consolidadas. Utiliza principalmente LinkedIn, Instagram y Facebook como canales de comunicación para llegar a sus clientes potenciales. Sus servicios incluyen actualización de equipos de cómputo, reparaciones y soporte para sistemas remotos como Azure y AWS. Para abordar los problemas técnicos, Beltrán puede ofrecer servicios de manera remota o presencial dependiendo del problema. Varias veces tiene que trabajar bajo presion, pues las empresas le exigen que termine rapido. Maneja estas situaciones explicando el tiempo estimado que llevará resolver el problema y brindando justificaciones si es necesario. La entrevista concluyó con la posibilidad de requerir feedback en el futuro y agradecimientos mutuos.
 
 ### 2.2.3. Análisis de entrevistas.
 **Segmento 1:**
