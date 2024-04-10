@@ -643,16 +643,36 @@ En el contexto de OfficeTech se requerirán de sistemas de navegación para que 
 <img src="../assets/Web Applications Wireframes/16.png" alt="Web app wireframes 16" style="width:100%;">
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
-Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
-![Web Aplication Wireflow](image.jpg)
+<img src="../assets/Wireflow.jpg" alt="Wireflow Diagrams">
+
+[URL de los diagramas (Hecho en Miro)](https://miro.com/app/board/uXjVKVjVgwc=/?share_link_id=649459095072)
 ### 4.4.2. Web Applications Mock-ups.
-Diseño en todo aspecto
-![Web Aplication Mockup](image.jpg)
+<img src="../assets/Web Applications Mockups/HomePage.png" alt="Web App Mockup 1">
+<img src="../assets/Web Applications Mockups/Login.png" alt="Web App Mockup 2">
+<img src="../assets/Web Applications Mockups/Sign Up.png" alt="Web App Mockup 3">
+<img src="../assets/Web Applications Mockups/NUEVO 6.png" alt="Web App Mockup 4">
+<img src="../assets/Web Applications Mockups/App HomePage (Company).png" alt="Web App Mockup 5">
+<img src="../assets/Web Applications Mockups/Forum (Company).png" alt="Web App Mockup 6">
+<img src="../assets/Web Applications Mockups/Services (Company).png" alt="Web App Mockup 7">
+<img src="../assets/Web Applications Mockups/Request tech service (Company).png" alt="Web App Mockup 8">
+<img src="../assets/Web Applications Mockups/Profile (Company).png" alt="Web App Mockup 9">
+<img src="../assets/Web Applications Mockups/NUEVO 7.png" alt="Web App Mockup 10">
+
+<img src="../assets/Web Applications Mockups/App HomePage (Technician).png" alt="Web App Mockup 5">
+<img src="../assets/Web Applications Mockups/Forum (Technician).png" alt="Web App Mockup 6">
+<img src="../assets/Web Applications Mockups/History (Technician).png" alt="Web App Mockup 7">
+<img src="../assets/Web Applications Mockups/Profile (Technician).png" alt="Web App Mockup 9">
+<img src="../assets/Web Applications Mockups/NUEVO 7.png" alt="Web App Mockup 10">
+
 ### 4.4.3. Web Applications User Flow Diagrams.
-un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
-![Web Aplication User Flow Diagram](image.jpg)
+<img src="../assets/User Flow.jpg" alt="User Flow">
+
+[URL de los diagramas (Hecho en Miro)](https://miro.com/app/board/uXjVKVhxM9w=/?share_link_id=794525784498)
+
 ## 4.5. Web Applications Prototyping.
-[URL del Prototipo (Hecho en figma)](https://www.example.com)
+<img src="../assets/prototyping.png" alt="Prototype">
+
+[URL del Prototipo (Hecho en figma)](https://www.figma.com/proto/rtpz07xuso8nFqoG3itzcN/OfficeTech-AppWeb-Wireframe?type=design&node-id=16-436&t=NbzmHQa3hOCXZL3k-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=16%3A436&mode=design)
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
 1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
