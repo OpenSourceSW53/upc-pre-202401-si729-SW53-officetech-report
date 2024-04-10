@@ -36,8 +36,8 @@
 # Student Outcome 3
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-|-|-|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|Marcelo Ramirez:<br> *TB1:* Durante el proyecto, aprendí a comunicar ideas complejas de forma clara y sencilla a distintas audiencias, lo que mejoró significativamente la colaboración y el interés en nuestro trabajo. Esta experiencia reforzó la importancia de adaptar mi comunicación a diferentes contextos, un aprendizaje valioso para mi futuro profesional. <br><br>Zaid Ramirez:<br>**TB1**: Durante la elaboración del proyecto, logré comunicar de manera efectiva los resultados y el proceso de nuestro proyecto, utilizando Lean UX como marco principal. También compartí los hallazgos esenciales obtenidos a través de nuestra investigación de UX, que permitió comprender a fondo las necesidades de los usuarios, identificar las tareas críticas y visualizar la experiencia completa del usuario con la aplicación.<br><br>Adrian Rubio:<br>**TB1**: Me desarrolle eficazmente en mis tareas designadas, apegándome a los horarios, reglas y plazos establecidos por el equipo. <br>*TB2:* texto etc.. |Mediante la eficiencia, organización y el marco de trabajo establecido dentro del grupo logramos desarrollar nuestro primer entregable de manera correcta.|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería..|Marcelo Ramirez:<br> *TB1:* En mi rol dentro del proyecto, me esforcé por comunicar ideas y resultados de manera clara y objetiva. Mis contribuciones, desde informes hasta presentaciones, buscaban ser accesibles y comprensibles para todos, un desafío que me enseñó el valor de una comunicación efectiva en el ámbito académico. <br><br> Zaid Ramirez<br>**TB1:** Durante este proyecto, he  documentado adecuadamente el emprendimiento utilizando las herramientas apropiadas, con las convenciones de idioma, la estructura de nombres y prácticas de programación establecidos en los aspectos de la solución. Además, he llevado a cabo y documentado adecuadamente los procesos Lean UX, Design, Prototyping, etc., para la comunicación efectiva con diferentes rangos de audiencia.<br><br>Adrian Rubio:<br>**TB1**: Por medio de las herramientas colaborativas online logre aumentar mi capacidad de comunicación y trabajo en equipo. <br> *TB2:* texto etc.. |Gracias a las herramientas colaborativas brindadas y las aplicaciones de comunicaciónn logramos establecer fechas y límites para nuestros trabajos|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|Marcelo Ramirez:<br> **TB1:** Durante el proyecto, aprendí a comunicar ideas complejas de forma clara y sencilla a distintas audiencias, lo que mejoró significativamente la colaboración y el interés en nuestro trabajo. Esta experiencia reforzó la importancia de adaptar mi comunicación a diferentes contextos, un aprendizaje valioso para mi futuro profesional. <br><br>Zaid Ramirez:<br>**TB1**: Durante la elaboración del proyecto, logré comunicar de manera efectiva los resultados y el proceso de nuestro proyecto, utilizando Lean UX como marco principal. También compartí los hallazgos esenciales obtenidos a través de nuestra investigación de UX, que permitió comprender a fondo las necesidades de los usuarios, identificar las tareas críticas y visualizar la experiencia completa del usuario con la aplicación.<br><br>Adrian Rubio:<br>**TB1**: Me desarrolle eficazmente en mis tareas designadas, apegándome a los horarios, reglas y plazos establecidos por el equipo.<br><br>Arian Rodriguez:<br>**TB1**: Me desarrollé adecuadamente en las tareas asignadas y mejoré algunas habilidades blandas como la comunicación con el equipo, además que se conoce mejor el proceso a desarrollar para posicionarlo desde diferentes perspectivas|Mediante la eficiencia, organización y el marco de trabajo establecido dentro del grupo logramos desarrollar nuestro primer entregable de manera correcta.|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería..|Marcelo Ramirez:<br> **TB1:** En mi rol dentro del proyecto, me esforcé por comunicar ideas y resultados de manera clara y objetiva. Mis contribuciones, desde informes hasta presentaciones, buscaban ser accesibles y comprensibles para todos, un desafío que me enseñó el valor de una comunicación efectiva en el ámbito académico. <br><br> Zaid Ramirez<br>**TB1:** Durante este proyecto, he  documentado adecuadamente el emprendimiento utilizando las herramientas apropiadas, con las convenciones de idioma, la estructura de nombres y prácticas de programación establecidos en los aspectos de la solución. Además, he llevado a cabo y documentado adecuadamente los procesos Lean UX, Design, Prototyping, etc., para la comunicación efectiva con diferentes rangos de audiencia.<br><br>Adrian Rubio:<br>**TB1**: Por medio de las herramientas colaborativas online logre aumentar mi capacidad de comunicación y trabajo en equipo.<br><br>Arian Rodriguez:<br>**TB1**: Elaboré mis propuestas planteadas para el proyecto siguiendo el marco de la ingeniería de software, aplicando y viendo a futuro cómo se desenvolvería el proceso |Gracias a las herramientas colaborativas brindadas y las aplicaciones de comunicación logramos establecer fechas y límites para nuestros trabajos|
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
@@ -797,7 +797,6 @@ Realizamos el deploy de la página a través de GitHub Pages, una plataforma que
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint n
 #### 5.2.1.1. Sprint Planning n.
-E1plicar como vamos a plannear el sprint?
 #### 5.2.1.2. Sprint Backlog n.
 ![SprintBacklog n](image.jpg) 
 #### 5.2.1.3. Development Evidence for Sprint Review.
@@ -811,6 +810,7 @@ E1plicar como vamos a plannear el sprint?
 En este sprint los miembros de TechConnect Solutions complementaron satisfactoriamente las tareas propuestas. 
 El sprint estuvo relacionado mayormente con el diseño y desarrollo del software. A lo largo del desarrollo se fueron realizando correcciones a errores dentro del codigo.
 ![Sprint review Services Documentation Evidence](image.jpg)
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 Para el sprint presentado de la landing page se optó por varias herramientas para su desarrollo y despliegue en la web de manera pública.
 - *Git*: Se utilizó para el control de versiones del código fuente.
@@ -832,65 +832,11 @@ Después de configurar, se desplegó la landing page de manera exitosa.
 Los integrantes del equipo, colaboraron de manera equitativa para desarrollar los diferentes features de la landing page, se utilizó la herramienta de GitFlow para manejar las actualizaciones que iba realizando cada uno, para ello existian las ramas: main, development, features, de modo que cada uno trabajaba en su rama feature, para luego trasladarlo a development y ver que este todo correcto y finalmente desplegarlo a producción con la rama main.
 Las evidencias muestran como los integrantes realizaron diferentes commits para los features.
 
-![Sprint review Team Collaboration Insights](/assets/Software%20Deployment/evidence-insights-1.PNG)
-
-![Sprint review Team Collaboration Insights](/assets/Software%20Deployment/evidence-insights-2.PNG)
-
-## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
-**Preguntas generales:**
-
-1. ¿Cuál es su nombre? 
-2. ¿Qué edad tiene? 
-3. ¿A qué se dedica? 
-4. ¿[Opinion de idea de propuesta]? 
-
-**Entrevistas usuario segmento 2**
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?  
-   
-**Entrevistas usuario segmento 2**
-1. ¿Lorem? 
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem? 
-### 5.3.2. Registro de Entrevistas.
-**Segmento 1**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
-
-**Segmento 2**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
-### 5.3.3. Evaluaciones según heurísticas.
-| HEURÍSTICA   | EVALUACIÓN ✅❌ | NOTA      |
-| --------------------------------------------- | ---------- | --------- |
-| Visibilidad del estado del sistema            |            | {texto}   |
-| Coincidencia entre el sistema y el mundo real |            | {texto}   |
-| Control y libertad del usuario                |            | {texto}   |
-| Consistencia y estándares                     |            | {texto}   |
-| Prevención de errores                         |            | {texto}   |
-| Mostrar antes que recordar                    |            | {texto}   |
-| Flexibilidad y eficiencia de uso              |            | {texto}   |
-| Diseño estético y minimalista                 |            | {texto}   |
-| Comunicar errores con facilidad               |            | {texto}   |
-| Ayuda y documentación                         |            | {texto}   |
-## 5.4. Video About-the-Product.
-[URL del video about the product](https://www.example.com)
 # Conclusiones
 {texto}
-# Conclusiones y recomendaciones.
+# Recomendaciones.
 {texto}
-# Video About-the-Team.
-[URL del video about the team](https://www.example.com)
+
 # Bibliografía
 ``` 
 formato
@@ -900,10 +846,6 @@ formato
 
 ```
 # Anexos
-
-datos, gráficos, imágenes, esquemas, mapas o referencias de otros autores
-
-![Imagen de algo no nuestro lol](image.jpg)
 
 
 
