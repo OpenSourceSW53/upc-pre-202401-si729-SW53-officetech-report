@@ -805,9 +805,12 @@ E1plicar como vamos a plannear el sprint?
 ![Sprint review development Evidence](image.jpg)
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 ![Sprint review Testing suite Evidence](image.jpg)
-#### 5.2.1.5. Ejecution Evidence for Sprint Review.
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+<img src="../assets/Execution-Evidence-For-Srpint-Review/home.png" alt="home" style="width:100%;">
+<img src="../assets/Execution-Evidence-For-Srpint-Review/applications.png" alt="Application" style="width:100%;">
+<img src="../assets/Execution-Evidence-For-Srpint-Review/contact.png" alt="Contact" style="width:100%;">
 
-![Sprint review E1ecution Evidence](image.jpg)
+Add link despliegue web estatica
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 En este sprint los miembros de TechConnect Solutions complementaron satisfactoriamente las tareas propuestas. 
 El sprint estuvo relacionado mayormente con el diseño y desarrollo del software. A lo largo del desarrollo se fueron realizando correcciones a errores dentro del codigo.
