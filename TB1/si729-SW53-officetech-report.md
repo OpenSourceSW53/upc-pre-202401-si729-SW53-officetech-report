@@ -624,8 +624,24 @@ En el contexto de OfficeTech se requerirán de sistemas de navegación para que 
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
-lo funcional de cada aspecto del wireframe 
-![Web Aplication Wireframe](image.jpg)
+
+<img src="../assets/Web Applications Wireframes/1.png" alt="Web app wireframes 1" style="width:100%;">
+<img src="../assets/Web Applications Wireframes/2.png" alt="Web app wireframes 2" style="width:100%;">
+<img src="../assets/Web Applications Wireframes/3.png" alt="Web app wireframes 3" style="width:100%;">
+<img src="../assets/Web Applications Wireframes/4.png" alt="Web app wireframes 4" style="width:100%;">
+<img src="../assets/Web Applications Wireframes/5.png" alt="Web app wireframes 5" style="width:100%;">
+<img src="../assets/Web Applications Wireframes/6.png" alt="Web app wireframes 6" style="width:100%;">
+<img src="../assets/Web Applications Wireframes/7.png" alt="Web app wireframes 7" style="width:100%;">
+<img src="../assets/Web Applications Wireframes/8.png" alt="Web app wireframes 8" style="width:100%;">
+<img src="../assets/Web Applications Wireframes/9.png" alt="Web app wireframes 9" style="width:100%;">
+<img src="../assets/Web Applications Wireframes/10.png" alt="Web app wireframes 10" style="width:100%;">
+<img src="../assets/Web Applications Wireframes/11.png" alt="Web app wireframes 11" style="width:100%;">
+<img src="../assets/Web Applications Wireframes/12.png" alt="Web app wireframes 12" style="width:100%;">
+<img src="../assets/Web Applications Wireframes/13.png" alt="Web app wireframes 13" style="width:100%;">
+<img src="../assets/Web Applications Wireframes/14.png" alt="Web app wireframes 14" style="width:100%;">
+<img src="../assets/Web Applications Wireframes/15.png" alt="Web app wireframes 15" style="width:100%;">
+<img src="../assets/Web Applications Wireframes/16.png" alt="Web app wireframes 16" style="width:100%;">
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
 Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
 ![Web Aplication Wireflow](image.jpg)
