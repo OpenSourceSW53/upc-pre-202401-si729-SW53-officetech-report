@@ -802,9 +802,20 @@ E1plicar como vamos a plannear el sprint?
 #### 5.2.1.2. Sprint Backlog n.
 ![SprintBacklog n](image.jpg) 
 #### 5.2.1.3. Development Evidence for Sprint Review.
-![Sprint review development Evidence](image.jpg)
+Para este primer sprint se decidió trbajar en una rama diferente para despues unirlo todo en develop . Cada miembro ha realizado un commit para luego hacer merge. 
+| Repository                             | Branch                     | Commit ID                                  | Commit Message            | Committed on(date) |
+|----------------------------------------|----------------------------|--------------------------------------------|---------------------------|--------------------|
+| OpenSourceSW53/officetech-landing-page | feature/about              | 0facfb4, 952cdfd, a426a69                  | feat: added about         | 03/04/24           |
+| OpenSourceSW53/officetech-landing-page | feature/application        | 951e82d, bfa6c68, 85d73de                  | feat: added application   | 04/04/24           |
+| OpenSourceSW53/officetech-landing-page | feature/Contact            | 3ca23e7, 9a4bfc2                           | feat: added Contact       | 03/04/24           |
+| OpenSourceSW53/officetech-landing-page | feature/Home               | 5df09ca, 8ec5ce4, 8477fs28                 | feat: added Home          | 03/04/24           |
+| OpenSourceSW53/officetech-landing-page | feature/navbar             | 857493c, bd78533, ffd1a90                  | feat: added navbar        | 02/04/24           |
+| OpenSourceSW53/officetech-landing-page | feature/officetech-features| 0facfb4, 952cdfd, a426a69                  | feat: added features      | 03/04/24           |
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
-![Sprint review Testing suite Evidence](image.jpg)
+| Repository                             | Branch                     | Commit ID                                  | Commit Message            | Committed on(date) |
+|----------------------------------------|----------------------------|--------------------------------------------|---------------------------|--------------------|
+| OpenSourceSW53/officetech-landing-page | feature/main               |                                            |                           |                    |
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 <img src="../assets/Execution-Evidence-For-Srpint-Review/home.png" alt="home" style="width:100%;">
 <img src="../assets/Execution-Evidence-For-Srpint-Review/applications.png" alt="Application" style="width:100%;">
@@ -840,61 +851,11 @@ Las evidencias muestran como los integrantes realizaron diferentes commits para 
 
 ![Sprint review Team Collaboration Insights](/assets/Software%20Deployment/evidence-insights-2.PNG)
 
-## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
-**Preguntas generales:**
-
-1. ¿Cuál es su nombre? 
-2. ¿Qué edad tiene? 
-3. ¿A qué se dedica? 
-4. ¿[Opinion de idea de propuesta]? 
-
-**Entrevistas usuario segmento 2**
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?  
-   
-**Entrevistas usuario segmento 2**
-1. ¿Lorem? 
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem? 
-### 5.3.2. Registro de Entrevistas.
-**Segmento 1**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
-
-**Segmento 2**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
-### 5.3.3. Evaluaciones según heurísticas.
-| HEURÍSTICA   | EVALUACIÓN ✅❌ | NOTA      |
-| --------------------------------------------- | ---------- | --------- |
-| Visibilidad del estado del sistema            |            | {texto}   |
-| Coincidencia entre el sistema y el mundo real |            | {texto}   |
-| Control y libertad del usuario                |            | {texto}   |
-| Consistencia y estándares                     |            | {texto}   |
-| Prevención de errores                         |            | {texto}   |
-| Mostrar antes que recordar                    |            | {texto}   |
-| Flexibilidad y eficiencia de uso              |            | {texto}   |
-| Diseño estético y minimalista                 |            | {texto}   |
-| Comunicar errores con facilidad               |            | {texto}   |
-| Ayuda y documentación                         |            | {texto}   |
-## 5.4. Video About-the-Product.
-[URL del video about the product](https://www.example.com)
 # Conclusiones
 {texto}
 # Conclusiones y recomendaciones.
 {texto}
-# Video About-the-Team.
-[URL del video about the team](https://www.example.com)
+
 # Bibliografía
 ``` 
 formato
