@@ -802,9 +802,20 @@ E1plicar como vamos a plannear el sprint?
 #### 5.2.1.2. Sprint Backlog n.
 ![SprintBacklog n](image.jpg) 
 #### 5.2.1.3. Development Evidence for Sprint Review.
-![Sprint review development Evidence](image.jpg)
+Para este primer sprint se decidió trbajar en una rama diferente para despues unirlo todo en develop . Cada miembro ha realizado un commit para luego hacer merge. 
+| Repository                             | Branch                     | Commit ID                                  | Commit Message            | Committed on(date) |
+|----------------------------------------|----------------------------|--------------------------------------------|---------------------------|--------------------|
+| OpenSourceSW53/officetech-landing-page | feature/about              | 0facfb4, 952cdfd, a426a69                  | feat: added about         | 03/04/24           |
+| OpenSourceSW53/officetech-landing-page | feature/application        | 951e82d, bfa6c68, 85d73de                  | feat: added application   | 04/04/24           |
+| OpenSourceSW53/officetech-landing-page | feature/Contact            | 3ca23e7, 9a4bfc2                           | feat: added Contact       | 03/04/24           |
+| OpenSourceSW53/officetech-landing-page | feature/Home               | 5df09ca, 8ec5ce4, 8477fs28                 | feat: added Home          | 03/04/24           |
+| OpenSourceSW53/officetech-landing-page | feature/navbar             | 857493c, bd78533, ffd1a90                  | feat: added navbar        | 02/04/24           |
+| OpenSourceSW53/officetech-landing-page | feature/officetech-features| 0facfb4, 952cdfd, a426a69                  | feat: added features      | 03/04/24           |
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
-![Sprint review Testing suite Evidence](image.jpg)
+| Repository                             | Branch                     | Commit ID                                  | Commit Message            | Committed on(date) |
+|----------------------------------------|----------------------------|--------------------------------------------|---------------------------|--------------------|
+| OpenSourceSW53/officetech-landing-page | feature/main               |                                            |                           |                    |
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 <img src="../assets/Execution-Evidence-For-Srpint-Review/home.png" alt="home" style="width:100%;">
 <img src="../assets/Execution-Evidence-For-Srpint-Review/applications.png" alt="Application" style="width:100%;">
