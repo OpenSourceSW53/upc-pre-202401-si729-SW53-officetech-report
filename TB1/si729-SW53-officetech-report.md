@@ -917,9 +917,24 @@ Las evidencias muestran como los integrantes realizaron diferentes commits para 
 ![Sprint review Team Collaboration Insights](/assets/Software%20Deployment/evidence-insights-2.PNG)
 
 # Conclusiones
-{texto}
 # Conclusiones y recomendaciones.
-{texto}
+**Conclusiones:**
+- Nuestro enfoque en dos grupos principales, empresas que requieren soporte técnico y los técnicos que proporcionan estos servicios, fue crucial. Este conocimiento profundo de las necesidades específicas de cada audiencia guió todas las decisiones relacionadas con el diseño y las funcionalidades de la plataforma.
+
+- Optamos por un diseño intuitivo y fácil de usar para garantizar una experiencia de usuario satisfactoria. La selección de colores que inspiran confianza y profesionalismo, junto con una tipografía clara, ha sido esencial para la acogida de los usuarios. La estructura de la página facilita la navegación, permitiendo que los usuarios encuentren lo que necesitan de manera rápida y efectiva.
+
+- Nos enfrentamos a varios retos técnicos y de diseño durante el desarrollo, que superamos a través de pruebas constantes y retroalimentación directa de los usuarios. Estos desafíos nos enseñaron valiosas lecciones sobre adaptabilidad y resolución de problemas, mejorando significativamente la calidad de nuestra plataforma. Además, la optimización constante basada en análisis de datos y comentarios de usuarios es clave para mantener y mejorar la experiencia en la plataforma.
+
+**Recomendaciones:**
+- Antes de iniciar el desarrollo web, es crucial tener un sólido conocimiento de HTML para estructurar correctamente el contenido y de CSS para el diseño visual. Esto asegura que la base de cualquier página web sea robusta y funcional.
+
+- Fomentar la participación activa de todos los miembros del equipo es esencial. Una comunicación clara y constante ayuda a evitar retrasos y asegura que todos los integrantes estén alineados con los objetivos del proyecto.
+
+- Implementar ciclos de retroalimentación y pruebas de usabilidad durante el desarrollo para recoger impresiones y mejorar iterativamente el producto. Esto ayuda a ajustar la interfaz y la funcionalidad según las necesidades reales de los usuarios.
+
+- Emplear metodologías ágiles como Scrum o Kanban para gestionar el proyecto puede incrementar la eficiencia del equipo, permitiendo entregas más rápidas y adaptativas frente a los cambios o requerimientos emergentes.
+
+- Utilizar herramientas como Figma para diseñar prototipos antes de desarrollar las páginas permite visualizar y realizar ajustes en el diseño de manera eficiente, mejorando la experiencia del usuario final.
 
 # Bibliografía
 ``` 
