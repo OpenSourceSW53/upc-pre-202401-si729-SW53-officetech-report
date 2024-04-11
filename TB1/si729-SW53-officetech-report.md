@@ -399,7 +399,9 @@ La entrevista fue realizada a David Beltrán, un técnico de reparación en el �
 | 15 | HU15 | Informes de uso de servicios    | "Como usuario, deseo recibir informes detallados sobre mi uso de servicios en la plataforma, para optimizar mi selección y gastos en servicios futuros." | 5 |
 | 16 | HU16 | Conocer carecticas principales de OfficeTech    | "Como usuario, deseo conocer mas sobre officeTech mostrando algunas de sus caracteristicas y ventajas, para poder sentirme confiada del servicio que voy a adquirir." | 5 |
 | 17 | HU17 | Introduccion sencilla     | "Como usuario, deseo conocer el funcionamiento de la página a través de una pequeña guía, para poder saber bien qué hacer al momento de comenzar." | 5 |
-
+| 18 | HU18 | Vista móvil | "Como usuario, deseo visualizar la landing page desde mi dispositivos móvile visitar la página mientras uso mi teléfono | 5 |
+| 19 | HU19 | Cliente interesado | "Como usuario, quiero tener un formulario de contacto simple enviar mis preguntas directamente a la empresa | 5 |
+| 20 | HU20 | Facilidad de Informacion | "Como usuario, quiero ver una introducción clara y concisa de lo que ofrece la página entender rápidamente si el servicio/producto es lo que estoy buscando | 5 |
 ---
 
 # Capítulo IV: Product Design
