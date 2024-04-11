@@ -898,7 +898,7 @@ Para este primer sprint se decidió trbajar en una rama diferente para despues u
 <img src="../assets/Execution-Evidence-For-Srpint-Review/applications.png" alt="Application" style="width:100%;">
 <img src="../assets/Execution-Evidence-For-Srpint-Review/contact.png" alt="Contact" style="width:100%;">
 
-Add link despliegue web estatica
+[https://officetech-landing-page.vercel.app/](https://officetech-landing-page.vercel.app/)
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 En este sprint los miembros de TechConnect Solutions complementaron satisfactoriamente las tareas propuestas. 
 El sprint estuvo relacionado mayormente con el diseño y desarrollo del software. A lo largo del desarrollo se fueron realizando correcciones a errores dentro del codigo.
