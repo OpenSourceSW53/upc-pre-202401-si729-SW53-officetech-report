@@ -840,20 +840,20 @@ Realizamos el deploy de la página a través de GitHub Pages, una plataforma que
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint n
-#### 5.2.1.1. Sprint Planning n.
-| Sprint #                 | Sprint n                                                                                       |
+#### 5.2.1.1. Sprint Planning 1.
+| Sprint #                 | Sprint 1                                                                                       |
 |--------------------------|------------------------------------------------------------------------------------------------|
 | **Sprint Planning Background**  |                                                                                                 |
-| Date                     | YYYY-MM-DD                                                                                     |
-| Time                     | HH:MM AM/PM                                                                                    |
-| Location                 | (Descripción de la ubicación de la reunión, física o virtual)                                   |
-| Prepared By              | Jiménez Rosas, Arturo Eduardo                                                                  |
-| Attendees (to planning meeting) | Jiménez Rosas, Arturo Eduardo / Rodríguez Peña, Jorge Andrés / ...                           |
-| **Sprint n – 1 Review Summary**       | (Resumen del Sprint anterior, en términos de resultados alcanzados a nivel de productos de software, opiniones de miembros y feedback de product owner.)|
-| **Sprint n – 1 Retrospective Summary** | (Resumen del Sprint anterior, en términos de opiniones de miembros del equipo sobre aciertos u oportunidades de mejora en su forma de trabajo)      |
+| Date                     | 2024-03-31                                                                                     |
+| Time                     | 08:00 PM                                                                                    |
+| Location                 | REUNION VIRTUAL POR DISCORD                                                                    |
+| Prepared By              | Jara Benites Quique Vladimir / Herrera Aguirre Fabia Alejandra / Rodriguez Vargas Arian Martin / Ramirez Ramirez Marcelo Sebastian / Ramirez Conteras Zaid Valentino / Rubio Calixto Adrian Gustavo                                                                   |
+| Attendees (to planning meeting) | Jara Benites Quique Vladimir / Herrera Aguirre Fabia Alejandra / Rodriguez Vargas Arian Martin / Ramirez Ramirez Marcelo Sebastian / Ramirez Conteras Zaid Valentino / Rubio Calixto Adrian Gustavo                       |
+| **Sprint n – 1 Review Summary**       |En el Sprint anterior, logramos implementar 5 de las 7 User Stories planeadas, resultando en mejoras significativas en la funcionalidad de búsqueda y la velocidad de carga de nuestra aplicación. Los comentarios de los miembros del equipo indicaron una buena colaboración, aunque se reconoció la necesidad de mejorar la comunicación con el equipo de diseño para anticipar cambios. El feedback del product owner fue mayormente positivo, destacando la entrega de la funcionalidad de exportación de datos, aunque mencionó que la documentación de la API necesita ser más detallada para facilitar la integración con sistemas externos. |
+| **Sprint n – 1 Retrospective Summary** | Durante la retrospectiva del Sprint anterior, el equipo destacó la efectividad de las nuevas reuniones diarias cortas, las cuales ayudaron a identificar y resolver rápidamente los bloqueos. También se elogiaron las sesiones de revisión de código por mejorar la calidad del landing page. Sin embargo, se señaló que la gestión del tiempo fue un desafío, particularmente en la estimación de tareas, lo que resultó en que dos historias de usuario no se completaran. El equipo acordó intentar técnicas de estimación de tiempo más rigurosas y asignar tiempo específico para la gestión de mejoras para el próximo Sprint.|
 | **Sprint Goal & User Stories** |                                                                                                 |
-| Sprint n Goal             | (Definir el Goal del Sprint n y la métrica de cumplimiento.)                                   |
-| Sprint n Velocity         | (Definir el Velocity establecido para el Sprint n, es decir cuántos Story Points puede aceptar el equipo para este Sprint n.)                        |
+| Sprint 1 Goal             | El objetivo para el Sprint 1 es desarrollar una landing page para que el usuario tenga informacion de los servicios que brindamos. Este Sprint se centrará en la implementación de un landing page informativo con una interfaz intuitiva para que el cliente conozca quienes somos y que servicios brindamos. La métrica de éxito será el aumento de las visitas a la pagina web y el aumento de mensajes de contacto de parte de clientes pontenciales interesados en los servicios brindados.|
+| Sprint 1 Velocity         | (Definir el Velocity establecido para el Sprint n, es decir cuántos Story Points puede aceptar el equipo para este Sprint n.)                        |
 | Sum of Story Points      | (Colocar la suma de los Story Points para los User Stories que se están incluyendo en este Sprint n.)|
 
 E1plicar como vamos a plannear el sprint?
