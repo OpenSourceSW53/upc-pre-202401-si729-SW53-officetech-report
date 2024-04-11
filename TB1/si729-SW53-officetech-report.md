@@ -841,7 +841,7 @@ Realizamos el deploy de la página a través de GitHub Pages, una plataforma que
 3.	Una vez completado el proceso, GitHub Pages nos proporciona una URL donde se alojará nuestra página.
 
 ## 5.2. Landing Page, Services & Applications Implementation.
-### 5.2.1. Sprint n
+### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
 | Sprint #                 | Sprint 1                                                                                       |
 |--------------------------|------------------------------------------------------------------------------------------------|
@@ -855,10 +855,10 @@ Realizamos el deploy de la página a través de GitHub Pages, una plataforma que
 | **Sprint n – 1 Retrospective Summary** | Durante la retrospectiva del Sprint anterior, el equipo destacó la efectividad de las nuevas reuniones diarias cortas, las cuales ayudaron a identificar y resolver rápidamente los bloqueos. También se elogiaron las sesiones de revisión de código por mejorar la calidad del landing page. Sin embargo, se señaló que la gestión del tiempo fue un desafío, particularmente en la estimación de tareas, lo que resultó en que dos historias de usuario no se completaran. El equipo acordó intentar técnicas de estimación de tiempo más rigurosas y asignar tiempo específico para la gestión de mejoras para el próximo Sprint.|
 | **Sprint Goal & User Stories** |                                                                                                 |
 | Sprint 1 Goal             | El objetivo para el Sprint 1 es desarrollar una landing page para que el usuario tenga informacion de los servicios que brindamos. Este Sprint se centrará en la implementación de un landing page informativo con una interfaz intuitiva para que el cliente conozca quienes somos y que servicios brindamos. La métrica de éxito será el aumento de las visitas a la pagina web y el aumento de mensajes de contacto de parte de clientes pontenciales interesados en los servicios brindados.|
-| Sprint 1 Velocity         | (Definir el Velocity establecido para el Sprint n, es decir cuántos Story Points puede aceptar el equipo para este Sprint n.)                        |
+| Sprint 1 Velocity         || Basado en la capacidad del equipo y el rendimiento histórico, la velocidad estimada para el Sprint 1 se establece en 30 Story Points. Esto se calcula tomando en cuenta las horas de trabajo disponibles del equipo, ajustes por festividades y días no laborables, así como la complejidad y el esfuerzo estimado de las User Stories seleccionadas para este Sprint. El equipo se compromete a completar las tareas que sumen hasta este número de puntos, priorizando según el valor entregado y la dependencia entre tareas. |
+
 | Sum of Story Points      | (Colocar la suma de los Story Points para los User Stories que se están incluyendo en este Sprint n.)|
 
-E1plicar como vamos a plannear el sprint?
 #### 5.2.1.2. Sprint Backlog n.
 ![SprintBacklog n](image.jpg) 
 #### 5.2.1.3. Development Evidence for Sprint Review.
