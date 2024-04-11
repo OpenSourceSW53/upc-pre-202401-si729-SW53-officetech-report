@@ -223,17 +223,24 @@ Técnicos especializados en el servicio de reparación de distintos artefactos e
 
 ### 2.2.2. Registro de entrevistas.
 **Segmento 1**  
-Nombre: Rusbel Bargas
-Edad: 37 años 
-Ocupación: Ing.Informatico  
+**Nombre:** Rusbel Bargas<br>
+**Edad:** 37 años <br>
+**Ocupación:** Ing.Informatico  <br>
 <img src="../assets/Entrevistas-IMG/Entrevista-Rusbel Bargas.PNG" alt="Entrevista Rusbel" style="width:100%;">
 
 **Segmento 2**  
-Nombre: David Beltran Burgos
-Edad: 23 años 
-Ocupación: Soporte TI
+**Nombre:** David Beltran Burgos<br>
+**Edad:** 23 años <br>
+**Ocupación:** Soporte TI<br>
 <img src="../assets/Entrevistas-IMG/Entrevista-David-Beltran.png" alt="Entrevista David" style="width:100%;">
 La entrevista fue realizada a David Beltrán, un técnico de reparación en el área de TI, que se encarga de dar soporte y mantenimiento a dispositivos de empresas. Beltrán menciona que uno de los mayores desafíos es atraer nuevos clientes, dada la competencia y la variedad de servicios que ofrecen empresas mas grandes y consolidadas. Utiliza principalmente LinkedIn, Instagram y Facebook como canales de comunicación para llegar a sus clientes potenciales. Sus servicios incluyen actualización de equipos de cómputo, reparaciones y soporte para sistemas remotos como Azure y AWS. Para abordar los problemas técnicos, Beltrán puede ofrecer servicios de manera remota o presencial dependiendo del problema. Varias veces tiene que trabajar bajo presion, pues las empresas le exigen que termine rapido. Maneja estas situaciones explicando el tiempo estimado que llevará resolver el problema y brindando justificaciones si es necesario. La entrevista concluyó con la posibilidad de requerir feedback en el futuro y agradecimientos mutuos.
+
+
+**Nombre:** Victor Gutierrez Huaman<br>
+**Edad:** 54 años <br>
+**Ocupación:** Ingeniero en sistemas<br>
+<img src="../assets/Entrevistas-IMG/Entrevista-Victor Gutierrez.png" alt="Entrevista Victor" style="width:100%;">
+[Vídeo de entrevista](https://youtu.be/zB6xWwz-veI)
 
 ### 2.2.3. Análisis de entrevistas.
 **Segmento 1:**
