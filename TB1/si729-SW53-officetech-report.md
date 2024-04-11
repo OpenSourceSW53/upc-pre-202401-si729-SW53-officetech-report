@@ -841,6 +841,21 @@ Realizamos el deploy de la página a través de GitHub Pages, una plataforma que
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint n
 #### 5.2.1.1. Sprint Planning n.
+| Sprint #                 | Sprint n                                                                                       |
+|--------------------------|------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**  |                                                                                                 |
+| Date                     | YYYY-MM-DD                                                                                     |
+| Time                     | HH:MM AM/PM                                                                                    |
+| Location                 | (Descripción de la ubicación de la reunión, física o virtual)                                   |
+| Prepared By              | Jiménez Rosas, Arturo Eduardo                                                                  |
+| Attendees (to planning meeting) | Jiménez Rosas, Arturo Eduardo / Rodríguez Peña, Jorge Andrés / ...                           |
+| **Sprint n – 1 Review Summary**       | (Resumen del Sprint anterior, en términos de resultados alcanzados a nivel de productos de software, opiniones de miembros y feedback de product owner.)|
+| **Sprint n – 1 Retrospective Summary** | (Resumen del Sprint anterior, en términos de opiniones de miembros del equipo sobre aciertos u oportunidades de mejora en su forma de trabajo)      |
+| **Sprint Goal & User Stories** |                                                                                                 |
+| Sprint n Goal             | (Definir el Goal del Sprint n y la métrica de cumplimiento.)                                   |
+| Sprint n Velocity         | (Definir el Velocity establecido para el Sprint n, es decir cuántos Story Points puede aceptar el equipo para este Sprint n.)                        |
+| Sum of Story Points      | (Colocar la suma de los Story Points para los User Stories que se están incluyendo en este Sprint n.)|
+
 E1plicar como vamos a plannear el sprint?
 #### 5.2.1.2. Sprint Backlog n.
 ![SprintBacklog n](image.jpg) 
