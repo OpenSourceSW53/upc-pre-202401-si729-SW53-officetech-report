@@ -383,7 +383,7 @@ La entrevista fue realizada a David Beltrán, un técnico de reparación en el �
 | #Orden | User Story ID | Título| Descripción  | Story Points (1/2/3/5/8) |
 |--------|---------------|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
 | 1 | HU01 | Registro fácil en la plataforma | "Como usuario, deseo registrarme fácilmente en la plataforma para empezar a ofrecer o buscar servicios, para evitar procesos complicados y comenzar rápidamente." | 3 |
-| 2 | HU02| Destacar habilidades en el perfil | "Como usuario, deseo una forma de destacar mis habilidades especiales en mi perfil, para atraer a otros usuarios que busquen esos servicios específicos." | 5 |
+| 2 | HU02 | Destacar habilidades en el perfil | "Como usuario, deseo una forma de destacar mis habilidades especiales en mi perfil, para atraer a otros usuarios que busquen esos servicios específicos." | 5 |
 | 3 | HU03 | Acceso a planes de servicios    | "Como usuario, deseo suscribirme a un plan que se ajuste a mis necesidades de servicios técnicos, para gestionar mejor mis gastos mensuales en la plataforma." | 5 |
 | 4 | HU04 | Sistema de valoraciones         | "Como usuario, requiero un sistema para valorar los servicios recibidos y proporcionar feedback, para ayudar a mejorar la calidad de los servicios ofrecidos." | 3 |
 | 5 | HU05 | Notificaciones de oportunidades | "Como usuario, deseo recibir notificaciones de oportunidades nuevas que coincidan con mis intereses, para poder responder rápidamente." | 2 |
@@ -397,6 +397,8 @@ La entrevista fue realizada a David Beltrán, un técnico de reparación en el �
 | 13 | HU13 | Recomendaciones personalizadas | "Como usuario, deseo recibir recomendaciones personalizadas basadas en mis intereses y necesidades anteriores, para encontrar servicios adecuados más rápidamente." | 5 |
 | 14 | HU14 | Ofertas y promociones personalizadas | "Como usuario, quiero recibir ofertas y promociones personalizadas, para aprovechar descuentos en servicios que me interesan." | 3 |
 | 15 | HU15 | Informes de uso de servicios    | "Como usuario, deseo recibir informes detallados sobre mi uso de servicios en la plataforma, para optimizar mi selección y gastos en servicios futuros." | 5 |
+| 16 | HU16 | Conocer carecticas principales de OfficeTech    | "Como usuario, deseo conocer mas sobre officeTech mostrando algunas de sus caracteristicas y ventajas, para poder sentirme confiada del servicio que voy a adquirir." | 5 |
+| 17 | HU17 | Introduccion sencilla     | "Como usuario, deseo conocer el funcionamiento de la página a través de una pequeña guía, para poder saber bien qué hacer al momento de comenzar." | 5 |
 
 ---
 
