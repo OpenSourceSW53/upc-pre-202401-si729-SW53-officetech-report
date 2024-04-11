@@ -227,6 +227,7 @@ Técnicos especializados en el servicio de reparación de distintos artefactos e
 **Edad:** 37 años <br>
 **Ocupación:** Ing.Informatico  <br>
 <img src="../assets/Entrevistas-IMG/Entrevista-Rusbel Bargas.PNG" alt="Entrevista Rusbel" style="width:100%;">
+[Vídeo de entrevista](https://youtu.be/V9tZ0fQIMkE)
 
 **Segmento 2**  
 **Nombre:** David Beltran Burgos<br>
@@ -244,7 +245,8 @@ La entrevista fue realizada a David Beltrán, un técnico de reparación en el �
 
 ### 2.2.3. Análisis de entrevistas.
 **Segmento 1:**
-{texto}
+
+
 **Segmento 2:**
 {texto}
 ## 2.3. Needfinding.
