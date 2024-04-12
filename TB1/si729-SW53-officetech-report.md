@@ -388,7 +388,27 @@ Con respecto a nuestro segmento 2 como nuestro público objetivo de OfficeTech, 
 
 ## 3.2. User Stories.
 
+
+
+
 | USER STORY ID | TITULO | DESCRIPCION|
+|------|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| HU01 | Registro fácil en la plataforma | "Como usuario, deseo registrarme fácilmente en la plataforma para empezar a ofrecer o buscar servicios, para evitar procesos complicados y comenzar rápidamente." |
+| HU02 | Destacar habilidades en el perfil | "Como usuario, deseo una forma de destacar mis habilidades especiales en mi perfil, para atraer a otros usuarios que busquen esos servicios específicos."  |
+| HU03 | Acceso a planes de servicios | "Como usuario, deseo suscribirme a un plan que se ajuste a mis necesidades de servicios técnicos, para gestionar mejor mis gastos mensuales en la plataforma." |
+| HU04 | Notificaciones de oportunidades | "Como usuario, deseo recibir notificaciones de oportunidades nuevas que coincidan con mis intereses, para poder responder rápidamente." |
+| HU05 | Comunicación segura con usuarios | "Como usuario, necesito una forma de comunicarme de manera segura y eficaz con otros usuarios, para intercambiar detalles sobre los servicios de manera confiable." |
+| HU06 | Historial de servicios | "Como usuario, deseo tener acceso a un historial de mis servicios para poder rastrear garantías y trabajos anteriores, para una mejor gestión personal." |
+| HU07 | Programación anticipada de servicios | "Como usuario, deseo programar servicios con anticipación, para asegurar la disponibilidad cuando los necesite."  |
+| HU08 | Informes de uso de servicios | "Como usuario, deseo recibir informes detallados sobre mi uso de servicios en la plataforma, para optimizar mi selección y gastos en servicios futuros."|
+| HU09 | Conocer carecticas principales de OfficeTech    | "Como usuario, deseo conocer mas sobre officeTech mostrando algunas de sus caracteristicas y ventajas, para poder sentirme confiada del servicio que voy a adquirir." | 
+| HU10 | Introduccion sencilla     | "Como usuario, deseo conocer el funcionamiento de la página a través de una pequeña guía, para poder saber bien qué hacer al momento de comenzar." | 
+| HU11 | Vista móvil | "Como usuario, deseo visualizar la landing page desde mi dispositivos móvile visitar la página mientras uso mi teléfono | 
+| HU12 | Cliente interesado | "Como usuario, quiero tener un formulario de contacto simple enviar mis preguntas directamente a la empresa | 
+| HU13 | Facilidad de Informacion | "Como usuario, quiero ver una introducción clara y concisa de lo que ofrece la página entender rápidamente si el servicio/producto es lo que estoy buscando |
+| HU14 | Editar Perfil | "Como usuario, quiero poder modificar algunos datos de mi peril para si poder actulizar mis datos actules en caso que cambie a algo como numero telefonico o correo|
+
+<!-- | USER STORY ID | TITULO | DESCRIPCION|
 |------|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | HU01 | Registro fácil en la plataforma | "Como usuario, deseo registrarme fácilmente en la plataforma para empezar a ofrecer o buscar servicios, para evitar procesos complicados y comenzar rápidamente." |
 | HU02 | Destacar habilidades en el perfil | "Como usuario, deseo una forma de destacar mis habilidades especiales en mi perfil, para atraer a otros usuarios que busquen esos servicios específicos."  |
@@ -404,8 +424,7 @@ Con respecto a nuestro segmento 2 como nuestro público objetivo de OfficeTech, 
 | HU12 | Acceso a calendario de servicios | "Como usuario, necesito acceder a un calendario que muestre mis servicios programados, para organizar mejor mi tiempo."  |
 | HU13 | Recomendaciones personalizadas | "Como usuario, deseo recibir recomendaciones personalizadas basadas en mis intereses y necesidades anteriores, para encontrar servicios adecuados más rápidamente." |
 | HU14 | Ofertas y promociones personalizadas | "Como usuario, quiero recibir ofertas y promociones personalizadas, para aprovechar descuentos en servicios que me interesan."|
-| HU15 | Informes de uso de servicios | "Como usuario, deseo recibir informes detallados sobre mi uso de servicios en la plataforma, para optimizar mi selección y gastos en servicios futuros."|
-
+| HU15 | Informes de uso de servicios | "Como usuario, deseo recibir informes detallados sobre mi uso de servicios en la plataforma, para optimizar mi selección y gastos en servicios futuros."| -->
 
 ## 3.3. Impact Mapping.
 
