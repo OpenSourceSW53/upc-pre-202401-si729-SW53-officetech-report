@@ -238,7 +238,7 @@ Rusbel Bargas es un ingeniero informático que se encarga de un negocio de venta
 **Edad:** 21 años 
 **Ocupación:** Estudiante de Ingeniería de Sistemas, asistente de negocio a cargo de la venta de dispositivos electrónicos<br>
 <img src="../assets/Entrevistas-IMG/Entrevista-Diego-Hernandez.PNG" alt="Entrevista Rusbel" style="width:100%;">
-[Vídeo de entrevista](https://youtu.be/fbYutiYTEv4)
+[Vídeo de entrevista](https://youtu.be/fbYutiYTEv4) <br>
 Diego Hernandez nos cuenta a detalle lo que él y su equipo debe enfrentar en su negocio de venta de dispositivos electrónicos. Nos comenta que uno de los mayores desafíos es el soporte técnico que se debe brindar a aquellos productos que son adquiridos por los clientes. Muchas veces el equipo de Diego no se da a basto con la cantidad de peticiones que llegan a diario para la reparación, soporte técnico. Asegura que una propuesta como la de OfficeTech sería lo ideal para contratar y asegurar la satisfacción de sus clientes, y así poder garantizar una buena garantía a sus productos.
 
 <br><br><br><br><br>
@@ -255,10 +255,11 @@ La entrevista fue realizada a David Beltrán, un técnico de reparación en el �
 
 **Entrevista 2:**<br>
 **Nombre:** Victor Gutierrez Huaman
-**Edad:** 54 años 
+**Edad:** 56 años 
 **Ocupación:** Ingeniero en sistemas
 <img src="../assets/Entrevistas-IMG/Entrevista-Victor Gutierrez.png" alt="Entrevista Victor" style="width:100%;">
 [Vídeo de entrevista](https://youtu.be/zB6xWwz-veI)
+Victor es un ingeniero de sistemas que trabaja como tecnico tecnológico de dispositivos de uso personal. Nos comenta que su principal forma de alcanzar a nuevos clientes es a través del boca a boca, además que los principales desafíos son los costos de los programas para realizar su trabajo, como programas de control remoto, pueden ser caras y restringidas por pago. Generalmente para trabajar utiliza una plataforma propia de Windows, en su día a día los servicios que ofrece son mantenimiento de software y resolución de problemas del mismo como problemas con el sistema operativo o con aplicaciones como Office.
 
 
 <br><br>
