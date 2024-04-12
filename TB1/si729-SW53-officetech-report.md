@@ -224,9 +224,9 @@ Técnicos especializados en el servicio de reparación de distintos artefactos e
 ### 2.2.2. Registro de entrevistas.
 **Segmento 1: Clientes que requieren de un plan para soporte técnico que brinde garantía y soluciones a sus productos electrónicos**<br>
 **Entrevista 1:**<br>
-**Nombre:** Rusbel Bargas
-**Edad:** 37 años 
-**Ocupación:** Ing.Informatico a cargo de negocio de venta de dispositivos
+**Nombre:** Rusbel Bargas<br>
+**Edad:** 37 años<br> 
+**Ocupación:** Ing.Informatico a cargo de negocio de venta de dispositivos<br>
 <img src="../assets/Entrevistas-IMG/Entrevista-Rusbel Bargas.PNG" alt="Entrevista Rusbel" style="width:100%;">
 [Vídeo de entrevista](https://youtu.be/V9tZ0fQIMkE)
 Rusbel Bargas es un ingeniero informático que se encarga de un negocio de venta de dispositivos electrónicos. Nos comenta que uno de los mayores desafíos que enfrenta es el soporte técnico que debe brindar a sus clientes. Asegura que la mayoría de los problemas técnicos que enfrentan sus clientes son de naturaleza simple, pero que requieren de un técnico especializado para ser resueltos. Nos comenta que la mayoría de los clientes buscan una solución rápida y efectiva a sus problemas, por lo que es importante contar con un servicio de soporte técnico confiable y eficiente. Además, nos comenta que la mayoría de los clientes buscan una garantía en los productos que adquieren, por lo que es importante contar con un plan de soporte técnico que brinde garantía y soluciones a sus productos electrónicos vendidos. Rusbel nos comenta que estaría interesado en contratar un servicio como el de OfficeTech para garantizar la satisfacción de sus clientes y asegurar la calidad de los productos que vende. 
@@ -234,8 +234,8 @@ Rusbel Bargas es un ingeniero informático que se encarga de un negocio de venta
 <br><br>
 
 **Entrevista 2:**<br>
-**Nombre:** Diego Hernandez
-**Edad:** 21 años 
+**Nombre:** Diego Hernandez<br>
+**Edad:** 21 años<br>
 **Ocupación:** Estudiante de Ingeniería de Sistemas, asistente de negocio a cargo de la venta de dispositivos electrónicos<br>
 <img src="../assets/Entrevistas-IMG/Entrevista-Diego-Hernandez.PNG" alt="Entrevista Rusbel" style="width:100%;">
 [Vídeo de entrevista](https://youtu.be/fbYutiYTEv4) <br>
@@ -245,18 +245,18 @@ Diego Hernandez nos cuenta a detalle lo que él y su equipo debe enfrentar en su
 
 **Segmento 2: Técnicos especializados en reparación, mantenimiento y soporte técnico de productos electrónicos.** <br>
 **Entrevista 1:**<br>
-**Nombre:** David Beltran Burgos
-**Edad:** 23 años 
-**Ocupación:** Soporte TI
+**Nombre:** David Beltran Burgos<br>
+**Edad:** 23 años<br> 
+**Ocupación:** Soporte TI<br>
 <img src="../assets/Entrevistas-IMG/Entrevista-David-Beltran.png" alt="Entrevista David" style="width:100%;">
 La entrevista fue realizada a David Beltrán, un técnico de reparación en el área de TI, que se encarga de dar soporte y mantenimiento a dispositivos de empresas. Beltrán menciona que uno de los mayores desafíos es atraer nuevos clientes, dada la competencia y la variedad de servicios que ofrecen empresas mas grandes y consolidadas. Utiliza principalmente LinkedIn, Instagram y Facebook como canales de comunicación para llegar a sus clientes potenciales. Sus servicios incluyen actualización de equipos de cómputo, reparaciones y soporte para sistemas remotos como Azure y AWS. Para abordar los problemas técnicos, Beltrán puede ofrecer servicios de manera remota o presencial dependiendo del problema. Varias veces tiene que trabajar bajo presion, pues las empresas le exigen que termine rapido. Maneja estas situaciones explicando el tiempo estimado que llevará resolver el problema y brindando justificaciones si es necesario. La entrevista concluyó con la posibilidad de requerir feedback en el futuro y agradecimientos mutuos.<br>
-
+[Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EY7BRcQrx45Mrb2tRIkgrysBhy1ufFoVMwb0PVwGjewMyQ?e=ZQK2eK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 <br><br>
 
 **Entrevista 2:**<br>
-**Nombre:** Victor Gutierrez Huaman
-**Edad:** 56 años 
-**Ocupación:** Ingeniero en sistemas
+**Nombre:** Victor Gutierrez Huaman<br>
+**Edad:** 56 años<br> 
+**Ocupación:** Ingeniero en sistemas<br>
 <img src="../assets/Entrevistas-IMG/Entrevista-Victor Gutierrez.png" alt="Entrevista Victor" style="width:100%;">
 [Vídeo de entrevista](https://youtu.be/zB6xWwz-veI)
 Victor es un ingeniero de sistemas que trabaja como tecnico tecnológico de dispositivos de uso personal. Nos comenta que su principal forma de alcanzar a nuevos clientes es a través del boca a boca, además que los principales desafíos son los costos de los programas para realizar su trabajo, como programas de control remoto, pueden ser caras y restringidas por pago. Generalmente para trabajar utiliza una plataforma propia de Windows, en su día a día los servicios que ofrece son mantenimiento de software y resolución de problemas del mismo como problemas con el sistema operativo o con aplicaciones como Office.
@@ -265,9 +265,9 @@ Victor es un ingeniero de sistemas que trabaja como tecnico tecnológico de disp
 <br><br>
 
 **Entrevista 3:**<br>
-**Nombre:** Daniel J. Mejía
-**Edad:** 27 años 
-**Ocupación:** Técnico en computación
+**Nombre:** Daniel J. Mejía<br>
+**Edad:** 27 años<br> 
+**Ocupación:** Técnico en computación<br>
 <img src="../assets/Entrevistas-IMG/Daniel Mejia Entrevista.png" alt="Entrevista Daniel Mejia" style="width:100%;">
 [Vídeo de entrevista](https://youtu.be/9nTfJSeX9UY)
 
