@@ -388,25 +388,31 @@ Con respecto a nuestro segmento 2 como nuestro público objetivo de OfficeTech, 
 
 ## 3.2. User Stories.
 
+| Epic ID | Título | Descripción de Historias de Usuario Asociadas  |
+|---------|--------|------------------------------------------------|
+| EP01    | Registro y Gestión de Usuario          | Como usuario, quiero un proceso de registro y gestión de mi perfil simple y directo, para utilizar la plataforma sin complicaciones y mantener actualizada mi información. |
+| EP02    | Planificación y Gestión de Servicios   | Como usuario, quiero poder acceder a planes, programar servicios de forma anticipada y revisar mi historial e informes de uso, para gestionar eficientemente mis actividades y recursos en la plataforma. |
+| EP03    | Comunicación y Notificaciones          | Como usuario, quiero recibir notificaciones oportunas y comunicarme de manera segura, para estar al tanto de oportunidades relevantes y poder intercambiar información de forma confiable. |
+| EP04    | Experiencia de Usuario en la Plataforma| Como usuario, quiero conocer las características y ventajas de OfficeTech mediante una guía introductoria y una presentación clara de la información, para sentirme confiado y entender rápidamente lo que ofrece la plataforma. |
+| EP05    | Acceso y Contacto Móvil                | Como usuario, quiero poder acceder a la plataforma y contactar a la empresa fácilmente desde mi dispositivo móvil, para hacer uso de los servicios en cualquier lugar y momento. |
 
+| USER STORY ID | TITULO | DESCRIPCION | CRITERIOS DE ACEPTACIÓN | EPIC RELACIONADO |
+|---------------|--------|-------------|-------------------------|------------------|
+| HU01    | Registro fácil en la plataforma   | "Como usuario, deseo registrarme fácilmente en la plataforma para evitar procesos complicados y comenzar rápidamente." | Dado que el usuario desea registrarse, cuando intenta crear una cuenta, entonces el proceso debe completarse en menos de 4 pasos y permitir registro con redes sociales. | EP01  |
+| HU02   | Destacar habilidades en el perfil   | "Como usuario, deseo destacar mis habilidades en mi perfil para atraer a usuarios que busquen esos servicios específicos."  | Dado que el usuario ha accedido a su perfil, cuando añade habilidades, entonces puede seleccionar hasta 10 y estas deben ser visibles claramente en su perfil.   | EP01|
+| HU03  | Acceso a planes de servicios        | "Como usuario, deseo suscribirme a un plan que se ajuste a mis necesidades para gestionar mejor mis gastos." | Dado que el usuario desea controlar sus gastos, cuando elige un plan, entonces debe haber al menos tres opciones claras de lo que cada plan incluye. | EP02 |
+| HU04 | Notificaciones de oportunidades     | "Como usuario, deseo recibir notificaciones de nuevas oportunidades que coincidan con mis intereses."  | Dado que el usuario ha configurado sus intereses, cuando surjan nuevas oportunidades, entonces debe recibir notificaciones en tiempo real personalizables.   | EP03 |
+| HU05 | Comunicación segura con usuarios    | "Como usuario, necesito comunicarme de manera segura con otros usuarios para intercambiar detalles de manera confiable." | Dado que la seguridad es prioritaria, cuando los usuarios intercambian mensajes, entonces la comunicación debe ser a través de un sistema de mensajería encriptada. | EP03 |
+| HU06 | Historial de servicios | "Como usuario, deseo tener acceso a un historial de mis servicios para rastrear garantías y trabajos anteriores." | Dado que los usuarios necesitan verificar su historial, cuando acceden a su perfil, entonces pueden ver un historial completo que incluye fechas y costos.  | EP02        |
+| HU07 | Programación anticipada de servicios| "Como usuario, deseo programar servicios con anticipación para asegurar disponibilidad." | Dado que la planificación es esencial, cuando un usuario desea reservar un servicio, entonces puede programarlo con hasta 30 días de anticipación usando un calendario interactivo. | EP02 |
+| HU08 | Informes de uso de servicios | "Como usuario, deseo recibir informes detallados sobre mi uso de servicios para optimizar mi selección y gastos futuros."| Dado que el usuario requiere información detallada, cuando solicita un informe, entonces recibe automáticamente informes mensuales y puede solicitar personalizados. | EP02 |
+| HU09 | Conocer características de OfficeTech| "Como usuario, deseo conocer más sobre OfficeTech mostrando algunas de sus características y ventajas." | Dado que el usuario explora OfficeTech, cuando accede a información sobre la plataforma, entonces puede ver detalles claros y beneficios de usar el servicio.     | EP04 |
+| HU10 | Introducción sencilla | "Como usuario, deseo conocer el funcionamiento de la página a través de una pequeña guía para saber qué hacer al comenzar."| Dado que el usuario es nuevo, cuando visita la página principal, entonces recibe una guía introductoria breve y clara sobre cómo usar la plataforma.| EP04 |
+| HU11 | Vista móvil | "Como usuario, deseo visualizar la landing page desde mi dispositivo móvil para visitar la página mientras uso mi teléfono." | Dado que el acceso móvil es crucial, cuando el usuario accede a la plataforma desde un móvil, entonces la visualización debe ser optimizada para dispositivos móviles. | EP05|
+| HU12 | Cliente interesado  | "Como usuario, quiero tener un formulario de contacto simple para enviar mis preguntas directamente a la empresa."| Dado que el usuario necesita contactar a la empresa, cuando busca el formulario de contacto, entonces debe encontrarlo fácilmente y ser sencillo de usar.| EP05  |
+| HU13 | Facilidad de Información  | "Como usuario, quiero ver una introducción clara y concisa de lo que ofrece la página para entender rápidamente si el servicio/producto es lo que busco." | Dado que el usuario busca información, cuando navega en la página, entonces debe encontrar fácilmente una descripción clara de los servicios.| EP04 |
+| HU14  | Editar Perfil | "Como usuario, quiero poder modificar algunos datos de mi perfil para actualizar mis datos actuales en caso que cambie algo como mi número telefónico o correo." | Dado que los datos personales pueden cambiar, cuando el usuario desea actualizar su perfil, entonces debe poder editar su información de contacto fácilmente.  | EP01 |
 
-
-| USER STORY ID | TITULO | DESCRIPCION|
-|------|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| HU01 | Registro fácil en la plataforma | "Como usuario, deseo registrarme fácilmente en la plataforma para empezar a ofrecer o buscar servicios, para evitar procesos complicados y comenzar rápidamente." |
-| HU02 | Destacar habilidades en el perfil | "Como usuario, deseo una forma de destacar mis habilidades especiales en mi perfil, para atraer a otros usuarios que busquen esos servicios específicos."  |
-| HU03 | Acceso a planes de servicios | "Como usuario, deseo suscribirme a un plan que se ajuste a mis necesidades de servicios técnicos, para gestionar mejor mis gastos mensuales en la plataforma." |
-| HU04 | Notificaciones de oportunidades | "Como usuario, deseo recibir notificaciones de oportunidades nuevas que coincidan con mis intereses, para poder responder rápidamente." |
-| HU05 | Comunicación segura con usuarios | "Como usuario, necesito una forma de comunicarme de manera segura y eficaz con otros usuarios, para intercambiar detalles sobre los servicios de manera confiable." |
-| HU06 | Historial de servicios | "Como usuario, deseo tener acceso a un historial de mis servicios para poder rastrear garantías y trabajos anteriores, para una mejor gestión personal." |
-| HU07 | Programación anticipada de servicios | "Como usuario, deseo programar servicios con anticipación, para asegurar la disponibilidad cuando los necesite."  |
-| HU08 | Informes de uso de servicios | "Como usuario, deseo recibir informes detallados sobre mi uso de servicios en la plataforma, para optimizar mi selección y gastos en servicios futuros."|
-| HU09 | Conocer carecticas principales de OfficeTech    | "Como usuario, deseo conocer mas sobre officeTech mostrando algunas de sus caracteristicas y ventajas, para poder sentirme confiada del servicio que voy a adquirir." | 
-| HU10 | Introduccion sencilla     | "Como usuario, deseo conocer el funcionamiento de la página a través de una pequeña guía, para poder saber bien qué hacer al momento de comenzar." | 
-| HU11 | Vista móvil | "Como usuario, deseo visualizar la landing page desde mi dispositivos móvile visitar la página mientras uso mi teléfono | 
-| HU12 | Cliente interesado | "Como usuario, quiero tener un formulario de contacto simple enviar mis preguntas directamente a la empresa | 
-| HU13 | Facilidad de Informacion | "Como usuario, quiero ver una introducción clara y concisa de lo que ofrece la página entender rápidamente si el servicio/producto es lo que estoy buscando |
-| HU14 | Editar Perfil | "Como usuario, quiero poder modificar algunos datos de mi peril para si poder actulizar mis datos actules en caso que cambie a algo como numero telefonico o correo|
 
 <!-- | USER STORY ID | TITULO | DESCRIPCION|
 |------|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -433,7 +439,26 @@ Con respecto a nuestro segmento 2 como nuestro público objetivo de OfficeTech, 
 
 ## 3.4. Product Backlog.
 
-| #Orden | User Story ID | Título| Descripción  | Story Points (1/2/3/5/8) |
+| #Orden | User Story ID | Título | Descripción  | Story Points (1/2/3/5/8) |
+|--------|---------------|--------|--------------|--------------------------|
+| 1      | HU01          | Registro fácil en la plataforma | "Como usuario, deseo registrarme fácilmente en la plataforma para empezar a ofrecer o buscar servicios, para evitar procesos complicados y comenzar rápidamente." | 3                       |
+| 2      | HU02          | Destacar habilidades en el perfil | "Como usuario, deseo una forma de destacar mis habilidades especiales en mi perfil, para atraer a otros usuarios que busquen esos servicios específicos." | 5                       |
+| 3      | HU03          | Acceso a planes de servicios    | "Como usuario, deseo suscribirme a un plan que se ajuste a mis necesidades de servicios técnicos, para gestionar mejor mis gastos mensuales en la plataforma." | 5                       |
+| 4      | HU04          | Notificaciones de oportunidades | "Como usuario, deseo recibir notificaciones de oportunidades nuevas que coincidan con mis intereses, para poder responder rápidamente." | 2                       |
+| 5      | HU05          | Comunicación segura con usuarios | "Como usuario, necesito una forma de comunicarme de manera segura y eficaz con otros usuarios, para intercambiar detalles sobre los servicios de manera confiable." | 3                       |
+| 6      | HU06          | Historial de servicios          | "Como usuario, deseo tener acceso a un historial de mis servicios para poder rastrear garantías y trabajos anteriores, para una mejor gestión personal." | 2                       |
+| 7      | HU07          | Programación anticipada de servicios | "Como usuario, deseo programar servicios con anticipación, para asegurar la disponibilidad cuando los necesite." | 3                       |
+| 8      | HU08          | Informes de uso de servicios     | "Como usuario, deseo recibir informes detallados sobre mi uso de servicios en la plataforma, para optimizar mi selección y gastos en servicios futuros." | 5                       |
+| 9      | HU09          | Conocer características principales de OfficeTech | "Como usuario, deseo conocer más sobre OfficeTech mostrando algunas de sus características y ventajas, para poder sentirme confiada del servicio que voy a adquirir." | 5    |
+| 10     | HU10          | Introducción sencilla            | "Como usuario, deseo conocer el funcionamiento de la página a través de una pequeña guía, para poder saber bien qué hacer al momento de comenzar." | 5                       |
+| 11     | HU11          | Vista móvil                      | "Como usuario, deseo visualizar la landing page desde mi dispositivo móvil, para visitar la página mientras uso mi teléfono." | 5                       |
+| 12     | HU12          | Cliente interesado               | "Como usuario, quiero tener un formulario de contacto simple para enviar mis preguntas directamente a la empresa." | 5                       |
+| 13     | HU13          | Facilidad de Información         | "Como usuario, quiero ver una introducción clara y concisa de lo que ofrece la página para entender rápidamente si el servicio/producto es lo que estoy buscando." | 5 |
+| 14     | HU14          | Editar Perfil                    | "Como usuario, quiero poder modificar algunos datos de mi perfil para actualizar mis datos actuales en caso de que cambie algo como número telefónico o correo." | 3  |
+
+
+
+<!-- | #Orden | User Story ID | Título| Descripción  | Story Points (1/2/3/5/8) |
 |--------|---------------|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
 | 1 | HU01 | Registro fácil en la plataforma | "Como usuario, deseo registrarme fácilmente en la plataforma para empezar a ofrecer o buscar servicios, para evitar procesos complicados y comenzar rápidamente." | 3 |
 | 2 | HU02 | Destacar habilidades en el perfil | "Como usuario, deseo una forma de destacar mis habilidades especiales en mi perfil, para atraer a otros usuarios que busquen esos servicios específicos." | 5 |
@@ -454,7 +479,7 @@ Con respecto a nuestro segmento 2 como nuestro público objetivo de OfficeTech, 
 | 17 | HU17 | Introduccion sencilla     | "Como usuario, deseo conocer el funcionamiento de la página a través de una pequeña guía, para poder saber bien qué hacer al momento de comenzar." | 5 |
 | 18 | HU18 | Vista móvil | "Como usuario, deseo visualizar la landing page desde mi dispositivos móvile visitar la página mientras uso mi teléfono | 5 |
 | 19 | HU19 | Cliente interesado | "Como usuario, quiero tener un formulario de contacto simple enviar mis preguntas directamente a la empresa | 5 |
-| 20 | HU20 | Facilidad de Informacion | "Como usuario, quiero ver una introducción clara y concisa de lo que ofrece la página entender rápidamente si el servicio/producto es lo que estoy buscando | 5 |
+| 20 | HU20 | Facilidad de Informacion | "Como usuario, quiero ver una introducción clara y concisa de lo que ofrece la página entender rápidamente si el servicio/producto es lo que estoy buscando | 5 |-->
 ---
 
 # Capítulo IV: Product Design
