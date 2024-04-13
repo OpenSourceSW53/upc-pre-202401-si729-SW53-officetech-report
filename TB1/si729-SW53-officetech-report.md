@@ -940,7 +940,16 @@ Realizamos el deploy de la página a través de GitHub Pages, una plataforma que
 | Sum of Story Points      | (Colocar la suma de los Story Points para los User Stories que se están incluyendo en este Sprint n.)|
 
 #### 5.2.1.2. Sprint Backlog n.
-![SprintBacklog n](image.jpg) 
+# Sprint 1
+
+| User Story |  | Work-Item/Task |  |  |  |  |
+|------------|----------------|-------------|--------------------------------|-----------|------------------|--------|
+| ID         | Title          | ID          | Title                          | Description                     | Estimation | Assigned To      | Status |
+| US01       | Ingreso a la aplicación | W10         | Desarrollo del proyecto | Creación del proyecto landing page y su posterior carga en github | 8 horas | Josef Cesar Romero Florida | Done   |
+| US02       | Visualizar el header    | W10         | Desarrollo de la sección header | Desarrollo del código base HTML de la sección header | 8 horas | Alfredo Norberto Farro Caballero | Done   |
+| US03       | Visualizar información general | W10         | Desarrollo de la sección información general | Desarrollo del código base HTML de la sección información general | 8 horas | Fiorella Valencia | Done   |
+| US04       | Visualizar About Us     | W10         | Desarrollo de la sección About Us | Desarrollo del código base HTML de la sección About Us | 8 horas | Andres Christian Reynoso | Done   |
+
 #### 5.2.1.3. Development Evidence for Sprint Review.
 Para este primer sprint se decidió trbajar en una rama diferente para despues unirlo todo en develop . Cada miembro ha realizado un commit para luego hacer merge. 
 | Repository                             | Branch                     | Commit ID                                  | Commit Message            | Committed on(date) |
