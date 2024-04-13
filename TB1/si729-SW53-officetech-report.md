@@ -28,9 +28,9 @@
 | 1.1 | 29/03/2024 | Grupo 3 | Capitulo IV |
 
 # Project Report Collaboration Insights
-[URL del repositorio](https://github.com/OpenSourceSW53/-upc-pre-202401-si729-SW53-officetech-report.git)
+El presente informe se encuentra guardado en la organización de OfficeTech: [URL del repositorio](https://github.com/OpenSourceSW53/-upc-pre-202401-si729-SW53-officetech-report.git)
 
-(Imagenes de los commits cada entrega)
+Para la entrega, se consideró la Landing Page en otro repositorio de la misma organización: [URL Landing page](https://github.com/OpenSourceSW53/officetech-landing-page)
 
 
 # Student Outcome 3
