@@ -411,7 +411,8 @@ Con respecto a nuestro segmento 2 como nuestro público objetivo de OfficeTech, 
 | HU11 | Vista móvil | "Como usuario, deseo visualizar la landing page desde mi dispositivo móvil para visitar la página mientras uso mi teléfono." | Dado que el acceso móvil es crucial, cuando el usuario accede a la plataforma desde un móvil, entonces la visualización debe ser optimizada para dispositivos móviles. | EP05|
 | HU12 | Cliente interesado  | "Como usuario, quiero tener un formulario de contacto simple para enviar mis preguntas directamente a la empresa."| Dado que el usuario necesita contactar a la empresa, cuando busca el formulario de contacto, entonces debe encontrarlo fácilmente y ser sencillo de usar.| EP05  |
 | HU13 | Facilidad de Información  | "Como usuario, quiero ver una introducción clara y concisa de lo que ofrece la página para entender rápidamente si el servicio/producto es lo que busco." | Dado que el usuario busca información, cuando navega en la página, entonces debe encontrar fácilmente una descripción clara de los servicios.| EP04 |
-| HU14  | Editar Perfil | "Como usuario, quiero poder modificar algunos datos de mi perfil para actualizar mis datos actuales en caso que cambie algo como mi número telefónico o correo." | Dado que los datos personales pueden cambiar, cuando el usuario desea actualizar su perfil, entonces debe poder editar su información de contacto fácilmente.  | EP01 |
+| HU14  | Informacion Esencial de la empresa     | "Como usuario, quiero poder ver la informacion esencial de los servicios que brinda la empresa" | Dado que los servicios pueden ser variables, cuando el usuario solicita verlos se le mostrara los servicios que se acoplan a su necesidad, entonces decidira trabajar con la empresa.  | EP05 |
+| HU15  | Editar Perfil | "Como usuario, quiero poder modificar algunos datos de mi perfil para actualizar mis datos actuales en caso que cambie algo como mi número telefónico o correo." | Dado que los datos personales pueden cambiar, cuando el usuario desea actualizar su perfil, entonces debe poder editar su información de contacto fácilmente.  | EP01 |
 
 
 <!-- | USER STORY ID | TITULO | DESCRIPCION|
@@ -454,7 +455,8 @@ Con respecto a nuestro segmento 2 como nuestro público objetivo de OfficeTech, 
 | 11     | HU11          | Vista móvil                      | "Como usuario, deseo visualizar la landing page desde mi dispositivo móvil, para visitar la página mientras uso mi teléfono." | 5                       |
 | 12     | HU12          | Cliente interesado               | "Como usuario, quiero tener un formulario de contacto simple para enviar mis preguntas directamente a la empresa." | 5                       |
 | 13     | HU13          | Facilidad de Información         | "Como usuario, quiero ver una introducción clara y concisa de lo que ofrece la página para entender rápidamente si el servicio/producto es lo que estoy buscando." | 5 |
-| 14     | HU14          | Editar Perfil                    | "Como usuario, quiero poder modificar algunos datos de mi perfil para actualizar mis datos actuales en caso de que cambie algo como número telefónico o correo." | 3  |
+| 14     | HU14          | Informacion Esencial de la empresa | "Como usuario, quiero poder conocer más sobre la empresa que estoy interesado. " | 5  |
+| 15     | HU15          | Editar Perfil                    | "Como usuario, quiero poder modificar algunos datos de mi perfil para actualizar mis datos actuales en caso de que cambie algo como número telefónico o correo." | 3  |
 
 
 
@@ -946,12 +948,12 @@ Realizamos el deploy de la página a través de GitHub Pages, una plataforma que
 | User Story |  | Work-Item/Task |  |  |  |  |
 |------------|----------------|-------------|--------------------------------|-----------|------------------|--------|
 | ID         | Title          | ID          | Title                          | Description                     | Estimation | Assigned To      | Status |
-| HU09       | Conocer características principales de OfficeTech	 | W101        | Desarrollo del proyecto | Creación del proyecto landing page y su posterior carga en github | 8 horas | Josef Cesar Romero Florida | Done   |
-| HU10       | Visualizar el header    | W102         | Desarrollo de la sección header | Desarrollo del código base HTML de la sección header | 8 horas | Alfredo Norberto Farro Caballero | Done   |
-| HU11       | Visualizar información general | W10         | Desarrollo de la sección información general | Desarrollo del código base HTML de la sección información general | 8 horas | Fiorella Valencia | Done   |
-| HU12       | Visualizar About Us     | W10         | Desarrollo de la sección About Us | Desarrollo del código base HTML de la sección About Us | 8 horas | Andres Christian Reynoso | Done   |
-| HU13       | Visualizar About Us     | W10         | Desarrollo de la sección About Us | Desarrollo del código base HTML de la sección About Us | 8 horas | Andres Christian Reynoso | Done   |
-| HU14       | Visualizar About Us     | W10         | Desarrollo de la sección About Us | Desarrollo del código base HTML de la sección About Us | 8 horas | Andres Christian Reynoso | Done   |
+| HU09       | Conocer características principales de OfficeTech	 | W101        | Desarrollo del About us | Desarrollo del código base HTML de la sección información general | 8 horas | Adrian Rubio Calixto | Done   |
+| HU10       | Introducción sencilla	  | W102         | Desarrollo de la sección Features | Desarrollo del código base HTML de la sección Features | 8 horas | Herrera Aguirre Fabia Alejandra  | Done   |
+| HU11       | Vista móvil	 | W103         | Mejora de la Pagina Responsive | Mejora del codigo css para que sea responsive y se adapta a las pantallas moviles | 8 horas | Rodriguez Vargas Arian Martin | Done   |
+| HU12       | Cliente interesado    | W104         | Desarrollo de la sección Contacto | Desarrollo del código base HTML de la sección Contacto | 8 horas | Ramirez Ramirez Marcelo Sebastian | Done   |
+| HU13       | 	Facilidad de Información    | W105        | Desarrollo de la sección Application | Desarrollo del código base HTML de la sección Application | 8 horas | Jara Benites Quique Vladimir | Done   |
+| HU14       |  Informacion Esencial de la empresa    | W106         | Desarrollo de la sección Home | Desarrollo del código base HTML de la sección homE | 8 horas | Ramirez Conteras Zaid Valentino | Done   |
 
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
