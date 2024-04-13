@@ -426,23 +426,6 @@ Con respecto a nuestro segmento 2 como nuestro público objetivo de OfficeTech, 
 | HU15  | Editar Perfil | "Como usuario, quiero poder modificar algunos datos de mi perfil para actualizar mis datos actuales en caso que cambie algo como mi número telefónico o correo." | Dado que los datos personales pueden cambiar, cuando el usuario desea actualizar su perfil, entonces debe poder editar su información de contacto fácilmente.  | EP01 |
 
 
-<!-- | USER STORY ID | TITULO | DESCRIPCION|
-|------|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| HU01 | Registro fácil en la plataforma | "Como usuario, deseo registrarme fácilmente en la plataforma para empezar a ofrecer o buscar servicios, para evitar procesos complicados y comenzar rápidamente." |
-| HU02 | Destacar habilidades en el perfil | "Como usuario, deseo una forma de destacar mis habilidades especiales en mi perfil, para atraer a otros usuarios que busquen esos servicios específicos."  |
-| HU03 | Acceso a planes de servicios | "Como usuario, deseo suscribirme a un plan que se ajuste a mis necesidades de servicios técnicos, para gestionar mejor mis gastos mensuales en la plataforma." |
-| HU04 | Sistema de valoraciones | "Como usuario, requiero un sistema para valorar los servicios recibidos y proporcionar feedback, para ayudar a mejorar la calidad de los servicios ofrecidos."  |
-| HU05 | Notificaciones de oportunidades | "Como usuario, deseo recibir notificaciones de oportunidades nuevas que coincidan con mis intereses, para poder responder rápidamente." |
-| HU06 | Comunicación segura con usuarios | "Como usuario, necesito una forma de comunicarme de manera segura y eficaz con otros usuarios, para intercambiar detalles sobre los servicios de manera confiable." |
-| HU07 | Historial de servicios | "Como usuario, deseo tener acceso a un historial de mis servicios para poder rastrear garantías y trabajos anteriores, para una mejor gestión personal." |
-| HU08 | Consejos para mejorar perfil | "Como usuario, requiero consejos y recursos para mejorar mi perfil y aumentar mi visibilidad en la plataforma, para atraer a más usuarios interesados en mis servicios." |
-| HU09 | Gestión de múltiples suscripciones | "Como usuario, deseo tener la capacidad de gestionar múltiples suscripciones desde mi cuenta, para facilitar el manejo de diferentes servicios." |
-| HU10 | Comparación de servicios | "Como usuario, necesito una manera de comparar servicios y cotizaciones fácilmente, para tomar decisiones informadas al seleccionar servicios." |
-| HU11 | Programación anticipada de servicios | "Como usuario, deseo programar servicios con anticipación, para asegurar la disponibilidad cuando los necesite."  |
-| HU12 | Acceso a calendario de servicios | "Como usuario, necesito acceder a un calendario que muestre mis servicios programados, para organizar mejor mi tiempo."  |
-| HU13 | Recomendaciones personalizadas | "Como usuario, deseo recibir recomendaciones personalizadas basadas en mis intereses y necesidades anteriores, para encontrar servicios adecuados más rápidamente." |
-| HU14 | Ofertas y promociones personalizadas | "Como usuario, quiero recibir ofertas y promociones personalizadas, para aprovechar descuentos en servicios que me interesan."|
-| HU15 | Informes de uso de servicios | "Como usuario, deseo recibir informes detallados sobre mi uso de servicios en la plataforma, para optimizar mi selección y gastos en servicios futuros."| -->
 
 ## 3.3. Impact Mapping.
 
@@ -469,31 +452,6 @@ Con respecto a nuestro segmento 2 como nuestro público objetivo de OfficeTech, 
 | 14     | HU14          | Informacion Esencial de la empresa | "Como usuario, quiero poder conocer más sobre la empresa que estoy interesado. " | 5  |
 | 15     | HU15          | Editar Perfil                    | "Como usuario, quiero poder modificar algunos datos de mi perfil para actualizar mis datos actuales en caso de que cambie algo como número telefónico o correo." | 3  |
 
-
-
-<!-- | #Orden | User Story ID | Título| Descripción  | Story Points (1/2/3/5/8) |
-|--------|---------------|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
-| 1 | HU01 | Registro fácil en la plataforma | "Como usuario, deseo registrarme fácilmente en la plataforma para empezar a ofrecer o buscar servicios, para evitar procesos complicados y comenzar rápidamente." | 3 |
-| 2 | HU02 | Destacar habilidades en el perfil | "Como usuario, deseo una forma de destacar mis habilidades especiales en mi perfil, para atraer a otros usuarios que busquen esos servicios específicos." | 5 |
-| 3 | HU03 | Acceso a planes de servicios    | "Como usuario, deseo suscribirme a un plan que se ajuste a mis necesidades de servicios técnicos, para gestionar mejor mis gastos mensuales en la plataforma." | 5 |
-| 4 | HU04 | Sistema de valoraciones         | "Como usuario, requiero un sistema para valorar los servicios recibidos y proporcionar feedback, para ayudar a mejorar la calidad de los servicios ofrecidos." | 3 |
-| 5 | HU05 | Notificaciones de oportunidades | "Como usuario, deseo recibir notificaciones de oportunidades nuevas que coincidan con mis intereses, para poder responder rápidamente." | 2 |
-| 6 | HU06 | Comunicación segura con usuarios| "Como usuario, necesito una forma de comunicarme de manera segura y eficaz con otros usuarios, para intercambiar detalles sobre los servicios de manera confiable." | 3 |
-| 7 | HU07 | Historial de servicios          | "Como usuario, deseo tener acceso a un historial de mis servicios para poder rastrear garantías y trabajos anteriores, para una mejor gestión personal." | 2 |
-| 8 | HU08 | Consejos para mejorar perfil    | "Como usuario, requiero consejos y recursos para mejorar mi perfil y aumentar mi visibilidad en la plataforma, para atraer a más usuarios interesados en mis servicios." | 3 |
-| 9 | HU09 | Gestión de múltiples suscripciones | "Como usuario, deseo tener la capacidad de gestionar múltiples suscripciones desde mi cuenta, para facilitar el manejo de diferentes servicios." | 5 |
-| 10 | HU10 | Comparación de servicios        | "Como usuario, necesito una manera de comparar servicios y cotizaciones fácilmente, para tomar decisiones informadas al seleccionar servicios." | 3 |
-| 11 | HU11 | Programación anticipada de servicios | "Como usuario, deseo programar servicios con anticipación, para asegurar la disponibilidad cuando los necesite." | 3 |
-| 12 | HU12 | Acceso a calendario de servicios | "Como usuario, necesito acceder a un calendario que muestre mis servicios programados, para organizar mejor mi tiempo." | 2 |
-| 13 | HU13 | Recomendaciones personalizadas | "Como usuario, deseo recibir recomendaciones personalizadas basadas en mis intereses y necesidades anteriores, para encontrar servicios adecuados más rápidamente." | 5 |
-| 14 | HU14 | Ofertas y promociones personalizadas | "Como usuario, quiero recibir ofertas y promociones personalizadas, para aprovechar descuentos en servicios que me interesan." | 3 |
-| 15 | HU15 | Informes de uso de servicios    | "Como usuario, deseo recibir informes detallados sobre mi uso de servicios en la plataforma, para optimizar mi selección y gastos en servicios futuros." | 5 |
-| 16 | HU16 | Conocer carecticas principales de OfficeTech    | "Como usuario, deseo conocer mas sobre officeTech mostrando algunas de sus caracteristicas y ventajas, para poder sentirme confiada del servicio que voy a adquirir." | 5 |
-| 17 | HU17 | Introduccion sencilla     | "Como usuario, deseo conocer el funcionamiento de la página a través de una pequeña guía, para poder saber bien qué hacer al momento de comenzar." | 5 |
-| 18 | HU18 | Vista móvil | "Como usuario, deseo visualizar la landing page desde mi dispositivos móvile visitar la página mientras uso mi teléfono | 5 |
-| 19 | HU19 | Cliente interesado | "Como usuario, quiero tener un formulario de contacto simple enviar mis preguntas directamente a la empresa | 5 |
-| 20 | HU20 | Facilidad de Informacion | "Como usuario, quiero ver una introducción clara y concisa de lo que ofrece la página entender rápidamente si el servicio/producto es lo que estoy buscando | 5 |-->
----
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
@@ -1001,22 +959,22 @@ Para el sprint presentado de la landing page se optó por varias herramientas pa
 - *Vercel*: Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo de manera rápida y fácil, además que se puede vincular directamente con el repositorio de GitHub.
 
 Evidencias de despliegue en Vercel App
-![Sprint review Software Deployment Evidence](/assets/Software%20Deployment/evidence-vercel.PNG)
+![Sprint review Software Deployment Evidence](../assets/Software%20Deployment/evidence-vercel.PNG)
 Importamos el repository de GitHub alojado en la organización
 
-![Sprint review Software Deployment Evidence](/assets/Software%20Deployment/evidence-vercel-2.PNG)
+![Sprint review Software Deployment Evidence](../assets/Software%20Deployment/evidence-vercel-2.PNG)
 Configuramos la ruta donde se encuentra el archivo de despliegue, la rama principal y el comando de construcción.
 
-![Sprint review Software Deployment Evidence](/assets/Software%20Deployment/evidence-vercel-3.PNG)
+![Sprint review Software Deployment Evidence](../assets/Software%20Deployment/evidence-vercel-3.PNG)
 Después de configurar, se desplegó la landing page de manera exitosa.
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 Los integrantes del equipo, colaboraron de manera equitativa para desarrollar los diferentes features de la landing page, se utilizó la herramienta de GitFlow para manejar las actualizaciones que iba realizando cada uno, para ello existian las ramas: main, development, features, de modo que cada uno trabajaba en su rama feature, para luego trasladarlo a development y ver que este todo correcto y finalmente desplegarlo a producción con la rama main.
 Las evidencias muestran como los integrantes realizaron diferentes commits para los features.
 
-![Sprint review Team Collaboration Insights](/assets/Software%20Deployment/evidence-insights-1.PNG)
+![Sprint review Team Collaboration Insights](../assets/Software%20Deployment/evidence-insights-1.PNG)
 
-![Sprint review Team Collaboration Insights](/assets/Software%20Deployment/evidence-insights-2.PNG)
+![Sprint review Team Collaboration Insights](../assets/Software%20Deployment/evidence-insights-2.PNG)
 
 # Conclusiones
 # Conclusiones y recomendaciones.
