@@ -866,8 +866,8 @@ IntelliJ IDEA es un entorno de desarrollo integrado (IDE) creado por JetBrains. 
 - Para las pruebas de testeo software, tanto de la landing page como de la aplicación web, se emplearon las herramientas de desarrollador de los principales navegadores web como Google Chrome [https://www.google.com/chrome/](https://www.google.com/chrome/), Microsoft Edge [https://www.microsoft.com/en-us/edge](https://www.microsoft.com/en-us/edge) y Mozilla Firefox [https://www.mozilla.org/en-US/firefox/browsers/](https://www.mozilla.org/en-US/firefox/browsers/). Estos navegadores cuentan con aplicaciones desktop y móviles las cuáles son totalmente gratuitas. En el caso de desktop podemos instalarlos desde sus sitios oficiales, en el caso de móvil, desde la tienda de aplicaciones del sistema operativo en cuestión.
 
 #### Software Deployment
-- Github Pages [https://pages.github.com](https://pages.github.com):
-GitHub Pages es un servicio proporcionado por GitHub que nos permitirá alojar nuestra landing page directamente desde nuestro repositorio de GitHub.
+- **Vercel** [https://vercel.com](https://vercel.com):
+es una plataforma en la nube que ofrece herramientas integrales para el desarrollo, implementación y alojamiento de aplicaciones web, permitiendo a los desarrolladores crear y lanzar sitios estáticos o dinámicos de manera eficiente y escalable.
 
 #### Software Documentation
 - Markdown [https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax):
