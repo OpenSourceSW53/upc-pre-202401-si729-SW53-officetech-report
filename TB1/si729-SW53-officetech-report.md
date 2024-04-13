@@ -330,7 +330,7 @@ Con respecto a nuestro segmento 2 como nuestro público objetivo de OfficeTech, 
 ### 2.3.4. Empathy Mapping.
 **Cliente:**
 
-<img src="../assets/Empathy-maps/Empathy map Client.png" alt="Empathy map Technician" style="width:100%;">
+<img src="../assets/Empathy-maps/Empathy map Client.png" alt="Empathy map Client" style="width:100%;">
 
 **Técnico:**  
 
@@ -355,7 +355,7 @@ Con respecto a nuestro segmento 2 como nuestro público objetivo de OfficeTech, 
 |---------------|--------------------------------|-------------------------------------------|------------------------|------------------------------------|
 | **Doing**     | Hablo con el cliente sobre su caso | Coordinamos un precio accesible          | Realizo el mantenimiento | Se realiza el pago del servicio    |
 | **Thinking**  | Espero poder encontrar nuevos clientes | Espero que mis capacidades sean suficientes | Espero poder ser mas conocido por mi servicio | Espero que me valoren bien mis clientes |
-| **Feeling**   | Siento que no soy muy popular   | Siento que no tengo muchos clientes       | Siento que no valoran mis capacidades | Siento que tengo mucho tiempo sin los |
+| **Feeling**   | Siento que no soy muy popular   | Siento que no tengo muchos clientes       | Siento que no valoran mis capacidades | Siento que tengo mucho tiempo sin   clientes |
 
 
 
