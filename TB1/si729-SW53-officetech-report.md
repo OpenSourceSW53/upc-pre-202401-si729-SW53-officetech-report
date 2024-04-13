@@ -123,33 +123,28 @@ Hemos identificado la necesidad de un intermediario que pueda comunicar el desem
   problemas para usarlo
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
-| Assumption priorizado: | 1 (Business Assumptions)                                                                                                                                           |
-|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Hypothesis:            | 1                                                                                                                                                                  |
-| Descripcion:           | Creemos que nuestros clientes podran solucionar el problema de buscar un tecnico con nuetrsa asplicacion<br/>Sabemos que nuestros clientes encontrarán al tecnico  |
-| Metrica                | Crearemos una aplicación para buscar técnicos                                                                                                                      |
+| Assumption priorizado: | (Business Assumptions)                                                                                                                                           |
+|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|      
+| Descripcion:           | Creemos que nuestros clientes podran solucionar el problema de buscar un técnico con nuestra aplicación<br/>Sabemos que nuestros clientes encontrarán al tecnico ideal para su problema  |
+| Metrica                | Crearemos una aplicación que permita conectar técnicos con negocios                                                                                                                      |
 
-| Assumption priorizado: | 4 (Business Assumptions)                                                                                         |
+| Assumption priorizado: | (Business Assumptions)                                                                                         |
 |------------------------|------------------------------------------------------------------------------------------------------------------|
-| Hypothesis:            | 2                                                                                                                |
 | Descripcion:           | Creemos que nuestros clientes podrán ahorrarse el tiempo de esperar a un técnico para que solucione su problema.<br/>Sabemos que nuestros clientes no podrán esperar mucho tiempo para conseguir un técnico |
 | Metrica                | Las notificaciones de solicitudes de servicio llegarán a los técnicos en cuestión de segundos                    |
 
-| Assumption priorizado: | 5 (Business Assumptions)                                                                                                                                              |
-|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Hypothesis:            | 3                                                                                                                                                                     |
+| Assumption priorizado: | (Business Assumptions)                                                                                                                                              |
+|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|   
 | Descripcion:           | Creemos que nuestros clientes se podran comunicar con los tecnicos por medio de via telefonica<br/>Sabemos que los clientes van a querer comunicarse con los tecnicos |
 | Metrica                | El numero de celular del tecnico aparecera en la informacion de su perfil                                                                                             |
 
-| Assumption priorizado: | 3 (Business Assumptions)                                                                                                                       |
+| Assumption priorizado: | (Business Assumptions)                                                                                                                       |
 |------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| Hypothesis:            | 4                                                                                                                                              |
 | Descripcion:           | Creemos que nuestra aplicación podrá garantizar que los técnicos puedan tener ingresos.<br/>Sabemos que los tecnicos buscan un trabajo estable |
 | Metrica                | Los tecnicos obtendran sus ganancias al terminar con sus servicios y dependen del tipo de suscripcion de su cliente y calificacion             |
 
-| Assumption priorizado: | 6 (Business Assumptions)                                                                                                                                                                                            |
+| Assumption priorizado: | (Business Assumptions)                                                                                                                                                                                            |
 |------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Hypothesis:            | 5                                                                                                                                                                                                                   |
 | Descripcion:           | Creemos que nuetra aplicacion tendra un buen funcionamiento y que los usuarios puedan usarlo facilmente<br/>Sabemos que nuestros usuarios quieren una aplicacion que sea facil de usar y que funcione correctamente |
 | Metrica                | Se crearan funcionalidades que sean amigables para los usuarios                                                                                                                                                     |
 
@@ -158,7 +153,7 @@ Hemos identificado la necesidad de un intermediario que pueda comunicar el desem
 
 ## 1.3. Segmentos objetivo.
 **Segmento 1**
-<br>Clientes: Empresas, organizaciones, tiendas o vendedores independientes de aparatos electrónicos, tecnológicos o electrodomésticos, que necesit an de un servicio confiable, seguro y eficaz de soporte técnico para cubrir las garantías de sus productos vendidos.
+<br>Clientes: Empresas, organizaciones, tiendas o vendedores independientes de aparatos electrónicos, tecnológicos o electrodomésticos, que necesitan de un servicio confiable, seguro y eficaz de soporte técnico para cubrir las garantías de sus productos vendidos.
 
 **Segmento 2** 
 Técnicos especializados en el servicio de reparación de distintos artefactos electrónicos, tecnológicos o electrodomésticos. Además, que gusten afiliarse en la aplicación para aumentar su alcance laboral y tener más opciones de trabajo
@@ -935,7 +930,7 @@ Realizamos el deploy de la página a través de GitHub Pages, una plataforma que
 | Location                 | REUNION VIRTUAL POR DISCORD                                                                    |
 | Prepared By              | Jara Benites Quique Vladimir / Herrera Aguirre Fabia Alejandra / Rodriguez Vargas Arian Martin / Ramirez Ramirez Marcelo Sebastian / Ramirez Conteras Zaid Valentino / Rubio Calixto Adrian Gustavo                                                                   |
 | Attendees (to planning meeting) | Jara Benites Quique Vladimir / Herrera Aguirre Fabia Alejandra / Rodriguez Vargas Arian Martin / Ramirez Ramirez Marcelo Sebastian / Ramirez Conteras Zaid Valentino / Rubio Calixto Adrian Gustavo                       |
-| **Pre-Sprint Review Summary**       | Este siendo nuestro primer Sprint, no tenemos un Sprint previo que revisar. Sin embargo, durante la fase de preparación, hemos completado la partes que tendra el landing page, hemos definido las herramientas para el desarrollo y hemos establecido un protocolo de comunicación interna. También hemos llevado a cabo una serie de reuniones de planificación para identificar las prioridades del producto, elaborar un backlog inicial y asignar roles dentro del equipo. Estos pasos han sentado una sólida base para iniciar nuestro primer Sprint con claridad en las expectativas y objetivos a alcanzar. |
+| **Pre-Sprint Review Summary**       | Durante la fase de preparación, hemos completado la partes que tendrá el landing page, hemos definido las herramientas para el desarrollo y hemos establecido un protocolo de comunicación interna. También hemos llevado a cabo una serie de reuniones de planificación para identificar las prioridades del producto, elaborar un backlog inicial y asignar roles dentro del equipo. Estos pasos han sentado una sólida base para iniciar nuestro primer Sprint con claridad en las expectativas y objetivos a alcanzar. |
 | **Initial Sprint  Retrospective Summary** | Al ser nuestro primer Sprint, no tenemos una retrospectiva tradicional para revisar. No obstante, hemos reflexionado sobre el proceso de inicio de nuestro equipo Agile. Durante nuestras sesiones iniciales, identificamos áreas de enfoque clave, como la mejora en la comunicación y la clarificación de roles dentro del equipo. Reconocemos la necesidad de establecer protocolos claros para la gestión de tareas y la resolución de conflictos. El equipo también acordó dedicar tiempo regularmente para talleres de reforzamiento del trabajo para asegurar que todos los miembros estén al día con los avances del proyecto que se den. Esta reflexión inicial nos ayudará a formar un marco de trabajo efectivo y eficiente para los próximos Sprints.|
 | **Sprint Goal & User Stories** |                                                                                                 |
 | Sprint 1 Goal             | El objetivo para el Sprint 1 es desarrollar una landing page para que el usuario tenga informacion de los servicios que brindamos. Este Sprint se centrará en la implementación de un landing page informativo con una interfaz intuitiva para que el cliente conozca quienes somos y que servicios brindamos. La métrica de éxito será el aumento de las visitas a la pagina web y el aumento de mensajes de contacto de parte de clientes pontenciales interesados en los servicios brindados.|
@@ -961,9 +956,9 @@ Para este primer sprint se decidió trbajar en una rama diferente para despues u
 | Repository                             | Branch                     | Commit ID                                  | Commit Message            | Committed on(date) |
 |----------------------------------------|----------------------------|--------------------------------------------|---------------------------|--------------------|
 | OpenSourceSW53/officetech-landing-page | feature/about              | 0facfb4, 952cdfd, a426a69                  | feat: added about         | 03/04/24           |
-| OpenSourceSW53/officetech-landing-page | feature/application        | 951e82d, bfa6c68, 85d73de                  | feat: added application   | 04/04/24           |
-| OpenSourceSW53/officetech-landing-page | feature/Contact            | 3ca23e7, 9a4bfc2                           | feat: added Contact       | 03/04/24           |
-| OpenSourceSW53/officetech-landing-page | feature/Home               | 5df09ca, 8ec5ce4, 8477fs28                 | feat: added Home          | 03/04/24           |
+| OpenSourceSW53/officetech-landing-page | feature/applications        | 951e82d, bfa6c68, 85d73de                  | feat: added application   | 04/04/24           |
+| OpenSourceSW53/officetech-landing-page | feature/contact            | 3ca23e7, 9a4bfc2                           | feat: added Contact       | 03/04/24           |
+| OpenSourceSW53/officetech-landing-page | feature/home               | 5df09ca, 8ec5ce4, 8477fs28                 | feat: added Home          | 03/04/24           |
 | OpenSourceSW53/officetech-landing-page | feature/navbar             | 857493c, bd78533, ffd1a90                  | feat: added navbar        | 02/04/24           |
 | OpenSourceSW53/officetech-landing-page | feature/officetech-features| 0facfb4, 952cdfd, a426a69                  | feat: added features      | 03/04/24           |
 
@@ -981,7 +976,7 @@ Para este primer sprint se decidió trbajar en una rama diferente para despues u
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 En este sprint los miembros de TechConnect Solutions complementaron satisfactoriamente las tareas propuestas. 
 El sprint estuvo relacionado mayormente con el diseño y desarrollo del software. A lo largo del desarrollo se fueron realizando correcciones a errores dentro del codigo.
-![Sprint review Services Documentation Evidence](image.jpg)
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 Para el sprint presentado de la landing page se optó por varias herramientas para su desarrollo y despliegue en la web de manera pública.
 - *Git*: Se utilizó para el control de versiones del código fuente.
@@ -1029,28 +1024,37 @@ Las evidencias muestran como los integrantes realizaron diferentes commits para 
 
 # Bibliografía
 ``` 
-formato
 
-"Apellido", Ini.Ciales. & "otroAutor", O.A. (año). titulo del articulo.
-        "nombre del articulo o lo q sea, Volumen(si es que tiene), numero  de pagina"#-#. https//link.org/eeeseneko
+Gothelf, J., & Seiden, J. (2013). 
+  Lean UX: Applying lean principles to improve user experience. O'Reilly Media. 
+  https://books.google.es/books?hl=es&lr=&id=wLw6EAAAQBAJ&oi=fnd&pg=PT37&dq=Lean+ux&ots=QuMNDmvouC&sig=36AUu53YuLt_4OXBjwdg9RSLr_4#v=onepage&q=Lean%20ux&f=false
+```
+```
+Cohn, M. (2004). User stories applied: For agile software development. Addison-Wesley. 
+  https://books.google.es/books?hl=es&lr=&id=SvIwuX4SVigC&oi=fnd&pg=PR13&dq=Cohn,+M.+(2004).+User+stories+applied:+For+agile+software+development.+Addison-Wesley.&ots=VsSb68rUSO&sig=zVJsoYVopnqITrtBXPAIzePb96w#v=onepage&q=Cohn%2C%20M.%20(2004).%20User%20stories%20applied%3A%20For%20agile%20software%20development.%20Addison-Wesley.&f=false
+```
 
 ```
-Gothelf, J., & Seiden, J. (2013). Lean UX: Applying lean principles to improve user experience. O'Reilly Media. [https://books.google.es/books?hl=es&lr=&id=wLw6EAAAQBAJ&oi=fnd&pg=PT37&dq=Lean+ux&ots=QuMNDmvouC&sig=36AUu53YuLt_4OXBjwdg9RSLr_4#v=onepage&q=Lean%20ux&f=false](https://books.google.es/books?hl=es&lr=&id=wLw6EAAAQBAJ&oi=fnd&pg=PT37&dq=Lean+ux&ots=QuMNDmvouC&sig=36AUu53YuLt_4OXBjwdg9RSLr_4#v=onepage&q=Lean%20ux&f=false)
+Duckett, J. (2014). 
+  HTML and CSS: Design and build websites. John Wiley & Sons. https://wtf.tw/ref/duckett.pdf
+```
 
-Cohn, M. (2004). User stories applied: For agile software development. Addison-Wesley. [https://books.google.es/books?hl=es&lr=&id=SvIwuX4SVigC&oi=fnd&pg=PR13&dq=Cohn,+M.+(2004).+User+stories+applied:+For+agile+software+development.+Addison-Wesley.&ots=VsSb68rUSO&sig=zVJsoYVopnqITrtBXPAIzePb96w#v=onepage&q=Cohn%2C%20M.%20(2004).%20User%20stories%20applied%3A%20For%20agile%20software%20development.%20Addison-Wesley.&f=false](https://books.google.es/books?hl=es&lr=&id=SvIwuX4SVigC&oi=fnd&pg=PR13&dq=Cohn,+M.+(2004).+User+stories+applied:+For+agile+software+development.+Addison-Wesley.&ots=VsSb68rUSO&sig=zVJsoYVopnqITrtBXPAIzePb96w#v=onepage&q=Cohn%2C%20M.%20(2004).%20User%20stories%20applied%3A%20For%20agile%20software%20development.%20Addison-Wesley.&f=false)
+```
+Ambler, S. W. (2004). The object primer: Agile model-driven development with UML 2.0. 
+  Cambridge University Press. 
+  https://www.researchgate.net/publication/235616285_The_object_primer_agile_modeling-driven_development_with_UML_20
+```
 
-Duckett, J. (2014). HTML and CSS: Design and build websites. John Wiley & Sons. [https://wtf.tw/ref/duckett.pdf](https://wtf.tw/ref/duckett.pdf)
+```
+Teorey, T. J., Lightstone, S. S., & Nadeau, T. (2011). 
+  Database modeling and design: Logical design (5th ed.). Morgan Kaufmann. 
+  https://eketab2.wordpress.com/wp-content/uploads/2007/09/databasemodelinganddesignlogical-design.pdf
+```
 
-Ambler, S. W. (2004). The object primer: Agile model-driven development with UML 2.0. Cambridge University Press. [https://www.researchgate.net/publication/235616285_The_object_primer_agile_modeling-driven_development_with_UML_20](https://www.researchgate.net/publication/235616285_The_object_primer_agile_modeling-driven_development_with_UML_20)
-
-Teorey, T. J., Lightstone, S. S., & Nadeau, T. (2011). Database modeling and design: Logical design (5th ed.). Morgan Kaufmann.[https://eketab2.wordpress.com/wp-content/uploads/2007/09/databasemodelinganddesignlogical-design.pdf](https://eketab2.wordpress.com/wp-content/uploads/2007/09/databasemodelinganddesignlogical-design.pdf)
 
 # Anexos
-
-datos, gráficos, imágenes, esquemas, mapas o referencias de otros autores
-
-![Imagen de algo no nuestro lol](image.jpg)
-
+**Video TB1**: Presentación del equipo y explicación del proyecto
+*link*
 
 
 
