@@ -1030,7 +1030,7 @@ Teorey, T. J., Lightstone, S. S., & Nadeau, T. (2011).
 **Video TB1**: Presentación del equipo y explicación del proyecto
  <BR>
 https://upcedupe-my.sharepoint.com/: v :/g/personal/u202210582_upc_edu_pe/EeX37xW92-lBkFtpVltxAEcB4A6PIumofgwLYfBwgfpMnw?e=ctdycc/
-
+(Copiar Pegar link)
 
 
 
