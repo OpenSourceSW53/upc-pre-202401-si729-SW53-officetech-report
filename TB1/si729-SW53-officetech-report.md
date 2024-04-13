@@ -236,7 +236,23 @@ Rusbel Bargas es un ingeniero informático que se encarga de un negocio de venta
 [Vídeo de entrevista](https://youtu.be/fbYutiYTEv4) <br>
 Diego Hernandez nos cuenta a detalle lo que él y su equipo debe enfrentar en su negocio de venta de dispositivos electrónicos. Nos comenta que uno de los mayores desafíos es el soporte técnico que se debe brindar a aquellos productos que son adquiridos por los clientes. Muchas veces el equipo de Diego no se da a basto con la cantidad de peticiones que llegan a diario para la reparación, soporte técnico. Asegura que una propuesta como la de OfficeTech sería lo ideal para contratar y asegurar la satisfacción de sus clientes, y así poder garantizar una buena garantía a sus productos.
 
-<br><br><br><br><br>
+<br><br>
+
+**Entrevista 3:**<br>
+**Nombre:** Eduardo Sanandres<br>
+**Edad:** 28 años<br>
+**Ocupación:** Lider de soporte tecnico en Constructora <br>
+<img src="../assets/Entrevistas-IMG/Entrevista-Eduardo-Sanandres.png" alt="Entrevista Eduardo" style="width:100%;">
+[Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017622_upc_edu_pe/ETHUOnQL2zdCuxO9S4zB-W8B-ZMBnI3KvxzpmKd7Akiv0w?e=jrmaBo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) <br>
+Eduardo Sanandres, líder de soporte técnico, describe su trabajo diario y los retos que enfrenta al gestionar las demandas de servicio técnico de su empresa. Explica que los problemas varían significativamente, desde cuestiones menores hasta "super problemas" que requieren más tiempo del planificado para su resolución. Esta variabilidad provoca retrasos en los tiempos programados para solucionar las incidencias, afectando la efectividad del equipo.
+
+Ante esta situación, Eduardo está considerando la posibilidad de tercerizar el servicio de soporte técnico. Su objetivo es aliviar la carga de trabajo de su personal y aumentar la eficiencia en la resolución de problemas. Para ello, busca técnicos de alta calidad que ofrezcan un mantenimiento o reparación eficaces de los equipos de la empresa.
+
+Actualmente, Eduardo realiza búsquedas activas en redes sociales y sitios web especializados para encontrar estos profesionales. Su criterio principal es la efectividad y la calidad en la reparación de los productos, esenciales para mejorar el rendimiento general del servicio técnico.
+
+En resumen, Eduardo necesita encontrar técnicos competentes que puedan garantizar un servicio de alta calidad y contribuir significativamente a la optimización de los procesos de soporte técnico de la empresa.
+
+<br><br><br>
 
 **Segmento 2: Técnicos especializados en reparación, mantenimiento y soporte técnico de productos electrónicos.** <br>
 **Entrevista 1:**<br>
