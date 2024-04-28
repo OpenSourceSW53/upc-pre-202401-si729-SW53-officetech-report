@@ -976,6 +976,31 @@ Las evidencias muestran como los integrantes realizaron diferentes commits para 
 
 ![Sprint review Team Collaboration Insights](../assets/Software%20Deployment/evidence-insights-2.PNG)
 
+# Sprint 2 
+#### 5.2.2.1. Sprint Planning 2.
+aqui va el sprint planning 2 (MARCELO)
+
+#### 5.2.2.2. Sprint Backlog 2
+aqui va el sprint backlog 2 (FABIA)
+
+#### 5.2.2.3. Development Evidence for Sprint Review.
+aqui va el development evidence for sprint review 2 (ZAID)
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+aqui va el testing suite evidence for sprint review 2 (ZAID)
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+aqui va el execution evidence for sprint review 2 (ADRIAN)
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+aqui va el services documentation evidence for sprint review 2 (ADRIAN)
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+aqui va el software deployment evidence for sprint review 2 (VLADIMIR)
+
+#### 5.2.2.8 Team Collaboration Insights During Sprint
+aqui va el team collaboration insights during sprint 2 (ARIAN)
+
 # Conclusiones
 # Conclusiones y recomendaciones.
 **Conclusiones:**
