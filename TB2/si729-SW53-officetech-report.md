@@ -985,6 +985,35 @@ aqui va el sprint backlog 2 (FABIA)
 
 #### 5.2.2.3. Development Evidence for Sprint Review.
 aqui va el development evidence for sprint review 2 (ZAID)
+Para este segundo sprint se decidió trabajar en una rama diferente para despues unirlo todo en develop. Cada miembro ha realizado un commit para luego hacer merge. 
+| Repository                         | Branch                     | Commit ID          | Commit Message                                                        | Committed on(date) |
+|------------------------------------|----------------------------|--------------------|-----------------------------------------------------------------------|--------------------|
+| OpenSourceSW53/officetech-frontend | feature/comments           | 710be4e            | feat: comments components                                             | 25/04/24           |
+| OpenSourceSW53/officetech-frontend | feature/current-services   | e89bff5            | add: navbar responsive                                                | 24/04/24           |
+| OpenSourceSW53/officetech-frontend | feature/current-services   | 9389682            | add: panel to services static                                         | 24/04/24           |
+| OpenSourceSW53/officetech-frontend | feature/current-services   | e89bff5            | add: panel with services dinamic                                      | 24/04/24           |
+| OpenSourceSW53/officetech-frontend | feature/forum              | d36cbf3            | add: forum structure                                                  | 25/04/24           |
+| OpenSourceSW53/officetech-frontend | feature/forum              | 11a19a5            | feat: fake api posts                                                  | 25/04/24           |
+| OpenSourceSW53/officetech-frontend | feature/forum              | fb2bb56            | feat: comment forum added                                             | 25/04/24           |
+| OpenSourceSW53/officetech-frontend | feature/forum              | 98de8db            | feat: changing view depending type user                               | 25/04/24           |
+| OpenSourceSW53/officetech-frontend | feature/forum              | bb661fc, 3492b38   | update: view technician/team responsive                               | 25/04/24           |
+| OpenSourceSW53/officetech-frontend | feature/forum              | 4db2aa9            | update: forum.component.html                                          | 27/04/24           |
+| OpenSourceSW53/officetech-frontend | feature/forum              | f4a887e            | update: publish-component                                             | 28/04/24           |
+| OpenSourceSW53/officetech-frontend | feature/header             | 8473e7c            | add: header toolbar dinamic                                           | 23/04/24           |
+| OpenSourceSW53/officetech-frontend | feature/header             | c0be4e2            | add: navbar responsive                                                | 24/04/24           |
+| OpenSourceSW53/officetech-frontend | feature/login              | 256ffbd            | add: sign-in component                                                | 28/04/24           |
+| OpenSourceSW53/officetech-frontend | feature/login              | eae878e            | add: sign-up component                                                | 28/04/24           |
+| OpenSourceSW53/officetech-frontend | feature/login              | 8dd7862            | add: subscription component                                           | 28/04/24           |
+| OpenSourceSW53/officetech-frontend | feature/payment-details    | 8e90b85            | feat: payment details components                                      | 23/04/24           |
+| OpenSourceSW53/officetech-frontend | feature/payment-details    | b772da2            | feat: fixed theme problem and added required inputs                   | 25/04/24           |
+| OpenSourceSW53/officetech-frontend | feature/payment-details    | c21c788            | fix: fixed button visual problem                                      | 25/04/24           |
+| OpenSourceSW53/officetech-frontend | feature/profile-company    | 9117268            | feat: added user profile view                                         | 28/04/24           |
+| OpenSourceSW53/officetech-frontend | feature/profile-company    | ce0a8dc            | feat: added user data editing view                                    | 28/04/24           |
+| OpenSourceSW53/officetech-frontend | feature/profile-company    | d364dcf            | feat: user edit view correction                                       | 28/04/24           |
+| OpenSourceSW53/officetech-frontend | feature/profile-company    | 4a4dde4            | feat: add routes                                                      | 28/04/24           |
+| OpenSourceSW53/officetech-frontend | feature/service-request    | f699a87            | feat: adding service request component                                | 25/04/24           |
+| OpenSourceSW53/officetech-frontend | feature/service-request    | 2b6ef58            | fix: fixed ngif error and saved input values in variables for CRUD use| 26/04/24           |
+| OpenSourceSW53/officetech-frontend | feature/services-company   | 859ee04            | feat: services-company                                                | 25/04/24           |
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 aqui va el testing suite evidence for sprint review 2 (ZAID)
