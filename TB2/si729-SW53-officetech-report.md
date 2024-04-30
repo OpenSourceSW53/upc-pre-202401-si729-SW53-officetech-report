@@ -978,7 +978,20 @@ Las evidencias muestran como los integrantes realizaron diferentes commits para 
 
 # Sprint 2 
 #### 5.2.2.1. Sprint Planning 2.
-aqui va el sprint planning 2 (MARCELO)
+| Sprint # | Sprint 1     |
+|--------------------------|------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**  |                                                                                                 |
+| Date                     | 2024-04-28                                                                                     |
+| Time                     | 06:00 PM                                                                                    |
+| Location                 | REUNION VIRTUAL POR DISCORD                                                                    |
+| Prepared By              | Jara Benites Quique Vladimir / Herrera Aguirre Fabia Alejandra / Rodriguez Vargas Arian Martin / Ramirez Ramirez Marcelo Sebastian / Ramirez Conteras Zaid Valentino / Rubio Calixto Adrian Gustavo                                                                   |
+| Attendees (to planning meeting) | Jara Benites Quique Vladimir / Herrera Aguirre Fabia Alejandra / Rodriguez Vargas Arian Martin / Ramirez Ramirez Marcelo Sebastian / Ramirez Conteras Zaid Valentino / Rubio Calixto Adrian Gustavo                       |
+| **Pre-Sprint Review Summary**       |  |
+| **Initial Sprint  Retrospective Summary** |   |
+| **Sprint Goal & User Stories** |      |
+| Sprint 1 Goal             |  |
+| Sprint 1 Velocity         |  |
+| Sum of Story Points       |  |
 
 #### 5.2.2.2. Sprint Backlog 2
 aqui va el sprint backlog 2 (FABIA)
