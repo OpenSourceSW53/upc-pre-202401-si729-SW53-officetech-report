@@ -20,12 +20,19 @@
 # Registro de Versiones del Informe
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
-| 0.0 | 24/03/2024 | Grupo 3 | Se crea el documento |
-| 1.0 | 24/03/2024 | Grupo 3 | Se crean las ramas correspondientes |
-| 1.1 | 25/03/2024 | Grupo 3 | Capitulo I |
-| 1.1 | 25/03/2024 | Grupo 3 | Capitulo II |
-| 1.1 | 27/03/2024 | Grupo 3 | Capitulo III |
-| 1.1 | 29/03/2024 | Grupo 3 | Capitulo IV |
+| 0.0 | 24/03/2024 | Arian Rodriguez | Se crea el documento |
+| 1.0 | 24/03/2024 | Zaid Ramirez | Se crean las ramas correspondientes |
+| 1.1 | 25/03/2024 | Fabia Herrera | Se aplican mejoras en los capitulos 1 y 2 |
+| 1.2 | 25/03/2024 | Vladimir Jara | Se realizan los user diagrams y Lean UX |
+| 1.3 | 27/03/2024 | Adrian Rubio | Se colocan las user stories |
+| 1.4 | 29/03/2024 | Marcelo Ramirez | Se implementa el product backlog y las épicas correspondientes a story points |
+| 1.5 | 04/04/2024 | Arian Rodriguez | Se revisan las entrevistas |
+| 1.6 | 05/04/2024 | Zaid Ramirez | Actualizaciones en los diagramas C4 DDD |
+| 1.7 | 06/04/2024 | Fabia Herrera | Se actualiza el capitulo de colaboracion |
+| 1.8 | 12/04/2024 | Vladimir Jara | Se actualiza los Impact Mappings de los Users |
+| 1.9 | 20/04/2024 | Adrian Rubio | Arreglo de los User Stories |
+| 2.0 | 26/04/2024 | Marcelo Ramirez | Finaliza cambios en HU y Product Backlog |
+| 2.1 | 30/04/2024 | Arian Rodriguez | Arreglos generales, HU, Lean UX, C4 Diagrams |
 
 # Project Report Collaboration Insights
 El presente informe se encuentra guardado en la organización de OfficeTech: [URL del repositorio](https://github.com/OpenSourceSW53/-upc-pre-202401-si729-SW53-officetech-report.git)
@@ -45,18 +52,19 @@ Para la entrega, se consideró la Landing Page en otro repositorio de la misma o
 ### 1.1.1. Descripción de la Startup
 #### TechConnect Solutions
 Somos un equipo de desarrolladores de plataformas web con experiencia en servicio técnico, cuyo objetivo es brindar soporte y soluciones a los clientes para satisfacer sus requerimientos y necesidades así como asegurar su completa satisfacción.
-Además, utilizamos una variedad de métodos innovadores para resolver los problemas que enfrentan nuestros clientes.
+Además, utilizamos una variedad de métodos innovadores para resolver los problemas que enfrentan nuestros clientes. Nuestro enfoque principal es garantizar la calidad y eficiencia de nuestros servicios, lo que nos permite ofrecer una experiencia óptima al cliente. 
+
 - **Misión:** Nuestra misión es garantizar una experiencia óptima y agradable al usar la aplicación, garantizando la seguridad, confianza y preferencia del cliente.
 - **Visión:** Nos esforzamos por penetrar, establecernos y diferenciarnos en el mercado de soporte tecnológico dedicado, ganarnos la confianza del cliente y asegurar una posición sólida en el sector.
 #### 1.1.2. Perfiles de integrantes del equipo
 | Miembros del equipo                                                                                                                         | Codigo Estudiante | Carrera | Conocimientos / Habilidades              |
 |---------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-|------------------------------------------| 
-| Jara Benites, Quique Vladimir <br><img src="../assets/members-profile/Dmr.jpg" alt="Imagen del compañero" style="width:60%;">               | U202022365        |Ingenieria de software| C++, Python, C#, perseverante y creativo |
-| Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">          | U202212096        |Ingenieria de software| C++, Python, persistente y amigable      |
-| Ramirez Contreras, Zaid Valentino <img src="../assets/members-profile/Zado.png" alt="Imagen del compañer" style="width:60%">                | U202218472        |Ingenieria de software| C++, python, HTML5, CSS3, Javascript, SQL |
-| Herrera Aguirre, Fabia Alejandra <img src="../assets/members-profile/pelufoto.png" alt="Imagen del compañero" style="width:60%">            | U202219422        |Ingenieria de software| C++, Python, SQL, creativa, responsable  |
-| Ramirez Ramirez, Marcelo Sebstian <img src="../assets/members-profile/ramirez.jpeg" alt="Imagen del compañero" style="width:60%">           | U202210582        |Ingenieria de software| C++, Javascript,SQL,HTML5,CSS      |
-| Rubio Calixto, Adrian Gustavo <img src="../assets/members-profile/Adrian.png" alt="Imagen del compañero" style="width:60%">                 | U202017622        |Ingenieria de software| C++, HTML,  CSS,  Java, y  python       |
+| Jara Benites, Quique Vladimir <br><img src="../assets/members-profile/Dmr.jpg" alt="Imagen del compañero" style="width:60%;">               | U202022365        |Ingenieria de software| XXXXXXXXXXXXXXXXXXXXX |
+| Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">          | U202212096        |Ingenieria de software| Actualmente me encuentro aprendiendo las tecnologías de Angular, Vue para el desarrollo web, llevo un gran interés en el desarrollo del backend, creación de APIs, persona con bastante ganas de seguir aprendiendo y no quedarse con la duda. Los lenguajes de programación con las que más me relaciono son C++ y Python, me gusta la optimización y eficiencia en el código |
+| Ramirez Contreras, Zaid Valentino <img src="../assets/members-profile/Zado.png" alt="Imagen del compañer" style="width:60%">                | U202218472        |Ingenieria de software| XXXXXXXXXXXXXXXXXXXXX |
+| Herrera Aguirre, Fabia Alejandra <img src="../assets/members-profile/pelufoto.png" alt="Imagen del compañero" style="width:60%">            | U202219422        |Ingenieria de software| XXXXXXXXXXXXXXXXXXXXX |
+| Ramirez Ramirez, Marcelo Sebstian <img src="../assets/members-profile/ramirez.jpeg" alt="Imagen del compañero" style="width:60%">           | U202210582        |Ingenieria de software| XXXXXXXXXXXXXXXXXXXXX     |
+| Rubio Calixto, Adrian Gustavo <img src="../assets/members-profile/Adrian.png" alt="Imagen del compañero" style="width:60%">                 | U202017622        |Ingenieria de software| XXXXXXXXXXXXXXXXXXXXX      |
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
