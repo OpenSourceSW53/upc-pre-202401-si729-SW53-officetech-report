@@ -1116,8 +1116,10 @@ GitHub: Se utilizó para crear el repositorio del fronted, donde se subió el c�
 Vercel: Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo de manera rápida y fácil, además que se puede vincular directamente con el repositorio de GitHub.
 
 Evidencias de despliegue en Vercel App
-![Sprint review Software Deployment Evidence](../assets/Software%20Deployment/sprint2-vercel1-1.png)
+![Sprint review Software Deployment Evidence](../assets/Software%20Deployment/sprint2-vercel-1.png)
 Importamos el repository de GitHub alojado en la organización
+
+<br>
 
 ![Sprint review Software Deployment Evidence](../assets/Software%20Deployment/sprint2-vercel-2.png)
 Configuramos la ruta donde se encuentra el archivo de despliegue, la rama principal y el comando de construcción.
