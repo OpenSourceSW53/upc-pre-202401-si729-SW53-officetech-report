@@ -1115,6 +1115,16 @@ GitFlow: Se utilizó para ver el avance de los integrantes del equipo.
 GitHub: Se utilizó para crear el repositorio del fronted, donde se subió el código fuente.
 Vercel: Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo de manera rápida y fácil, además que se puede vincular directamente con el repositorio de GitHub.
 
+Evidencias de despliegue en Vercel App
+![Sprint review Software Deployment Evidence](../assets/Software%20Deployment/sprint2-vercel-1.PNG)
+Importamos el repository de GitHub alojado en la organización
+
+![Sprint review Software Deployment Evidence](../assets/Software%20Deployment/sprint2-vercel-2.PNG)
+Configuramos la ruta donde se encuentra el archivo de despliegue, la rama principal y el comando de construcción.
+
+![Sprint review Software Deployment Evidence](../assets/Software%20Deployment/sprint2-vercel-3.PNG)
+Después de configurar, se desplegó el front end de manera exitosa.
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 En este sprint 2 los miembros de TechConnect Solutions complementaron satisfactoriamente las tareas propuestas. 
 El sprint 2 estuvo relacionado mayormente con el diseño y desarrollo del front-end de la aplicacion. A lo largo del desarrollo se fueron realizando correcciones a errores dentro del codigo.
