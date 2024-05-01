@@ -337,8 +337,23 @@ Daniel es un técnico en computación que trabaja en Compupalace, nos comenta qu
 **Segmento 1:**
 Con respecto a nuestro primer segmento como público objetivo de OfficeTech, los clientes que requieren de un plan para soporte técnico que brinde garantía y soluciones a sus productos electrónicos vendidos, se pudo observar que la mayoría de los entrevistados coinciden en que uno de los mayores desafíos que enfrentan es el soporte técnico que deben brindar a sus clientes. Aseguran que la mayoría de los problemas técnicos que enfrentan sus clientes son de naturaleza simple, pero que requieren de un técnico especializado para ser resueltos. Además, la mayoría de los clientes buscan una solución rápida y efectiva a sus problemas, por lo que es importante contar con un servicio de soporte técnico confiable y eficiente. Por otro lado, la mayoría de los clientes buscan una garantía en los productos que adquieren, por lo que es importante contar con un plan de soporte técnico que brinde garantía y soluciones a sus productos electrónicos vendidos. En este sentido, la propuesta de OfficeTech de brindar un servicio de suscripción para servicios técnicos que garantice la satisfacción de los clientes y asegure la calidad de los productos vendidos, sería una solución ideal para los clientes entrevistados.
 
+Fue a través de las entrevistas realizadas que se obtuvieron datos ilustrativos. A continuación, se presentan gráficas realizadas a partir de los datos obtenidos.
+
+<center><img src="../assets/Graficos de entrevistas/segmento1-g1.png" alt="Grafico1" style="width:70%;"></center>
+
+<center><img src="../assets/Graficos de entrevistas/segmento1-g2.png" alt="Grafico2" style="width:70%;"></center>
+
+<center><img src="../assets/Graficos de entrevistas/segmento1-g3.png" alt="Grafico3" style="width:70%;"></center>
+
+
 **Segmento 2:**
 Con respecto a nuestro segmento 2 como nuestro público objetivo de OfficeTech, los técnicos especializados en reparación, mantenimiento y soporte técnico de productos electrónicos, se pudo observar que uno de los mayores desafíos que enfrentan es atraer nuevos clientes, dada la competencia y la variedad de servicios que ofrecen empresas más grandes y consolidadas. Utilizan principalmente LinkedIn, Instagram y Facebook como canales de comunicación para llegar a sus clientes potenciales. Sus servicios incluyen actualización de equipos de cómputo, reparaciones y soporte para sistemas remotos como Azure y AWS. Para abordar los problemas técnicos, pueden ofrecer servicios de manera remota o presencial dependiendo del problema. Varias veces tienen que trabajar bajo presión, pues las empresas les exigen que terminen rápido. Manejan estas situaciones explicando el tiempo estimado que llevará resolver el problema y brindando justificaciones si es necesario. En este sentido, la propuesta de OfficeTech de brindar un servicio de suscripción para servicios técnicos que garantice la satisfacción de los clientes y asegure la calidad de los productos vendidos, sería una solución ideal para los técnicos entrevistados.
+
+A través de las entrevistas realizadas que se obtuvieron datos ilustrativos. A continuación, se presentan gráficas realizadas a partir de los datos obtenidos:
+
+<center><img src="../assets/Graficos de entrevistas/segmento2-g1.png" alt="Grafico1" style="width:70%;"></center>
+
+<center><img src="../assets/Graficos de entrevistas/segmento2-g2.png" alt="Grafico2" style="width:70%;"></center>
 
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
