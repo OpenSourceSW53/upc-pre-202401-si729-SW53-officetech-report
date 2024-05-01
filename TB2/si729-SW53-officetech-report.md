@@ -516,7 +516,7 @@ A través de las entrevistas realizadas que se obtuvieron datos ilustrativos. A 
 
 | #Orden | User Story ID | Título | Descripción  | Story Points (1/2/3/5/8) |
 |--------|---------------|--------|--------------|--------------------------|
-| 1      | HU01          | Registro fácil en la plataforma | "Como usuario, deseo registrarme fácilmente en la plataforma para empezar a ofrecer o buscar servicios, para evitar procesos complicados y comenzar rápidamente." | 3                       |
+| 1      | HU01          | Registro fácil en la plataforma | "Como usuario, deseo registrarme fácilmente en la plataforma para empezar a ofrecer o buscar servicios, para evitar procesos complicados y comenzar rápidamente." | 3 |
 | 2      | HU02          | Destacar habilidades en el perfil | "Como usuario, deseo una forma de destacar mis habilidades especiales en mi perfil, para atraer a otros usuarios que busquen esos servicios específicos." | 5                       |
 | 3      | HU03          | Acceso a planes de servicios    | "Como usuario, deseo suscribirme a un plan que se ajuste a mis necesidades de servicios técnicos, para gestionar mejor mis gastos mensuales en la plataforma." | 5                       |
 | 4      | HU04          | Notificaciones de oportunidades | "Como usuario, deseo recibir notificaciones de oportunidades nuevas que coincidan con mis intereses, para poder responder rápidamente." | 2                       |
@@ -531,7 +531,18 @@ A través de las entrevistas realizadas que se obtuvieron datos ilustrativos. A 
 | 13     | HU13          | Facilidad de Información         | "Como usuario, quiero ver una introducción clara y concisa de lo que ofrece la página para entender rápidamente si el servicio/producto es lo que estoy buscando." | 5 |
 | 14     | HU14          | Informacion Esencial de la empresa | "Como usuario, quiero poder conocer más sobre la empresa que estoy interesado. " | 5  |
 | 15     | HU15          | Editar Perfil                    | "Como usuario, quiero poder modificar algunos datos de mi perfil para actualizar mis datos actuales en caso de que cambie algo como número telefónico o correo." | 3  |
-
+| 16     | HU16          | Registro rápido para clientes potenciales | "Como cliente potencial de OfficeTech, deseo registrarme rápidamente en la plataforma para acceder a los servicios y beneficios ofrecidos." | 3  |
+| 17     | HU17          | Proceso de pago seguro y rápido para los clientes | "Como cliente registrándose en OfficeTech, quiero rellenar un formulario sencillo para pagar la suscripción, para acceder rápidamente a los servicios." | 3  |
+| 18     | HU18          | Acceso fácil para usuarios existentes | "Como gerente en una empresa quiero ingresar fácilmente a la plataforma de OfficeTech para acceder a los servicios y gestionar las solicitudes." | 3  |
+| 19     | HU19          | Visualización de servicios en uso para empresas | "Como gerente en una empresa quiero ver los servicios en uso actualmente y detalles asociados para tener un registro de las operaciones en curso." | 5  |
+| 20     | HU20          | Acceso rápido a consultas técnicas para empresas | "Como gerente en una empresa quiero acceder a un foro para realizar consultas técnicas para obtener respuestas rápidas y confiables a preguntas de tecnología." | 5  |
+| 21     | HU21          | Visualización de servicios anteriores y capacidad de añadir comentarios para empresas | "Como gerente en una empresa quiero ver servicios previos con detalles y añadir comentarios para tener un registro completo y la capacidad de retroalimentar." | 5  |
+| 22     | HU22          | Creación de nuevas solicitudes de servicio técnico para empresas | "Como gerente en una empresa quiero crear nuevas solicitudes de servicio técnico para recibir asistencia técnica de los profesionales de OfficeTech." | 5  |
+| 23     | HU23          | Gestión de perfil para la compañía | "Como gerente en una compañía quiero acceder y modificar mi perfil, para mantener actualizada mi información personal." | 3  |
+| 24     | HU24          | Visualización de servicios en curso para técnicos | "Como técnico registrado en la aplicación quiero ver los servicios en los que estoy trabajando actualmente para mantener un registro de mis pendientes." | 5  |
+| 25     | HU25          | Participación en el foro de consultas técnicas para técnicos | "Como técnico registrado en la comunidad de OfficeTech quiero responder preguntas en el foro de consultas técnicas para contribuir y darme a conocer en la comunidad." | 5  |
+| 26     | HU26          | Registro de servicios brindados para técnicos | "Como técnico registrado en la comunidad de OfficeTech quiero ver una lista de servicios brindados con detalles y calificaciones para mantener un registro y recibir retroalimentación." | 5  |
+| 27     | HU27          | Gestión de perfil para técnicos | "Como técnico registrado en OfficeTech quiero acceder y modificar mi perfil para mantener actualizada mi información personal y profesional." | 3  |
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
