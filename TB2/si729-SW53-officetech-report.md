@@ -1,4 +1,4 @@
-![image](https://github.com/OpenSourceSW53/upc-pre-202401-si729-SW53-officetech-report/assets/106394105/410c7ac8-2631-44d0-976b-aba416bd021d)<p align="center">
+<p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
     <strong>INGENIERÍA DE SISTEMAS DE SOFTWARE</strong><br>
