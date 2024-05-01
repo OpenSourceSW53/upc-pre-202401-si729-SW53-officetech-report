@@ -1002,7 +1002,7 @@ Realizamos el deploy de la página a través de GitHub Pages, una plataforma que
 | Sprint 1 Velocity         | Basado en la capacidad del equipo y el rendimiento, la velocidad estimada para el Sprint 1 se establece en 28 Story Points. Esto se calcula tomando en cuenta las horas de trabajo disponibles del equipo, ajustes por festividades y días no laborables, así como la complejidad y el esfuerzo estimado de las User Stories seleccionadas para este Sprint. El equipo se compromete a completar las tareas que sumen hasta este número de puntos, priorizando según el valor entregado y la dependencia entre tareas. |
 | Sum of Story Points     | 28|
 
-#### 5.2.1.2. Sprint Backlog n.
+#### 5.2.1.2. Sprint Backlog 1.
 # Sprint 1
 
 | User Story |  | Work-Item/Task |  |  |  |  |
@@ -1085,7 +1085,23 @@ Las evidencias muestran como los integrantes realizaron diferentes commits para 
 | Sum of Story Points       |  |
 
 #### 5.2.2.2. Sprint Backlog 2
-aqui va el sprint backlog 2 (FABIA)
+
+| User Story |  | Work-Item/Task |  |  |  |  |
+|------------|----------------|-------------|--------------------------------|-----------|------------------|--------|
+| ID         | Title          | ID          | Title                          | Description                     | Estimation | Assigned To      | Status |
+| HU16       | Registro rápido para clientes potenciales 	 | W201        | Crear el componente de sign up | Creación del componente sign up para que los clientes potenciales se registren | 3 horas | Fabia Herrera Aguirre | Done   |
+| HU17       | Proceso de pago seguro y rápido para los clientes  | W202         | Crear el componente subscription | Creación del componente subscription para que el cliente pueda ingresar su tarjeta de crédito y realizar el pago de la subscripción | 5 horas | Zaid Ramirez Contreras  | Done   |
+| HU18       | Acceso fácil para usuarios existentes	 | W203         | Crear el componente de sign in | Creación del componente sign up para que los clientes ya registrados ingresen a la aplicación | 3 horas | Fabia Herrera Aguirre | Done   |
+| HU19       | Visualización de servicios en uso para empresas    | W204         | Crear el componente de home | Creación del componente de home para que el usuario cliente pueda visualizar los servicios actuales | 8 horas | Arian Rodriguez Vargas | Done   |
+| HU20       | Acceso rápido a consultas técnicas para empresas    | W205         | Crear el componente forum | Creación del componente forum para que los usuarios puedan interactuar mediante la publicación de consultas y respuestas | 5 horas | Arian Rodriguez Vargas | Done   |
+| HU21      | Visualización de servicios anteriores y capacidad de añadir comentarios para empresas    | W206         | Crear el componente past services | Creación del componente past services para que el usuario cliente pueda acceder al historial de servicios recibidos y poder añadir comentarios | 8 horas | Marcelo Ramirez Ramirez | Done   |
+| HU22      | Creación de nuevas solicitudes de servicio técnico para empresas     | W207         | Crear el componente request new service | Creación del componente request new service para que el usuario cliente pueda publicar su solicitud de servicio técnico | 5 horas | Zaid Ramirez Contreras | Done   |
+| HU23       | Gestión de perfil para la compañía    | W208         | Crear el componente profile | Creación del componente profiles para que el cliente pueda visualizar y editar sus datos personales | 8 horas | Vladimir Jara Benites | Done   |
+| HU24       | Visualización de servicios en curso para técnicos    | W209         | Crear el componente home | Creación del componente de home para que el usuario técnico pueda visualizar los servicios en curso | 8 horas | Arian Rodriguez Vargas | Done   |
+| HU25       | Participación en el foro de consultas técnicas para técnicos    | W210         | Crear el componente forum | Creación del componente de forum para que los técnicos puedan dar solución a interrogantes planteadas. | 5 horas | Adrian Rubio Calixto | Done   |
+| HU26      | Registro de servicios brindados para técnicos     | W211         | Crear el componente previous tech projects | Creación del componente de previous tech projects para conocer el historial de servicios brindados y la retroalimentación recibida. | 8 horas | Marcelo Ramirez Ramirez | Done   |
+| HU27     | Gestión de perfil para técnicos    | W212         | Crear el componente profile | Creación del componente de profile para que el usuario técnico pueda visualizar y modificar su información personal y su lista de habilidades. | 5 horas | Vladimir Jara Benites | Done   |
+
 
 #### 5.2.2.3. Development Evidence for Sprint Review.
 
