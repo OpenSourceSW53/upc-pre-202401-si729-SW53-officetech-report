@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/OpenSourceSW53/upc-pre-202401-si729-SW53-officetech-report/assets/106394105/410c7ac8-2631-44d0-976b-aba416bd021d)<p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
     <strong>INGENIERÍA DE SISTEMAS DE SOFTWARE</strong><br>
@@ -35,9 +35,11 @@
 | 2.1 | 30/04/2024 | Arian Rodriguez | Arreglos generales, HU, Lean UX, C4 Diagrams |
 
 # Project Report Collaboration Insights
-El presente informe se encuentra guardado en la organización de OfficeTech: [URL del repositorio](https://github.com/OpenSourceSW53/-upc-pre-202401-si729-SW53-officetech-report.git)
+El presente informe se encuentra guardado en la organización de OfficeTech: [URL del repositorio de la Landing Page](https://github.com/OpenSourceSW53/-upc-pre-202401-si729-SW53-officetech-report.git)
 
-Para la entrega, se consideró la Landing Page en otro repositorio de la misma organización: [URL Landing page](https://github.com/OpenSourceSW53/officetech-landing-page)
+Se consideró la Landing Page en otro repositorio de la misma organización: [URL Landing page](https://github.com/OpenSourceSW53/officetech-landing-page)
+
+Se consideró la Aplicación Web en un tercer repositorio de la misma organización: [URL de la Aplicación Web](https://github.com/OpenSourceSW53/officetech-frontend.git)
 
 
 # Student Outcome 3
