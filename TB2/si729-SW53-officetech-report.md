@@ -1095,7 +1095,15 @@ Para este segundo sprint se decidió trabajar en una rama distinta para cada fea
 | OpenSourceSW53/officetech-frontend | feature/services-company   | 859ee04            | feat: services-company                                                | 25/04/24           |
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
-aqui va el testing suite evidence for sprint review 2 (ZAID)
+| Repository                         | Branch                     | Commit ID          | Commit Message                                                                 | Committed on(date) |
+|------------------------------------|----------------------------|--------------------|--------------------------------------------------------------------------------|--------------------|
+| OpenSourceSW53/officetech-frontend | development                | 93683aa            | Merge remote-tracking branch 'origin/feature/payment-details' into development | 28/04/24           |
+| OpenSourceSW53/officetech-frontend | development                | 063fc1a            | Merge remote-tracking branch 'origin/feature/services-company' into development| 28/04/24           |
+| OpenSourceSW53/officetech-frontend | development                | 7db8965            | Merge branch 'feature/current-services' into development                       | 28/04/24           |
+| OpenSourceSW53/officetech-frontend | development                | 7b0a1d5            | Merge remote-tracking branch 'origin/feature/forum-answer' into development    | 28/04/24           |
+| OpenSourceSW53/officetech-frontend | development                | c036687            | Merge remote-tracking branch 'origin/feature/comments' into development        | 28/04/24           |
+| OpenSourceSW53/officetech-frontend | development                | 7e2645f            | Merge remote-tracking branch 'origin/feature/profile-company' into development | 29/04/24           |
+| OpenSourceSW53/officetech-frontend | development                | 1f5760a            | Merge remote-tracking branch 'origin/feature/service-request' into development | 29/04/24           |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 Para el sprint 2 se ha presentado el front-end se optó por varias herramientas para su desarrollo y despliegue en la web de manera pública.
