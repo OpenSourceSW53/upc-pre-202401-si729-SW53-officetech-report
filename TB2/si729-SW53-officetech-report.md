@@ -1041,7 +1041,11 @@ aqui va el services documentation evidence for sprint review 2 (ADRIAN)
 aqui va el software deployment evidence for sprint review 2 (VLADIMIR)
 
 #### 5.2.2.8 Team Collaboration Insights During Sprint
-aqui va el team collaboration insights during sprint 2 (ARIAN)
+En el Sprint 2 se elaboraron diferentes features claves para el primer avance del front-end que significaría diferentes funcionalidades las cual el usuario puede interactuar con la aplicación web. Para ello se crearon diferentes ramas para cada feature y se realizó un commit para luego hacer merge a la rama develop. Después de esto, se verificaba que no hubiera ningún conflicto y se procedía a hacer el merge final a la rama de producción main para que posteriormente se actualice en el deploy que se encuentra en Vercel.
+
+![Sprint review Team Collaboration Insights](../assets/Insights-Collaboration/commits.PNG)
+
+![Sprint review Team Collaboration Insights](../assets/Insights-Collaboration/network-graph.PNG)
 
 # Conclusiones
 # Conclusiones y recomendaciones.
