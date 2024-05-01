@@ -44,8 +44,8 @@ Para la entrega, se consideró la Landing Page en otro repositorio de la misma o
 
 |Criterio Especifico| Acciones Realizadas                                                                                                                                                                                |Conclusiones|
 |-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| Marcelo Ramirez:<br> **TB1:** Durante el proyecto, aprendí a comunicar ideas complejas de forma clara y sencilla a distintas audiencias, lo que mejoró significativamente la colaboración y el interés en nuestro trabajo. Esta experiencia reforzó la importancia de adaptar mi comunicación a diferentes contextos, un aprendizaje valioso para mi futuro profesional. <br><br>Zaid Ramirez:<br>**TB1**: Durante la elaboración del proyecto, logré comunicar de manera efectiva los resultados y el proceso de nuestro proyecto, utilizando Lean UX como marco principal. También compartí los hallazgos esenciales obtenidos a través de nuestra investigación de UX, que permitió comprender a fondo las necesidades de los usuarios, identificar las tareas críticas y visualizar la experiencia completa del usuario con la aplicación.<br><br>Adrian Rubio:<br>**TB1**: Me desarrolle eficazmente en mis tareas designadas, apegándome a los horarios, reglas y plazos establecidos por el equipo. <br><br>Quique Jara:<br>**TB1**: Durante la elaboracion del proyecto logre comunicar todas mis ideas en las reuniones de equipo de manera clara. Asimismo, entreviste a un usuario potencial, al cual explique el motivo de la entrevista y la informacion que necesitaba recopilar. <br><br>Arian Rodriguez:<br>**TB1**: Me desarrollé adecuadamente en las tareas asignadas y mejoré algunas habilidades blandas como la comunicación con el equipo, además que se conoce mejor el proceso a desarrollar para posicionarlo desde diferentes perspectivas<br><br>Fabia Herrera:<br>**TB1:** Se realizaron varias reuniones grupales a fin de intercambiar propuestas para el óptimo desarrollo de nuestro proyecto. Asimismo, realizamos entrevistas mediante las cuales conseguimos insights valiosos para la creación de nuestra aplicación web. |Mediante la eficiencia, organización y el marco de trabajo establecido dentro del grupo logramos desarrollar nuestro primer entregable de manera correcta.|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería..| Marcelo Ramirez:<br> **TB1:** En mi rol dentro del proyecto, me esforcé por comunicar ideas y resultados de manera clara y objetiva. Mis contribuciones, desde informes hasta presentaciones, buscaban ser accesibles y comprensibles para todos, un desafío que me enseñó el valor de una comunicación efectiva en el ámbito académico. <br><br> Zaid Ramirez<br>**TB1:** Durante este proyecto, he  documentado adecuadamente el emprendimiento utilizando las herramientas apropiadas, con las convenciones de idioma, la estructura de nombres y prácticas de programación establecidos en los aspectos de la solución. Además, he llevado a cabo y documentado adecuadamente los procesos Lean UX, Design, Prototyping, etc., para la comunicación efectiva con diferentes rangos de audiencia.<br><br>Adrian Rubio:<br>**TB1**: Por medio de las herramientas colaborativas online logre aumentar mi capacidad de comunicación y trabajo en equipo. <br><br>Quique Jara:<br>**TB1**: Para el desarrollo de esta entega, redacte de manera el analisis de requerimientos para luego elaborar la base de datos del sietema y el diagrama de clases. <br><br>Arian Rodriguez:<br>**TB1**: Elaboré mis propuestas planteadas para el proyecto siguiendo el marco de la ingeniería de software, aplicando y viendo a futuro cómo se desenvolvería el proceso<br><br>Fabia Herrera:<br>**TB1:** La indagación realizada para este proyecto fue documentada y de gran ayuda para el modelado de nuestra solución, para esta entrega, me encargué de investigar sobre potenciales competidores, lo que nos resultó útil para aprender tanto de errores como de aciertos.                                                                                                                                                                                                        |Gracias a las herramientas colaborativas brindadas y las aplicaciones de comunicación logramos establecer fechas y límites para nuestros trabajos.|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| Marcelo Ramirez:<br> **TB1:** Durante el proyecto, aprendí a comunicar ideas complejas de forma clara y sencilla a distintas audiencias, lo que mejoró significativamente la colaboración y el interés en nuestro trabajo. Esta experiencia reforzó la importancia de adaptar mi comunicación a diferentes contextos, un aprendizaje valioso para mi futuro profesional. <br><br>Zaid Ramirez:<br>**TB1**: Durante la elaboración del proyecto, logré comunicar de manera efectiva los resultados y el proceso de nuestro proyecto, utilizando Lean UX como marco principal. También compartí los hallazgos esenciales obtenidos a través de nuestra investigación de UX, que permitió comprender a fondo las necesidades de los usuarios, identificar las tareas críticas y visualizar la experiencia completa del usuario con la aplicación.<br><br>Adrian Rubio:<br>**TB1**: Me desarrolle eficazmente en mis tareas designadas, apegándome a los horarios, reglas y plazos establecidos por el equipo. <br><br>Quique Jara:<br>**TB1**: Durante la elaboracion del proyecto logre comunicar todas mis ideas en las reuniones de equipo de manera clara. Asimismo, entreviste a un usuario potencial, al cual explique el motivo de la entrevista y la informacion que necesitaba recopilar. <br><br>Arian Rodriguez:<br>**TB1**: Me desarrollé adecuadamente en las tareas asignadas y mejoré algunas habilidades blandas como la comunicación con el equipo, además que se conoce mejor el proceso a desarrollar para posicionarlo desde diferentes perspectivas<br><br>Fabia Herrera:<br>**TB1:** Se realizaron varias reuniones grupales a fin de intercambiar propuestas para el óptimo desarrollo de nuestro proyecto. Asimismo, realizamos entrevistas mediante las cuales conseguimos insights valiosos para la creación de nuestra aplicación web.<br><br> Marcelo Ramirez:<br>**TP:** xxxxx <br><br> Zaid Ramirez:<br>**TP:** xxxxx <br><br>Adrián Rubio:<br>**TP:** xxxxx <br><br>Vladimir Jara:<br>**TP:** xxxxx <br><br>Arian Rodriguez:<br>**TP:** En este entregable estuve enfocado en verificar los componentes del front-end, el enrutamiento y que todo este listo para el plazo <br><br>Fabia Herrera:<br>**TP:** xxxxx <br><br>|Mediante la eficiencia, organización y el marco de trabajo establecido dentro del grupo logramos desarrollar nuestro primer entregable de manera correcta.|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería..| Marcelo Ramirez:<br> **TB1:** En mi rol dentro del proyecto, me esforcé por comunicar ideas y resultados de manera clara y objetiva. Mis contribuciones, desde informes hasta presentaciones, buscaban ser accesibles y comprensibles para todos, un desafío que me enseñó el valor de una comunicación efectiva en el ámbito académico. <br><br> Zaid Ramirez<br>**TB1:** Durante este proyecto, he  documentado adecuadamente el emprendimiento utilizando las herramientas apropiadas, con las convenciones de idioma, la estructura de nombres y prácticas de programación establecidos en los aspectos de la solución. Además, he llevado a cabo y documentado adecuadamente los procesos Lean UX, Design, Prototyping, etc., para la comunicación efectiva con diferentes rangos de audiencia.<br><br>Adrian Rubio:<br>**TB1**: Por medio de las herramientas colaborativas online logre aumentar mi capacidad de comunicación y trabajo en equipo. <br><br>Quique Jara:<br>**TB1**: Para el desarrollo de esta entega, redacte de manera el analisis de requerimientos para luego elaborar la base de datos del sietema y el diagrama de clases. <br><br>Arian Rodriguez:<br>**TB1**: Elaboré mis propuestas planteadas para el proyecto siguiendo el marco de la ingeniería de software, aplicando y viendo a futuro cómo se desenvolvería el proceso<br><br>Fabia Herrera:<br>**TB1:** La indagación realizada para este proyecto fue documentada y de gran ayuda para el modelado de nuestra solución, para esta entrega, me encargué de investigar sobre potenciales competidores, lo que nos resultó útil para aprender tanto de errores como de aciertos.<br><br> Marcelo Ramirez:<br>**TP:** xxxxx <br><br> Zaid Ramirez:<br>**TP:** xxxxx <br><br>Adrián Rubio:<br>**TP:** xxxxx <br><br>Vladimir Jara:<br>**TP:** xxxxx <br><br>Arian Rodriguez:<br>**TP:** Investigué las diferentes soluciones que se iba a plantear en el front-end como asi mismo la elaboración de diferentes features <br><br>Fabia Herrera:<br>**TP:** xxxxx <br><br>                                                                                                                                                                                                        |Gracias a las herramientas colaborativas brindadas y las aplicaciones de comunicación logramos establecer fechas y límites para nuestros trabajos.|
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
@@ -1169,6 +1169,66 @@ Teorey, T. J., Lightstone, S. S., & Nadeau, T. (2011).
   Database modeling and design: Logical design (5th ed.). Morgan Kaufmann. 
   https://eketab2.wordpress.com/wp-content/uploads/2007/09/databasemodelinganddesignlogical-design.pdf
 ```
+
+```
+Sommerville, I. (2011). Software engineering (9th ed.). Addison-Wesley. 
+  https://www.researchgate.net/publication/220682582_Software_Engineering_9th_Edition
+```
+
+```
+Pressman, R. S. (2014). Software engineering: A practitioner's approach (8th ed.). 
+  McGraw-Hill Education. 
+  https://www.researchgate.net/publication/220682582_Software_Engineering_9th_Edition
+```
+
+```
+Bass, L., Clements, P., & Kazman, R. (2012). Software architecture in practice (3rd ed.). 
+  Addison-Wesley. 
+  https://www.researchgate.net/publication/220682582_Software_Engineering_9th_Edition
+```
+
+```
+Lean UX: Applying lean principles to improve user experience. (2013). 
+  O'Reilly Media. 
+  https://books.google.es/books?hl=es&lr=&id=wLw6EAAAQBAJ&oi=fnd&pg=PT37&dq=Lean+ux&ots=QuMNDmvouC&sig=36AUu53YuLt_4OXBjwdg9RSLr_4#v=onepage&q=Lean%20ux&f=false
+```
+
+```
+Cohn, M. (2004). User stories applied: For agile software development. 
+  Addison-Wesley. 
+  https://books.google.es/books?hl=es&lr=&id=SvIwuX4SVigC&oi=fnd&pg=PR13&dq=Cohn,+M.+(2004).+User+stories+applied:+For+agile+software+development.+Addison-Wesley.&ots=VsSb68rUSO&sig=zVJsoYVopnqITrtBXPAIzePb96w#v=onepage&q=Cohn%2C%20M.%20(2004).%20User%20stories%20applied%3A%20For%20agile%20software%20development.%20Addison-Wesley.&f=false
+```
+
+```
+Duckett, J. (2014). HTML and CSS: Design and build websites. 
+  John Wiley & Sons. 
+  https://wtf.tw/ref/duckett.pdf
+```
+
+```
+Ambler, S. W. (2004). The object primer: Agile model-driven development with UML 2.0. 
+  Cambridge University Press. 
+  https://www.researchgate.net/publication/235616285_The_object_primer_agile_modeling-driven_development_with_UML_20
+```
+
+```
+Teorey, T. J., Lightstone, S. S., & Nadeau, T. (2011). Database modeling and design: Logical design (5th ed.). 
+  Morgan Kaufmann. 
+  https://eketab2.wordpress.com/wp-content/uploads/2007/09/databasemodelinganddesignlogical-design.pdf
+```
+
+```
+Sommerville, I. (2011). Software engineering (9th ed.). 
+  Addison-Wesley. 
+  https://www.researchgate.net/publication/220682582_Software_Engineering_9th_Edition
+```
+
+```
+Pressman, R. S. (2014). Software engineering: A practitioner's approach (8th ed.). 
+  McGraw-Hill Education. 
+  https://www.researchgate.net/publication/220682582_Software_Engineering_9th_Edition
+```
+
 
 
 # Anexos
