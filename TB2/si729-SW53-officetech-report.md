@@ -509,8 +509,8 @@ A través de las entrevistas realizadas que se obtuvieron datos ilustrativos. A 
 | 5      | HU05          | Comunicación segura con usuarios | "Como usuario, necesito una forma de comunicarme de manera segura y eficaz con otros usuarios, para intercambiar detalles sobre los servicios de manera confiable." | 3                       |
 | 6      | HU06          | Historial de servicios          | "Como usuario, deseo tener acceso a un historial de mis servicios para poder rastrear garantías y trabajos anteriores, para una mejor gestión personal." | 2                       |
 | 7      | HU07          | Programación anticipada de servicios | "Como usuario, deseo programar servicios con anticipación, para asegurar la disponibilidad cuando los necesite." | 3                       |
-| 8      | HU08          | Informes de uso de servicios     | "Como usuario, deseo recibir informes detallados sobre mi uso de servicios en la plataforma, para optimizar mi selección y gastos en servicios futuros." | 5                       |
-| 9      | HU09          | Conocer características principales de OfficeTech | "Como usuario, deseo conocer más sobre OfficeTech mostrando algunas de sus características y ventajas, para poder sentirme confiada del servicio que voy a adquirir." | 5    |
+| 8      | HU08          | Publicación de comentario sobre servicio consumido     | "Como usuario cliente, deseo poder realizar una retroalimentación al técnico que resuelva mi petición para dar a conocer de forma pública la calidad de servicio brindada." | 5                       |
+| 9      | HU09          | Listado de características OfficeTech | "Como potencial cliente de OfficeTech, deseo conocer más sobre sus características y beneficios para poder decidir si optar por utilizar la aplicación." | 5    |
 | 10     | HU10          | Introducción sencilla            | "Como usuario, deseo conocer el funcionamiento de la página a través de una pequeña guía, para poder saber bien qué hacer al momento de comenzar." | 5                       |
 | 11     | HU11          | Vista móvil                      | "Como usuario, deseo visualizar la landing page desde mi dispositivo móvil, para visitar la página mientras uso mi teléfono." | 5                       |
 | 12     | HU12          | Cliente interesado               | "Como usuario, quiero tener un formulario de contacto simple para enviar mis preguntas directamente a la empresa." | 5                       |
@@ -977,7 +977,7 @@ Realizamos el deploy de la página a través de GitHub Pages, una plataforma que
 | Sprint 1 Velocity         | Basado en la capacidad del equipo y el rendimiento, la velocidad estimada para el Sprint 1 se establece en 28 Story Points. Esto se calcula tomando en cuenta las horas de trabajo disponibles del equipo, ajustes por festividades y días no laborables, así como la complejidad y el esfuerzo estimado de las User Stories seleccionadas para este Sprint. El equipo se compromete a completar las tareas que sumen hasta este número de puntos, priorizando según el valor entregado y la dependencia entre tareas. |
 | Sum of Story Points     | 28|
 
-#### 5.2.1.2. Sprint Backlog n.
+#### 5.2.1.2. Sprint Backlog 1.
 # Sprint 1
 
 | User Story |  | Work-Item/Task |  |  |  |  |
