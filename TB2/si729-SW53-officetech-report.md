@@ -1141,6 +1141,7 @@ Vercel: Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo d
 
 Evidencias de despliegue en Vercel App
 
+Actividades realziadas:
 
 ![Sprint review Software Deployment Evidence](../assets/Software%20Deployment/sprint2-vercel-1.png)
 
@@ -1160,7 +1161,24 @@ En este sprint 2 los miembros de TechConnect Solutions complementaron satisfacto
 El sprint 2 estuvo relacionado mayormente con el diseño y desarrollo del front-end de la aplicacion. A lo largo del desarrollo se fueron realizando correcciones a errores dentro del codigo.
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
-aqui va el software deployment evidence for sprint review 2 
+Durante el desarrollo del sprint 2 tambien se realizo el despliegue del Front End de nuestro producto web. Este se realizo utilizando el servicio de Vercel.
+
+### Despliegue del proyecto Front-End
+
+- Creacion de cuenta en Vercel con el nombre de nuestra organizacion<br>
+  ![Create count Vercel](../assets/Software%20Deployment/create-count-vercel.png)
+
+- Instalar la linea de comandos de Vercel<br>
+  ![Create count Vercel](../assets/Software%20Deployment/install-vercel.png)
+
+- Importamos nuestro proyecto Angular de GitHub y configuramos el despliegue<br>
+![Create count Vercel](../assets/Software%20Deployment/configurate-vercel.png)
+
+- Una vez completado la configuracion, Vercel comenzara automaticamente el proceso de construccion y despliegue de la aplicacion web.<br>
+![Create count Vercel](../assets/Software%20Deployment/deploy-vercel-3.png)
+
+
+[URL del proyecto desplegado](https://officetech-frontend.vercel.app/start)
 
 
 #### 5.2.2.8 Team Collaboration Insights During Sprint
