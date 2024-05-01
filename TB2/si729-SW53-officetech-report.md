@@ -1117,6 +1117,7 @@ Vercel: Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo d
 
 Evidencias de despliegue en Vercel App
 ![Sprint review Software Deployment Evidence](../assets/Software%20Deployment/sprint2-vercel-1.png)
+<br>
 Importamos el repository de GitHub alojado en la organización
 
 <br>
