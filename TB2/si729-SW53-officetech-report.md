@@ -446,6 +446,7 @@ Con respecto a nuestro segmento 2 como nuestro público objetivo de OfficeTech, 
 
 
 ## 3.2. User Stories.
+**Epics**
 
 | Epic ID | Título | Descripción de Historias de Usuario Asociadas  |
 |---------|--------|------------------------------------------------|
@@ -454,6 +455,8 @@ Con respecto a nuestro segmento 2 como nuestro público objetivo de OfficeTech, 
 | EP03    | Comunicación y Notificaciones          | Como usuario, quiero recibir notificaciones oportunas y comunicarme de manera segura, para estar al tanto de oportunidades relevantes y poder intercambiar información de forma confiable. |
 | EP04    | Experiencia de Usuario en la Plataforma| Como usuario, quiero conocer las características y ventajas de OfficeTech mediante una guía introductoria y una presentación clara de la información, para sentirme confiado y entender rápidamente lo que ofrece la plataforma. |
 | EP05    | Acceso y Contacto Móvil                | Como usuario, quiero poder acceder a la plataforma y contactar a la empresa fácilmente desde mi dispositivo móvil, para hacer uso de los servicios en cualquier lugar y momento. |
+
+**Historias de Usuario**
 
 | USER STORY ID | TITULO | DESCRIPCION | CRITERIOS DE ACEPTACIÓN | EPIC RELACIONADO |
 |---------------|--------|-------------|-------------------------|------------------|
@@ -1104,6 +1107,12 @@ En el Sprint 2 se elaboraron diferentes features claves para el primer avance de
 
 - Nos enfrentamos a varios retos técnicos y de diseño durante el desarrollo, que superamos a través de pruebas constantes y retroalimentación directa de los usuarios. Estos desafíos nos enseñaron valiosas lecciones sobre adaptabilidad y resolución de problemas, mejorando significativamente la calidad de nuestra plataforma. Además, la optimización constante basada en análisis de datos y comentarios de usuarios es clave para mantener y mejorar la experiencia en la plataforma.
 
+- La colaboración y comunicación efectiva entre los miembros del equipo fueron fundamentales para el éxito del proyecto. La distribución clara de roles y responsabilidades, así como la implementación de metodologías ágiles, permitieron una gestión eficiente del tiempo y los recursos, asegurando la entrega oportuna de los objetivos establecidos.
+
+- La implementación de un sistema de control de versiones y un flujo de trabajo estructurado con GitFlow facilitó la colaboración y el seguimiento del progreso del proyecto. La organización y documentación adecuadas del código fuente permitieron una gestión eficiente de los cambios y una mayor transparencia en el desarrollo.
+
+- La elección de herramientas como Figma, Trello y Vercel fue fundamental para la planificación, diseño y despliegue del proyecto. Estas herramientas proporcionaron un entorno colaborativo y eficiente que facilitó la comunicación y la coordinación entre los miembros del equipo, permitiendo un desarrollo ágil y efectivo del producto.
+
 **Recomendaciones:**
 - Antes de iniciar el desarrollo web, es crucial tener un sólido conocimiento de HTML para estructurar correctamente el contenido y de CSS para el diseño visual. Esto asegura que la base de cualquier página web sea robusta y funcional.
 
@@ -1114,6 +1123,8 @@ En el Sprint 2 se elaboraron diferentes features claves para el primer avance de
 - Emplear metodologías ágiles como Scrum o Kanban para gestionar el proyecto puede incrementar la eficiencia del equipo, permitiendo entregas más rápidas y adaptativas frente a los cambios o requerimientos emergentes.
 
 - Utilizar herramientas como Figma para diseñar prototipos antes de desarrollar las páginas permite visualizar y realizar ajustes en el diseño de manera eficiente, mejorando la experiencia del usuario final.
+
+- Realizar pruebas de rendimiento y optimización del código para garantizar una carga rápida de la página y una experiencia fluida para los usuarios. La optimización del código y de los recursos es esencial para mejorar la eficiencia y la usabilidad de la plataforma.
 
 # Bibliografía
 ``` 
