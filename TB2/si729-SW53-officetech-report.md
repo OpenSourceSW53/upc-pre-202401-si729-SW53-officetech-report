@@ -92,17 +92,45 @@ Según una investigación realizada por ManpowerGroup en 2017, se encontró que 
 
 Nos hemos dado cuenta de las limitaciones de las empresas para ofrecer garantías a sus clientes debido a la falta de técnicos especializados en equipos electrónicos y tecnología, lo cual resulta en dificultades para cubrir vacantes.
 
+Además de la falta de técnicos especializados, las empresas enfrentan desafíos para atraer nuevos clientes, lo que provoca retrasos en sus ingresos y pérdida de tiempo. Se encuentran con obstáculos al intentar destacar en redes sociales que no están específicamente diseñadas para su sector, especialmente cuando existen empresas bien establecidas que transmiten mayor seguridad al cliente en cuanto a la calidad del servicio.
+
+Hemos identificado la necesidad de un intermediario que pueda comunicar el desempeño laboral de los técnicos a sus clientes para aumentar su base de clientes.
+
+
 ¿Cómo podemos mejorar la eficiencia en el proceso de búsqueda de técnicos de equipos electrónicos y tecnología?
 
 ##### **Técnico**:
 Los profesionales en tecnología enfrentan desafíos para atraer nuevos clientes, lo que provoca retrasos en sus ingresos y pérdida de tiempo. Se encuentran con obstáculos al intentar destacar en redes sociales que no están específicamente diseñadas para su sector, especialmente cuando existen empresas bien establecidas que transmiten mayor seguridad al cliente en cuanto a la calidad del servicio.
 
-Hemos identificado la necesidad de un intermediario que pueda comunicar el desempeño laboral de los técnicos a sus clientes para aumentar su base de clientes.
+##### **Compañía**:
+Las empresas enfrentan dificultades para ofrecer garantías a sus clientes debido a la falta de técnicos especializados en equipos electrónicos y tecnología, lo cual resulta en dificultades para cubrir vacantes.
+
+Nuestro producto, **OfficeTech**, busca resolver estos problemas al proporcionar una plataforma que conecta a empresas con técnicos especializados en equipos electrónicos y tecnología, permitiendo a las empresas ofrecer garantías a sus clientes y a los técnicos encontrar empleo de manera eficiente y segura.
+
+Sabremos que tuvimos éxito cuando las empresas puedan ofrecer garantías a sus clientes de manera eficiente y los técnicos puedan encontrar empleo de manera segura y eficiente.
+
 #### 1.2.2.2. Lean UX Assumptions.
+**Business Outcome**
+En esta seccion vamos a usar las metricas de Montaña que ha conceptualizada por Jeff Gothelf y Josh Seiden en su libro Lean UX. Estas metricas nos ayudaran a entender el comportamiento de los usuarios y a medir el éxito de nuestro producto.
+
+Acquisition: (Base): [1000 visitantes] En esta sección se espera que 1000 visitantes ingresen a nuestra plataforma para buscar un tecnico que pueda solucionar su problema tecnico. De los visitantes esperamos que el 80% de estos se registren en nuestra plataforma.
+
+Activacion: (Plateau):[450 users : 100% users] En esta sección el usuario se registra en nuestra plataforma y comienza a utilizarla para buscar un tecnico que pueda solucionar su problema tecnico. De los usuarios que se registran esperamos que el 45% de estos comiencen a utilizar nuestra plataforma para buscar un tecnico que pueda solucionar su problema tecnico.
+
+Retention: (Plateau + 1 level):[50% users] De los usuarios que se animarán a utilizarlo esperamos que un 50% de estos continuen utilizando nuestra plataforma para buscar un tecnico que pueda solucionar sus diferentes problemas.
+
+Revenue: (Plateau + 2 levels):[20% users] Los usuarios que utilizan nuestro producto esperamos que un 20% de estos decidan pagar por el servicio que ofrecemos para poder solucionar sus problemas técnicos.
+
+Referral:(top) [15% users] Finalmente de los usuarios que retenimos esperamos que un 15% de estos recomienden nuestro producto a otros usuarios que puedan necesitar de nuestro servicio.
+
+
+
 **Business Assumptions**
-- Creemos que nuestros clientes necesitan una aplicacion que les facilite buscar un trabajador capacitado que se encargue adecuadamente de los equipos electronicos.
-- El trabajador recibe una notificacion cuando alguien requiere un servicio.
-- Mis clientes son capaces de utilizar plataformas moviles
+En esta sección se presentan las suposiciones de negocio que se han identificado para el proyecto **OfficeTech**:
+
+- Creemos que nuestros clientes necesitan una aplicacion que les facilite buscar un trabajador capacitado que se encargue adecuadamente de los equipos electrónicos.
+- El trabajador recibe una notificación cuando alguien requiere un servicio.
+- Mis clientes son capaces de utilizar plataformas móviles
 - El cliente es atendido en brevedad
 - El cliente puede contactar con los tecnicos mediante una llamada telefonica
 - Nuestros clientes inicales son contactados por medio de redes sociales, mientras que las empresas por reuniones pactadas.
@@ -111,62 +139,73 @@ Hemos identificado la necesidad de un intermediario que pueda comunicar el desem
 - Ganaremos a la competencia al contar con la supervicion del rendimiento que dan los tecnicos
 - Nuestro mayor riesgo es que los clientes busquen un tecnico por su cuenta
 
+
 **User Assumptions**
 - ¿Quién es el usuario?
-  <br/>Las empresas que solicitan servicio tecnico mediante nuestra aplicacion
+  Las empresas que solicitan servicio tecnico mediante nuestra aplicacion y los técnicos que brindan el servicio
 - ¿Dónde encaja nuestro producto en su trabajo
-  <br/>En cualquier momento que tenga dificultad con su equipo y quiera una solucion rapida
+  En cualquier momento que tenga dificultad con su equipo y quiera una solucion rapida
 - ¿Qué problemas tiene nuestro producto? ¿Resolver?
-  <br/>El algoritmo para que todos las personas que brindan servicio tecnico puedan generar ingresos. Se podria resolver a traves de filtros y comentarios
+  El algoritmo para que todos las personas que brindan servicio tecnico puedan generar ingresos. Se podria resolver a traves de filtros y comentarios
 - ¿Cuándo y cómo es nuestro producto? ¿Usado?
-  <br/>El producto es utilizado cuando se tiene una necesidad o deseo de reparar algún equipo
+  El producto es utilizado cuando se tiene una necesidad o deseo de reparar algún equipo
   electrónico para que no le interrumpa su trabajo. Asimismo, establecer comunicaciones
   con las personas que puedan brindar el servicio. Por otro lado, el producto debe verse
   confiable y formal para brindarle seguridad al cliente
 - ¿Qué características son importantes?
-  <br/>La comunicacion sencilla entre cliente y trabajador. Asimisnmo, el acceso a una gran variedad de tecnicos
+  La comunicacion sencilla entre cliente y trabajador. Asimisnmo, el acceso a una gran variedad de tecnicos
 - ¿Cómo debe verse y comportarse nuestro producto?
-  <br/>Nuestro producto debe verse confiable y funcional diariamente. Este debe comportarse
+  Nuestro producto debe verse confiable y funcional diariamente. Este debe comportarse
   de forma amigable con una funcionalidad ágil, para que los usuarios no tengan
   problemas para usarlo
 
+**User Outcomes & Benefits**
+En esta sección se busca el lado más empático con los usuarios para ofrecerles el outcome más correcto
+
+
+- **Empresa:**
+  - **Outcome:** Las empresas podrán encontrar técnicos especializados en equipos electrónicos y tecnología de manera rápida y eficiente.
+  - **Beneficio:** Las empresas podrán ofrecer garantías a sus clientes y asegurar la calidad de los servicios técnicos que brindan.
+
+- **Técnico:**
+  - **Outcome:** Los técnicos podrán encontrar empleo de manera segura y eficiente.
+  - **Beneficio:** Los técnicos podrán aumentar su base de clientes y mejorar su reputación en el mercado.
+
+
+**Solutions**
+Jeff Gothelf menciona en su libro Lean UX que las soluciones son las ideas que se proponen para resolver los problemas de los usuarios. En este caso, las soluciones propuestas para el proyecto **OfficeTech**, tomando en cuenta las restricciones anteriores, son las siguientes:
+
+- Desarrollar una aplicación web que conecte a empresas con técnicos especializados en equipos electrónicos y tecnología.
+- Crear un algoritmo que permita a los técnicos recibir notificaciones cuando alguien requiera un servicio.
+- Diseñar una interfaz amigable para los usuarios que les permita buscar y contactar a los técnicos de manera rápida y sencilla.
+- Implementar un sistema de calificaciones y comentarios para que los usuarios puedan evaluar la calidad del servicio de los técnicos.
+- Establecer un modelo de suscripción para las empresas que deseen ofrecer garantías a sus clientes a través de la plataforma.  
+
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
-| Assumption priorizado: | (Business Assumptions)                                                                                                                                           |
-|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|      
-| Descripcion:           | Creemos que nuestros clientes podran solucionar el problema de buscar un técnico con nuestra aplicación<br/>Sabemos que nuestros clientes encontrarán al tecnico ideal para su problema  |
-| Metrica                | Crearemos una aplicación que permita conectar técnicos con negocios                                                                                                                      |
+**Hipótesis**
 
-| Assumption priorizado: | (Business Assumptions)                                                                                         |
-|------------------------|------------------------------------------------------------------------------------------------------------------|
-| Descripcion:           | Creemos que nuestros clientes podrán ahorrarse el tiempo de esperar a un técnico para que solucione su problema.<br/>Sabemos que nuestros clientes no podrán esperar mucho tiempo para conseguir un técnico |
-| Metrica                | Las notificaciones de solicitudes de servicio llegarán a los técnicos en cuestión de segundos                    |
-
-| Assumption priorizado: | (Business Assumptions)                                                                                                                                              |
-|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|   
-| Descripcion:           | Creemos que nuestros clientes se podran comunicar con los tecnicos por medio de via telefonica<br/>Sabemos que los clientes van a querer comunicarse con los tecnicos |
-| Metrica                | El numero de celular del tecnico aparecera en la informacion de su perfil                                                                                             |
-
-| Assumption priorizado: | (Business Assumptions)                                                                                                                       |
-|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| Descripcion:           | Creemos que nuestra aplicación podrá garantizar que los técnicos puedan tener ingresos.<br/>Sabemos que los tecnicos buscan un trabajo estable |
-| Metrica                | Los tecnicos obtendran sus ganancias al terminar con sus servicios y dependen del tipo de suscripcion de su cliente y calificacion             |
-
-| Assumption priorizado: | (Business Assumptions)                                                                                                                                                                                            |
-|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Descripcion:           | Creemos que nuetra aplicacion tendra un buen funcionamiento y que los usuarios puedan usarlo facilmente<br/>Sabemos que nuestros usuarios quieren una aplicacion que sea facil de usar y que funcione correctamente |
-| Metrica                | Se crearan funcionalidades que sean amigables para los usuarios                                                                                                                                                     |
+| Business Outcome | Persona | User Outcome | Feature/Solution |
+|------------------|---------|--------------|------------------|
+| Creemos que nuestros clientes necesitan una aplicación que les facilite buscar un trabajador capacitado que se encargue adecuadamente de los equipos electrónicos. | Empresa | Las empresas podrán encontrar técnicos especializados en equipos electrónicos y tecnología de manera rápida y eficiente. | Desarrollar una aplicación web que conecte a empresas con técnicos especializados en equipos electrónicos y tecnología. |
+| Creemos que los técnicos necesitan una plataforma que les permita recibir notificaciones cuando alguien requiera un servicio. | Técnico | Los técnicos podrán encontrar empleo de manera segura y eficiente. | Crear un algoritmo que permita a los técnicos recibir notificaciones cuando alguien requiera un servicio. |
+| Creemos que nuestros clientes podrán comunicarse con los técnicos de manera rápida y sencilla. | Empresa | Las empresas podrán ofrecer garantías a sus clientes y asegurar la calidad de los servicios técnicos que brindan. | Diseñar una interfaz amigable para los usuarios que les permita buscar y contactar a los técnicos de manera rápida y sencilla. |
+| Creemos que los técnicos podrán mejorar su reputación en el mercado. | Técnico | Los técnicos podrán aumentar su base de clientes y mejorar su reputación en el mercado. | Implementar un sistema de calificaciones y comentarios para que los usuarios puedan evaluar la calidad del servicio de los técnicos. |
+| Creemos que las empresas podrán ofrecer garantías a sus clientes. | Empresa | Las empresas podrán ofrecer garantías a sus clientes y asegurar la calidad de los servicios técnicos que brindan. | Establecer un modelo de suscripción para las empresas que deseen ofrecer garantías a sus clientes a través de la plataforma. |
 
 #### 1.2.2.4. Lean UX Canvas.
 <img src="../assets/Lean-UX/Lean-UXCanvas.png" alt="Lean UX Canvas UXPRESSIA" style="width:100%;">
 
 ## 1.3. Segmentos objetivo.
-**Segmento 1**
-<br>Clientes: Empresas, organizaciones, tiendas o vendedores independientes de aparatos electrónicos, tecnológicos o electrodomésticos, que necesitan de un servicio confiable, seguro y eficaz de soporte técnico para cubrir las garantías de sus productos vendidos.
+| | Segmento 1 | Segmento 2 |
+|-----------|--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| **Variables** | Empresas, organizaciones, tiendas o vendedores independientes de aparatos electrónicos | Técnicos especializados en el servicio de reparación de distintos artefactos eletrónicos |
+| **Geográfica** | Ubicación cercana a tiendas o empresas que requieran soporte técnico | Misma región o ciudad donde se encuentran las empresas o tiendas que requieren soporte técnico |
+| **Demográfica** | Edad: 25-50 años<br>Sexo: Ambos<br>Nivel educativo: Universitario | Edad: 20-40 años<br>Sexo: Ambos<br>Nivel educativo: Técnico o universitario |
+| **Psicográfica** | Intereses: Tecnología, innovación, calidad de servicio | Intereses: Tecnología, reparación de equipos, calidad de servicio |
+| **Función de comportamiento** | Frecuencia de uso: Diario<br>Lealtad: Alta<br>Conocimiento del producto: Medio | Frecuencia de uso: Diario<br>Lealtad: Alta<br>Conocimiento del producto: Medio |
 
-**Segmento 2** 
-Técnicos especializados en el servicio de reparación de distintos artefactos electrónicos, tecnológicos o electrodomésticos. Además, que gusten afiliarse en la aplicación para aumentar su alcance laboral y tener más opciones de trabajo
 
----
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores.
 ### 2.1.1. Análisis competitivo.
