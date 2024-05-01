@@ -18,21 +18,22 @@
 
 ---
 # Registro de Versiones del Informe
-| Version | Fecha | Autor | Descripcion de Modificacion |
-| ----------- | ----------- | ----------- | ----------- |
-| 0.0 | 24/03/2024 | Arian Rodriguez | Se crea el documento |
-| 1.0 | 24/03/2024 | Zaid Ramirez | Se crean las ramas correspondientes |
-| 1.1 | 25/03/2024 | Fabia Herrera | Se aplican mejoras en los capitulos 1 y 2 |
-| 1.2 | 25/03/2024 | Vladimir Jara | Se realizan los user diagrams y Lean UX |
-| 1.3 | 27/03/2024 | Adrian Rubio | Se colocan las user stories |
+| Version | Fecha | Autor | Descripcion de Modificacion                                                   |
+| ----------- | ----------- | ----------- |-------------------------------------------------------------------------------|
+| 0.0 | 24/03/2024 | Arian Rodriguez | Se crea el documento                                                          |
+| 1.0 | 24/03/2024 | Zaid Ramirez | Se crean las ramas correspondientes                                           |
+| 1.1 | 25/03/2024 | Fabia Herrera | Se aplican mejoras en los capitulos 1 y 2                                     |
+| 1.2 | 25/03/2024 | Vladimir Jara | Se realizan los user diagrams y Lean UX                                       |
+| 1.3 | 27/03/2024 | Adrian Rubio | Se colocan las user stories                                                   |
 | 1.4 | 29/03/2024 | Marcelo Ramirez | Se implementa el product backlog y las épicas correspondientes a story points |
-| 1.5 | 04/04/2024 | Arian Rodriguez | Se revisan las entrevistas |
-| 1.6 | 05/04/2024 | Zaid Ramirez | Actualizaciones en los diagramas C4 DDD |
-| 1.7 | 06/04/2024 | Fabia Herrera | Se actualiza el capitulo de colaboracion |
-| 1.8 | 12/04/2024 | Vladimir Jara | Se actualiza los Impact Mappings de los Users |
-| 1.9 | 20/04/2024 | Adrian Rubio | Arreglo de los User Stories |
-| 2.0 | 26/04/2024 | Marcelo Ramirez | Finaliza cambios en HU y Product Backlog |
-| 2.1 | 30/04/2024 | Arian Rodriguez | Arreglos generales, HU, Lean UX, C4 Diagrams |
+| 1.5 | 04/04/2024 | Arian Rodriguez | Se revisan las entrevistas                                                    |
+| 1.6 | 05/04/2024 | Zaid Ramirez | Actualizaciones en los diagramas C4 DDD                                       |
+| 1.7 | 06/04/2024 | Fabia Herrera | Se actualiza el capitulo de colaboracion                                      |
+| 1.8 | 12/04/2024 | Vladimir Jara | Se actualiza los Impact Mappings de los Users                                 |
+| 1.9 | 20/04/2024 | Adrian Rubio | Arreglo de los User Stories                                                   |
+| 2.0 | 26/04/2024 | Marcelo Ramirez | Finaliza cambios en HU y Product Backlog                                      |
+| 2.1 | 30/04/2024 | Arian Rodriguez | Arreglos generales, HU, Lean UX, C4 Diagrams                                  |
+|2.2|20/04/2024|Jara Benites, Quique Vladimir| Correcion HU, desarrollo de las evidencias del sprint                         |
 
 # Project Report Collaboration Insights
 El presente informe se encuentra guardado en la organización de OfficeTech: [URL del repositorio de la Landing Page](https://github.com/OpenSourceSW53/-upc-pre-202401-si729-SW53-officetech-report.git)
@@ -1136,7 +1137,8 @@ En este sprint 2 los miembros de TechConnect Solutions complementaron satisfacto
 El sprint 2 estuvo relacionado mayormente con el diseño y desarrollo del front-end de la aplicacion. A lo largo del desarrollo se fueron realizando correcciones a errores dentro del codigo.
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
-aqui va el software deployment evidence for sprint review 2 (VLADIMIR)
+aqui va el software deployment evidence for sprint review 2 
+
 
 #### 5.2.2.8 Team Collaboration Insights During Sprint
 En el Sprint 2 se elaboraron diferentes features claves para el primer avance del front-end que significaría diferentes funcionalidades las cual el usuario puede interactuar con la aplicación web. Para ello se crearon diferentes ramas para cada feature y se realizó un commit para luego hacer merge a la rama develop. Después de esto, se verificaba que no hubiera ningún conflicto y se procedía a hacer el merge final a la rama de producción main para que posteriormente se actualice en el deploy que se encuentra en Vercel.
