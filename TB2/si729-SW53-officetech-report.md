@@ -1070,7 +1070,7 @@ Las evidencias muestran como los integrantes realizaron diferentes commits para 
 
 # Sprint 2 
 #### 5.2.2.1. Sprint Planning 2.
-| Sprint # | Sprint 1     |
+| Sprint # | Sprint 2     |
 |--------------------------|------------------------------------------------------------------------------------------------|
 | **Sprint Planning Background**  |                                                                                                 |
 | Date                     | 2024-04-28                                                                                     |
