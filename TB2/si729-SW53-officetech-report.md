@@ -1337,6 +1337,11 @@ Pressman, R. S. (2014). Software engineering: A practitioner's approach (8th ed.
  <BR>
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EeX37xW92-lBkFtpVltxAEcByFcYFr6nPXwGySBtE4sULQ?e=gmgzTJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EeX37xW92-lBkFtpVltxAEcByFcYFr6nPXwGySBtE4sULQ?e=gmgzTJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
+<br>
+
+**Video TP:** Presentación del proyecto y realización del segundo sprint<br>
+[https://upcedupe-my.sharepoint.com/:f:/g/personal/u202212096_upc_edu_pe/Ei5oE3eiaG5PhQMP4VCxYNoBKA_XNVkJkhsRCo1q8-g9Rw?e=tN3DYn](https://upcedupe-my.sharepoint.com/:f:/g/personal/u202212096_upc_edu_pe/Ei5oE3eiaG5PhQMP4VCxYNoBKA_XNVkJkhsRCo1q8-g9Rw?e=tN3DYn)
+
 
 
 
