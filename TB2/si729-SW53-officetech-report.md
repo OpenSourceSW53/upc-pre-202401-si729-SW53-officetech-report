@@ -1177,8 +1177,13 @@ En este sprint 2 los miembros de TechConnect Solutions complementaron satisfacto
 El sprint 2 estuvo relacionado mayormente con el diseño y desarrollo del front-end de la aplicacion. A lo largo del desarrollo se fueron realizando correcciones a errores dentro del codigo.
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
-Durante el desarrollo del sprint 2 tambien se realizo el despliegue del Front End de nuestro producto web. Este se realizo utilizando el servicio de Vercel.
-
+Para alcanzar exitosamente los objetivos de este Sprint 2 el equipo tuvo que documentarse sobre las tecnologías que se iban a implementar. Es por ello que a continuación se detalla la documentación a la que se acudió:
+- Angular Material: Es un módulo de Angular que funciona como una capa de frontend para desarrollar aplicaciones de una manera rápida, fácil y visualmente atractiva. Contiene componentes de interfaz de usuario, lo que ayuda a diseñar una aplicación más estructurada.
+https://material.angular.io/
+- Angular: Es un framework para aplicaciones web desarrollado en TypeScript, de código abierto, mantenido por Google, que se utiliza para crear y mantener aplicaciones web de una sola página
+https://angular.io/   
+- WebStorm: Es un entorno de desarrollo que nos permitirá trabajar con JavaScript.
+https://www.jetbrains.com/es-es/webstorm/learn/
 ### Despliegue del proyecto Front-End
 
 - Creacion de cuenta en Vercel con el nombre de nuestra organizacion<br>
