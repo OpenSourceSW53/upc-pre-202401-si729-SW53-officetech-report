@@ -1087,8 +1087,8 @@ Las evidencias muestran como los integrantes realizaron diferentes commits para 
 | **Initial Sprint  Retrospective Summary** | En nuestro Segundo Sprint,  hemos reflexionado sobre el los resultados y correciones del tb1 por lo cual el grupo decicio hacer esas mejoras del tb1 en el tb2 ademas de planaifcar el fakeapi y la creacion de los componentes para la aplicacion web .  |
 | **Sprint Goal & User Stories** |      |
 | Sprint 2 Goal             | El objetivo para el Sprint 2 es desarrollar nuestro Frontend Web Applications para que el usuario pueda navegar en nuestro sistema. Este Sprint se centrará en la implementación de un Frontend Web Applications informativo con una interfaz intuitiva para el usuario. |
-| Sprint 2 Velocity         | Basado en la capacidad del equipo y el rendimiento, la velocidad estimada para el Sprint 2 se establece en __ Story Points. Esto se calcula tomando en cuenta las horas de trabajo disponibles del equipo, así como la complejidad y el esfuerzo estimado de las User Stories seleccionadas para este Sprint.|
-| Sum of Story Points       |  |
+| Sprint 2 Velocity         | Basado en la capacidad del equipo y el rendimiento, la velocidad estimada para el Sprint 2 se establece en 49 Story Points. Esto se calcula tomando en cuenta las horas de trabajo disponibles del equipo, así como la complejidad y el esfuerzo estimado de las User Stories seleccionadas para este Sprint.|
+| Sum of Story Points       | 49 |
 
 #### 5.2.2.2. Sprint Backlog 2
 
