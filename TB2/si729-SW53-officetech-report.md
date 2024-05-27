@@ -1230,8 +1230,46 @@ En el Sprint 2 se elaboraron diferentes features claves para el primer avance de
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
+Una vez terminada la parte visual de nuestra aplicación (FrontEnd) y conectada a los servicios web desplegados (BackEnd), se considera una segunda parte de entrevistas, en la cual se busca validar la experiencia de usuario y la funcionalidad de la aplicación. Para ello, se plantean las siguientes preguntas:
+
+**Preguntas generales:**
+
+1. ¿Cuál es su nombre? 
+2. ¿Qué edad tiene? 
+3. ¿A qué se dedica? 
+
+
+**Preguntas a empresas que necesitan soporte técnico:**
+1.	¿Qué opinion tiene con respecto al diseño?
+2.	¿Se le realiza de manera intituiva y fácil la aplicación?
+3.	¿Cómo se siente en la parte de navegación, le es fácil ir de una vista a otra?
+4.	¿Las vistas abarcan todo lo deseado para manejar sus servicios contratados?
+5.	¿Cuál cree que es el punto fuerte de la aplicación?
+6.	¿Cómo crees que te puede beneficiar la plataforma?
+7.	¿La aplicación contiene toda la información que se consulta a través de los diferentes botones?
+8.	¿Estaría dispuesto a suscribirse al plan de OfficeTech?
+
+   
+**Preguntas a profesionales en tecnología:**
+1.	¿Qué opinion tiene con respecto al diseño?
+2.	¿Se le realiza de manera intituiva y fácil la aplicación?
+3.	¿Cómo se siente en la parte de navegación, le es fácil ir de una vista a otra?
+4.	¿Las vistas abarcan todo lo deseado para manejar sus servicios disponibles para que las empresas lo puedan contratar?
+5.	¿Qué opinión tiene con respecto a subir uno de sus servicios en nuestra plataforma?
+6.	¿Cree que se hará fácil conseguir trabajo gracias a nuestra plataforma?
+7.	¿Qué opinión tiene con respecto a la sección de foro?
+8.	¿Estaría dispuesto a registrarse a OfficeTech?
+
 ### 5.3.2. Registro de Entrevistas
 ### 5.3.3. Evaluaciones según heurísticas
+Con base a las diversas opiniones en las entrevistas realizadas, tanto clientes de empresas como técnicos afiliados se obtiene que:
+- La aplicación es intuitiva y fácil de usar.
+- La navegación es sencilla y permite ir de una vista a otra sin problemas.
+- Las vistas contienen toda la información necesaria para manejar los servicios contratados.
+- La aplicación es beneficiosa para las empresas y los técnicos, ya que facilita la contratación y prestación de servicios.
+- La sección de foro es un punto fuerte de la aplicación, ya que permite la interacción y resolución de dudas entre los usuarios.
+- La información contenida en la aplicación es clara y completa.
+- La mayoría de los entrevistados estarían dispuestos a suscribirse o registrarse en OfficeTech.
 ## 5.4. Video About-the-Product
 
 # Conclusiones
