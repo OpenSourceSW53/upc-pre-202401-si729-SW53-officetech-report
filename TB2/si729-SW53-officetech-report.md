@@ -1,4 +1,4 @@
-<p align="center">
+<p>
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
     <strong>INGENIERÍA DE SISTEMAS DE SOFTWARE</strong><br>
@@ -959,8 +959,15 @@ El manejo y organización del trabajo se llevaron a cabo mediante una organizaci
 Asimismo, para llevar a cabo un mejor control de cómo crear ramas y realizar cambios en el código fuente, se procedió a utilizar GitFlow.
 
 De este modo, se tenían 2 ramas principales: main y development.
-- main: En esta rama almacenaremos las versiones oficiales de nuestro repositorio que ya deben pasar a producción.
-- development: Esta rama se utilizará como rama de integración para las “feature” branches. Una vez alcance un estado estable y el equipo lo considere listo para ser lanzado, se unirá a la rama main.
+- Main: En esta rama almacenaremos las versiones oficiales de nuestro repositorio que ya deben pasar a producción.
+- Development: Esta rama se utilizará como rama de integración para las “feature” branches. Una vez alcance un estado estable y el equipo lo considere listo para ser lanzado, se unirá a la rama main.
+- Feature: En estas ramas estarán las funcionalidades necesarias para la aplicación. Estas ramas se crean a partir de la rama develop y se fusionan con la misma rama develop. Para la designación de los nombres en la rama feature se utilizará lo siguiente: palabra “feature” seguido de “/” y la funcionalidad designada.
+- Hotfix: Esta rama se utilizará para solucionar cualquier problema que se pueda presentar en la rama Main, después solucionar el problema se realizará un merge con la rama main y developer, después de su uso se eliminará la rama.
+- Release: En esta rama se realizan las diferentes pruebas para validar todas las funcionalidades desarrolladas. Una vez validado todo, esta rama pasará a la Main.
+
+Metodología de trabajo Git Flow: 
+
+<img src="../assets/gitflow.png" alt="gitflow diagram">
 
 #### Commit Conventions:
 El formato de nuestros commits sigue la estructura de los “Conventional Commits” en su versión 1.0.0 (https://www.conventionalcommits.org/en/v1.0.0/) con el objetivo de proporcionar una lectura sencilla de los mismos. Por ello seguimos el siguiente formato:
