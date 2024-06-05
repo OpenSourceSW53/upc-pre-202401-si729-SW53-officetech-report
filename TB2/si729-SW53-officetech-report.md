@@ -1336,14 +1336,14 @@ COLOCAR RESUMEN
 Dando respuesta a las preguntas, Daniel nos comenta que el diseño simple es algo que le agrada de la aplicación, ya que le permite navegar de manera rápida y sencilla. Además, considera que la sección de foro es un punto fuerte de la aplicación, ya que permite la interacción y resolución de dudas entre los usuarios. Por otro lado, menciona que la información contenida en la aplicación es clara y completa, lo que facilita la prestación de servicios. Finalmente, Daniel estaría dispuesto a registrarse en OfficeTech, ya que considera que le brindará beneficios en su trabajo como técnico en computación.
 <br><br>
 
-**Entrevista 2 (realizada por /////):**<br>
-**Nombre:** ///
-**Edad:** ///
-**Ocupación:** ///
+**Entrevista 2 (realizada por Zaid Ramirez):**<br>
+**Nombre:** Victor Gutierrez Huaman
+**Edad:** 56
+**Ocupación:** Técnico (Ingeniero en sistemas)
 
-<img src="../assets/" alt="Entrevista a " style="width:80%;">
+<img src="../assets/Entrevistas2-img/EntrevistaVictor.png" alt="Entrevista a Victor" style="width:80%;">
 
-[Vídeo de entrevista](https://)
+[Vídeo de entrevista](https://youtu.be/ur_Xw2-uwK4)
 
 COLOCAR RESUMEN
 <br><br>
