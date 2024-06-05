@@ -1285,6 +1285,83 @@ Una vez terminada la parte visual de nuestra aplicación (FrontEnd) y conectada 
 8.	¿Estaría dispuesto a registrarse a OfficeTech?
 
 ### 5.3.2. Registro de Entrevistas
+
+**Segmento 1: Clientes que requieren de un plan para soporte técnico que brinde garantía y soluciones a sus productos electrónicos**<br>
+**Entrevista 1 (realizada por /////):**<br>
+**Nombre:** ///
+**Edad:** ///
+**Ocupación:** ///
+
+<img src="../assets/" alt="Entrevista a " style="width:80%;">
+
+[Vídeo de entrevista](https://)
+
+COLOCAR RESUMEN
+<br><br>
+
+**Entrevista 2 (realizada por /////):**<br>
+**Nombre:** ///
+**Edad:** ///
+**Ocupación:** ///
+
+<img src="../assets/" alt="Entrevista a " style="width:80%;">
+
+[Vídeo de entrevista](https://)
+
+COLOCAR RESUMEN
+<br><br>
+
+**Entrevista 3 (realizada por /////):**<br>
+**Nombre:** ///
+**Edad:** ///
+**Ocupación:** ///
+
+<img src="../assets/" alt="Entrevista a " style="width:80%;">
+
+[Vídeo de entrevista](https://)
+
+COLOCAR RESUMEN
+<br><br>
+
+**Segmento 2: Técnicos especializados en reparación, mantenimiento y soporte técnico de productos electrónicos.** <br>
+**Entrevista 1 (realizada por Fabia Herrera):**<br>
+**Nombre:** Daniel J. Mejía
+**Edad:** 27 años 
+**Ocupación:** Técnico en computación
+
+<img src="../assets/Entrevistas2-img/EntrevistaDaniel.png" alt="Entrevista a Daniel" style="width:80%;">
+
+[Vídeo de entrevista](https://youtu.be/DuGI5BF8wwo)
+
+Dando respuesta a las preguntas, Daniel nos comenta que el diseño simple es algo que le agrada de la aplicación, ya que le permite navegar de manera rápida y sencilla. Además, considera que la sección de foro es un punto fuerte de la aplicación, ya que permite la interacción y resolución de dudas entre los usuarios. Por otro lado, menciona que la información contenida en la aplicación es clara y completa, lo que facilita la prestación de servicios. Finalmente, Daniel estaría dispuesto a registrarse en OfficeTech, ya que considera que le brindará beneficios en su trabajo como técnico en computación.
+<br><br>
+
+**Entrevista 2 (realizada por /////):**<br>
+**Nombre:** ///
+**Edad:** ///
+**Ocupación:** ///
+
+<img src="../assets/" alt="Entrevista a " style="width:80%;">
+
+[Vídeo de entrevista](https://)
+
+COLOCAR RESUMEN
+<br><br>
+
+**Entrevista 3 (realizada por /////):**<br>
+**Nombre:** ///
+**Edad:** ///
+**Ocupación:** ///
+
+<img src="../assets/" alt="Entrevista a " style="width:80%;">
+
+[Vídeo de entrevista](https://)
+
+COLOCAR RESUMEN
+<br><br>
+
+
+
 ### 5.3.3. Evaluaciones según heurísticas
 Con base a las diversas opiniones en las entrevistas realizadas, tanto clientes de empresas como técnicos afiliados se obtiene que:
 - La aplicación es intuitiva y fácil de usar.
