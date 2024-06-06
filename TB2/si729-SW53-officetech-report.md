@@ -1369,7 +1369,7 @@ Dando respuesta a las preguntas, Daniel nos comenta que el diseño simple es alg
 
 [Vídeo de entrevista](https://youtu.be/ur_Xw2-uwK4)
 
-COLOCAR RESUMEN
+Victor nos comenta que considera que la aplicación es intuitiva y facil de usar, del mismo modo presenta toda la información relevante para el técnico. Además considera que la presentación de la aplicación y los datos que muestra son el punto fuerte, ya que se muestra solamente la información importante y no sobrecarga visualmente al técnico pudiendo hacer que se pierda. Por otro lado, menciona que señala que falta una forma para poder filtrar los servicios por: cliente, fecha y status para que sea más facil de encontrar información especifica. A su vez sugiere que el foro debería ser un poco más específico y no abierto para todos para que los clientes no se confundad ya que no todos tienen las mismas soluciones a los problemas. Finalemnte, considera que la aplicación lo ayudaría bastante en su profesión y que si estaría dispuesto a suscribirse a este tipo de plataforma.
 <br><br>
 
 **Entrevista 3 (realizada por Marcelo Ramirez):**<br>
