@@ -1248,7 +1248,18 @@ En el Sprint 2 se elaboraron diferentes features claves para el primer avance de
 #### 5.2.3.3. Development Evidence for Sprint Review
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 #### 5.2.3.5. Execution Evidence for Sprint Review
+
+Para el sprint 3 se ha presentado el back-end y se optó por varias herramientas para su desarrollo:
+
+- *Git*: Se utilizó para el control de versiones del código fuente.
+- *GitFlow*: Se utilizó para ver el avance de los integrantes del equipo.
+- *GitHub*: Se utilizó para crear el repositorio del back-end, donde se subió el código fuente.
+- *Swagger*: Se utilizó para documentar la API RESTful.
+- *MySQL*: Se utilizó para la base de datos.
+[Colocar evidencias de la ejecución del sprint 3]
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
+En este sprint 3 los miembros de TechConnect Solutions complementaron satisfactoriamente las tareas propuestas. El sprint 3 estuvo relacionado mayormente con el desarrollo del backend de la aplicacion. A lo largo del desarrollo se fueron realizando correcciones a errores dentro del codigo.
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
