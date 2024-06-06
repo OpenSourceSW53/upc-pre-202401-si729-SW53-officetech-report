@@ -1287,25 +1287,27 @@ Una vez terminada la parte visual de nuestra aplicación (FrontEnd) y conectada 
 ### 5.3.2. Registro de Entrevistas
 
 **Segmento 1: Clientes que requieren de un plan para soporte técnico que brinde garantía y soluciones a sus productos electrónicos**<br>
-**Entrevista 1 (realizada por /////):**<br>
-**Nombre:** ///
-**Edad:** ///
-**Ocupación:** ///
+**Entrevista 1 (realizada por Arian Rodriguez):**<br>
+**Nombre:** Diego Hernandez
+**Edad:** 21 años
+**Ocupación:** Estudiante de Ingeniería de Sistemas, asistente de negocio a cargo de la venta de dispositivos electrónicos
 
-<img src="../assets/" alt="Entrevista a " style="width:80%;">
+<div style="display:flex;justify-content:center">
+<img src="../assets/Entrevistas2-img/EntrevistaDiego.PNG" alt="Entrevista a Diego Hernandez" style="width:80%;">
+</div>
 
-[Vídeo de entrevista](https://)
 
-COLOCAR RESUMEN
+[Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212096_upc_edu_pe/EZyQVZHFYLNLgMKMbGWppc8BgtjBDhK_rh24hoNXvxJ-2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DDrRoh)
+Diego Hernandez es un muchacho que se encuentra trabajando en un pequeño negocio de reparaciones en Paruro asimismo este negocio se dedica a comercializar diferentes productos electrónicos. Diego nos comenta que le parece muy buen trabajo con respecto al diseño, es muy intuitivo y dinámico, le parece que la navegación es sencilla y rápida, le gusta la sección de foro ya que le permite interactuar con otros usuarios y resolver dudas, considera que la información contenida en la aplicación es clara y completa, le parece que la aplicación es beneficiosa para las empresas y los técnicos ya que facilita la contratación y prestación de servicios. Finalmente, Diego estaría dispuesto a registrarse en OfficeTech ya que considera que le brindará beneficios en su trabajo como asistente de negocio y estudiante de Ingeniería de Sistemas.
 <br><br>
 
 **Entrevista 2 (realizada por /////):**<br>
 **Nombre:** ///
 **Edad:** ///
 **Ocupación:** ///
-
+<div style="display:flex;justify-content:center">
 <img src="../assets/" alt="Entrevista a " style="width:80%;">
-
+</div>
 [Vídeo de entrevista](https://)
 
 COLOCAR RESUMEN
@@ -1316,7 +1318,9 @@ COLOCAR RESUMEN
 **Edad:** ///
 **Ocupación:** ///
 
+<div style="display:flex;justify-content:center">
 <img src="../assets/" alt="Entrevista a " style="width:80%;">
+</div>
 
 [Vídeo de entrevista](https://)
 
@@ -1329,7 +1333,9 @@ COLOCAR RESUMEN
 **Edad:** 27 años 
 **Ocupación:** Técnico en computación
 
+<div style="display:flex;justify-content:center">
 <img src="../assets/Entrevistas2-img/EntrevistaDaniel.png" alt="Entrevista a Daniel" style="width:80%;">
+</div>
 
 [Vídeo de entrevista](https://youtu.be/DuGI5BF8wwo)
 
@@ -1341,7 +1347,9 @@ Dando respuesta a las preguntas, Daniel nos comenta que el diseño simple es alg
 **Edad:** 56
 **Ocupación:** Técnico (Ingeniero en sistemas)
 
+<div style="display:flex;justify-content:center">
 <img src="../assets/Entrevistas2-img/EntrevistaVictor.png" alt="Entrevista a Victor" style="width:80%;">
+</div>
 
 [Vídeo de entrevista](https://youtu.be/ur_Xw2-uwK4)
 
@@ -1353,7 +1361,9 @@ COLOCAR RESUMEN
 **Edad:** ///
 **Ocupación:** ///
 
+<div style="display:flex;justify-content:center">
 <img src="../assets/" alt="Entrevista a " style="width:80%;">
+</div>
 
 [Vídeo de entrevista](https://)
 
