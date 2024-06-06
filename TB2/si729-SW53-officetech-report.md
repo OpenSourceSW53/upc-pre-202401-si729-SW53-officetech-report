@@ -1306,7 +1306,7 @@ Diego Hernandez es un muchacho que se encuentra trabajando en un pequeño negoci
 **Edad:** 23 años
 **Ocupación:** Estudiante de Ingeniería de Software, encargado del mantenimento dispositivos electrónicos en una constructora
 <div style="display:flex;justify-content:center">
-<img src="../assets/Entrevistas2-img/EntrevistaEduardo.PNG" alt="Entrevista a Eduardo" style="width:80%;">
+<img src="../assets/Entrevistas2-img/EntrevistaEduardo.png" alt="Entrevista a Eduardo" style="width:80%;">
 </div>
 
 [Vídeo de entrevista](https://youtu.be/PKdQYUZH5UA)
