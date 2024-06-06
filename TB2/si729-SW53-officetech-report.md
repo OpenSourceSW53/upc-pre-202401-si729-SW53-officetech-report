@@ -1398,7 +1398,20 @@ Isaac ha comentado que el diseño de la interfaz del frontend le parece excelent
 Isaac menciona que la información contenida en la aplicación es clara y completa, facilitando así la prestación de servicios.Isaac, quien es jefe de sistemas, está dispuesto a registrarse en OfficeTech. Está convencido de que la plataforma le proporcionará beneficios significativos que optimizarán su trabajo y le permitirán gestionar su equipo de manera más eficiente.
 <br><br>
 
+**Entrevista 4 (realizada por Quique Jara):**<br>
+**Nombre:** Nestor Velarde
+**Edad:** 28
+**Ocupación:** Especialista en soporte de TI
 
+<div style="display:flex;justify-content:center">
+<img src="../assets/Entrevistas2-img/EntrevistaNestor.png" alt="Entrevista a Nestor" style="width:80%;">
+</div>
+
+[Vídeo de entrevista](https://drive.google.com/file/d/1osWnHvmQwr2_KDU9K2HA1F5SLtjS-J0n/view?usp=sharing)
+
+Nestor ha comentado que el diseño de la interfaz del frontend le parece que esta bien pero algo es un poco sosa por falta de elementos graficos. Con respecto a la navegacion comenta que es bastante intuitiva y fácil de manejar. Por otro lado, comenta que cumple con los requerimientos y que la aplicación proporciona una experiencia de usuario fluida.
+Comenta que seria interesante tener una funcionalidad para comunicarse directamente con otros expertos. 
+<br><br>
 
 ### 5.3.3. Evaluaciones según heurísticas
 Con base a las diversas opiniones en las entrevistas realizadas, tanto clientes de empresas como técnicos afiliados se obtiene que:
