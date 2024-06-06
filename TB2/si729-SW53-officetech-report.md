@@ -1246,7 +1246,18 @@ En el Sprint 2 se elaboraron diferentes features claves para el primer avance de
 
 
 #### 5.2.3.3. Development Evidence for Sprint Review
+
+Para este segundo sprint se decidió trabajar en una rama distinta para cada feature y despues unirlo todo en develop. Cada miembro ha realizado un commit para posteriormente hacer merge.
+| Repository                         | Branch                     | Commit ID          | Commit Message                                                        | Committed on(date) |
+|------------------------------------|----------------------------|--------------------|-----------------------------------------------------------------------|--------------------|
+| OpenSourceSW53/officetech-frontend | feature/edit-skills-system           | 710be4e            | feat: comments components                                             | 25/04/24           |
+
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
+| Repository                         | Branch                     | Commit ID          | Commit Message                                                                 | Committed on(date) |
+|------------------------------------|----------------------------|--------------------|--------------------------------------------------------------------------------|--------------------|
+| OpenSourceSW53/officetech-frontend | development                | 93683aa            | Merge remote-tracking branch 'origin/feature/payment-details' into development | 28/04/24           |
+
+
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
 Para el sprint 3 se ha presentado el back-end y se optó por varias herramientas para su desarrollo:
