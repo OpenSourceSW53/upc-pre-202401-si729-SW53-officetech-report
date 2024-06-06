@@ -1358,8 +1358,8 @@ COLOCAR RESUMEN
 
 **Entrevista 3 (realizada por Marcelo Ramirez):**<br>
 **Nombre:** Issac Capillo
-**Edad:** ///
-**Ocupación:** 
+**Edad:** 50
+**Ocupación:** Jefe de sistema de un instituto
 
 <div style="display:flex;justify-content:center">
 <img src="../assets/Entrevistas2-img/Entrevista-Issac Capillo.PNG" alt="Entrevista a Issac" style="width:80%;">
@@ -1367,7 +1367,8 @@ COLOCAR RESUMEN
 
 [Vídeo de entrevista](https://youtu.be/5d-qHJZWJB8)
 
-COLOCAR RESUMEN
+Isaac ha comentado que el diseño de la interfaz del frontend le parece excelente y que la navegación es intuitiva y fácil de manejar. Además, destaca la excelente capacidad de respuesta de la aplicación. Considera que el punto fuerte de la aplicación radica en la gestión de los requerimientos de los usuarios, ya que se maneja de una manera simple y sencilla, lo cual también se aplica a la visualización de las respuestas.
+Isaac menciona que la información contenida en la aplicación es clara y completa, facilitando así la prestación de servicios.Isaac, quien es jefe de sistemas, está dispuesto a registrarse en OfficeTech. Está convencido de que la plataforma le proporcionará beneficios significativos que optimizarán su trabajo y le permitirán gestionar su equipo de manera más eficiente.
 <br><br>
 
 
