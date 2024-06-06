@@ -1301,14 +1301,15 @@ Una vez terminada la parte visual de nuestra aplicación (FrontEnd) y conectada 
 Diego Hernandez es un muchacho que se encuentra trabajando en un pequeño negocio de reparaciones en Paruro asimismo este negocio se dedica a comercializar diferentes productos electrónicos. Diego nos comenta que le parece muy buen trabajo con respecto al diseño, es muy intuitivo y dinámico, le parece que la navegación es sencilla y rápida, le gusta la sección de foro ya que le permite interactuar con otros usuarios y resolver dudas, considera que la información contenida en la aplicación es clara y completa, le parece que la aplicación es beneficiosa para las empresas y los técnicos ya que facilita la contratación y prestación de servicios. Finalmente, Diego estaría dispuesto a registrarse en OfficeTech ya que considera que le brindará beneficios en su trabajo como asistente de negocio y estudiante de Ingeniería de Sistemas.
 <br><br>
 
-**Entrevista 2 (realizada por ///):**<br>
-**Nombre:** ///
-**Edad:** ///
-**Ocupación:** ///
+**Entrevista 2 (realizada por Adrian Rubio):**<br>
+**Nombre:** Eduardo Sanadres
+**Edad:** 23 años
+**Ocupación:** Estudiante de Ingeniería de Software, encargado del mantenimento dispositivos electrónicos en una constructora
 <div style="display:flex;justify-content:center">
-<img src="../assets/" alt="Entrevista a " style="width:80%;">
+<img src="../assets/Entrevistas2-img/EntrevistaEduardo.PNG" alt="Entrevista a Eduardo Sanadres" style="width:80%;">
 </div>
-[Vídeo de entrevista](https://)
+
+[Vídeo de entrevista](https://youtu.be/PKdQYUZH5UA)
 
 COLOCAR RESUMEN
 <br><br>
