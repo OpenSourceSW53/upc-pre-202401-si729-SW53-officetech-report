@@ -1300,7 +1300,13 @@ Para el sprint 3 se ha presentado el back-end y se optó por varias herramientas
 - *GitHub*: Se utilizó para crear el repositorio del back-end, donde se subió el código fuente.
 - *Swagger*: Se utilizó para documentar la API RESTful.
 - *MySQL*: Se utilizó para la base de datos.
-[Colocar evidencias de la ejecución del sprint 3]
+<div style="display:flex;justify-content:center,align-items: center; width:100%">
+<img src="../assets/execution-evidence/services-api.PNG" alt="Swagger" style="width:100%;">
+</div>
+
+<div style="display:flex;justify-content:center,align-items: center; width:100%">
+<img src="../assets/execution-evidence/2.PNG" alt="Swagger" style="width:100%;">
+</div>
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 En este sprint 3 los miembros de TechConnect Solutions complementaron satisfactoriamente las tareas propuestas. El sprint 3 estuvo relacionado mayormente con el desarrollo del backend de la aplicacion. A lo largo del desarrollo se fueron realizando correcciones a errores dentro del codigo.
