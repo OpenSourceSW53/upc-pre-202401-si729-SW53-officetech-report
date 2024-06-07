@@ -1349,7 +1349,7 @@ Eduardo Sandres trabaja en el área de TI de una constructora y es responsable d
 <img src="../assets/Entrevistas2-img/EntrevistaJohan.png" alt="Entrevista a Johan" style="width:80%;">
 </div>
 
-[Vídeo de entrevista](https://)
+[Vídeo de entrevista](https://drive.google.com/file/d/1D3EozPE_7oRsJ8hkesfPWUEkhdWMeyi9/view?usp=sharing)
 
 Johan nos comenta que le agrada el diseño simple por su facilidad de uso y navegación. Considera que la sección de foro es un punto fuerte de la aplicación, ya que permite la interacción y resolución de dudas entre los usuarios. Por otro lado, menciona que la información contenida en la aplicación es clara y completa, lo que facilita la prestación de servicios. Johan estaría dispuesto a registrarse en OfficeTech, ya que considera que le brindará beneficios en su trabajo como supervisor de redes.
 <br><br>
