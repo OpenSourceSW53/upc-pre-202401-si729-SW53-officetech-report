@@ -1252,10 +1252,26 @@ Para este segundo sprint se decidió trabajar en una rama distinta para cada fea
 |------------------------------------|----------------------------|--------------------|-----------------------------------------------------------------------|--------------------|
 | OpenSourceSW53/officetech-frontend | feature/edit-skills-system           | 710be4e            | feat: comments components                                             | 25/04/24  |         
 
-#### 5.2.3.4. Testing Suite Evidence for Sprint Review
-| Repository                         | Branch                     | Commit ID          | Commit Message                                                                 | Committed on(date) |
-|------------------------------------|----------------------------|--------------------|--------------------------------------------------------------------------------|--------------------|
-| OpenSourceSW53/officetech-frontend | development                | 93683aa            | Merge remote-tracking branch 'origin/feature/payment-details' into development | 28/04/24           |
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review 
+| Repository                         | Branch                | Commit ID          | Commit Message                                                          | Committed on(date) |
+|------------------------------------|-----------------------|--------------------|-------------------------------------------------------------------------|--------------------|
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | 48a8f50            | feat: skills to method add ls to db                                     | 05/07/24           |
+| OpenSourceSW53/officetech-backend  | forum-system          | 845dd27            | feature: endpoint to save new post of forum                             | 04/07/24           |
+| OpenSourceSW53/officetech-backend  | forum-system          | 9f86651            | feature: method get to obtain all the posts and by id                   | 04/07/24           |
+| OpenSourceSW53/officetech-backend  | forum-system          | 4333bc1            | feature: methods post and get to answers                                | 04/07/24           |
+| OpenSourceSW53/officetech-backend  | forum-system          | 194c8dd            | add: postId and createdAt                                               | 04/07/24           |
+| OpenSourceSW53/officetech-backend  | payment-system        | 2cbdd5e            | feat: method to add payment details to db                               | 04/07/24           |
+| OpenSourceSW53/officetech-backend  | payment-system        | 99bd364            | feat: added method to get if the payment method expiratory date has past| 04/07/24           |
+| OpenSourceSW53/officetech-backend  | services-system       | 73f3acd            | feat: method post to create new tech requirement                        | 02/07/24           |
+| OpenSourceSW53/officetech-backend  | services-system       | 4dd4ae7            | feat: methods put to edit the services                                  | 02/07/24           |
+| OpenSourceSW53/officetech-backend  | services-system       | 483ff14            | feat: method get to obtain the services company                         | 02/07/24           |
+| OpenSourceSW53/officetech-backend  | services-system       | f99b745            | feature: method get to obtain services of one technician                | 02/07/24           |
+| OpenSourceSW53/officetech-backend  | services-system       | 6a7a039            | feature: endpoint to obtain services by id                              | 03/07/24           |
+| OpenSourceSW53/officetech-backend  | services-system       | fd96ebe            | feat: endpoint to get services with technician information and ratings  | 04/07/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | a2f94a4            | add: aggregate user auth                                                | 24/06/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | 82de6a9            | add: command service to save new user                                   | 24/06/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | bd462c5            | add: repository to find by id                                           | 24/06/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | 3940c4e            | feat: method to find by email                                           | 31/06/24           |
 
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
