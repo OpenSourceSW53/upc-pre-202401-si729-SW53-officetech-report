@@ -1424,6 +1424,8 @@ Con base a las diversas opiniones en las entrevistas realizadas, tanto clientes 
 - La información contenida en la aplicación es clara y completa.
 - La mayoría de los entrevistados estarían dispuestos a suscribirse o registrarse en OfficeTech.
 ## 5.4. Video About-the-Product
+Orientación promocional, resumiendo el modelo de negocio, las características y beneficios del producto
+[link del Video](https://youtu.be/vyGsg9_Y_ZA)
 
 # Conclusiones
 # Conclusiones y recomendaciones.
