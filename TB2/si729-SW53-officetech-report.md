@@ -1248,11 +1248,7 @@ En el Sprint 2 se elaboraron diferentes features claves para el primer avance de
 #### 5.2.3.3. Development Evidence for Sprint Review
 
 Para este segundo sprint se decidió trabajar en una rama distinta para cada feature y despues unirlo todo en develop. Cada miembro ha realizado un commit para posteriormente hacer merge.
-| Repository                         | Branch                     | Commit ID          | Commit Message                                                        | Committed on(date) |
-|------------------------------------|----------------------------|--------------------|-----------------------------------------------------------------------|--------------------|
-| OpenSourceSW53/officetech-frontend | feature/edit-skills-system           | 710be4e            | feat: comments components                                             | 25/04/24  |         
 
-#### 5.2.3.4. Testing Suite Evidence for Sprint Review 
 | Repository                         | Branch                | Commit ID          | Commit Message                                                          | Committed on(date) |
 |------------------------------------|-----------------------|--------------------|-------------------------------------------------------------------------|--------------------|
 | OpenSourceSW53/officetech-backend  | edit-skill-system     | 48a8f50            | feat: skills to method add ls to db                                     | 05/07/24           |
@@ -1272,7 +1268,13 @@ Para este segundo sprint se decidió trabajar en una rama distinta para cada fea
 | OpenSourceSW53/officetech-backend  | user-auth-system      | 82de6a9            | add: command service to save new user                                   | 24/06/24           |
 | OpenSourceSW53/officetech-backend  | user-auth-system      | bd462c5            | add: repository to find by id                                           | 24/06/24           |
 | OpenSourceSW53/officetech-backend  | user-auth-system      | 3940c4e            | feat: method to find by email                                           | 31/06/24           |
+       
 
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review 
+
+| Repository                         | Branch                     | Commit ID          | Commit Message                                                        | Committed on(date) |
+|------------------------------------|----------------------------|--------------------|-----------------------------------------------------------------------|--------------------|
+| OpenSourceSW53/officetech-frontend | feature/edit-skills-system           | 710be4e            | feat: comments components                                             | 25/04/24  |  
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
