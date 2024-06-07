@@ -1340,19 +1340,19 @@ Diego Hernandez es un muchacho que se encuentra trabajando en un pequeño negoci
 COLOCAR RESUMEN
 <br><br>
 
-**Entrevista 3 (realizada por /////):**<br>
-**Nombre:** ///
-**Edad:** ///
-**Ocupación:** ///
+**Entrevista 3 (realizada por Quique Jara):**<br>
+**Nombre:** Johan Diestra
+**Edad:** 27
+**Ocupación:** Supervisor de redes   
 
 <div style="display:flex;justify-content:center">
-<img src="../assets/" alt="Entrevista a " style="width:80%;">
+<img src="../assets/Entrevistas2-img/EntrevistaJohan.png" alt="Entrevista a Johan" style="width:80%;">
 </div>
 
 [Vídeo de entrevista](https://)
-
-COLOCAR RESUMEN
+Johan nos comenta que le agrada el diseño simple por su facilidad de uso y navegación. Considera que la sección de foro es un punto fuerte de la aplicación, ya que permite la interacción y resolución de dudas entre los usuarios. Por otro lado, menciona que la información contenida en la aplicación es clara y completa, lo que facilita la prestación de servicios. Johan estaría dispuesto a registrarse en OfficeTech, ya que considera que le brindará beneficios en su trabajo como supervisor de redes.
 <br><br>
+
 
 **Segmento 2: Técnicos especializados en reparación, mantenimiento y soporte técnico de productos electrónicos.** <br>
 **Entrevista 1 (realizada por Fabia Herrera):**<br>
