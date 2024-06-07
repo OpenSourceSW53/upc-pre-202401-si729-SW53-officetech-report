@@ -1233,7 +1233,7 @@ En el Sprint 2 se elaboraron diferentes features claves para el primer avance de
 | **Sprint Goal & User Stories** |    |
 | Sprint 3 Goal             | El objetivo del sprint 3 es enfocarse en desarrollar el backend de nuestra aplicación web para que el front pueda realizar las transacciones de datos de nuestra base de datos con la vista y el usuario y este pueda interactuar con ello. |
 | Sprint 3 Velocity         | Basado en la capacidad del equipo y el rendimiento, la velocidad estimada para el tercer Sprint se establece en __ Story Points. Esto se calcula tomando en cuenta las horas de trabajo disponibles del equipo, así como la complejidad y el esfuerzo estimado de las User Stories seleccionadas para este Sprint. |
-| Sum of Story Points       |  |
+| Sum of Story Points       |  24 |
 #### 5.2.3.2. Sprint Backlog 3
 | User Story |  | Work-Item/Task |  |  |            |                                                      |
 |------------|----------------|----------------|--------------------------------|-----------|------------|------------------------------------------------------|
