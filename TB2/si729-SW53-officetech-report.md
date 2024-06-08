@@ -1232,17 +1232,29 @@ En el Sprint 2 se elaboraron diferentes features claves para el primer avance de
 | **Initial Sprint  Retrospective Summary** | En este tercer sprint se ha reflexionado acerca de las correcciones hechas en el sprint anterior por lo que se mejorará algunos de esos aspectos para mantener la mejora continua, además de planificar la RESTful api y el comportamiento del backend con la vista. |
 | **Sprint Goal & User Stories** |    |
 | Sprint 3 Goal             | El objetivo del sprint 3 es enfocarse en desarrollar el backend de nuestra aplicación web para que el front pueda realizar las transacciones de datos de nuestra base de datos con la vista y el usuario y este pueda interactuar con ello. |
-| Sprint 3 Velocity         | Basado en la capacidad del equipo y el rendimiento, la velocidad estimada para el tercer Sprint se establece en __ Story Points. Esto se calcula tomando en cuenta las horas de trabajo disponibles del equipo, así como la complejidad y el esfuerzo estimado de las User Stories seleccionadas para este Sprint. |
-| Sum of Story Points       |  |
+| Sprint 3 Velocity         | Basado en la capacidad del equipo y el rendimiento, la velocidad estimada para el tercer Sprint se establece en 24 Story Points. Esto se calcula tomando en cuenta las horas de trabajo disponibles del equipo, así como la complejidad y el esfuerzo estimado de las User Stories seleccionadas para este Sprint. |
+| Sum of Story Points       |  24 |
 #### 5.2.3.2. Sprint Backlog 3
 | User Story |  | Work-Item/Task |  |  |            |                                                      |
 |------------|----------------|----------------|--------------------------------|-----------|------------|------------------------------------------------------|
 | ID         | Title          | ID             | Title                          | Description                     | Estimation | Assigned To                                          | Status |
-| HU28     | Configuración Inicial del Servidor  | W213         | Configurar el servidor backend | Configuración del servidor backend para soportar todas las operaciones iniciales de la aplicación. | 3 horas | - Fabia Herrera Aguirre                              | Done   |
-| HU29     | Definición de Endpoints de API Básicos  | W214         | Definir endpoints de API | Definición de endpoints de API iniciales que permitan operaciones CRUD básicas para usuarios y técnicos. | 5 horas | - Zaid Ramirez Contreras                             | Done   |
-| HU30     | Integración de Base de Datos  | W215         | Integrar la base de datos | Integración de una base de datos con el backend para almacenar y recuperar datos de forma segura y eficiente. | 8 horas | - Adrian Rubio Calixto <br> - Arian Rodriguez Vargas | Done   |
-| HU31     | Autenticación y Seguridad Básica  | W216         | Implementar autenticación y seguridad | Implementación de medidas de seguridad básicas para proteger los datos y las operaciones del backend. | 5 horas | - Marcelo Ramirez Ramirez                            | Done   |
-| HU32     | Configuración de Logging y Monitoreo  | W217         | Configurar logging y monitoreo | Configuración de sistemas de logging y monitoreo para el backend. | 3 horas | - Vladimir Jara Benites                              | Done   |
+| ID         | Title          | ID             | Title                          | Description                     | Estimation | Assigned To               | Status |
+| HU28       | Configuración Inicial del Servidor | W213a | Preparar el entorno del servidor | Preparación del entorno del servidor con las herramientas y software necesarios. | 1 hora  | Fabia Herrera Aguirre | Done   |
+| HU28       | Configuración Inicial del Servidor | W213b | Configurar parámetros del servidor | Establecimiento de parámetros de configuración del servidor para optimización del rendimiento. | 1 hora  | Fabia Herrera Aguirre | Done   |
+| HU28       | Configuración Inicial del Servidor | W213c | Verificar conectividad y rendimiento | Pruebas para asegurar la conectividad y rendimiento óptimos del servidor configurado. | 1 hora  | Fabia Herrera Aguirre | Done   |
+| HU29       | Definición de Endpoints de API Básicos | W214a | Diseñar la estructura de endpoints | Diseño de la estructura y rutas de los endpoints de la API. | 2 horas | Zaid Ramirez Contreras | Done   |
+| HU29       | Definición de Endpoints de API Básicos | W214b | Crear funciones lógicas de endpoints | Desarrollo de las funciones lógicas que serán ejecutadas al llamar a cada endpoint. | 2 horas | Zaid Ramirez Contreras | Done   |
+| HU29       | Definición de Endpoints de API Básicos | W214c | Testear los endpoints | Realización de pruebas para asegurar el correcto funcionamiento y seguridad de los endpoints. | 1 hora  | Zaid Ramirez Contreras | Done   |
+| HU30       | Integración de Base de Datos | W215a | Diseñar el esquema de la base de datos | Diseño del esquema de la base de datos para asegurar que las estructuras de datos soporten eficientemente las necesidades del negocio. | 2 horas | Adrian Rubio Calixto | Done   |
+| HU30       | Integración de Base de Datos | W215b | Implementar conexiones de base de datos | Implementación de las conexiones de base de datos en el backend para interactuar con la base de datos. | 2 horas | Arian Rodriguez Vargas | Done   |
+| HU30       | Integración de Base de Datos | W215c | Crear funciones CRUD para las entidades | Creación de funciones CRUD (Create, Read, Update, Delete) para gestionar las entidades principales en la base de datos. | 3 horas | Adrian Rubio Calixto | Done   |
+| HU30       | Integración de Base de Datos | W215d | Implementar pruebas de integración | Implementación de pruebas de integración para asegurar que las interacciones con la base de datos funcionan como se espera. | 1 hora | Arian Rodriguez Vargas | Done   |
+| HU31       | Autenticación y Seguridad Básica | W216a | Configurar protocolos de seguridad | Configuración de protocolos de seguridad como SSL/TLS para la protección de datos en tránsito. | 2 horas | Marcelo Ramirez Ramirez | Done   |
+| HU31       | Autenticación y Seguridad Básica | W216b | Implementar sistema de autenticación | Desarrollo e implementación de un sistema de autenticación basado en tokens o sesiones. | 2 horas | Marcelo Ramirez Ramirez | Done   |
+| HU31       | Autenticación y Seguridad Básica | W216c | Testear seguridad y autenticación | Realización de pruebas para validar la seguridad y la efectividad de la autenticación. | 1 hora  | Marcelo Ramirez Ramirez | Done   |
+| HU32       | Configuración de Logging y Monitoreo | W217a | Instalar herramientas de logging | Instalación y configuración de herramientas para el logging de actividades del sistema. | 1 hora  | Vladimir Jara Benites | Done   |
+| HU32       | Configuración de Logging y Monitoreo | W217b | Configurar monitoreo del sistema | Configuración de herramientas de monitoreo para supervisar el rendimiento y la estabilidad del sistema. | 1 hora  | Vladimir Jara Benites | Done   |
+| HU32       | Configuración de Logging y Monitoreo | W217c | Crear dashboards de monitoreo | Creación de dashboards para visualizar en tiempo real la información de logging y monitoreo. | 1 hora  | Vladimir Jara Benites | Done   |
 
 
 #### 5.2.3.3. Development Evidence for Sprint Review
@@ -1266,11 +1278,14 @@ Para este segundo sprint se decidió trabajar en una rama distinta para cada fea
 | OpenSourceSW53/officetech-backend | feature/user-auth-system   | 1bdcfe415f2ea0653a8344824e3dcd7fcbb8543a | First commit | 26/04/24          |
 | OpenSourceSW53/officetech-backend | feature/profile-auth-system    | 1bdcfe415f2ea0653a8344824e3dcd7fcbb8543a | First commit | 26/04/24          |
 
-#### 5.2.3.4. Testing Suite Evidence for Sprint Review
-| Repository                         | Branch                     | Commit ID          | Commit Message                                                                 | Committed on(date) |
-|------------------------------------|----------------------------|--------------------|--------------------------------------------------------------------------------|--------------------|
-| OpenSourceSW53/officetech-frontend | development                | 93683aa            | Merge remote-tracking branch 'origin/feature/payment-details' into development | 28/04/24           |
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review 
 
+| Repository                         | Branch           | Commit ID          | Commit Message                                                        | Committed on(date) |
+|------------------------------------|------------------|--------------------|-----------------------------------------------------------------------|--------------------|
+| OpenSourceSW53/officetech-backend  | development      | 9f5e608            | Merge branch 'forum-system' into development                          | 04/06/24           |  
+| OpenSourceSW53/officetech-backend  | development      | 41311a8            | Merge branch 'services-system' into development                       | 04/06/24           |
+| OpenSourceSW53/officetech-backend  | development      | d1cde55            | Merge branch 'payment-system' into development                        | 04/06/24           |
+| OpenSourceSW53/officetech-backend  | development      | 7c92f92            | Merge branch 'edit-skills-system' into development                    | 07/06/24           |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
@@ -1281,7 +1296,13 @@ Para el sprint 3 se ha presentado el back-end y se optó por varias herramientas
 - *GitHub*: Se utilizó para crear el repositorio del back-end, donde se subió el código fuente.
 - *Swagger*: Se utilizó para documentar la API RESTful.
 - *MySQL*: Se utilizó para la base de datos.
-[Colocar evidencias de la ejecución del sprint 3]
+<div style="display:flex;justify-content:center,align-items: center; width:100%">
+<img src="../assets/execution-evidence/services-api.PNG" alt="Swagger" style="width:100%;">
+</div>
+
+<div style="display:flex;justify-content:center,align-items: center; width:100%">
+<img src="../assets/execution-evidence/2.PNG" alt="Swagger" style="width:100%;">
+</div>
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 En este sprint 3 los miembros de TechConnect Solutions complementaron satisfactoriamente las tareas propuestas. El sprint 3 estuvo relacionado mayormente con el desarrollo del backend de la aplicacion. A lo largo del desarrollo se fueron realizando correcciones a errores dentro del codigo.
