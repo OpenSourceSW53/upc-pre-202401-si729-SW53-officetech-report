@@ -1,4 +1,4 @@
-<p align="center">
+<p>
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
     <strong>INGENIERÍA DE SISTEMAS DE SOFTWARE</strong><br>
@@ -45,10 +45,10 @@ Se consideró la Aplicación Web en un tercer repositorio de la misma organizaci
 
 # Student Outcome 3
 
-|Criterio Especifico| Acciones Realizadas                                                                                                                                                                                |Conclusiones|
-|-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| Marcelo Ramirez:<br> **TB1:** Durante el proyecto, aprendí a comunicar ideas complejas de forma clara y sencilla a distintas audiencias, lo que mejoró significativamente la colaboración y el interés en nuestro trabajo. Esta experiencia reforzó la importancia de adaptar mi comunicación a diferentes contextos, un aprendizaje valioso para mi futuro profesional. <br><br>Zaid Ramirez:<br>**TB1**: Durante la elaboración del proyecto, logré comunicar de manera efectiva los resultados y el proceso de nuestro proyecto, utilizando Lean UX como marco principal. También compartí los hallazgos esenciales obtenidos a través de nuestra investigación de UX, que permitió comprender a fondo las necesidades de los usuarios, identificar las tareas críticas y visualizar la experiencia completa del usuario con la aplicación.<br><br>Adrian Rubio:<br>**TB1**: Me desarrolle eficazmente en mis tareas designadas, apegándome a los horarios, reglas y plazos establecidos por el equipo. <br><br>Quique Jara:<br>**TB1**: Durante la elaboracion del proyecto logre comunicar todas mis ideas en las reuniones de equipo de manera clara. Asimismo, entreviste a un usuario potencial, al cual explique el motivo de la entrevista y la informacion que necesitaba recopilar. <br><br>Arian Rodriguez:<br>**TB1**: Me desarrollé adecuadamente en las tareas asignadas y mejoré algunas habilidades blandas como la comunicación con el equipo, además que se conoce mejor el proceso a desarrollar para posicionarlo desde diferentes perspectivas<br><br>Fabia Herrera:<br>**TB1:** Se realizaron varias reuniones grupales a fin de intercambiar propuestas para el óptimo desarrollo de nuestro proyecto. Asimismo, realizamos entrevistas mediante las cuales conseguimos insights valiosos para la creación de nuestra aplicación web.<br><br> Marcelo Ramirez:<br>**TP:** En esta parte del trabajo aprendi el uso de los componentes y como usarlos atraves de un router <br><br> Zaid Ramirez:<br>**TP:** En este entregable del trabajo parcial, me enfoque plantear las funciones de los componentes para que la aplicación realice las tareas propuestas. A su vez, me encargue de revisar los componentes y comunicar de manera efectiva con el equipo para cualquier cambio o corrección que se tuvieran que hacer en estos. <br><br>Adrián Rubio:<br>**TP:**  En este entregable del trabajo parcial, me enfoque en realizar mis componentes con las funciones para que la aplicación realice las tareas propuestas. A su vez, me encargue de probar el ruteo entre componentes y ayudar en el deployment del front-end <br><br>Vladimir Jara:<br>**TP:** En la entrega del trabajo parcial, después de realizar correcciones, mejoras y analisis de los componentes a hacer para el proyecto <br><br> Arian Rodriguez:<br>**TP:** En este entregable estuve enfocado en verificar los componentes del front-end, el enrutamiento y que todo este listo para el plazo <br><br>Fabia Herrera:<br>**TP:** Para esta entrega se realizaron reuniones en equipo para poder llegar a un consenso en el desarrollo de la aplicación web, así como plazos de entrega. <br><br>|Mediante la eficiencia, organización y el marco de trabajo establecido dentro del grupo logramos desarrollar nuestro primer entregable de manera correcta.|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| Marcelo Ramirez:<br> **TB1:** En mi rol dentro del proyecto, me esforcé por comunicar ideas y resultados de manera clara y objetiva. Mis contribuciones, desde informes hasta presentaciones, buscaban ser accesibles y comprensibles para todos, un desafío que me enseñó el valor de una comunicación efectiva en el ámbito académico. <br><br> Zaid Ramirez<br>**TB1:** Durante este proyecto, he  documentado adecuadamente el emprendimiento utilizando las herramientas apropiadas, con las convenciones de idioma, la estructura de nombres y prácticas de programación establecidos en los aspectos de la solución. Además, he llevado a cabo y documentado adecuadamente los procesos Lean UX, Design, Prototyping, etc., para la comunicación efectiva con diferentes rangos de audiencia.<br><br>Adrian Rubio:<br>**TB1**: Por medio de las herramientas colaborativas online logre aumentar mi capacidad de comunicación y trabajo en equipo. <br><br>Quique Jara:<br>**TB1**: Para el desarrollo de esta entega, redacte de manera el analisis de requerimientos para luego elaborar la base de datos del sietema y el diagrama de clases. <br><br>Arian Rodriguez:<br>**TB1**: Elaboré mis propuestas planteadas para el proyecto siguiendo el marco de la ingeniería de software, aplicando y viendo a futuro cómo se desenvolvería el proceso<br><br>Fabia Herrera:<br>**TB1:** La indagación realizada para este proyecto fue documentada y de gran ayuda para el modelado de nuestra solución, para esta entrega, me encargué de investigar sobre potenciales competidores, lo que nos resultó útil para aprender tanto de errores como de aciertos.<br><br> Marcelo Ramirez:<br>**TP:** Investigue y practice el uso de angular con el cual pueda trabajar para esta parte y mejorar mis concoicmientos <br><br> Zaid Ramirez:<br>**TP:** En la entrega del trabajo parcial, después de realizar correcciones, mejoras y analisis de los componentes a hacer para el proyecto, mantuve un enfoque en la creación de componentes con angular material. De la misma forma, investigue acerca de la api fake y enrutamiento para poder llevar a cabo el despliegue correcto de la aplicación. <br><br>Adrián Rubio:<br>**TP:** En la entrega actual del proyecto, me enfoqué exclusivamente en el desarrollo del frontend utilizando Angular. Implementé mis componentes copn los requisitos funcionales. Además, integré componentes de Angular Material para mejorar la estética y la funcionalidad de la aplicación, facilitando así la interacción del usuario final con nuestra plataforma. <br><br>Vladimir Jara:<br>**TP:** En la entrega del trabajo parcial, después de realizar correcciones, mejoras y analisis de los componentes a hacer para el proyecto <br><br>Arian Rodriguez:<br>**TP:** Investigué las diferentes soluciones que se iba a plantear en el front-end como asi mismo la elaboración de diferentes features <br><br>Fabia Herrera:<br>**TP:** Para esta entrega se aplicaron cambios menores al diseño de la aplicación que posteriormente implementé para el front-end de nuestra app. <br><br>                                                                                                                                                                                                        |Gracias a las herramientas colaborativas brindadas y las aplicaciones de comunicación logramos establecer fechas y límites para nuestros trabajos.|
+|Criterio Especifico| Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |Conclusiones|
+|-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| Marcelo Ramirez:<br> **TB1:** Durante el proyecto, aprendí a comunicar ideas complejas de forma clara y sencilla a distintas audiencias, lo que mejoró significativamente la colaboración y el interés en nuestro trabajo. Esta experiencia reforzó la importancia de adaptar mi comunicación a diferentes contextos, un aprendizaje valioso para mi futuro profesional. <br><br>Zaid Ramirez:<br>**TB1**: Durante la elaboración del proyecto, logré comunicar de manera efectiva los resultados y el proceso de nuestro proyecto, utilizando Lean UX como marco principal. También compartí los hallazgos esenciales obtenidos a través de nuestra investigación de UX, que permitió comprender a fondo las necesidades de los usuarios, identificar las tareas críticas y visualizar la experiencia completa del usuario con la aplicación.<br><br>Adrian Rubio:<br>**TB1**: Me desarrolle eficazmente en mis tareas designadas, apegándome a los horarios, reglas y plazos establecidos por el equipo. <br><br>Quique Jara:<br>**TB1**: Durante la elaboracion del proyecto logre comunicar todas mis ideas en las reuniones de equipo de manera clara. Asimismo, entreviste a un usuario potencial, al cual explique el motivo de la entrevista y la informacion que necesitaba recopilar. <br><br>Arian Rodriguez:<br>**TB1**: Me desarrollé adecuadamente en las tareas asignadas y mejoré algunas habilidades blandas como la comunicación con el equipo, además que se conoce mejor el proceso a desarrollar para posicionarlo desde diferentes perspectivas<br><br>Fabia Herrera:<br>**TB1:** Se realizaron varias reuniones grupales a fin de intercambiar propuestas para el óptimo desarrollo de nuestro proyecto. Asimismo, realizamos entrevistas mediante las cuales conseguimos insights valiosos para la creación de nuestra aplicación web.<br><br> Marcelo Ramirez:<br>**TP:** En esta parte del trabajo aprendi el uso de los componentes y como usarlos atraves de un router <br><br> Zaid Ramirez:<br>**TP:** En este entregable del trabajo parcial, me enfoque plantear las funciones de los componentes para que la aplicación realice las tareas propuestas. A su vez, me encargue de revisar los componentes y comunicar de manera efectiva con el equipo para cualquier cambio o corrección que se tuvieran que hacer en estos. <br><br>Adrián Rubio:<br>**TP:**  En este entregable del trabajo parcial, me enfoque en realizar mis componentes con las funciones para que la aplicación realice las tareas propuestas. A su vez, me encargue de probar el ruteo entre componentes y ayudar en el deployment del front-end <br><br>Vladimir Jara:<br> **TP:** En esta entrega puli conocimientos en el desarrollo productos web en angular de forma colaborativa utilizando componentes y angular material <br><br>Arian Rodriguez:<br>**TP:** En este entregable estuve enfocado en verificar los componentes del front-end, el enrutamiento y que todo este listo para el plazo <br><br>Fabia Herrera:<br>**TP:** Para esta entrega se realizaron reuniones en equipo para poder llegar a un consenso en el desarrollo de la aplicación web, así como plazos de entrega. <br><br>Adrián Rubio:<br>**TB2:** En esta entrega pude aplicar lo aprendido en clase en el diseño del backend con la estructura del domain driver desing, ya que este nos da orden y escalabilidad en el proyecto para que se pueda a completar todos los requerimientos para sastifacer las necesidades del cliente.<br><br>Vladimir Jara:<br>**TB2:** En este tercer entregable aplique lo aprendio sobre la creacion de un proyecto backend para obtner los endpoints que se implementaran en el front mas adelante <br><br>Zaid Ramirez:<br>**TB2:** En esta entrega pude aprender acerca de el comportamiento del backend en la aplicación y como se conecta con los requerimientos específicos del cliente. <br><br>Arian Rodriguez:<br>**TB2:** En esta entrega pude conocer más sobre los reales requerimientos que buscan los usuarios para la aplicación <br><br>Fabia Herrera<br>**TB2:** Gracias a las entrevistas con personas que pertenecen a nuestro público objetivo, pudimos recibir retroalimentación en cuanto a cómo y en qué mejorar del proyecto  <br><br>Marcelo Ramirez:<br>**TB2:** En este tercer entregabla aplique lo aprendio sobre la creacion de un proyecto backend para obtner los endpoints que se implementaran en el front mas adelante              |Mediante la eficiencia, organización y el marco de trabajo establecido dentro del grupo logramos desarrollar nuestro primer entregable de manera correcta.|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| Marcelo Ramirez:<br> **TB1:** En mi rol dentro del proyecto, me esforcé por comunicar ideas y resultados de manera clara y objetiva. Mis contribuciones, desde informes hasta presentaciones, buscaban ser accesibles y comprensibles para todos, un desafío que me enseñó el valor de una comunicación efectiva en el ámbito académico. <br><br> Zaid Ramirez<br>**TB1:** Durante este proyecto, he  documentado adecuadamente el emprendimiento utilizando las herramientas apropiadas, con las convenciones de idioma, la estructura de nombres y prácticas de programación establecidos en los aspectos de la solución. Además, he llevado a cabo y documentado adecuadamente los procesos Lean UX, Design, Prototyping, etc., para la comunicación efectiva con diferentes rangos de audiencia.<br><br>Adrian Rubio:<br>**TB1**: Por medio de las herramientas colaborativas online logre aumentar mi capacidad de comunicación y trabajo en equipo. <br><br>Quique Jara:<br>**TB1**: Para el desarrollo de esta entega, redacte de manera el analisis de requerimientos para luego elaborar la base de datos del sietema y el diagrama de clases.<br> **TP:** En esta entrega  <br><br>Arian Rodriguez:<br>**TB1**: Elaboré mis propuestas planteadas para el proyecto siguiendo el marco de la ingeniería de software, aplicando y viendo a futuro cómo se desenvolvería el proceso<br><br>Fabia Herrera:<br>**TB1:** La indagación realizada para este proyecto fue documentada y de gran ayuda para el modelado de nuestra solución, para esta entrega, me encargué de investigar sobre potenciales competidores, lo que nos resultó útil para aprender tanto de errores como de aciertos.<br><br> Marcelo Ramirez:<br>**TP:** Investigue y practice el uso de angular con el cual pueda trabajar para esta parte y mejorar mis concoicmientos <br><br> Zaid Ramirez:<br>**TP:** En la entrega del trabajo parcial, después de realizar correcciones, mejoras y analisis de los componentes a hacer para el proyecto, mantuve un enfoque en la creación de componentes con angular material. De la misma forma, investigue acerca de la api fake y enrutamiento para poder llevar a cabo el despliegue correcto de la aplicación. <br><br>Adrián Rubio:<br>**TP:** En la entrega actual del proyecto, me enfoqué exclusivamente en el desarrollo del frontend utilizando Angular. Implementé mis componentes copn los requisitos funcionales. Además, integré componentes de Angular Material para mejorar la estética y la funcionalidad de la aplicación, facilitando así la interacción del usuario final con nuestra plataforma. <br><br>Vladimir Jara:<br>**TP:** Para la entrega se realizaron correcciones y se implemento el apartado de editar perfil.Asimismo, para cada uno de los componentes utilizados se realizo su respectiva documentacion  <br><br>Arian Rodriguez:<br>**TP:** Investigué las diferentes soluciones que se iba a plantear en el front-end como asi mismo la elaboración de diferentes features <br><br>Fabia Herrera:<br>**TP:** Para esta entrega se aplicaron cambios menores al diseño de la aplicación que posteriormente implementé para el front-end de nuestra app.  <br><br>Adrián Rubio:<br>**TB2:** Para esta entrega, se desarrolló el sprint 3 de OfficeTech, lo cual consistio en la elaboracionde nuevas HU Para el desarrollo de la primera version del backend, se pusieron en práctica los conocimientos adquiridos en las clases.<br><br>Vladimir Jara:<br>**TB2:** En este tercer entregabla aplique lo aprendio sobre la creacion de un proyecto backend para obtner los endpoints que se implementaran en el front mas adelante <br><br>Zaid Ramirez:<br>**TB2:** <br> En este entregable pude aprender la elaboración del backend y la creación de una RESTful API. Pudiendo complacer los requerimientos de datos en el front <br><br>Arian Rodriguez:<br>**TB2:** En este entregable pude afianzar más mi lógica con el back-end<br><br>Fabia Herrera<br>**TB2:** Para esta entrega, se desarrolló el backend de OfficeTech, para lo cual se pusieron en práctica los conocimientos adquiridos durante la unidad. <br><br>Marcelo Ramirez:<br> **TB2:** Este entregable mejor mucho mis conocimientos en cuanto al tema del backend     |Gracias a las herramientas colaborativas brindadas y las aplicaciones de comunicación logramos establecer fechas y límites para nuestros trabajos.|
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
@@ -60,14 +60,14 @@ Además, utilizamos una variedad de métodos innovadores para resolver los probl
 - **Misión:** Nuestra misión es garantizar una experiencia óptima y agradable al usar la aplicación, garantizando la seguridad, confianza y preferencia del cliente.
 - **Visión:** Nos esforzamos por penetrar, establecernos y diferenciarnos en el mercado de soporte tecnológico dedicado, ganarnos la confianza del cliente y asegurar una posición sólida en el sector.
 #### 1.1.2. Perfiles de integrantes del equipo
-| Miembros del equipo                                                                                                                         | Codigo Estudiante | Carrera | Conocimientos / Habilidades              |
-|---------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-|------------------------------------------| 
-| Jara Benites, Quique Vladimir <br><img src="../assets/members-profile/Dmr.jpg" alt="Imagen del compañero" style="width:60%;">               | U202022365        |Ingenieria de software| Estoy cursando el quinto ciclo de Ingeniería de Software. Tengo experiencia con C++, Python y un poco de JavaScript. Me fascina cómo los datos afectan el comportamiento de las aplicaciones frontend. Me considero una persona responsable, comunicativa y siempre dispuesta a aprender. | 
-| Rodriguez Vargas, Arian Martin <br><img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">          | U202212096        |Ingenieria de software| Actualmente me encuentro aprendiendo las tecnologías de Angular, Vue para el desarrollo web, llevo un gran interés en el desarrollo del backend, creación de APIs, persona con bastante ganas de seguir aprendiendo y no quedarse con la duda. Los lenguajes de programación con las que más me relaciono son C++ y Python, me gusta la optimización y eficiencia en el código |
-| Ramirez Contreras, Zaid Valentino <br><img src="../assets/members-profile/Zado.png" alt="Imagen del compañer" style="width:60%">                | U202218472        |Ingenieria de software| Me encuentro cursando el quinto ciclo de la carrera de Ingeniería de Software. Tengo familiaridad con los lenguajes de C++, Python y un poco de Javascript. Me interesa la implementación de los datos en el comportamiento del frontend de la  aplicación. Me considero responsable, comunicativo y dispuesto a aprender |
-| Herrera Aguirre, Fabia Alejandra <br><img src="../assets/members-profile/pelufoto.png" alt="Imagen del compañero" style="width:60%">            | U202219422        |Ingenieria de software| Soy estudiante de ingeniería de Software en el quinto ciclo de mi carrera. Tengo interés en el manejo de datos a través del lenguaje SQL y tengo experiencia en programación con C++, Python y JavaScript. Me considero una persona creativa y responsable, valores que considero serán útiles para garantizar entregas óptimas para este proyecto. |
-| Ramirez Ramirez, Marcelo Sebstian <br><img src="../assets/members-profile/ramirez.jpeg" alt="Imagen del compañero" style="width:60%">           | U202210582        |Ingenieria de software| Estudiante de ingenieria de software que esta aprendiendo el uso de Angular y Vue decidido a dar lo mejor que pueda incluso si las cosas no me salen como esperaba |
-| Rubio Calixto, Adrian Gustavo <br><img src="../assets/members-profile/Adrian.png" alt="Imagen del compañero" style="width:60%">                 | U202017622        |Ingenieria de software| Soy Adrian, tengo 20 años. Elegí esta carrera ya que siempre se me dieron bien los cursos de computación y robótica en la primaria y secundaria. Creo que puedo aportar a mi grupo la confianza de siempre dar mi mejor esfuerzo para las tareas académicas. Creo que mis principales cualidades son la resiliencia, la empatía y los conocimientos en los lenguajes de C++,C#, Java, JavaScript, TypeScript python y en frameworks como vue y angular; así como el manejo de Android Studio.  |
+| Miembros del equipo                                                                                                                    | Codigo Estudiante | Carrera | Conocimientos / Habilidades                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|----------------------------------------------------------------------------------------------------------------------------------------|-------------------|-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+| Jara Benites, Quique Vladimir <br><img src="../assets/members-profile/Vladimir.png" alt="Imagen del compañero" style="width:60%;">     | U202022365        |Ingenieria de software| Estudiante de la carrera de ingenieria de software con conocimientos tecnicos en javascript, Vue, php y SQ. Asimismo, para el desarrollo en equipo cuento con habilidades como participacion comunicativa, creatividad, resolucion de problemas, adaptavilidad y toma de decisiones.                                                                                                                                                                                                          |
+| Rodriguez Vargas, Arian Martin <br><img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%"> | U202212096        |Ingenieria de software| Actualmente me encuentro aprendiendo las tecnologías de Angular, Vue para el desarrollo web, llevo un gran interés en el desarrollo del backend, creación de APIs, persona con bastante ganas de seguir aprendiendo y no quedarse con la duda. Los lenguajes de programación con las que más me relaciono son C++ y Python, me gusta la optimización y eficiencia en el código                                                                                                                |
+| Ramirez Contreras, Zaid Valentino <br><img src="../assets/members-profile/Zado.png" alt="Imagen del compañer" style="width:60%">       | U202218472        |Ingenieria de software| Me encuentro cursando el quinto ciclo de la carrera de Ingeniería de Software. Tengo familiaridad con los lenguajes de C++, Python y un poco de Javascript. Me interesa la implementación de los datos en el comportamiento del frontend de la  aplicación. Me considero responsable, comunicativo y dispuesto a aprender                                                                                                                                                                     |
+| Herrera Aguirre, Fabia Alejandra <br><img src="../assets/members-profile/pelufoto.png" alt="Imagen del compañero" style="width:60%">   | U202219422        |Ingenieria de software| Soy estudiante de ingeniería de Software en el quinto ciclo de mi carrera. Tengo interés en el manejo de datos a través del lenguaje SQL y tengo experiencia en programación con C++, Python y JavaScript. Me considero una persona creativa y responsable, valores que considero serán útiles para garantizar entregas óptimas para este proyecto.                                                                                                                                           |
+| Ramirez Ramirez, Marcelo Sebstian <br><img src="../assets/members-profile/ramirez.jpeg" alt="Imagen del compañero" style="width:60%">  | U202210582        |Ingenieria de software| Estudiante de ingenieria de software que esta aprendiendo el uso de Angular y Vue decidido a dar lo mejor que pueda incluso si las cosas no me salen como esperaba                                                                                                                                                                                                                                                                                                                            |
+| Rubio Calixto, Adrian Gustavo <br><img src="../assets/members-profile/Adrian.png" alt="Imagen del compañero" style="width:60%">        | U202017622        |Ingenieria de software| Soy Adrian, tengo 20 años. Elegí esta carrera ya que siempre se me dieron bien los cursos de computación y robótica en la primaria y secundaria. Creo que puedo aportar a mi grupo la confianza de siempre dar mi mejor esfuerzo para las tareas académicas. Creo que mis principales cualidades son la resiliencia, la empatía y los conocimientos en los lenguajes de C++,C#, Java, JavaScript, TypeScript python y en frameworks como vue y angular; así como el manejo de Android Studio. |
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
@@ -273,7 +273,6 @@ Jeff Gothelf menciona en su libro Lean UX que las soluciones son las ideas que s
 **Edad:** 37 años
 **Ocupación:** Ing. Informático a cargo de negocio de venta de dispositivos
 <img src="../assets/Entrevistas-IMG/Entrevista-Rusbel Bargas.PNG" alt="Entrevista Rusbel" style="width:80%;">
-<br>
 [Vídeo de entrevista](https://youtu.be/V9tZ0fQIMkE)
 Rusbel Bargas es un ingeniero informático que se encarga de un negocio de venta de dispositivos electrónicos. Nos comenta que uno de los mayores desafíos que enfrenta es el soporte técnico que debe brindar a sus clientes. Asegura que la mayoría de los problemas técnicos que enfrentan sus clientes son de naturaleza simple, pero que requieren de un técnico especializado para ser resueltos. Nos comenta que la mayoría de los clientes buscan una solución rápida y efectiva a sus problemas, por lo que es importante contar con un servicio de soporte técnico confiable y eficiente. Además, nos comenta que la mayoría de los clientes buscan una garantía en los productos que adquieren, por lo que es importante contar con un plan de soporte técnico que brinde garantía y soluciones a sus productos electrónicos vendidos. Rusbel nos comenta que estaría interesado en contratar un servicio como el de OfficeTech para garantizar la satisfacción de sus clientes y asegurar la calidad de los productos que vende. 
 
@@ -284,7 +283,6 @@ Rusbel Bargas es un ingeniero informático que se encarga de un negocio de venta
 **Edad:** 21 años
 **Ocupación:** Estudiante de Ingeniería de Sistemas, asistente de negocio a cargo de la venta de dispositivos electrónicos
 <img src="../assets/Entrevistas-IMG/Entrevista-Diego-Hernandez.PNG" alt="Entrevista Rusbel" style="width:80%;">
-<br>
 [Vídeo de entrevista](https://youtu.be/fbYutiYTEv4) <br>
 Diego Hernandez nos cuenta a detalle lo que él y su equipo debe enfrentar en su negocio de venta de dispositivos electrónicos. Nos comenta que uno de los mayores desafíos es el soporte técnico que se debe brindar a aquellos productos que son adquiridos por los clientes. Muchas veces el equipo de Diego no se da a basto con la cantidad de peticiones que llegan a diario para la reparación, soporte técnico. Asegura que una propuesta como la de OfficeTech sería lo ideal para contratar y asegurar la satisfacción de sus clientes, y así poder garantizar una buena garantía a sus productos.
 
@@ -295,7 +293,6 @@ Diego Hernandez nos cuenta a detalle lo que él y su equipo debe enfrentar en su
 **Edad:** 27 años
 **Ocupación:** Lider de soporte tecnico en Constructora 
 <img src="../assets/Entrevistas-IMG/Entrevista-Eduardo-Sanandres.png" alt="Entrevista Eduardo" style="width:80%;">
-<br>
 [Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202017622_upc_edu_pe/ETHUOnQL2zdCuxO9S4zB-W8B-ZMBnI3KvxzpmKd7Akiv0w?e=jrmaBo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) <br>
 Eduardo Sanandres, líder de soporte técnico, describe su trabajo diario y los retos que enfrenta al gestionar las demandas de servicio técnico de su empresa. Explica que los problemas varían significativamente, desde cuestiones menores hasta "super problemas" que requieren más tiempo del planificado para su resolución. Esta variabilidad provoca retrasos en los tiempos programados para solucionar las incidencias, afectando la efectividad del equipo.
 
@@ -313,7 +310,6 @@ En resumen, Eduardo necesita encontrar técnicos competentes que puedan garantiz
 **Edad:** 23 años 
 **Ocupación:** Soporte TI
 <img src="../assets/Entrevistas-IMG/Entrevista-David-Beltran.png" alt="Entrevista David" style="width:80%;">
-<br>
 [Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EY7BRcQrx45Mrb2tRIkgrysBhy1ufFoVMwb0PVwGjewMyQ?e=ZQK2eK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)<br>
 La entrevista fue realizada a David Beltrán, un técnico de reparación en el área de TI, que se encarga de dar soporte y mantenimiento a dispositivos de empresas. Beltrán menciona que uno de los mayores desafíos es atraer nuevos clientes, dada la competencia y la variedad de servicios que ofrecen empresas mas grandes y consolidadas. Utiliza principalmente LinkedIn, Instagram y Facebook como canales de comunicación para llegar a sus clientes potenciales. Sus servicios incluyen actualización de equipos de cómputo, reparaciones y soporte para sistemas remotos como Azure y AWS. Para abordar los problemas técnicos, Beltrán puede ofrecer servicios de manera remota o presencial dependiendo del problema. Varias veces tiene que trabajar bajo presion, pues las empresas le exigen que termine rapido. Maneja estas situaciones explicando el tiempo estimado que llevará resolver el problema y brindando justificaciones si es necesario. La entrevista concluyó con la posibilidad de requerir feedback en el futuro y agradecimientos mutuos.<br>
 
@@ -324,7 +320,6 @@ La entrevista fue realizada a David Beltrán, un técnico de reparación en el �
 **Edad:** 56 años 
 **Ocupación:** Ingeniero en sistemas
 <img src="../assets/Entrevistas-IMG/Entrevista-Victor Gutierrez.png" alt="Entrevista Victor" style="width:80%;">
-<br>
 [Vídeo de entrevista](https://youtu.be/zB6xWwz-veI)
 Victor es un ingeniero de sistemas que trabaja como tecnico tecnológico de dispositivos de uso personal. Nos comenta que su principal forma de alcanzar a nuevos clientes es a través del boca a boca, además que los principales desafíos son los costos de los programas para realizar su trabajo, como programas de control remoto, pueden ser caras y restringidas por pago. Generalmente para trabajar utiliza una plataforma propia de Windows, en su día a día los servicios que ofrece son mantenimiento de software y resolución de problemas del mismo como problemas con el sistema operativo o con aplicaciones como Office.
 
@@ -335,7 +330,7 @@ Victor es un ingeniero de sistemas que trabaja como tecnico tecnológico de disp
 **Nombre:** Daniel J. Mejía
 **Edad:** 27 años 
 **Ocupación:** Técnico en computación
-<img src="../assets/Entrevistas-IMG/Daniel Mejia Entrevista.png" alt="Entrevista Daniel Mejia" style="width:80%;"><br>
+<img src="../assets/Entrevistas-IMG/Daniel Mejia Entrevista.png" alt="Entrevista Daniel Mejia" style="width:80%;">
 [Vídeo de entrevista](https://youtu.be/9nTfJSeX9UY)
 
 Daniel es un técnico en computación que trabaja en Compupalace, nos comenta que su mayor desafío en este oficio es siempre mantenerse a la vanguardia de las nuevas tecnologías emergentes. Asimismo, reconoce que hay bastante competencia, por lo que es complicado que un cliente llegue a fidelizar con el servicio que ofrece. Normalmente atiende a sus clientes de forma presencial, pero según lo requiera, accede de forma remota a los dispositivos de estos. Sus principales medios de comunicación son las redes sociales, mediante las cuales también se promociona, así como por WhatsApp, por donde principalmente lo contactan sus clientes habituales.<br>
@@ -478,7 +473,7 @@ A través de las entrevistas realizadas que se obtuvieron datos ilustrativos. A 
 | EP03    | Comunicación y Notificaciones          | Como usuario, quiero recibir notificaciones oportunas y comunicarme de manera segura, para estar al tanto de oportunidades relevantes y poder intercambiar información de forma confiable. |
 | EP04    | Experiencia de Usuario en la Plataforma| Como usuario, quiero conocer las características y ventajas de OfficeTech mediante una guía introductoria y una presentación clara de la información, para sentirme confiado y entender rápidamente lo que ofrece la plataforma. |
 | EP05    | Acceso y Contacto Móvil                | Como usuario, quiero poder acceder a la plataforma y contactar a la empresa fácilmente desde mi dispositivo móvil, para hacer uso de los servicios en cualquier lugar y momento. |
-
+| EP06    | Fundamentos del Backend  | Como equipo de desarrollo, queremos establecer una base sólida para el backend, para asegurar la escalabilidad, seguridad, y eficiencia desde el principio. |
 **Historias de Usuario**
 
 | USER STORY ID | TITULO                                                                                | DESCRIPCION                                                                                                                                                                                                                                                                | CRITERIOS DE ACEPTACIÓN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | EPIC RELACIONADO |
@@ -510,8 +505,11 @@ A través de las entrevistas realizadas que se obtuvieron datos ilustrativos. A 
 | HU25          | Participación en el foro de consultas técnicas para técnicos                          | "Como técnico registrado en la comunidad de OfficeTech quiero responder preguntas en el foro de consultas técnicas para contribuir y darme a conocer en la comunidad."                                                                                                     | **Escenario 1: Técnico accede al foro de consultas técnicas**<br>Dado que el técnico está en la página principal de OfficeTech y ha iniciado sesión en su cuenta<br>Cuando hace clic en el botón "Foro"<br>Entonces debe ser redirigido a una página donde pueda responder preguntas y participar en la comunidad técnica.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | EP03             |
 | HU26          | Registro de servicios brindados para técnicos                                         | "Como técnico registrado en la comunidad de OfficeTech quiero ver una lista de servicios brindados con detalles y calificaciones para mantener un registro y recibir retroalimentación."                                                                                   | **Escenario 1: Técnico accede a la sección de servicios brindados**<br>Dado que el técnico está en la página principal de OfficeTech y ha iniciado sesión en su cuenta<br>Cuando navega a la sección de servicios brindados<br>Entonces debe ver una lista de servicios anteriores con detalles y calificaciones recibidas.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | EP02             |
 | HU27          | Gestión de perfil para técnicos                                                       | "Como técnico registrado en OfficeTech quiero acceder y modificar mi perfil para mantener actualizada mi información personal y profesional."                                                                                                                              | **Escenario 1: Técnico accede a la sección de perfil**<br>Dado que el técnico está en la página principal de OfficeTech y ha iniciado sesión en su cuenta<br>Cuando hace clic en el apartado "profile"<br>Entonces debe ver su información personal y un botón para editar el perfil                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | EP01             |
-
-
+| HU28          | Configuración Inicial del Servidor  | "Como desarrollador, quiero configurar el servidor backend para soportar todas las operaciones iniciales de la aplicación." | **Escenario 1:** Dado que el servidor backend es necesario para el inicio de operaciones, cuando el sistema es inicializado, entonces debe responder a solicitudes HTTP básicas sin errores. <br> **Escenario 2:** Dado que se requiere un servidor funcional, cuando el servidor falla en iniciar, entonces debe registrar el error adecuadamente y notificar al equipo de operaciones. | EP06             |
+| HU29          | Definición de Endpoints de API Básicos | "Como desarrollador, necesito definir endpoints de API iniciales que permitan operaciones CRUD básicas para usuarios y técnicos." | **Escenario 1:** Dado que los endpoints de API son esenciales para interactuar con la base de datos, cuando un cliente envía una solicitud CRUD, entonces el servidor debe procesarla y responder adecuadamente según la operación solicitada. <br> **Escenario 2:** Dado que es importante manejar errores, cuando una solicitud a un endpoint resulta en un error, entonces el servidor debe devolver un mensaje de error claro y registrar el incidente. | EP06             |
+| HU30          | Integración de Base de Datos        | "Como desarrollador, quiero integrar una base de datos con el backend para almacenar y recuperar datos de forma segura y eficiente." | **Escenario 1:** Dado que una base de datos operativa es crucial, cuando el backend intenta acceder a la base de datos para realizar una operación CRUD, entonces la operación debe completarse sin errores y los datos deben ser correctos y consistentes. <br> **Escenario 2:** Dado que la integridad de los datos es crítica, cuando hay una falla en la conexión con la base de datos, entonces el sistema debe intentar reconectar y alertar al administrador de la base de datos. | EP06             |
+| HU31          | Autenticación y Seguridad Básica    | "Como desarrollador, necesito implementar medidas de seguridad básicas para proteger los datos y las operaciones del backend." | **Escenario 1:** Dado que la seguridad de los datos es prioritaria, cuando un usuario intenta acceder al sistema, entonces debe autenticarse usando credenciales válidas, y sus datos deben estar cifrados durante la transmisión. <br> **Escenario 2:** Dado que la validación de la seguridad es esencial, cuando un ataque potencial es detectado, entonces el sistema debe bloquear el acceso del usuario sospechoso y alertar al equipo de seguridad. | EP06             |
+| HU32          | Configuración de Logging y Monitoreo | "Como desarrollador, quiero configurar sistemas de logging y monitoreo para el backend." | **Escenario 1:** Dado que la supervisión del sistema es esencial para su mantenimiento, cuando ocurre un evento significativo en el backend, entonces debe ser registrado adecuadamente y visible para el monitoreo en tiempo real. <br> **Escenario 2:** Dado que los problemas a menudo necesitan diagnósticos rápidos, cuando un problema de rendimiento es detectado, entonces el sistema debe ofrecer herramientas para identificar rápidamente la causa raíz y facilitar la resolución. | EP06             |
 
 ## 3.3. Impact Mapping.
 
@@ -549,7 +547,11 @@ A través de las entrevistas realizadas que se obtuvieron datos ilustrativos. A 
 | 25     | HU25          | Participación en el foro de consultas técnicas para técnicos | "Como técnico registrado en la comunidad de OfficeTech quiero responder preguntas en el foro de consultas técnicas para contribuir y darme a conocer en la comunidad." | 5  |
 | 26     | HU26          | Registro de servicios brindados para técnicos | "Como técnico registrado en la comunidad de OfficeTech quiero ver una lista de servicios brindados con detalles y calificaciones para mantener un registro y recibir retroalimentación." | 5  |
 | 27     | HU27          | Gestión de perfil para técnicos | "Como técnico registrado en OfficeTech quiero acceder y modificar mi perfil para mantener actualizada mi información personal y profesional." | 3  |
-
+| 28     | HU28          | Configuración Inicial del Servidor | "Como desarrollador, quiero configurar el servidor backend para soportar todas las operaciones iniciales de la aplicación." | 3 |
+| 29     | HU29          | Definición de Endpoints de API Básicos | "Como desarrollador, necesito definir endpoints de API iniciales que permitan operaciones CRUD básicas para usuarios y técnicos." | 5 |
+| 30     | HU30          | Integración de Base de Datos | "Como desarrollador, quiero integrar una base de datos con el backend para almacenar y recuperar datos de forma segura y eficiente." | 8 |
+| 31     | HU31          | Autenticación y Seguridad Básica | "Como desarrollador, necesito implementar medidas de seguridad básicas para proteger los datos y las operaciones del backend." | 5 |
+| 32     | HU32          | Configuración de Logging y Monitoreo | "Como desarrollador, quiero configurar sistemas de logging y monitoreo para el backend." | 3 |
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
@@ -584,8 +586,8 @@ La fuente que se utilizará para el texto, título y demás elementos para la ap
 #### SPACING
 Se definió usar un espaciado alto entre cada objeto, ya que con esto buscamos no saturar la vista del usuario y poder dar una aplicación más legible y amigable de usar.
 
-<center><img src="../assets/Style Guidelines/SPACING.png" alt="SPACING" style="width:60%; height:60%;">
-<br></br></center>
+<img src="../assets/Style Guidelines/SPACING.png" alt="SPACING" style="width:60%; height:60%;">
+<br></br>
 
 #### BRANDING  
 <center><img src="../assets/Web Style Guidelines/logo-officetech.png" alt="LOGO" style="width:10%"></center>
@@ -621,17 +623,17 @@ Estos son los iconos que usaremos para la sección de contacto del landing page.
 
 Estos son los iconos que usaremos para facilitar y decorar la navegación en la aplicación web.
 
-<center><img src="../assets/Web Style Guidelines/ICONS2.png" alt="ICONS2" style="width:60%; height:60%;"></center>
+<img src="../assets/Web Style Guidelines/ICONS2.png" alt="ICONS2" style="width:60%; height:60%;">
 
 #### Formularios
 Utilizaremos este diseño para lo que son los formularios y sus campos. También consideraremos sus posibles estados: deshabilitado, errado o correcto.
 
-<center><img src="../assets/Web Style Guidelines/FORMS.png" alt="FORMS" style="width:60%; height:60%;"></center>
+<img src="../assets/Web Style Guidelines/FORMS.png" alt="FORMS" style="width:60%; height:60%;">
 
 #### Avisos
 Utilizaremos este diseño para los avisos.
 
-<center><img src="../assets/Web Style Guidelines/ADVERTISEMENTS.png" alt="ADVERTISEMENTS" style="width:60%; height:60%;"></center>
+<img src="../assets/Web Style Guidelines/ADVERTISEMENTS.png" alt="ADVERTISEMENTS" style="width:60%; height:60%;">
 
 - **Amarillo:** El diseño de color de fondo amarillo se usará para advertirle de algún detalle al usuario.
 - **Rojo:** El diseño de color de fondo rojo se usará para notificarle al usuario de algún error que está cometiendo.
@@ -642,7 +644,7 @@ En todos estos mensajes de aviso le daremos la oportunidad al usuario a que pued
 #### Checkboxes, radio buttons, switch
 Utilizaremos este diseño para todos los checkboxes, radio buttons o switches, ya que es un diseño bastante interactivo y agradable a la vista.
 
-<center><img src="../assets/Web Style Guidelines/Checkboxes, radio buttons, switch.png" alt="Checkboxes, radio buttons, switch" style="width:60%; height:60%;"></center>
+<img src="../assets/Web Style Guidelines/Checkboxes, radio buttons, switch.png" alt="Checkboxes, radio buttons, switch" style="width:60%; height:60%;">
 
 #### Background
 
@@ -957,8 +959,15 @@ El manejo y organización del trabajo se llevaron a cabo mediante una organizaci
 Asimismo, para llevar a cabo un mejor control de cómo crear ramas y realizar cambios en el código fuente, se procedió a utilizar GitFlow.
 
 De este modo, se tenían 2 ramas principales: main y development.
-- main: En esta rama almacenaremos las versiones oficiales de nuestro repositorio que ya deben pasar a producción.
-- development: Esta rama se utilizará como rama de integración para las “feature” branches. Una vez alcance un estado estable y el equipo lo considere listo para ser lanzado, se unirá a la rama main.
+- Main: En esta rama almacenaremos las versiones oficiales de nuestro repositorio que ya deben pasar a producción.
+- Development: Esta rama se utilizará como rama de integración para las “feature” branches. Una vez alcance un estado estable y el equipo lo considere listo para ser lanzado, se unirá a la rama main.
+- Feature: En estas ramas estarán las funcionalidades necesarias para la aplicación. Estas ramas se crean a partir de la rama develop y se fusionan con la misma rama develop. Para la designación de los nombres en la rama feature se utilizará lo siguiente: palabra “feature” seguido de “/” y la funcionalidad designada.
+- Hotfix: Esta rama se utilizará para solucionar cualquier problema que se pueda presentar en la rama Main, después solucionar el problema se realizará un merge con la rama main y developer, después de su uso se eliminará la rama.
+- Release: En esta rama se realizan las diferentes pruebas para validar todas las funcionalidades desarrolladas. Una vez validado todo, esta rama pasará a la Main.
+
+Metodología de trabajo Git Flow: 
+
+<img src="../assets/gitflow.png" alt="gitflow diagram">
 
 #### Commit Conventions:
 El formato de nuestros commits sigue la estructura de los “Conventional Commits” en su versión 1.0.0 (https://www.conventionalcommits.org/en/v1.0.0/) con el objetivo de proporcionar una lectura sencilla de los mismos. Por ello seguimos el siguiente formato:
@@ -1075,7 +1084,7 @@ Las evidencias muestran como los integrantes realizaron diferentes commits para 
 
 # Sprint 2 
 #### 5.2.2.1. Sprint Planning 2.
-| Sprint # | Sprint 1     |
+| Sprint # | Sprint 2     |
 |--------------------------|------------------------------------------------------------------------------------------------|
 | **Sprint Planning Background**  |                                                                                                 |
 | Date                     | 2024-04-28                                                                                     |
@@ -1182,26 +1191,21 @@ En este sprint 2 los miembros de TechConnect Solutions complementaron satisfacto
 El sprint 2 estuvo relacionado mayormente con el diseño y desarrollo del front-end de la aplicacion. A lo largo del desarrollo se fueron realizando correcciones a errores dentro del codigo.
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
-Para alcanzar exitosamente los objetivos de este Sprint 2 el equipo tuvo que documentarse sobre las tecnologías que se iban a implementar. Es por ello que a continuación se detalla la documentación a la que se acudió:
-- Angular Material: Es un módulo de Angular que funciona como una capa de frontend para desarrollar aplicaciones de una manera rápida, fácil y visualmente atractiva. Contiene componentes de interfaz de usuario, lo que ayuda a diseñar una aplicación más estructurada.
-https://material.angular.io/
-- Angular: Es un framework para aplicaciones web desarrollado en TypeScript, de código abierto, mantenido por Google, que se utiliza para crear y mantener aplicaciones web de una sola página
-https://angular.io/   
-- WebStorm: Es un entorno de desarrollo que nos permitirá trabajar con JavaScript.
-https://www.jetbrains.com/es-es/webstorm/learn/
+Durante el desarrollo del sprint 2 tambien se realizo el despliegue del Front End de nuestro producto web. Este se realizo utilizando el servicio de Vercel.
+
 ### Despliegue del proyecto Front-End
 
 - Creacion de cuenta en Vercel con el nombre de nuestra organizacion<br>
   ![Create count Vercel](../assets/Software%20Deployment/create-count-vercel.png)
 
 - Instalar la linea de comandos de Vercel<br>
-![Create count Vercel](../assets/Software%20Deployment/install_npm_vercel.png)
+  ![Create count Vercel](../assets/Software%20Deployment/install-vercel.png)
 
 - Importamos nuestro proyecto Angular de GitHub y configuramos el despliegue<br>
 ![Create count Vercel](../assets/Software%20Deployment/configurate-vercel.png)
 
 - Una vez completado la configuracion, Vercel comenzara automaticamente el proceso de construccion y despliegue de la aplicacion web.<br>
-![Create count Vercel](../assets/Software%20Deployment/evidence-vercel-3.PNG)
+![Create count Vercel](../assets/Software%20Deployment/deploy-vercel-3.png)
 
 
 [URL del proyecto desplegado](https://officetech-frontend.vercel.app/start)
@@ -1213,6 +1217,367 @@ En el Sprint 2 se elaboraron diferentes features claves para el primer avance de
 ![Sprint review Team Collaboration Insights](../assets/Insights-Collaboration/commits.PNG)
 
 ![Sprint review Team Collaboration Insights](../assets/Insights-Collaboration/network-graph.PNG)
+
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3
+| Sprint # | Sprint 3     |
+|--------------------------|------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**  |                                                                                                 |
+| Date                     | 2024-05-25                                                                                     |
+| Time                     | 06:00 PM                                                                                    |
+| Location                 | REUNION VIRTUAL MEDIANTE DISCORD                                                                    |
+| Prepared By              | Jara Benites Quique Vladimir / Herrera Aguirre Fabia Alejandra / Rodriguez Vargas Arian Martin / Ramirez Ramirez Marcelo Sebastian / Ramirez Conteras Zaid Valentino / Rubio Calixto Adrian Gustavo                                                                   |
+| Attendees (to planning meeting) | Jara Benites Quique Vladimir / Herrera Aguirre Fabia Alejandra / Rodriguez Vargas Arian Martin / Ramirez Ramirez Marcelo Sebastian / Ramirez Conteras Zaid Valentino / Rubio Calixto Adrian Gustavo                       |
+| **Pre-Sprint Review Summary**      | Durante esta fase de preparación, hemos identificado las opearciones que se realizarán en el backend mediante la RESTful api, hemos definido las herramientas para el desarrollo y hemos establecido un protocolo de comunicación interna. También hemos realizado varias reuniones de planificación para determinar las prioridades del producto, crear un backlog y distribuir roles dentro del equipo. |
+| **Initial Sprint  Retrospective Summary** | En este tercer sprint se ha reflexionado acerca de las correcciones hechas en el sprint anterior por lo que se mejorará algunos de esos aspectos para mantener la mejora continua, además de planificar la RESTful api y el comportamiento del backend con la vista. |
+| **Sprint Goal & User Stories** |    |
+| Sprint 3 Goal             | El objetivo del sprint 3 es enfocarse en desarrollar el backend de nuestra aplicación web para que el front pueda realizar las transacciones de datos de nuestra base de datos con la vista y el usuario y este pueda interactuar con ello. |
+| Sprint 3 Velocity         | Basado en la capacidad del equipo y el rendimiento, la velocidad estimada para el tercer Sprint se establece en 24 Story Points. Esto se calcula tomando en cuenta las horas de trabajo disponibles del equipo, así como la complejidad y el esfuerzo estimado de las User Stories seleccionadas para este Sprint. |
+| Sum of Story Points       |  24 |
+#### 5.2.3.2. Sprint Backlog 3
+| User Story |  | Work-Item/Task |  |  |            |                                                      |
+|------------|----------------|----------------|--------------------------------|-----------|------------|------------------------------------------------------|
+| ID         | Title          | ID             | Title                          | Description                     | Estimation | Assigned To                                          | Status |
+| ID         | Title          | ID             | Title                          | Description                     | Estimation | Assigned To               | Status |
+| HU28       | Configuración Inicial del Servidor | W213a | Preparar el entorno del servidor | Preparación del entorno del servidor con las herramientas y software necesarios. | 1 hora  | Fabia Herrera Aguirre | Done   |
+| HU28       | Configuración Inicial del Servidor | W213b | Configurar parámetros del servidor | Establecimiento de parámetros de configuración del servidor para optimización del rendimiento. | 1 hora  | Fabia Herrera Aguirre | Done   |
+| HU28       | Configuración Inicial del Servidor | W213c | Verificar conectividad y rendimiento | Pruebas para asegurar la conectividad y rendimiento óptimos del servidor configurado. | 1 hora  | Fabia Herrera Aguirre | Done   |
+| HU29       | Definición de Endpoints de API Básicos | W214a | Diseñar la estructura de endpoints | Diseño de la estructura y rutas de los endpoints de la API. | 2 horas | Zaid Ramirez Contreras | Done   |
+| HU29       | Definición de Endpoints de API Básicos | W214b | Crear funciones lógicas de endpoints | Desarrollo de las funciones lógicas que serán ejecutadas al llamar a cada endpoint. | 2 horas | Zaid Ramirez Contreras | Done   |
+| HU29       | Definición de Endpoints de API Básicos | W214c | Testear los endpoints | Realización de pruebas para asegurar el correcto funcionamiento y seguridad de los endpoints. | 1 hora  | Zaid Ramirez Contreras | Done   |
+| HU30       | Integración de Base de Datos | W215a | Diseñar el esquema de la base de datos | Diseño del esquema de la base de datos para asegurar que las estructuras de datos soporten eficientemente las necesidades del negocio. | 2 horas | Adrian Rubio Calixto | Done   |
+| HU30       | Integración de Base de Datos | W215b | Implementar conexiones de base de datos | Implementación de las conexiones de base de datos en el backend para interactuar con la base de datos. | 2 horas | Arian Rodriguez Vargas | Done   |
+| HU30       | Integración de Base de Datos | W215c | Crear funciones CRUD para las entidades | Creación de funciones CRUD (Create, Read, Update, Delete) para gestionar las entidades principales en la base de datos. | 3 horas | Adrian Rubio Calixto | Done   |
+| HU30       | Integración de Base de Datos | W215d | Implementar pruebas de integración | Implementación de pruebas de integración para asegurar que las interacciones con la base de datos funcionan como se espera. | 1 hora | Arian Rodriguez Vargas | Done   |
+| HU31       | Autenticación y Seguridad Básica | W216a | Configurar protocolos de seguridad | Configuración de protocolos de seguridad como SSL/TLS para la protección de datos en tránsito. | 2 horas | Marcelo Ramirez Ramirez | Done   |
+| HU31       | Autenticación y Seguridad Básica | W216b | Implementar sistema de autenticación | Desarrollo e implementación de un sistema de autenticación basado en tokens o sesiones. | 2 horas | Marcelo Ramirez Ramirez | Done   |
+| HU31       | Autenticación y Seguridad Básica | W216c | Testear seguridad y autenticación | Realización de pruebas para validar la seguridad y la efectividad de la autenticación. | 1 hora  | Marcelo Ramirez Ramirez | Done   |
+| HU32       | Configuración de Logging y Monitoreo | W217a | Instalar herramientas de logging | Instalación y configuración de herramientas para el logging de actividades del sistema. | 1 hora  | Vladimir Jara Benites | Done   |
+| HU32       | Configuración de Logging y Monitoreo | W217b | Configurar monitoreo del sistema | Configuración de herramientas de monitoreo para supervisar el rendimiento y la estabilidad del sistema. | 1 hora  | Vladimir Jara Benites | Done   |
+| HU32       | Configuración de Logging y Monitoreo | W217c | Crear dashboards de monitoreo | Creación de dashboards para visualizar en tiempo real la información de logging y monitoreo. | 1 hora  | Vladimir Jara Benites | Done   |
+
+
+#### 5.2.3.3. Development Evidence for Sprint Review
+
+Para este segundo sprint se decidió trabajar en una rama distinta para cada feature y despues unirlo todo en develop. Cada miembro ha realizado un commit para posteriormente hacer merge.
+
+| Repository                         | Branch                | Commit ID      | Commit Message                                                          | Committed on(date) |
+|------------------------------------|-----------------------|----------------|-------------------------------------------------------------------------|--------------------|
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | 48a8f50d58077c8dacd258b6599af0029c054a89              | feat: skills to method add ls to db                                    | 05/06/24           |
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | 4842ac28b24c1b10b42740d39c9e4d15b42acf94              | update: added first & last name column                                 | 04/06/24           |
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | b25cc46038ff216ce7cf09ed61698c8c492bb585              | add: method to match the password                                      | 31/05/24           |
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | 3940c4e72fb8ad1d0790f6e68c09571246d92222              | feature: method to find by email                                       | 30/05/24           |
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | 2de32f79176bf924545c5325134d7ad6495a119f             | add: setting the dates creation                                        | 30/05/24           |
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | 5e8632ca7d96028672929681218489a223d45c4d             | fix: adding dates to table                                             | 30/05/24           |
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | 498881176c2257a0d2a8042a3244d4c4c8d0d5db             | Merge branch 'main' into user-auth-system                              | 30/05/24           |
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | d4dc1a780f99a4c91b2745af34e3d313ece9b47f             | update: new structure shared folder and swagger UI added               | 30/05/24           |
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | 1a1db28ade301830491c56b137e0db7ee7e4501d             | add: converting resource to entity and viceverse                       | 27/05/24           |
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | 0666dfb8499c73351f1f28708d07bd3060c33986             | feature: controller to authentication users                            | 27/05/24           |
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | bd472c51716daa26b02eca4ec5771d0a628dc05d             | add: repository to find by id                                          | 27/05/24           |
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | 749f0363483ba0271d548998466dd7edcb9fc8df             | add: command service                                                   | 27/05/24           |
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | de6bea747e61e1219cd2743e52b97e32178965dc             | add: creating command and validations                                  | 27/05/24           |
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | 82de6a98dd4fec6c4d1ff71e9129c604fcb5e1cf             | add: command service to save new user                                  | 27/05/24           |
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | a2f94a4514f159c38a1e2a1511a92be903de8686             | add: aggregate user auth                                               | 27/05/24           |
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | 1bdcfe415f2ea0653a8344824e3dcd7fcbb8543a             | first commit                                                           | 26/05/24           |
+| OpenSourceSW53/officetech-backend  | forum-system          | 194c8ddeb2ed2471af8803dee82544351a5bddd9                 | add: postId and createdAt                                              | 04/06/24           |
+| OpenSourceSW53/officetech-backend  | forum-system          | 4333bc1394e9cce6b6d79e163fb99428cfeb7bc4                 | feature: methods post and get to answers                               | 04/06/24           |
+| OpenSourceSW53/officetech-backend  | forum-system          | 9f86651339c03c33d742c0b68cb40e2c5c26a6eb                 | feature: method get to obtain all the posts and by id                  | 04/06/24           |
+| OpenSourceSW53/officetech-backend  | forum-system          | 845dd274d3343440dc4f87d4be879a7d3559c437                 | feature: endpoint to save new post of forum                            | 04/06/24           |
+| OpenSourceSW53/officetech-backend  | forum-system          | d4dc1a780f99a4c91b2745af34e3d313ece9b47f                 | update: new structure shared folder and swagger UI added               | 31/05/24           |
+| OpenSourceSW53/officetech-backend  | forum-system          | 1bdcfe415f2ea0653a8344824e3dcd7fcbb8543a                 | first commit                                                           | 30/05/24           |
+| OpenSourceSW53/officetech-backend  | payment-system        | 99bd36487e2376e5b1f219bcacdfe75f5f109062       | feat: method to add payment details to db                               | 04/06/24           |
+| OpenSourceSW53/officetech-backend  | payment-system        | 2cbdd5e28ca1228d6c6d1e0c8dae2ececc5dec03       | feat: added method to get if the payment method expiratory date has past| 04/06/24           |
+| OpenSourceSW53/officetech-backend  | payment-system        | 2cbdd5e28ca1228d6c6d1e0c8dae2ececc5dec03       | update: new structure shared folder and swagger UI added| 30/05/24           |
+| OpenSourceSW53/officetech-backend  | payment-system        | 2cbdd5e28ca1228d6c6d1e0c8dae2ececc5dec03       | first commit| 26/05/24           |
+| OpenSourceSW53/officetech-backend  | user-profile-system   | dbd177efbf6ce326d91ef096374273b6764d0159                 | feat: added repository ProfileRepository for persistence and ProfileResource | 07/06/24           |
+| OpenSourceSW53/officetech-backend  | user-profile-system   | cf77c48bcdf5ae9e3740067d76ddfe0a8ef03ffa                 | feat: added Controller edit profile ProfileController                  | 07/06/24           |
+| OpenSourceSW53/officetech-backend  | user-profile-system   | b1dc7467474c86f27ee55ef37417f997b064ca05                 | feat: added transform ProfileCommandFromResourceAssembler              | 07/06/24           |
+| OpenSourceSW53/officetech-backend  | user-profile-system   | 19a7e92e28f6c87e3621ed89c1d62c458ba4880f                 | feat: added service ProfileCommandService                              | 07/06/24           |
+| OpenSourceSW53/officetech-backend  | user-profile-system   | 12e284cbac05e12dd3e31d5feca0983d21cd183b                 | feat: added interface for service ProfileCommandService                | 07/06/24           |
+| OpenSourceSW53/officetech-backend  | user-profile-system   | a9ec3b6b14e5afad91444ece2b3419c52f424f72                 | feat: added aggregate profile                                          | 07/06/24           |
+| OpenSourceSW53/officetech-backend  | user-profile-system   | 5b1eb3a48fa86456edd30a89b7b8cbfaf5cac6fd                 | update: new structure shared folder and swagger UI added               | 30/05/24           |
+| OpenSourceSW53/officetech-backend  | user-profile-system   | 1bdcfe415f2ea0653a8344824e3dcd7fcbb8543a                 | first commit                                                           | 30/05/24           |
+| OpenSourceSW53/officetech-backend  | services-system       | 73f3acdaec907da247b0dddfbde9803f472a459c        | feat: method post to create new tech requirement                        | 02/06/24           |
+| OpenSourceSW53/officetech-backend  | services-system       | 4dd4ae71ef5c9d70d524be3313f9a135164e014c        | feat: methods put to edit the services                                  | 02/06/24           |
+| OpenSourceSW53/officetech-backend  | services-system       | 483ff146aa848ca7795dabad745ea75d6b7fad50        | feat: method get to obtain the services company                         | 02/06/24           |
+| OpenSourceSW53/officetech-backend  | services-system       | f99b7454ed28aa98a9175d5081523de634f7b48b        | feature: method get to obtain services of one technician                | 02/06/24           |
+| OpenSourceSW53/officetech-backend  | services-system       | 6a7a039714ffb7c0e5a4b703ece5f813d9d11b71        | feature: endpoint to obtain services by id                              | 03/06/24           |
+| OpenSourceSW53/officetech-backend  | services-system       | fd96ebe268f38ff568deac876c4365a6a0c316e0        | feat: endpoint to get services with technician information and ratings  | 04/06/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | 4842ac28b24c1b10b42740d39c9e4d15b42acf94                 | update: added first & last name column                                 | 04/06/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | b25cc46038ff216ce7cf09ed61698c8c492bb585                 | add: method to match the password                                      | 31/05/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | 3940c4e72fb8ad1d0790f6e68c09571246d92222                 | feature: method to find by email                                       | 30/05/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | 2de32f79176bf924545c5325134d7ad6495a119f                  | add: setting the dates creation                                        | 30/05/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | 5e8632ca7d96028672929681218489a223d45c4d                 | fix: adding dates to table                                             | 30/05/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | 498881176c2257a0d2a8042a3244d4c4c8d0d5db                 | Merge branch 'main' into user-auth-system                              | 30/05/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | d4dc1a780f99a4c91b2745af34e3d313ece9b47f                 | update: new structure shared folder and swagger UI added               | 30/05/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | 1a1db28ade301830491c56b137e0db7ee7e4501d                 | add: converting resource to entity and viceverse                       | 27/05/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | 0666dfb8499c73351f1f28708d07bd3060c33986                 | feature: controller to authentication users                            | 27/05/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | bd472c51716daa26b02eca4ec5771d0a628dc05d                 | add: repository to find by id                                          | 27/05/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | 749f0363483ba0271d548998466dd7edcb9fc8df                 | add: command service                                                   | 27/05/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | de6bea747e61e1219cd2743e52b97e32178965dc                 | add: creating command and validations                                  | 27/05/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | 82de6a98dd4fec6c4d1ff71e9129c604fcb5e1cf                 | add: command service to save new user                                  | 27/05/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | a2f94a4514f159c38a1e2a1511a92be903de8686                 | add: aggregate user auth                                               | 27/05/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | 1bdcfe415f2ea0653a8344824e3dcd7fcbb8543a                 | first commit                                                           | 26/05/24           |
+
+
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review 
+
+| Repository                         | Branch           | Commit ID | Commit Message                                                        | Committed on(date) |
+|------------------------------------|------------------|--|-----------------------------------------------------------------------|-------------------|
+| OpenSourceSW53/officetech-backend  | development           | 2a0885cda4d600de7a857b4743f879c79a55e519 | erase: config to deploy                                                | 07/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 7f51d13764d44f0be08ae862d04f8ee6f9b9aef2 | update: config to deploy                                               | 07/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 26d059428f1cdb037bb2e44990dc5e052881204f | update: minor changes                                                  | 07/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | a22dd7a0aad59851ae5f4ddf322071649b3d14cf | fix: connecting with the userauth entity services                      | 07/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | a22dd7a0aad59851ae5f4ddf322071649b3d14cf | update: adding cors and user info response                             | 07/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 21cc9b2b98647408eba57942b7d71971b70b4250 | fix: error messages personalized                                       | 02/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | a2560da8dcd0536d7f46c86c90202338b2f43ed1 | update: obtaining data user logged                                     | 06/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 7c92f92dd1d990a2dceb553015355f642758047e | Merge branch 'edit-skills-system' into development                     | 06/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 48a8f50d58077c8dacd258b6599af0029c054a89 | feat: skills to method add ls to db                                    | 06/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 4b502441612abfafcf092287a0ea5002a97d9a1c | add: minor changes                                                     | 05/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | d1cde552dfcb9c2e5fc4815dd923d3e4c6d89f37 | Merge branch 'payment-system' into development                         | 05/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 41311a80212b51726396647fe86799431ecdbb84 | Merge branch 'services-system' into development                        | 04/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 9f5e6081d3d8ab2a5ea6ce1dc49a381f91c9c3a6 | Merge branch 'forum-system' into development                           | 04/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 194c8ddeb2ed2471af8803dee82544351a5bddd9 | add: postId and createdAt                                              | 04/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 4333bc1394e9cce6b6d79e163fb99428cfeb7bc4 | feature: methods post and get to answers                               | 04/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 4333bc1394e9cce6b6d79e163fb99428cfeb7bc4 | feature: method get to obtain all the posts and by id                  | 04/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 845dd274d3343440dc4f87d4be879a7d3559c437 | feature: endpoint to save new post of forum                            | 04/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 99bd36487e2376e5b1f219bcacdfe75f5f109062 | feat: added method to get if the payment method expiratory date has past | 04/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 2cbdd5e28ca1228d6c6d1e0c8dae2ececc5dec03 | feat: method to add payment details to db                              | 04/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | fd96ebe268f38ff568deac876c4365a6a0c316e0 | feature: endpoint to get services with technician information and ratings | 04/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 4842ac28b24c1b10b42740d39c9e4d15b42acf94 | update: added first & last name column                                 | 04/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 6a7a039714ffb7c0e5a4b703ece5f813d9d11b71 | feature: endpoint to obtain services by id                             | 04/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 6574100905fadc0b733da8a13690f3bcad09f9ff | feature: method to obtain the user info                                | 02/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | f99b7454ed28aa98a9175d5081523de634f7b48b | feature: method get to obtain services of one technician               | 02/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 483ff146aa848ca7795dabad745ea75d6b7fad50 | feature: method get to obtain the services company                     | 02/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 4dd4ae71ef5c9d70d524be3313f9a135164e014c | feature: methods put to edit the services                              | 02/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 441a314a24f1500c495cb6e78c81f350bde80342 | add: date automatically created                                        | 02/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 73f3acdaec907da247b0dddfbde9803f472a459c | feature: method post to create new tech requirement                    | 02/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | b25cc46038ff216ce7cf09ed61698c8c492bb585 | add: method to match the password                                      | 31/05/24          |
+| OpenSourceSW53/officetech-backend  | development           | 3940c4e72fb8ad1d0790f6e68c09571246d92222 | feature: method to find by email                                       | 30/05/24          |
+| OpenSourceSW53/officetech-backend  | development           | 2de32f79176bf924545c5325134d7ad6495a119f | add: setting the dates creation                                        | 30/05/24          |
+| OpenSourceSW53/officetech-backend  | development           | 5e8632ca7d96028672929681218489a223d45c4d | fix: adding dates to table                                             | 30/05/24          |
+| OpenSourceSW53/officetech-backend  | development           | 498881176c2257a0d2a8042a3244d4c4c8d0d5db | Merge branch 'main' into user-auth-system                              | 30/05/24          |
+| OpenSourceSW53/officetech-backend  | development           | d4dc1a780f99a4c91b2745af34e3d313ece9b47f | update: new structure shared folder and swagger UI added               | 30/05/24          |
+| OpenSourceSW53/officetech-backend  | development           | 1a1db28ade301830491c56b137e0db7ee7e4501d | add: converting resource to entity and viceverse                       | 27/05/24          |
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+Para el sprint 3 se ha presentado el back-end y se optó por varias herramientas para su desarrollo:
+
+- *Git*: Se utilizó para el control de versiones del código fuente.
+- *GitFlow*: Se utilizó para ver el avance de los integrantes del equipo.
+- *GitHub*: Se utilizó para crear el repositorio del back-end, donde se subió el código fuente.
+- *Swagger*: Se utilizó para documentar la API RESTful.
+- *MySQL*: Se utilizó para la base de datos.
+<div style="display:flex;justify-content:center,align-items: center; width:100%">
+<img src="../assets/execution-evidence/services-api.PNG" alt="Swagger" style="width:100%;">
+</div>
+
+<div style="display:flex;justify-content:center,align-items: center; width:100%">
+<img src="../assets/execution-evidence/2.PNG" alt="Swagger" style="width:100%;">
+</div>
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+En este sprint 3 los miembros de TechConnect Solutions complementaron satisfactoriamente las tareas propuestas. El sprint 3 estuvo relacionado mayormente con el desarrollo del backend de la aplicacion. A lo largo del desarrollo se fueron realizando correcciones a errores dentro del codigo.
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+<div style="display:flex;justify-content:center; align-items: center; flex-direction: column;">
+<img src="../assets/deployment-evidence/sql-1.PNG" alt="" style="width:80%;">
+Se creó una base de datos flexible MySQL en los servicios de Azure para almacenar la información de los usuarios, servicios y foro.
+</div>
+
+<div style="display:flex;justify-content:center; align-items: center; flex-direction: column;">
+<img src="../assets/deployment-evidence/app-service-1.PNG" alt="" style="width:80%;">
+Creando un App Service para desplegar nuestro back-end Java en Azure
+</div>
+
+<div style="display:flex;justify-content:center; align-items: center; flex-direction: column;">
+<img src="../assets/deployment-evidence/app-service-2.PNG" alt="" style="width:80%;">
+</div>
+<br>
+
+<div style="display:flex;justify-content:center; align-items: center; flex-direction: column;">
+<img src="../assets/deployment-evidence/endpoints.PNG" alt="" style="width:80%;">
+</div>
+
+[Link endpoints OfficeTech desplegado](https://officetech.azurewebsites.net/swagger-ui/index.html#/)
+
+
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+En el Sprint 3 se elaboraron diferentes features claves para el desarrollo del backend. Para ello se crearon diferentes ramas para cada feature y se realizó un commit para luego hacer merge a la rama develop. Después de esto, se verificaba que no hubiera ningún conflicto y se procedía a hacer el merge final a la rama de producción main .
+![Sprint review Team Collaboration Insights](../assets/Insights-Collaboration/network-graphV3.PNG)
+
+## 5.3. Validation Interviews
+### 5.3.1. Diseño de Entrevistas
+Una vez terminada la parte visual de nuestra aplicación (FrontEnd) y conectada a los servicios web desplegados (BackEnd), se considera una segunda parte de entrevistas, en la cual se busca validar la experiencia de usuario y la funcionalidad de la aplicación. Para ello, se plantean las siguientes preguntas:
+
+**Preguntas generales:**
+
+1. ¿Cuál es su nombre? 
+2. ¿Qué edad tiene? 
+3. ¿A qué se dedica? 
+
+
+**Preguntas a empresas que necesitan soporte técnico:**
+1.	¿Qué opinion tiene con respecto al diseño?
+2.	¿Se le realiza de manera intituiva y fácil la aplicación?
+3.	¿Cómo se siente en la parte de navegación, le es fácil ir de una vista a otra?
+4.	¿Las vistas abarcan todo lo deseado para manejar sus servicios contratados?
+5.	¿Cuál cree que es el punto fuerte de la aplicación?
+6.	¿Cómo crees que te puede beneficiar la plataforma?
+7.	¿La aplicación contiene toda la información que se consulta a través de los diferentes botones?
+8.	¿Estaría dispuesto a suscribirse al plan de OfficeTech?
+
+   
+**Preguntas a profesionales en tecnología:**
+1.	¿Qué opinion tiene con respecto al diseño?
+2.	¿Se le realiza de manera intituiva y fácil la aplicación?
+3.	¿Cómo se siente en la parte de navegación, le es fácil ir de una vista a otra?
+4.	¿Las vistas abarcan todo lo deseado para manejar sus servicios disponibles para que las empresas lo puedan contratar?
+5.	¿Qué opinión tiene con respecto a subir uno de sus servicios en nuestra plataforma?
+6.	¿Cree que se hará fácil conseguir trabajo gracias a nuestra plataforma?
+7.	¿Qué opinión tiene con respecto a la sección de foro?
+8.	¿Estaría dispuesto a registrarse a OfficeTech?
+
+### 5.3.2. Registro de Entrevistas
+
+**Segmento 1: Clientes que requieren de un plan para soporte técnico que brinde garantía y soluciones a sus productos electrónicos**<br>
+**Entrevista 1 (realizada por Arian Rodriguez):**<br>
+**Nombre:** Diego Hernandez
+**Edad:** 21 años
+**Ocupación:** Estudiante de Ingeniería de Sistemas, asistente de negocio a cargo de la venta de dispositivos electrónicos
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/Entrevistas2-img/EntrevistaDiego.PNG" alt="Entrevista a Diego Hernandez" style="width:80%;">
+</div>
+
+
+[Vídeo de entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212096_upc_edu_pe/EZyQVZHFYLNLgMKMbGWppc8BgtjBDhK_rh24hoNXvxJ-2w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DDrRoh)
+Diego Hernandez es un muchacho que se encuentra trabajando en un pequeño negocio de reparaciones en Paruro asimismo este negocio se dedica a comercializar diferentes productos electrónicos. Diego nos comenta que le parece muy buen trabajo con respecto al diseño, es muy intuitivo y dinámico, le parece que la navegación es sencilla y rápida, le gusta la sección de foro ya que le permite interactuar con otros usuarios y resolver dudas, considera que la información contenida en la aplicación es clara y completa, le parece que la aplicación es beneficiosa para las empresas y los técnicos ya que facilita la contratación y prestación de servicios. Finalmente, Diego estaría dispuesto a registrarse en OfficeTech ya que considera que le brindará beneficios en su trabajo como asistente de negocio y estudiante de Ingeniería de Sistemas.
+<br><br>
+
+**Entrevista 2 (realizada por Adrian Rubio):**<br>
+**Nombre:** Eduardo Sanadres
+**Edad:** 23 años
+**Ocupación:** Estudiante de Ingeniería de Software, encargado del mantenimento dispositivos electrónicos en una constructora
+<div style="display:flex;justify-content:center">
+<img src="../assets/Entrevistas2-img/EntrevistaEduardo.png" alt="Entrevista a Eduardo" style="width:80%;">
+</div>
+
+[Vídeo de entrevista](https://youtu.be/PKdQYUZH5UA)
+
+Eduardo Sandres trabaja en el área de TI de una constructora y es responsable de las reparaciones de la empresa. Debido a la alta demanda, busca servicios técnicos externos que ofrezcan seguridad, calidad y eficacia. Le presentamos nuestra aplicación, que conecta técnicos de calidad con clientes. Después de una breve introducción y un tutorial sobre cómo registrarse y usar la aplicación, Eduardo quedó satisfecho y proporcionó feedback para mejorarla. Finalmente, comentó que estaría dispuesto a registrarse en Officetech, ya que ofrece soluciones a las necesidades actuales de su empresa.
+<br><br>
+
+**Entrevista 3 (realizada por Quique Jara):**<br>
+**Nombre:** Johan Diestra
+**Edad:** 27
+**Ocupación:** Supervisor de redes   
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/Entrevistas2-img/EntrevistaJohan.png" alt="Entrevista a Johan" style="width:80%;">
+</div>
+
+[Vídeo de entrevista](https://drive.google.com/file/d/1D3EozPE_7oRsJ8hkesfPWUEkhdWMeyi9/view?usp=sharing)
+
+Johan nos comenta que le agrada el diseño simple por su facilidad de uso y navegación. Considera que la sección de foro es un punto fuerte de la aplicación, ya que permite la interacción y resolución de dudas entre los usuarios. Por otro lado, menciona que la información contenida en la aplicación es clara y completa, lo que facilita la prestación de servicios. Johan estaría dispuesto a registrarse en OfficeTech, ya que considera que le brindará beneficios en su trabajo como supervisor de redes.
+<br><br>
+
+
+**Segmento 2: Técnicos especializados en reparación, mantenimiento y soporte técnico de productos electrónicos.** <br>
+**Entrevista 1 (realizada por Fabia Herrera):**<br>
+**Nombre:** Daniel J. Mejía
+**Edad:** 27 años 
+**Ocupación:** Técnico en computación
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/Entrevistas2-img/EntrevistaDaniel.png" alt="Entrevista a Daniel" style="width:80%;">
+</div>
+
+[Vídeo de entrevista](https://youtu.be/DuGI5BF8wwo)
+
+Dando respuesta a las preguntas, Daniel nos comenta que el diseño simple es algo que le agrada de la aplicación, ya que le permite navegar de manera rápida y sencilla. Además, considera que la sección de foro es un punto fuerte de la aplicación, ya que permite la interacción y resolución de dudas entre los usuarios. Por otro lado, menciona que la información contenida en la aplicación es clara y completa, lo que facilita la prestación de servicios. Finalmente, Daniel estaría dispuesto a registrarse en OfficeTech, ya que considera que le brindará beneficios en su trabajo como técnico en computación.
+<br><br>
+
+**Entrevista 2 (realizada por Zaid Ramirez):**<br>
+**Nombre:** Victor Gutierrez Huaman
+**Edad:** 56
+**Ocupación:** Técnico (Ingeniero en sistemas)
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/Entrevistas2-img/EntrevistaVictor.png" alt="Entrevista a Victor" style="width:80%;">
+</div>
+
+[Vídeo de entrevista](https://youtu.be/ur_Xw2-uwK4)
+
+Victor nos comenta que considera que la aplicación es intuitiva y facil de usar, del mismo modo presenta toda la información relevante para el técnico. Además considera que la presentación de la aplicación y los datos que muestra son el punto fuerte, ya que se muestra solamente la información importante y no sobrecarga visualmente al técnico pudiendo hacer que se pierda. Por otro lado, menciona que señala que falta una forma para poder filtrar los servicios por: cliente, fecha y status para que sea más facil de encontrar información especifica. A su vez sugiere que el foro debería ser un poco más específico y no abierto para todos para que los clientes no se confundad ya que no todos tienen las mismas soluciones a los problemas. Finalemnte, considera que la aplicación lo ayudaría bastante en su profesión y que si estaría dispuesto a suscribirse a este tipo de plataforma.
+<br><br>
+
+**Entrevista 3 (realizada por Marcelo Ramirez):**<br>
+**Nombre:** Issac Capillo
+**Edad:** 50
+**Ocupación:** Jefe de sistema de un instituto
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/Entrevistas2-img/Entrevista-Issac Capillo.PNG" alt="Entrevista a Issac" style="width:80%;">
+</div>
+
+[Vídeo de entrevista](https://youtu.be/5d-qHJZWJB8)
+
+Isaac ha comentado que el diseño de la interfaz del frontend le parece excelente y que la navegación es intuitiva y fácil de manejar. Además, destaca la excelente capacidad de respuesta de la aplicación. Considera que el punto fuerte de la aplicación radica en la gestión de los requerimientos de los usuarios, ya que se maneja de una manera simple y sencilla, lo cual también se aplica a la visualización de las respuestas.
+Isaac menciona que la información contenida en la aplicación es clara y completa, facilitando así la prestación de servicios.Isaac, quien es jefe de sistemas, está dispuesto a registrarse en OfficeTech. Está convencido de que la plataforma le proporcionará beneficios significativos que optimizarán su trabajo y le permitirán gestionar su equipo de manera más eficiente.
+<br><br>
+
+**Entrevista 4 (realizada por Quique Jara):**<br>
+**Nombre:** Nestor Velarde
+**Edad:** 28
+**Ocupación:** Especialista en soporte de TI
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/Entrevistas2-img/EntrevistaNestor.png" alt="Entrevista a Nestor" style="width:80%;">
+</div>
+
+[Vídeo de entrevista](https://drive.google.com/file/d/1osWnHvmQwr2_KDU9K2HA1F5SLtjS-J0n/view?usp=sharing)
+
+Nestor ha comentado que el diseño de la interfaz del frontend le parece que esta bien pero algo es un poco sosa por falta de elementos graficos. Con respecto a la navegacion comenta que es bastante intuitiva y fácil de manejar. Por otro lado, comenta que cumple con los requerimientos y que la aplicación proporciona una experiencia de usuario fluida.
+Comenta que seria interesante tener una funcionalidad para comunicarse directamente con otros expertos. 
+<br><br>
+
+### 5.3.3. Evaluaciones según heurísticas
+Con base a las diversas opiniones en las entrevistas realizadas, tanto clientes de empresas como técnicos afiliados se obtiene que:
+- La aplicación es intuitiva y fácil de usar.
+- La navegación es sencilla y permite ir de una vista a otra sin problemas.
+- Las vistas contienen toda la información necesaria para manejar los servicios contratados.
+- La aplicación es beneficiosa para las empresas y los técnicos, ya que facilita la contratación y prestación de servicios.
+- La sección de foro es un punto fuerte de la aplicación, ya que permite la interacción y resolución de dudas entre los usuarios.
+- La información contenida en la aplicación es clara y completa.
+- La mayoría de los entrevistados estarían dispuestos a suscribirse o registrarse en OfficeTech.
+
+Fue a través de las entrevistas realizadas que se obtuvieron datos ilustrativos. A continuación, se presentan gráficas realizadas a partir de los datos obtenidos.
+
+<center><img src="../assets/Entrevistas2-Graphics/graph1.png" alt="Grafico1" style="width:60%;"></center>
+<br>
+<center><img src="../assets/Entrevistas2-Graphics/graph2.png" alt="Grafico2" style="width:60%;"></center>
+<br>
+<center><img src="../assets/Entrevistas2-Graphics/graph3.png" alt="Grafico3" style="width:60%;"></center>
+
+
+
+
+## 5.4. Video About-the-Product
+Orientación promocional, resumiendo el modelo de negocio, las características y beneficios del producto
+[Link del Video](https://youtu.be/vyGsg9_Y_ZA)
+
+![Video About the Product](../assets/video-about-product.PNG)
+
+## 5.4. Video About-the-Team
+Presentación del equipo de TechConnect Solutions, resaltando las habilidades y roles de cada miembro
+[Link del Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212096_upc_edu_pe/EW72N8GA5qFHiyh4eePja_wByW0XtxUkr-UgBr76hTz1ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BxA2Xn)
+
+![Video About the team](../assets/video-about-team.PNG)
 
 # Conclusiones
 # Conclusiones y recomendaciones.
@@ -1337,11 +1702,8 @@ Pressman, R. S. (2014). Software engineering: A practitioner's approach (8th ed.
  <BR>
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EeX37xW92-lBkFtpVltxAEcByFcYFr6nPXwGySBtE4sULQ?e=gmgzTJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EeX37xW92-lBkFtpVltxAEcByFcYFr6nPXwGySBtE4sULQ?e=gmgzTJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-<br>
-
-**Video TP:** Presentación del proyecto y realización del segundo sprint<br>
-[https://upcedupe-my.sharepoint.com/:f:/g/personal/u202212096_upc_edu_pe/Ei5oE3eiaG5PhQMP4VCxYNoBKA_XNVkJkhsRCo1q8-g9Rw?e=tN3DYn](https://upcedupe-my.sharepoint.com/:f:/g/personal/u202212096_upc_edu_pe/Ei5oE3eiaG5PhQMP4VCxYNoBKA_XNVkJkhsRCo1q8-g9Rw?e=tN3DYn)
-
+**Video TB2:** Presentación del equipo, explicación del proyecto y tercer srpint<BR>
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218472_upc_edu_pe/EX5Nf8V3Tb9Jgwa4yMcAK_0BD7DuxY5UmyIL4M-4_TH0Rg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=DDtIXC](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218472_upc_edu_pe/EX5Nf8V3Tb9Jgwa4yMcAK_0BD7DuxY5UmyIL4M-4_TH0Rg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=DDtIXC)
 
 
 
