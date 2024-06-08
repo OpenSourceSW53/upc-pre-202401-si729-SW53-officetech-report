@@ -1261,35 +1261,105 @@ En el Sprint 2 se elaboraron diferentes features claves para el primer avance de
 
 Para este segundo sprint se decidió trabajar en una rama distinta para cada feature y despues unirlo todo en develop. Cada miembro ha realizado un commit para posteriormente hacer merge.
 
-| Repository                         | Branch                | Commit ID          | Commit Message                                                          | Committed on(date) |
-|------------------------------------|-----------------------|--------------------|-------------------------------------------------------------------------|--------------------|
-| OpenSourceSW53/officetech-backend  | edit-skill-system     | 48a8f50            | feat: skills to method add ls to db                                     | 05/06/24           |
-| OpenSourceSW53/officetech-backend  | forum-system          | 845dd27            | feature: endpoint to save new post of forum                             | 04/06/24           |
-| OpenSourceSW53/officetech-backend  | forum-system          | 9f86651            | feature: method get to obtain all the posts and by id                   | 04/06/24           |
-| OpenSourceSW53/officetech-backend  | forum-system          | 4333bc1            | feature: methods post and get to answers                                | 04/06/24           |
-| OpenSourceSW53/officetech-backend  | forum-system          | 194c8dd            | add: postId and createdAt                                               | 04/06/24           |
-| OpenSourceSW53/officetech-backend  | payment-system        | 2cbdd5e            | feat: method to add payment details to db                               | 04/06/24           |
-| OpenSourceSW53/officetech-backend  | payment-system        | 99bd364            | feat: added method to get if the payment method expiratory date has past| 04/06/24           |
-| OpenSourceSW53/officetech-backend  | services-system       | 73f3acd            | feat: method post to create new tech requirement                        | 02/06/24           |
-| OpenSourceSW53/officetech-backend  | services-system       | 4dd4ae7            | feat: methods put to edit the services                                  | 02/06/24           |
-| OpenSourceSW53/officetech-backend  | services-system       | 483ff14            | feat: method get to obtain the services company                         | 02/06/24           |
-| OpenSourceSW53/officetech-backend  | services-system       | f99b745            | feature: method get to obtain services of one technician                | 02/06/24           |
-| OpenSourceSW53/officetech-backend  | services-system       | 6a7a039            | feature: endpoint to obtain services by id                              | 03/06/24           |
-| OpenSourceSW53/officetech-backend  | services-system       | fd96ebe            | feat: endpoint to get services with technician information and ratings  | 04/06/24           |
-| OpenSourceSW53/officetech-backend  | user-auth-system      | a2f94a4            | add: aggregate user auth                                                | 24/05/24           |
-| OpenSourceSW53/officetech-backend  | user-auth-system      | 82de6a9            | add: command service to save new user                                   | 24/05/24           |
-| OpenSourceSW53/officetech-backend  | user-auth-system      | bd462c5            | add: repository to find by id                                           | 24/05/24           |
-| OpenSourceSW53/officetech-backend  | user-auth-system      | 3940c4e            | feat: method to find by email                                           | 31/05/24           |
-       
+| Repository                         | Branch                | Commit ID      | Commit Message                                                          | Committed on(date) |
+|------------------------------------|-----------------------|----------------|-------------------------------------------------------------------------|--------------------|
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | 48a8f50d58077c8dacd258b6599af0029c054a89              | feat: skills to method add ls to db                                    | 05/06/24           |
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | 4842ac28b24c1b10b42740d39c9e4d15b42acf94              | update: added first & last name column                                 | 04/06/24           |
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | b25cc46038ff216ce7cf09ed61698c8c492bb585              | add: method to match the password                                      | 31/05/24           |
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | 3940c4e72fb8ad1d0790f6e68c09571246d92222              | feature: method to find by email                                       | 30/05/24           |
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | 2de32f79176bf924545c5325134d7ad6495a119f             | add: setting the dates creation                                        | 30/05/24           |
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | 5e8632ca7d96028672929681218489a223d45c4d             | fix: adding dates to table                                             | 30/05/24           |
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | 498881176c2257a0d2a8042a3244d4c4c8d0d5db             | Merge branch 'main' into user-auth-system                              | 30/05/24           |
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | d4dc1a780f99a4c91b2745af34e3d313ece9b47f             | update: new structure shared folder and swagger UI added               | 30/05/24           |
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | 1a1db28ade301830491c56b137e0db7ee7e4501d             | add: converting resource to entity and viceverse                       | 27/05/24           |
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | 0666dfb8499c73351f1f28708d07bd3060c33986             | feature: controller to authentication users                            | 27/05/24           |
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | bd472c51716daa26b02eca4ec5771d0a628dc05d             | add: repository to find by id                                          | 27/05/24           |
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | 749f0363483ba0271d548998466dd7edcb9fc8df             | add: command service                                                   | 27/05/24           |
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | de6bea747e61e1219cd2743e52b97e32178965dc             | add: creating command and validations                                  | 27/05/24           |
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | 82de6a98dd4fec6c4d1ff71e9129c604fcb5e1cf             | add: command service to save new user                                  | 27/05/24           |
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | a2f94a4514f159c38a1e2a1511a92be903de8686             | add: aggregate user auth                                               | 27/05/24           |
+| OpenSourceSW53/officetech-backend  | edit-skill-system     | 1bdcfe415f2ea0653a8344824e3dcd7fcbb8543a             | first commit                                                           | 26/05/24           |
+| OpenSourceSW53/officetech-backend  | forum-system          | 194c8ddeb2ed2471af8803dee82544351a5bddd9                 | add: postId and createdAt                                              | 04/06/24           |
+| OpenSourceSW53/officetech-backend  | forum-system          | 4333bc1394e9cce6b6d79e163fb99428cfeb7bc4                 | feature: methods post and get to answers                               | 04/06/24           |
+| OpenSourceSW53/officetech-backend  | forum-system          | 9f86651339c03c33d742c0b68cb40e2c5c26a6eb                 | feature: method get to obtain all the posts and by id                  | 04/06/24           |
+| OpenSourceSW53/officetech-backend  | forum-system          | 845dd274d3343440dc4f87d4be879a7d3559c437                 | feature: endpoint to save new post of forum                            | 04/06/24           |
+| OpenSourceSW53/officetech-backend  | forum-system          | d4dc1a780f99a4c91b2745af34e3d313ece9b47f                 | update: new structure shared folder and swagger UI added               | 31/05/24           |
+| OpenSourceSW53/officetech-backend  | forum-system          | 1bdcfe415f2ea0653a8344824e3dcd7fcbb8543a                 | first commit                                                           | 30/05/24           |
+| OpenSourceSW53/officetech-backend  | payment-system        | 99bd36487e2376e5b1f219bcacdfe75f5f109062       | feat: method to add payment details to db                               | 04/06/24           |
+| OpenSourceSW53/officetech-backend  | payment-system        | 2cbdd5e28ca1228d6c6d1e0c8dae2ececc5dec03       | feat: added method to get if the payment method expiratory date has past| 04/06/24           |
+| OpenSourceSW53/officetech-backend  | payment-system        | 2cbdd5e28ca1228d6c6d1e0c8dae2ececc5dec03       | update: new structure shared folder and swagger UI added| 30/05/24           |
+| OpenSourceSW53/officetech-backend  | payment-system        | 2cbdd5e28ca1228d6c6d1e0c8dae2ececc5dec03       | first commit| 26/05/24           |
+| OpenSourceSW53/officetech-backend  | user-profile-system   | dbd177efbf6ce326d91ef096374273b6764d0159                 | feat: added repository ProfileRepository for persistence and ProfileResource | 07/06/24           |
+| OpenSourceSW53/officetech-backend  | user-profile-system   | cf77c48bcdf5ae9e3740067d76ddfe0a8ef03ffa                 | feat: added Controller edit profile ProfileController                  | 07/06/24           |
+| OpenSourceSW53/officetech-backend  | user-profile-system   | b1dc7467474c86f27ee55ef37417f997b064ca05                 | feat: added transform ProfileCommandFromResourceAssembler              | 07/06/24           |
+| OpenSourceSW53/officetech-backend  | user-profile-system   | 19a7e92e28f6c87e3621ed89c1d62c458ba4880f                 | feat: added service ProfileCommandService                              | 07/06/24           |
+| OpenSourceSW53/officetech-backend  | user-profile-system   | 12e284cbac05e12dd3e31d5feca0983d21cd183b                 | feat: added interface for service ProfileCommandService                | 07/06/24           |
+| OpenSourceSW53/officetech-backend  | user-profile-system   | a9ec3b6b14e5afad91444ece2b3419c52f424f72                 | feat: added aggregate profile                                          | 07/06/24           |
+| OpenSourceSW53/officetech-backend  | user-profile-system   | 5b1eb3a48fa86456edd30a89b7b8cbfaf5cac6fd                 | update: new structure shared folder and swagger UI added               | 30/05/24           |
+| OpenSourceSW53/officetech-backend  | user-profile-system   | 1bdcfe415f2ea0653a8344824e3dcd7fcbb8543a                 | first commit                                                           | 30/05/24           |
+| OpenSourceSW53/officetech-backend  | services-system       | 73f3acdaec907da247b0dddfbde9803f472a459c        | feat: method post to create new tech requirement                        | 02/06/24           |
+| OpenSourceSW53/officetech-backend  | services-system       | 4dd4ae71ef5c9d70d524be3313f9a135164e014c        | feat: methods put to edit the services                                  | 02/06/24           |
+| OpenSourceSW53/officetech-backend  | services-system       | 483ff146aa848ca7795dabad745ea75d6b7fad50        | feat: method get to obtain the services company                         | 02/06/24           |
+| OpenSourceSW53/officetech-backend  | services-system       | f99b7454ed28aa98a9175d5081523de634f7b48b        | feature: method get to obtain services of one technician                | 02/06/24           |
+| OpenSourceSW53/officetech-backend  | services-system       | 6a7a039714ffb7c0e5a4b703ece5f813d9d11b71        | feature: endpoint to obtain services by id                              | 03/06/24           |
+| OpenSourceSW53/officetech-backend  | services-system       | fd96ebe268f38ff568deac876c4365a6a0c316e0        | feat: endpoint to get services with technician information and ratings  | 04/06/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | 4842ac28b24c1b10b42740d39c9e4d15b42acf94                 | update: added first & last name column                                 | 04/06/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | b25cc46038ff216ce7cf09ed61698c8c492bb585                 | add: method to match the password                                      | 31/05/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | 3940c4e72fb8ad1d0790f6e68c09571246d92222                 | feature: method to find by email                                       | 30/05/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | 2de32f79176bf924545c5325134d7ad6495a119f                  | add: setting the dates creation                                        | 30/05/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | 5e8632ca7d96028672929681218489a223d45c4d                 | fix: adding dates to table                                             | 30/05/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | 498881176c2257a0d2a8042a3244d4c4c8d0d5db                 | Merge branch 'main' into user-auth-system                              | 30/05/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | d4dc1a780f99a4c91b2745af34e3d313ece9b47f                 | update: new structure shared folder and swagger UI added               | 30/05/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | 1a1db28ade301830491c56b137e0db7ee7e4501d                 | add: converting resource to entity and viceverse                       | 27/05/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | 0666dfb8499c73351f1f28708d07bd3060c33986                 | feature: controller to authentication users                            | 27/05/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | bd472c51716daa26b02eca4ec5771d0a628dc05d                 | add: repository to find by id                                          | 27/05/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | 749f0363483ba0271d548998466dd7edcb9fc8df                 | add: command service                                                   | 27/05/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | de6bea747e61e1219cd2743e52b97e32178965dc                 | add: creating command and validations                                  | 27/05/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | 82de6a98dd4fec6c4d1ff71e9129c604fcb5e1cf                 | add: command service to save new user                                  | 27/05/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | a2f94a4514f159c38a1e2a1511a92be903de8686                 | add: aggregate user auth                                               | 27/05/24           |
+| OpenSourceSW53/officetech-backend  | user-auth-system      | 1bdcfe415f2ea0653a8344824e3dcd7fcbb8543a                 | first commit                                                           | 26/05/24           |
+
+
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review 
 
-| Repository                         | Branch           | Commit ID          | Commit Message                                                        | Committed on(date) |
-|------------------------------------|------------------|--------------------|-----------------------------------------------------------------------|--------------------|
-| OpenSourceSW53/officetech-backend  | development      | 9f5e608            | Merge branch 'forum-system' into development                          | 04/06/24           |  
-| OpenSourceSW53/officetech-backend  | development      | 41311a8            | Merge branch 'services-system' into development                       | 04/06/24           |
-| OpenSourceSW53/officetech-backend  | development      | d1cde55            | Merge branch 'payment-system' into development                        | 04/06/24           |
-| OpenSourceSW53/officetech-backend  | development      | 7c92f92            | Merge branch 'edit-skills-system' into development                    | 07/06/24           |
+| Repository                         | Branch           | Commit ID | Commit Message                                                        | Committed on(date) |
+|------------------------------------|------------------|--|-----------------------------------------------------------------------|-------------------|
+| OpenSourceSW53/officetech-backend  | development           | 2a0885cda4d600de7a857b4743f879c79a55e519 | erase: config to deploy                                                | 07/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 7f51d13764d44f0be08ae862d04f8ee6f9b9aef2 | update: config to deploy                                               | 07/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 26d059428f1cdb037bb2e44990dc5e052881204f | update: minor changes                                                  | 07/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | a22dd7a0aad59851ae5f4ddf322071649b3d14cf | fix: connecting with the userauth entity services                      | 07/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | a22dd7a0aad59851ae5f4ddf322071649b3d14cf | update: adding cors and user info response                             | 07/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 21cc9b2b98647408eba57942b7d71971b70b4250 | fix: error messages personalized                                       | 02/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | a2560da8dcd0536d7f46c86c90202338b2f43ed1 | update: obtaining data user logged                                     | 06/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 7c92f92dd1d990a2dceb553015355f642758047e | Merge branch 'edit-skills-system' into development                     | 06/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 48a8f50d58077c8dacd258b6599af0029c054a89 | feat: skills to method add ls to db                                    | 06/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 4b502441612abfafcf092287a0ea5002a97d9a1c | add: minor changes                                                     | 05/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | d1cde552dfcb9c2e5fc4815dd923d3e4c6d89f37 | Merge branch 'payment-system' into development                         | 05/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 41311a80212b51726396647fe86799431ecdbb84 | Merge branch 'services-system' into development                        | 04/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 9f5e6081d3d8ab2a5ea6ce1dc49a381f91c9c3a6 | Merge branch 'forum-system' into development                           | 04/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 194c8ddeb2ed2471af8803dee82544351a5bddd9 | add: postId and createdAt                                              | 04/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 4333bc1394e9cce6b6d79e163fb99428cfeb7bc4 | feature: methods post and get to answers                               | 04/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 4333bc1394e9cce6b6d79e163fb99428cfeb7bc4 | feature: method get to obtain all the posts and by id                  | 04/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 845dd274d3343440dc4f87d4be879a7d3559c437 | feature: endpoint to save new post of forum                            | 04/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 99bd36487e2376e5b1f219bcacdfe75f5f109062 | feat: added method to get if the payment method expiratory date has past | 04/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 2cbdd5e28ca1228d6c6d1e0c8dae2ececc5dec03 | feat: method to add payment details to db                              | 04/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | fd96ebe268f38ff568deac876c4365a6a0c316e0 | feature: endpoint to get services with technician information and ratings | 04/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 4842ac28b24c1b10b42740d39c9e4d15b42acf94 | update: added first & last name column                                 | 04/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 6a7a039714ffb7c0e5a4b703ece5f813d9d11b71 | feature: endpoint to obtain services by id                             | 04/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 6574100905fadc0b733da8a13690f3bcad09f9ff | feature: method to obtain the user info                                | 02/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | f99b7454ed28aa98a9175d5081523de634f7b48b | feature: method get to obtain services of one technician               | 02/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 483ff146aa848ca7795dabad745ea75d6b7fad50 | feature: method get to obtain the services company                     | 02/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 4dd4ae71ef5c9d70d524be3313f9a135164e014c | feature: methods put to edit the services                              | 02/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 441a314a24f1500c495cb6e78c81f350bde80342 | add: date automatically created                                        | 02/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | 73f3acdaec907da247b0dddfbde9803f472a459c | feature: method post to create new tech requirement                    | 02/06/24          |
+| OpenSourceSW53/officetech-backend  | development           | b25cc46038ff216ce7cf09ed61698c8c492bb585 | add: method to match the password                                      | 31/05/24          |
+| OpenSourceSW53/officetech-backend  | development           | 3940c4e72fb8ad1d0790f6e68c09571246d92222 | feature: method to find by email                                       | 30/05/24          |
+| OpenSourceSW53/officetech-backend  | development           | 2de32f79176bf924545c5325134d7ad6495a119f | add: setting the dates creation                                        | 30/05/24          |
+| OpenSourceSW53/officetech-backend  | development           | 5e8632ca7d96028672929681218489a223d45c4d | fix: adding dates to table                                             | 30/05/24          |
+| OpenSourceSW53/officetech-backend  | development           | 498881176c2257a0d2a8042a3244d4c4c8d0d5db | Merge branch 'main' into user-auth-system                              | 30/05/24          |
+| OpenSourceSW53/officetech-backend  | development           | d4dc1a780f99a4c91b2745af34e3d313ece9b47f | update: new structure shared folder and swagger UI added               | 30/05/24          |
+| OpenSourceSW53/officetech-backend  | development           | 1a1db28ade301830491c56b137e0db7ee7e4501d | add: converting resource to entity and viceverse                       | 27/05/24          |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
