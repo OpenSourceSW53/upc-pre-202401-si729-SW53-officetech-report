@@ -1485,6 +1485,18 @@ Con base a las diversas opiniones en las entrevistas realizadas, tanto clientes 
 - La sección de foro es un punto fuerte de la aplicación, ya que permite la interacción y resolución de dudas entre los usuarios.
 - La información contenida en la aplicación es clara y completa.
 - La mayoría de los entrevistados estarían dispuestos a suscribirse o registrarse en OfficeTech.
+
+Fue a través de las entrevistas realizadas que se obtuvieron datos ilustrativos. A continuación, se presentan gráficas realizadas a partir de los datos obtenidos.
+
+<center><img src="../assets/Entrevistas2-Graphics/graph1.png" alt="Grafico1" style="width:60%;"></center>
+<br>
+<center><img src="../assets/Entrevistas2-Graphics/graph2.png" alt="Grafico2" style="width:60%;"></center>
+<br>
+<center><img src="../assets/Entrevistas2-Graphics/graph3.png" alt="Grafico3" style="width:60%;"></center>
+
+
+
+
 ## 5.4. Video About-the-Product
 Orientación promocional, resumiendo el modelo de negocio, las características y beneficios del producto
 [Link del Video](https://youtu.be/vyGsg9_Y_ZA)
