@@ -42,6 +42,8 @@ Se consideró la Landing Page en otro repositorio de la misma organización: [UR
 
 Se consideró la Aplicación Web en un tercer repositorio de la misma organización: [URL de la Aplicación Web](https://github.com/OpenSourceSW53/officetech-frontend.git)
 
+Se consideró el Backend en un cuarto repositorio de la misma organización: [URL del Backend](https://github.com/OpenSourceSW53/officetech-backend.git)
+
 
 # Student Outcome 3
 
