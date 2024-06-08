@@ -1248,9 +1248,23 @@ En el Sprint 2 se elaboraron diferentes features claves para el primer avance de
 #### 5.2.3.3. Development Evidence for Sprint Review
 
 Para este segundo sprint se decidió trabajar en una rama distinta para cada feature y despues unirlo todo en develop. Cada miembro ha realizado un commit para posteriormente hacer merge.
-| Repository                         | Branch                     | Commit ID          | Commit Message                                                        | Committed on(date) |
-|------------------------------------|----------------------------|--------------------|-----------------------------------------------------------------------|--------------------|
-| OpenSourceSW53/officetech-frontend | feature/edit-skills-system           | 710be4e            | feat: comments components                                             | 25/04/24  |         
+
+| Repository                        | Branch                     | Commit ID                                | Commit Message | Commited on(date) |
+|-----------------------------------|----------------------------|------------------------------------------|----------------|-------------------|
+| OpenSourceSW53/officetech-backend | feature/edit-skills-system | 1bdcfe415f2ea0653a8344824e3dcd7fcbb8543a | First commit | 26/04/24          |
+| OpenSourceSW53/officetech-backend | feature/edit-skills-system | a2f94a4514f159c38a1e2a1511a92be903de8686 | add: aggregate user auth | 27/04/24          |
+| OpenSourceSW53/officetech-backend | feature/edit-skills-system | 82de6a98dd4fec6c4d1ff71e9129c604fcb5e1cf | add: command service to save new user | 27/04/24          |
+| OpenSourceSW53/officetech-backend | feature/edit-skills-system | de6bea747e61e1219cd2743e52b97e32178965dc | add: creating command and validations | 27/04/24          |
+| OpenSourceSW53/officetech-backend | feature/edit-skills-system | 749f0363483ba0271d548998466dd7edcb9fc8df | add: command service | 27/04/24          |
+| OpenSourceSW53/officetech-backend | feature/edit-skills-system | bd472c51716daa26b02eca4ec5771d0a628dc05d | add: repository to find by id | 27/04/24          |
+| OpenSourceSW53/officetech-backend | feature/edit-skills-system | 0666dfb8499c73351f1f28708d07bd3060c33986 | feature: controller to authentication users | 27/04/24          |
+| OpenSourceSW53/officetech-backend | feature/edit-skills-system | 1a1db28ade301830491c56b137e0db7ee7e4501d | add: converting resource to entity and viceverse | 27/04/24          |
+| OpenSourceSW53/officetech-backend | feature/edit-skills-system | eeeeeeeeeeeee                            | First commit | 26/04/24          |
+| OpenSourceSW53/officetech-backend | feature/forum-system       | 1bdcfe415f2ea0653a8344824e3dcd7fcbb8543a | First commit | 26/04/24          |
+| OpenSourceSW53/officetech-backend | feature/payment-system     | 1bdcfe415f2ea0653a8344824e3dcd7fcbb8543a | First commit | 26/04/24          |
+| OpenSourceSW53/officetech-backend | feature/services-system    | 1bdcfe415f2ea0653a8344824e3dcd7fcbb8543a | First commit | 26/04/24          |
+| OpenSourceSW53/officetech-backend | feature/user-auth-system   | 1bdcfe415f2ea0653a8344824e3dcd7fcbb8543a | First commit | 26/04/24          |
+| OpenSourceSW53/officetech-backend | feature/profile-auth-system    | 1bdcfe415f2ea0653a8344824e3dcd7fcbb8543a | First commit | 26/04/24          |
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 | Repository                         | Branch                     | Commit ID          | Commit Message                                                                 | Committed on(date) |
