@@ -1331,6 +1331,9 @@ Creando un App Service para desplegar nuestro back-end Java en Azure
 <img src="../assets/deployment-evidence/endpoints.PNG" alt="" style="width:80%;">
 </div>
 
+[Link endpoints OfficeTech desplegado](https://officetech.azurewebsites.net/swagger-ui/index.html#/)
+
+
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
