@@ -1312,6 +1312,26 @@ Para el sprint 3 se ha presentado el back-end y se optó por varias herramientas
 En este sprint 3 los miembros de TechConnect Solutions complementaron satisfactoriamente las tareas propuestas. El sprint 3 estuvo relacionado mayormente con el desarrollo del backend de la aplicacion. A lo largo del desarrollo se fueron realizando correcciones a errores dentro del codigo.
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+<div style="display:flex;justify-content:center; align-items: center; flex-direction: column;">
+<img src="../assets/deployment-evidence/sql-1.PNG" alt="" style="width:80%;">
+Se creó una base de datos flexible MySQL en los servicios de Azure para almacenar la información de los usuarios, servicios y foro.
+</div>
+
+<div style="display:flex;justify-content:center; align-items: center; flex-direction: column;">
+<img src="../assets/deployment-evidence/app-service-1.PNG" alt="" style="width:80%;">
+Creando un App Service para desplegar nuestro back-end Java en Azure
+</div>
+
+<div style="display:flex;justify-content:center; align-items: center; flex-direction: column;">
+<img src="../assets/deployment-evidence/app-service-2.PNG" alt="" style="width:80%;">
+</div>
+<br>
+
+<div style="display:flex;justify-content:center; align-items: center; flex-direction: column;">
+<img src="../assets/deployment-evidence/endpoints.PNG" alt="" style="width:80%;">
+</div>
+
+
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 En el Sprint 3 se elaboraron diferentes features claves para el desarrollo del backend. Para ello se crearon diferentes ramas para cada feature y se realizó un commit para luego hacer merge a la rama develop. Después de esto, se verificaba que no hubiera ningún conflicto y se procedía a hacer el merge final a la rama de producción main .
@@ -1464,7 +1484,7 @@ Con base a las diversas opiniones en las entrevistas realizadas, tanto clientes 
 - La mayoría de los entrevistados estarían dispuestos a suscribirse o registrarse en OfficeTech.
 ## 5.4. Video About-the-Product
 Orientación promocional, resumiendo el modelo de negocio, las características y beneficios del producto
-[link del Video](https://youtu.be/vyGsg9_Y_ZA)
+[Link del Video](https://youtu.be/vyGsg9_Y_ZA)
 
 # Conclusiones
 # Conclusiones y recomendaciones.
