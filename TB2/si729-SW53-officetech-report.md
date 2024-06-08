@@ -1571,6 +1571,14 @@ Fue a través de las entrevistas realizadas que se obtuvieron datos ilustrativos
 Orientación promocional, resumiendo el modelo de negocio, las características y beneficios del producto
 [Link del Video](https://youtu.be/vyGsg9_Y_ZA)
 
+![Video About the Product](../assets/video-about-product.PNG)
+
+## 5.4. Video About-the-Team
+Presentación del equipo de TechConnect Solutions, resaltando las habilidades y roles de cada miembro
+[Link del Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212096_upc_edu_pe/EW72N8GA5qFHiyh4eePja_wByW0XtxUkr-UgBr76hTz1ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BxA2Xn)
+
+![Video About the team](../assets/video-about-team.PNG)
+
 # Conclusiones
 # Conclusiones y recomendaciones.
 **Conclusiones:**
