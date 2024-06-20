@@ -1427,7 +1427,7 @@ En el Sprint 3 se elaboraron diferentes features claves para el desarrollo del b
 | Sprint 2 Velocity         | Basado en la capacidad del equipo y el rendimiento, la velocidad estimada para el Sprint 2 se establece en __ Story Points. Esto se calcula tomando en cuenta las horas de trabajo disponibles del equipo, así como la complejidad y el esfuerzo estimado de las User Stories seleccionadas para este Sprint.                                                                                                                                                                                  |
 | Sum of Story Points       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
-#### 5.2.4.2. Sprint Backlog 2
+#### 5.2.4.2. Sprint Backlog 4
 
 | User Story |  | Work-Item/Task |  |  |  |  |
 |------------|----------------|-------------|--------------------------------|-----------|------------------|--------|
