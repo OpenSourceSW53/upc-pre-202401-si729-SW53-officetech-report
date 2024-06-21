@@ -1519,6 +1519,11 @@ En este sprint 4 los miembros de TechConnect Solutions complementaron satisfacto
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 #### 5.2.4.8. Team Collaboration Insights during Sprint 
 
+Durante este último sprint se ha trabajado en la implementación de la funcionalidad de actualización de información del usuario, la correcta integración entre el frontend y el API, y el uso de Json Web Token (JWT) para la autenticación de los usuarios.
+
+![Sprint review Team Collaboration Insights](../assets/Insights-Collaboration/network-graph%20V4.png)
+
+
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
