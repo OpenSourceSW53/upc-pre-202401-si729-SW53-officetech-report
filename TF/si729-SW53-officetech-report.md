@@ -1517,6 +1517,32 @@ Para el sprint 4 se ha presentado la conexión entre el back-end y el front-end 
 En este sprint 4 los miembros de TechConnect Solutions complementaron satisfactoriamente las tareas propuestas. El sprint 4 estuvo enfocado mayormente con la comunicación entre el front y el back-end. A lo largo del desarrollo se fueron realizando correcciones a errores dentro del codigo.
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
+De forma similar al sprint anterior, se ha desplegado el back-end en Azure, se ha creado una base de datos MySQL para almacenar la información de los usuarios, servicios y foro, y se ha creado un App Service para desplegar el back-end Java en Azure. A continuación, se presentan las evidencias de despliegue del back-end en Azure:
+
+<div style="display:flex;justify-content:center; align-items: center; flex-direction: column;">
+<img src="../assets/deployment-evidence/sprint-4/app-service1.jpeg" alt="" style="width:80%;">
+</div>
+
+<br>
+<div style="display:flex;justify-content:center; align-items: center; flex-direction: column;">
+<img src="../assets/deployment-evidence/sprint-4/app-service2.jpeg" alt="" style="width:80%;">
+</div>
+
+<br>
+<div style="display:flex;justify-content:center; align-items: center; flex-direction: column;">
+<img src="../assets/deployment-evidence/sprint-4/endpoints1.jpeg" alt="" style="width:80%;">
+</div>
+
+<br>
+<div style="display:flex;justify-content:center; align-items: center; flex-direction: column;">
+<img src="../assets/deployment-evidence/sprint-4/endpoints2.jpeg" alt="" style="width:80%;">
+</div>
+
+
+[Link endpoints OfficeTech desplegado](https://officetech.azurewebsites.net/swagger-ui/index.html#/)
+
+
+
 #### 5.2.4.8. Team Collaboration Insights during Sprint 
 
 Durante este último sprint se ha trabajado en la implementación de la funcionalidad de actualización de información del usuario, la correcta integración entre el frontend y el API, y el uso de Json Web Token (JWT) para la autenticación de los usuarios.
