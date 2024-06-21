@@ -1448,6 +1448,20 @@ En el Sprint 3 se elaboraron diferentes features claves para el desarrollo del b
 | HU27     | Gestión de perfil para técnicos    | W212         | Crear el componente profile | Creación del componente de profile para que el usuario técnico pueda visualizar y modificar su información personal y su lista de habilidades. | 5 horas | Vladimir Jara Benites | Done   |
 
 #### 5.2.4.3. Development Evidence for Sprint Review
+
+| Repository                          | Branch                | Commit ID      | Commit Message                                                          | Committed on(date) |
+|-------------------------------------|-----------------------|----------------|-------------------------------------------------------------------------|--------------------|
+| OpenSourceSW53/officetech-backend   | main    | bb2e37c6c5b9645d5046def191845716146205ac              | update: minor changes editing user profile                             | 18/06/24           |
+| OpenSourceSW53/officetech-backend   | main    | 1a1a4bc2d23d47ecceb13a32ab7160cadb03f872              | Merge branch 'user-profile-system' into development                    | 18/06/24           |
+| OpenSourceSW53/officetech-backend   | main    | be1143b4550fe9d0cde85529480c107f377ea423              | update: minor changes                                                  | 19/06/24           |
+| OpenSourceSW53/officetech-backend   | main    | 666fe5a48746cccad6c8b58bc32677f0897a243b              | add: delete and get all skills                                         | 20/06/24           |
+| OpenSourceSW53/officetech-backend   | main    | 0ea6c575344d58357f875a02c04e60e23224f77c              | update: bd                                                             | 20/06/24           |
+| OpenSourceSW53/officetech-frontend  |  main    | 0778d57572e74e83b563d909273c8087515912f1             | update: minor changes                                                  | 19/06/24           |
+| OpenSourceSW53/officetech-frontend  |  main     | b6c8f129b96a4ad2af02c06f117be23bd71891ec            | update: minor changes profile                                         | 20/06/24           |
+| OpenSourceSW53/officetech-frontend  |  main    | 6a33d92d217b7daa6105cacff6797cd83c01e1e1             | update: minor changes in design                                        | 20/06/24           |
+| OpenSourceSW53/officetech-frontend  |  main     | ee3825d85ec6cf7c17429bfe410a35da7c504967            | update: environment url                                               | 20/06/24           |
+
+
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
 | Repository                         | Branch           | Commit ID | Commit Message                                                        | Committed on(date) |
 |------------------------------------|------------------|--|-----------------------------------------------------------------------|-------------------|
