@@ -1495,7 +1495,27 @@ En el Sprint 3 se elaboraron diferentes features claves para el desarrollo del b
 | OpenSourceSW53/officetech-backend  | main           | 73f3acdaec907da247b0dddfbde9803f472a459c | feature: method post to create new tech requirement                    | 02/06/24          |
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
+Para el sprint 4 se ha presentado la conexión entre el back-end y el front-end por se optó por varias herramientas para su desarrollo:
+
+- Git: Se utilizó para el control de versiones del código fuente.
+- GitFlow: Se utilizó para ver el avance de los integrantes del equipo.
+- GitHub: Se utilizó para crear el repositorio del back-end, donde se subió el código fuente.
+- Swagger: Se utilizó para documentar la API RESTful.
+- MySQL: Se utilizó para la base de datos.
+- Angular: Se utilizó para el desarrollo del front-end.
+- Java: Se utilizó para el desarrollo del back-end.
+
+<img src="../assets/Execution-Sprint4/CurrentTechServicesCompany.png" styles="width: 80%"><br>
+<img src="../assets/Execution-Sprint4/PreviouseTechServicesCompany.png" styles="width: 80%"><br>
+<img src="../assets/Execution-Sprint4/Forum.png" styles="width: 80%"><br>
+<img src="../assets/Execution-Sprint4/CurrentTechServicesTechnician.png" styles="width: 80%"><br>
+<img src="../assets/Execution-Sprint4/Profile.png" styles="width: 80%"><br>
+<img src="../assets/Execution-Sprint4/EditProfile.png" styles="width: 80%"><br>
+<img src="../assets/Execution-Sprint4/Database.jpeg" styles="width: 80%"><br>
+
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
+En este sprint 4 los miembros de TechConnect Solutions complementaron satisfactoriamente las tareas propuestas. El sprint 4 estuvo enfocado mayormente con la comunicación entre el front y el back-end. A lo largo del desarrollo se fueron realizando correcciones a errores dentro del codigo.
+
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 #### 5.2.4.8. Team Collaboration Insights during Sprint 
 
