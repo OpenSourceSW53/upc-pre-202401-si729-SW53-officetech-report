@@ -1864,6 +1864,7 @@ Pressman, R. S. (2014). Software engineering: A practitioner's approach (8th ed.
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218472_upc_edu_pe/EX5Nf8V3Tb9Jgwa4yMcAK_0BD7DuxY5UmyIL4M-4_TH0Rg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=DDtIXC](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218472_upc_edu_pe/EX5Nf8V3Tb9Jgwa4yMcAK_0BD7DuxY5UmyIL4M-4_TH0Rg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=DDtIXC)
 
 
-
+**Video TF:** Presentacion del equipo, explicación del proyecto y cuarto sprint <BR>
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212096_upc_edu_pe/ESarTWP3ZXNMpzjJabf9klQBsPyDbZoPtyA0Zg9qM1F9Cw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MbBvM6](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212096_upc_edu_pe/ESarTWP3ZXNMpzjJabf9klQBsPyDbZoPtyA0Zg9qM1F9Cw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MbBvM6)
 
 
