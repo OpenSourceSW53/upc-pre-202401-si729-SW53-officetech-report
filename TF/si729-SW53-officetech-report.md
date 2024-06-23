@@ -35,15 +35,23 @@
 | 2.0 | 26/04/2024 | Marcelo Ramirez | Finaliza cambios en HU y Product Backlog                                      |
 | 2.1 | 30/04/2024 | Arian Rodriguez | Arreglos generales, HU, Lean UX, C4 Diagrams                                  |
 |2.2|20/04/2024|Jara Benites, Quique Vladimir| Correcion HU, desarrollo de las evidencias del sprint                         |
+|2.3|20/05/2024|Jara Benites, Quique Vladimir| Correción de las branch names                        |
+|2.5|24/05/2024|Rodriguez Vargas, Arian Martin| Implementación de las evidencias Back-end                        |
+|2.6|30/05/2024|Herrera Aguirre, Fabia Alejandra| Arreglo de las evidencias de la Landing Page                        |
+|2.7|06/06/2024|Ramirez Ramirez,Marcelo Sebastian| Evidencias de la Aplicación Web                        |
+|3.0|18/06/2024|Marcelo Ramirez| Corrección de errores y actualización de la información                        |
+|3.1|20/06/2024|Zaid Ramirez| Corrección de errores y actualización de la información                        |
+|3.2|22/06/2024|Fabia Herrera| Corrección de errores y actualización de la información                        |
+
 
 # Project Report Collaboration Insights
 El presente informe se encuentra guardado en la organización de OfficeTech: [URL del repositorio de la Landing Page](https://github.com/OpenSourceSW53/-upc-pre-202401-si729-SW53-officetech-report.git)
 
 Se consideró la Landing Page en otro repositorio de la misma organización: [URL Landing page](https://github.com/OpenSourceSW53/officetech-landing-page)
 
-Se consideró la Aplicación Web (FrontEnd) en un tercer repositorio de la misma organización: [URL de la Aplicación Web](https://github.com/OpenSourceSW53/officetech-frontend.git)
+Se consideró la Aplicación Web (FrontEnd) en un tercer repositorio de la misma organización: [URL Repositorio FRONTEND](https://github.com/OpenSourceSW53/officetech-frontend.git)
 
-Se consideró la lógica de la aplicación (BackEnd) en un cuarto repositorio de la misma organización: [URL de la Aplicación Web](https://github.com/OpenSourceSW53/officetech-backend.git)
+Se consideró la lógica de la aplicación (BackEnd) en un cuarto repositorio de la misma organización: [URL Repositorio BACKEND](https://github.com/OpenSourceSW53/officetech-backend.git)
 
 # Student Outcome 3
 
